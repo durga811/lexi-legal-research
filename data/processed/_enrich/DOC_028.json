@@ -1,0 +1,81 @@
+{
+  "doc_id": "DOC_028",
+  "case_title": "United India Insurance Co. Ltd. vs Sukumarbai Suryakant Nikam And Ors",
+  "court": "High Court of Judicature at Bombay, Bench at Aurangabad",
+  "judge_or_bench": "Smt. Vibha Kankanwadi, J.",
+  "date": "2019-08-05",
+  "year": 2019,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["United India Insurance Company Ltd., Latur (through its Authorized Signatory/Divisional Manager)"],
+    "respondents": ["Sukumarbai w/o Suryakant Nikam (R1)", "Saudagar Suryakant Nikam (R2)", "Sharad Suryakant Nikam (R3)", "Abdul Gazi s/o Abdul Rahim Shaikh (R4 — driver-cum-owner)"],
+    "claimants": ["Sukumarbai Suryakant Nikam (widow, aged 60)", "Saudagar Suryakant Nikam (son)", "Sharad Suryakant Nikam (son)"],
+    "insurer": ["United India Insurance Company Ltd."],
+    "owner_or_driver": ["Abdul Gazi s/o Abdul Rahim Shaikh (driver-cum-owner of Tata Sumo jeep)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.147(2)",
+    "Motor Vehicles Act, 1988 s.149(2)(a)(ia)",
+    "Motor Vehicles Act, 1988 s.149(4)",
+    "Motor Vehicles Act, 1988 s.149(5)",
+    "Motor Vehicles Act, 1988 s.166",
+    "Constitution of India Art.142"
+  ],
+  "core_facts": [
+    "On 15.04.2012, deceased Suryakant Pandurang Nikam (aged 50) was travelling as a passenger in Tata Sumo jeep No. MH 23/E-3762 on Tandulja-Ambajogai road after attending a marriage ceremony at village Padoli, when driver-cum-owner Abdul Gazi lost control near Amba Sakhar Karkhana petrol pump at about 4.00 p.m.; the vehicle got skid, hit a bridge railing and overturned",
+    "Suryakant succumbed to injuries after 17 days of hospitalisation (Ashwini Accident Hospital, YCM College Hospital and Civil Hospital, Latur)",
+    "Claimants (widow and two sons) claimed Rs. 7,50,000/-; MACT, Latur awarded Rs. 7,79,800/- with interest against the insurer jointly and severally with owner-driver, with a pay and recover order",
+    "Insurance company's defence: the vehicle was a private jeep, but respondent No. 4 (owner) was carrying the deceased for hire or reward (jeep hired by Sheshrao for his son's marriage); this was a wilful fundamental breach of the Act policy (Section 149(2)(a)(ia))",
+    "No additional premium was paid for passenger risk; the policy was an Act policy",
+    "Tribunal found the breach proved but still directed pay and recover; High Court reversed this"
+  ],
+  "legal_issues": [
+    "Whether the insurer can be directed to pay compensation under the 'pay and recover' principle when the deceased was a passenger in a private vehicle plied for hire or reward — a breach of the Act policy under Section 149(2)(a)(ia)",
+    "Whether a passenger in a private vehicle hired for reward qualifies as a 'third party' for the purpose of Section 147 of the MV Act",
+    "Whether the Tribunal or High Court can pass a 'pay and recover' order in such circumstances, or whether this is confined to the Supreme Court under Article 142"
+  ],
+  "issue_tags": [
+    "insurance_liability",
+    "policy_breach",
+    "pay_and_recover",
+    "third_party_liability",
+    "commercial_vehicle_use"
+  ],
+  "vehicle_tags": ["jeep"],
+  "stance_tags": ["insurer_supporting", "adverse_to_claimant"],
+  "outcome": "Appeal partly allowed. MACT award set aside to the extent of holding the insurance company liable jointly and severally. Claim as against the insurance company dismissed. Claimants directed to recover compensation solely from opponent No. 1 (driver-cum-owner Abdul Gazi). Insurance company's deposited amount to be returned.",
+  "key_holdings": [
+    "A passenger in a private vehicle plied for hire or reward against the Act policy is not a 'third party' within the meaning of Section 147 of the MV Act; the risk of such occupant is not covered under an Act policy.",
+    "Where the risk of the deceased passenger is not covered under the Act policy and the deceased cannot be termed a 'third party', the Tribunal cannot pass a 'pay and recover' order against the insurer.",
+    "The insurer must be completely exonerated, not merely subjected to pay and recover, when the deceased's claim falls entirely outside the statutory coverage."
+  ],
+  "key_passages": [
+    {
+      "label": "passenger_not_third_party",
+      "quote": "when the passenger travelling from the vehicle for hire or reward, against the policy condition, cannot be treated as \"third party\"; then the Tribunal ought not to have passed the order of 'pay and recover' in this case.",
+      "page": 7
+    },
+    {
+      "label": "insurer_exonerated",
+      "quote": "the Tribunal has committed error in holding the Insurance Company liable to pay jointly and severally with opponent No. 01 and to that extent, decision of the Tribunal needs to be set aside.",
+      "page": 7
+    },
+    {
+      "label": "policy_breach_defence",
+      "quote": "respondent No.1 was carrying passenger on hire and therefore, there was willful fundamental breach of the policy. Insurance company is not liable to pay compensation to the petitioners.",
+      "page": 2
+    },
+    {
+      "label": "asha_rani_principle",
+      "quote": "passengers in a private vehicle are not to be treated as \"third party\". Further the ratio in Asha Rani & Ors is reiterated by another Three Judge Bench of the Apex Court",
+      "page": 6
+    }
+  ],
+  "adverse_value": "A claimant travelling in a private vehicle being plied for hire or reward is not a 'third party' and the insurer may be completely exonerated; this judgment is directly adverse to claimants in such scenarios as it removes even the pay-and-recover protection. Insurer can cite this to resist any claim by occupants of privately-owned vehicles used for hire.",
+  "summary": "United India Insurance Co. Ltd. challenged a MACT award (Latur) directing it to pay Rs. 7,79,800/- compensation jointly and severally with the driver-cum-owner for the death of Suryakant Pandurang Nikam, who was travelling in a private Tata Sumo jeep (MH 23/E-3762) being operated for hire for a marriage ceremony. The insurer proved that the deceased was travelling for hire or reward in a private vehicle — a wilful fundamental breach of the Act policy under Section 149(2)(a)(ia) — and that no additional premium had been paid for passenger coverage. The Bombay High Court (Aurangabad Bench) followed New India Assurance Co. Ltd. v. Asha Rani (AIR 2003 SC 607) and subsequent Supreme Court decisions to hold that occupants of private vehicles plied for hire or reward are not 'third parties' under Section 147 of the MV Act and are not covered by the Act policy. Since the deceased was not a third party, the court held that no 'pay and recover' order could be passed against the insurer, distinguishing cases like Shamanna (which involved an unlicensed driver carrying a genuine third party). The insurer was completely exonerated and the claimants were directed to recover compensation solely from the driver-cum-owner.",
+  "confidence": "high"
+}

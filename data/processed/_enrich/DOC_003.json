@@ -1,0 +1,72 @@
+{
+  "doc_id": "DOC_003",
+  "case_title": "United India Insurance Co Ltd vs Smt Parvathi Hebbar W/O Late Ramakrishna Hebbar",
+  "court": "High Court of Karnataka at Bengaluru",
+  "judge_or_bench": "Hon'ble Mr. Justice B.Manohar",
+  "date": "2017-06-20",
+  "year": 2017,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["United India Insurance Co. Ltd."],
+    "respondents": ["Smt Parvathi Hebbar", "Nagaraja Krishna", "Sujatha", "Suchithra", "N. Chandrakantha Prabhu"],
+    "claimants": ["Smt Parvathi Hebbar (wife)", "Nagaraja Krishna (son)", "Sujatha (daughter)", "Suchithra (daughter)"],
+    "insurer": ["United India Insurance Co. Ltd."],
+    "owner_or_driver": ["N. Chandrakantha Prabhu (owner/insured of Maruthi Omni KA-20/Z-3931)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.15",
+    "Motor Vehicles Act, 1988 s.149(2)(a)(ii)",
+    "Motor Vehicles Act, 1988 s.173(1)"
+  ],
+  "core_facts": [
+    "On 02-07-2008 at about 6.30 a.m., deceased Ramakrishna Hebbar was standing on the southern side mud portion of Udupi-Karkala Road when the driver of Maruthi Omni (KA-20/Z-3931) drove rashly and dashed against him; he succumbed to injuries on 16-07-2008.",
+    "The deceased was aged about 60 years and working as a Head Cook earning Rs. 15,000/- per month.",
+    "Motor Accident Claims Tribunal, Kundapura awarded Rs. 2,45,000/- with interest at 6% p.a. fastening liability on the insurer.",
+    "The driving license of the driver of the Maruthi Omni had expired on 30-04-2008 (more than 30 days before the accident on 02-07-2008) and was renewed only on 04-07-2008, after the accident.",
+    "The insurer proved through evidence that as on the date of accident, the driver of offending Maruthi Omni was not holding a valid and effective driving license."
+  ],
+  "legal_issues": [
+    "Whether a driving license which had expired more than 30 days before the accident and was renewed after the accident constitutes a breach of policy conditions under Section 15 of the Motor Vehicles Act",
+    "Whether the insurer can be exonerated from liability to third-party claimants or must pay and recover from the insured"
+  ],
+  "issue_tags": [
+    "driving_license_validity",
+    "license_breach_defence",
+    "insurance_liability",
+    "policy_breach",
+    "pay_and_recover",
+    "third_party_liability",
+    "compensation_quantum",
+    "section_166"
+  ],
+  "vehicle_tags": ["car"],
+  "stance_tags": ["insurer_supporting", "adverse_to_claimant"],
+  "outcome": "Appeal allowed. Liability shifted from insurer to owner. The driving license expired on 30-04-2008 and the accident occurred on 02-07-2008; since renewal was applied for more than 30 days after expiry, the proviso to Section 15(1) operates and the license is valid only from the date of renewal (04-07-2008), not retrospectively. The driver was not holding a valid license on the date of the accident, constituting a policy breach. However, since third parties have a statutory right to recover compensation, the insurer was directed to pay the awarded sum and recover from the insured by applying the pay-and-recover principle.",
+  "key_holdings": [
+    "Where a driving license has expired and an application for renewal is made more than 30 days after expiry, the proviso to Section 15(1) of the Motor Vehicles Act applies and the license is renewed only from the date of renewal, not from the date of expiry; hence the driver cannot be deemed to hold a valid license on the date of the accident.",
+    "Despite the policy breach, the insurer must pay the awarded compensation to the claimants (as third parties have a statutory right to recover) and then recover the same from the insured, applying the pay-and-recover principle."
+  ],
+  "key_passages": [
+    {
+      "label": "driving_license_validity",
+      "quote": "In the interregnum period i.e., from 30-04-2008 to 04-07-2008, the driver of offending Maruthi Omni was not holding valid and effective driving license and the accident had occurred on 2.7.2008.",
+      "page": 5
+    },
+    {
+      "label": "license_breach_defence",
+      "quote": "The liability fastened on the Insurance Company is contrary to law. The Tribunal ought to have fastened the liability on the owner of the vehicle, who entrusted the vehicle to a person, who did not possess valid and effective driving license as on the date of accident.",
+      "page": 6
+    },
+    {
+      "label": "pay_and_recover",
+      "quote": "the Insurance Company is directed to pay the awarded sum to the claimants and then to recover the said sum from the insured in the same proceedings by applying the principle of \"Pay and Recover\".",
+      "page": 6
+    }
+  ],
+  "adverse_value": "Directly adverse to claimants: the court accepted the insurer's defense of driving license breach (license expired more than 30 days before the accident and renewed only after) and shifted primary liability to the owner. The insurer pays only on a pay-and-recover basis, exposing claimants to collection risk if the owner cannot repay.",
+  "summary": "United India Insurance Company challenged the Motor Accident Claims Tribunal, Kundapura's award of Rs. 2,45,000/- for the death of Ramakrishna Hebbar who was struck by a Maruthi Omni on 02-07-2008. The key dispute was whether the insurer was liable when the driver's license had expired on 30-04-2008 — more than 30 days before the accident — and was renewed only on 04-07-2008. The Karnataka High Court held that under the proviso to Section 15(1) of the Motor Vehicles Act, where renewal is applied for more than 30 days after expiry, the license is renewed only from the date of renewal, not retrospectively from the date of expiry. Since the accident fell in the interregnum period when the driver lacked a valid license, there was a breach of policy conditions. The court reversed the Tribunal's finding and fastened liability on the owner. However, since it is the statutory right of third parties to recover compensation, the insurer was directed to pay the awarded compensation and then recover from the insured, applying the pay-and-recover principle established in National Insurance Company v. Swaran Singh and Manuara Khatun v. Rajesh Kr. Singh.",
+  "confidence": "high"
+}

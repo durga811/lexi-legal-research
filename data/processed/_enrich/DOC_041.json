@@ -1,0 +1,67 @@
+{
+  "doc_id": "DOC_041",
+  "case_title": "Mrs. M. Rathnamma and Others vs ICICI Lombard General Ins. Co. Ltd. and Another",
+  "court": "IX Additional Small Causes Court and Additional MACT, Bangalore (SCCH-7), M.V.C. No. 2107/2015",
+  "judge_or_bench": "Smt. Indira Mailswamy Chettiyar, B.Com., LL.B.(Spl), L.L.M., IX Addl. Small Causes Judge and Member MACT-7",
+  "date": "2016-10-19",
+  "year": 2016,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "claim_petition",
+  "document_type": "award",
+  "parties": {
+    "appellants": [],
+    "respondents": ["ICICI Lombard General Ins. Co. Ltd.", "Manager Partner, M/s. Megha Travels (R) (exparte)"],
+    "claimants": ["Mrs. M. Rathnamma (wife)", "Baby E. Ashwini Sindhu (minor daughter)", "Mr. Venkataramanappa (father)", "Mrs. Ramanjinamma (mother)"],
+    "insurer": ["ICICI Lombard General Ins. Co. Ltd. (Policy No. 3004/TM00253774/4/00/000, valid 02.09.2014 to 01.09.2015)"],
+    "owner_or_driver": ["Manager Partner, M/s. Megha Travels (R) (owner of Bus KA-51-C-114)"]
+  },
+  "statutes": ["Motor Vehicles Act, 1988 s.166", "Motor Vehicles Act, 1988 s.149", "Motor Vehicles Act, 1988 s.158", "Motor Vehicles Act, 1988 s.168", "Motor Vehicles Act, 1988 Second Schedule", "Indian Penal Code s.279", "Indian Penal Code s.304A"],
+  "core_facts": [
+    "On 01.04.2015 at about 10.15 p.m., M. Eshwarappa (aged 32, Security Guard earning Rs. 11,970.55 per month) was walking on the extreme left edge of Bangalore Main Road near Chandu Motors, Singasandra.",
+    "Bus bearing Registration No. KA-51-C-114, owned by M/s. Megha Travels and insured by ICICI Lombard, driven rashly and negligently at high speed, dashed into the deceased and fled the spot, leaving the bus near Madiwala Traffic Police Station.",
+    "Deceased was shifted to LIVE 100 Hospital where he was declared dead; post mortem confirmed cause of death as injuries to head and spinal cord.",
+    "Electronic City Traffic Police registered FIR and filed charge sheet against the driver for offences under IPC s.279, 304A and MV Act s.134(a), (b) and 187.",
+    "Insurer ICICI Lombard contested the claim raising defences of invalid driving licence, absence of permit and fitness certificate, but did not produce any evidence on its behalf."
+  ],
+  "legal_issues": [
+    "Whether the accident occurred due to rash and negligent driving of the offending bus and whether the deceased died of injuries sustained therein.",
+    "Whether the insurer's defences of invalid driving licence and permit/fitness certificate violations were proved.",
+    "What is the just compensation payable to the dependants of the deceased including application of future prospects and appropriate multiplier."
+  ],
+  "issue_tags": ["section_166", "rash_negligent_driving", "insurance_liability", "driving_license_validity", "permit_violation", "compensation_quantum", "loss_of_dependency", "future_prospects", "multiplier", "consortium"],
+  "vehicle_tags": ["bus", "commercial_vehicle"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "Petition partly allowed. ICICI Lombard directed to pay Rs. 25,95,346/- with interest at 9% p.a. from the date of petition till payment. Insurer's defences (invalid licence, no permit/fitness) rejected as not proved. Father (petitioner No. 3) held not entitled to dependency but recognized as legal representative. Amount to be shared in ratio 50:20:10:20 among petitioners 1-4.",
+  "key_holdings": [
+    "Eye-witness testimony corroborated by FIR, complaint, charge sheet, spot panchanama, MVI report, inquest and post mortem report conclusively established rash and negligent driving by the bus driver as the cause of death.",
+    "The insurer failed to produce any evidence to substantiate its specific defences of invalid driving licence or absence of permit/fitness certificate; violation of policy terms by the owner was accordingly not proved.",
+    "For a deceased aged 32 years in permanent salaried employment, future prospects are computed by adding 50% of actual income per the Rajesh v. Rajbir Singh formula; with 3 dependants, 1/3rd of total income is deducted as personal expenses, and a multiplier of 16 is applied.",
+    "A father cannot be considered a dependant upon his son for the purposes of motor accident compensation."
+  ],
+  "key_passages": [
+    {
+      "label": "negligence_finding",
+      "quote": "due to very high speed, rash and negligent manner of driving of the offending Private Mini Bus bearing Registration No.KA-51-C-114 by its driver itself, the said road traffic accident was taken place, wherein, the deceased succumbed to the fatal injuries on the way to the Hospital",
+      "page": 10
+    },
+    {
+      "label": "insurer_defence_rejected",
+      "quote": "The violation of the terms and conditions of the admitted Insurance Policy by the Respondent No.2 is not proved by the Respondent No.1. Under such circumstances, the Respondent No.1 being an Insurer and the Respondent No.2 being a R.C. Owner of the offending Private Mini Bus bearing Registration No.KA-51-C-114 are jointly and severally liable to pay the above said compensation and interest to the Petitioners.",
+      "page": 13
+    },
+    {
+      "label": "father_not_dependent",
+      "quote": "the father cannot be considered as a dependant upon the son.",
+      "page": 6
+    },
+    {
+      "label": "compensation_award",
+      "quote": "The Petitioners are entitled for compensation of Rupees 25,95,346/- with interest at the rate of 9% p.a. from the date of the petition till the date of payment, from the Respondent No.1.",
+      "page": 14
+    }
+  ],
+  "adverse_value": "The Tribunal held that a father cannot be considered a dependant upon a son, which could be cited to exclude fathers from the class of dependants in compensation claims for male deceased breadwinners.",
+  "summary": "This MACT award (M.V.C. No. 2107/2015, dated 19 October 2016) concerns the death of M. Eshwarappa, a 32-year-old security guard earning Rs. 11,970.55 per month, who was fatally struck by a privately operated mini bus (KA-51-C-114) while walking on the extreme left edge of Bangalore Main Road on 01 April 2015. The bus driver fled the scene after the impact. The owner M/s. Megha Travels remained ex-parte. ICICI Lombard, the insurer, contested the claim raising defences of invalid driving licence and absence of permit and fitness certificate, but produced no evidence. The Tribunal, relying on the eye-witness account of P.W.2, corroborated by FIR, charge sheet, spot sketch, MVI report and post mortem, held rash and negligent driving conclusively proved. All insurer defences were rejected for want of evidence. Following Rajesh v. Rajbir Singh (2013) for future prospects (50% addition for age below 40), Sarla Verma for multiplier (16 for age 32) and deduction (1/3rd for personal expenses with 3 dependants), the Tribunal computed loss of dependency at Rs. 22,98,346/-. Additional heads included consortium (Rs. 1,00,000/-), loss of care and guidance for minor child (Rs. 1,00,000/-), funeral expenses (Rs. 25,000/-), loss of love and affection (Rs. 25,000/-), transportation of body (Rs. 7,000/-) and loss of estate (Rs. 40,000/-). Total compensation: Rs. 25,95,346/- at 9% interest.",
+  "confidence": "high"
+}

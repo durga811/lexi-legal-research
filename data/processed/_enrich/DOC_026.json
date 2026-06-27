@@ -1,0 +1,82 @@
+{
+  "doc_id": "DOC_026",
+  "case_title": "National Insurance Co. Ltd. vs Ellappa and others",
+  "court": "High Court of Judicature at Madras",
+  "judge_or_bench": "Hon'ble Mr. Justice S. Palanivelu",
+  "date": "2009-02-13",
+  "year": 2009,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["National Insurance Co. Ltd., Hosur (in all CMAs)"],
+    "respondents": ["Ellappa (CMA 2038)", "Ramachandran (CMA 2039)", "Ellappan (CMA 2040)", "P. Munuswamy (CMA 2041)", "Y. Venkatesh (CMA 2042)", "Srimathi Jayamma and others (CMA 2043)", "Chinnaswamy (CMA 2044)", "Muniamma and others (CMA 2045)", "Krishnappa (CMA 2046)", "Munithayammal (CMA 2047)", "Kariyappa and others (CMA 2048)", "Kuttiappan (owner-cum-driver)"],
+    "claimants": ["Ellappa and others (multiple claimants across 11 petitions)"],
+    "insurer": ["National Insurance Co. Ltd."],
+    "owner_or_driver": ["Kuttiappan (owner-cum-driver of tempo)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.149",
+    "Motor Vehicles Act, 1988 s.149(4)",
+    "Motor Vehicles Act, 1988 s.149(5)",
+    "Motor Vehicles Act, 1988 s.163-A",
+    "Motor Vehicles Act, 1988 s.173"
+  ],
+  "core_facts": [
+    "On 21.06.1991, a large group of persons was travelling in tempo TN-29 Y-1724 towards Thenkanikottai on Kelamangalam-Parandur road; at about 9.00 a.m. the driver drove rashly and the vehicle capsized near Koottur diversion road, injuring many and killing some",
+    "The owner-cum-driver Kuttiappan was carrying paying passengers (52 persons) in the goods vehicle, which is not authorised under the policy",
+    "National Insurance Co. Ltd. had insured the vehicle and contested liability on two grounds: (i) goods vehicle not authorised to carry passengers, (ii) driver had no valid driving licence at the time",
+    "MACT, Hosur held the insurer liable and fixed quantum of compensation in various amounts across 11 petitions",
+    "Full Bench of Madras HC in Nagammal's case (2009-I-CTC-1) had already settled that insurer is not statutorily required to cover liability for passengers in a goods vehicle",
+    "Madras HC applied its own Full Bench guidelines (Nagammal) but exercised discretion to pass 'pay and recover' order due to the claimants being poor village residents who had been litigating since 1996"
+  ],
+  "legal_issues": [
+    "Whether the insurance company is liable to pay compensation to gratuitous passengers travelling in a goods vehicle",
+    "Whether a 'pay and recover' direction can be issued against the insurer despite no statutory liability for such passengers",
+    "Whether the quantum of compensation awarded by the Tribunal is correct"
+  ],
+  "issue_tags": [
+    "insurance_liability",
+    "pay_and_recover",
+    "third_party_liability",
+    "commercial_vehicle_use",
+    "permit_violation",
+    "compensation_quantum",
+    "section_166"
+  ],
+  "vehicle_tags": ["tempo", "goods_carriage", "commercial_vehicle"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "All 11 civil miscellaneous appeals disposed of. Common award of the Tribunal as to quantum confirmed. Insurer directed to pay compensation to claimants first and to recover the same from the owner-cum-driver (Kuttiappan/first respondent in MCOPs) by filing execution proceedings directly before the concerned court.",
+  "key_holdings": [
+    "Passengers travelling in a goods vehicle — whether gratuitous or paying — are not covered under the insurance policy and the insurer has no statutory liability to pay them compensation.",
+    "Notwithstanding the absence of statutory liability, the court can exercise discretion to direct 'pay and recover' in appropriate cases, particularly where the claimants are poor and have been litigating for years.",
+    "The insurer, once directed to pay and recover, can initiate execution proceedings against the insured directly without filing a fresh suit."
+  ],
+  "key_passages": [
+    {
+      "label": "insurance_liability_goods_vehicle_passengers",
+      "quote": "The insurer is not liable to pay compensation to such passenger since the statute has not imposed any duty or liability upon it for that purpose.",
+      "page": 8
+    },
+    {
+      "label": "pay_and_recover_discretion",
+      "quote": "In order to shorten the litigation and as the claimants, being the beneficiaries receiving the benefits flowing from the Motor Vehicles Act, a Social Welfare Legislation, are entitled to get their compensation without undergoing cumbersome legal proceedings, a direction of \"pay and recover\" is inevitable.",
+      "page": 10
+    },
+    {
+      "label": "quantum_confirmed",
+      "quote": "As far as the quantum of compensation made available to each of the claimants is concerned, this court does not find any infirmity in the observations of the Tribunal. The common award as to the quantum of compensation is confirmed.",
+      "page": 11
+    },
+    {
+      "label": "execution_mode",
+      "quote": "The appellant insurance company is at liberty to institute execution proceedings against the owner of the vehicle/first respondent in the MCOPs directly before the court concerned as per the procedure set out in Nanjappa's case.",
+      "page": 11
+    }
+  ],
+  "adverse_value": "Insurer is not statutorily liable for gratuitous passengers in goods vehicles; however, court exercised discretion to pass pay-and-recover order. Insurer-supporting precedent on the statutory non-coverage point, but adverse on the pay-and-recover outcome.",
+  "summary": "Eleven Civil Miscellaneous Appeals were filed by National Insurance Co. Ltd. challenging MACT awards arising from the capsizing of goods tempo TN-29 Y-1724 on 21.06.1991 near Koottur, in which a large group of persons travelling as passengers sustained injuries and some died. The insurer contested liability on the basis that the passengers were travelling in a goods vehicle without authorisation and that the driver had no valid licence. Following the Full Bench ruling in Nagammal's case (2009-I-CTC-1), the Madras High Court reiterated that persons travelling as passengers in goods vehicles — whether gratuitous or paying — are not covered under the insurance policy and the insurer has no statutory obligation to compensate them. The owner-cum-driver Kuttiappan was held personally liable. However, exercising discretion given the poverty of the claimants and the fact they had been litigating since 1996, the court directed the insurer to pay the compensation first and recover it from the insured by executing the award directly before the executing court without needing to file a fresh suit. The quantum awarded by the Tribunal was confirmed without modification.",
+  "confidence": "high"
+}

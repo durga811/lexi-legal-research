@@ -1,0 +1,79 @@
+{
+  "doc_id": "DOC_054",
+  "case_title": "Chinnasamy vs K. Viswanathan (died) and Others",
+  "court": "High Court of Judicature at Madras",
+  "judge_or_bench": "Hon'ble Mr. Justice N. Seshasayee",
+  "date": "2020-03-12",
+  "year": 2020,
+  "legal_area": "specific_performance",
+  "is_motor_accident": false,
+  "procedural_stage": "second_appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Chinnasamy (Plaintiff)"],
+    "respondents": [
+      "K. Viswanathan (died, LRs brought on record as Respondents 5-7: Nallammal, Malarkodi, Senthilkumar)",
+      "Venkatarama Chettiar (Defendant 1 / Respondent 2)",
+      "Sridhar (Defendant 2 / Respondent 3)",
+      "Ravishankar (Defendant 3 / Respondent 4)"
+    ],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Specific Relief Act, 1963 s.16(C)",
+    "Specific Relief Act, 1963 s.19(b)",
+    "Code of Civil Procedure, 1908 s.100",
+    "Indian Evidence Act, 1872 s.73"
+  ],
+  "core_facts": [
+    "Plaintiff claimed to have entered into a sale agreement (Ext.A.1) dated 01.05.1992 to purchase agricultural property belonging to defendants 1 to 3 for Rs.75,000 total, paying Rs.50,000 and receiving possession in continuation of his prior tenancy; balance of Rs.25,000 payable within 11 months",
+    "Defendants 1 to 3 denied Ext.A.1 and alleged it was fabricated; on 24.09.1992, the second defendant sold the suit property to the fourth defendant by sale deed (Ext.B.1)",
+    "Defendants 1 to 3 failed to enter the witness box; trial court compared signatures under s.73 Evidence Act, found Ext.A.1 genuine, and decreed specific performance",
+    "First Appellate Court also found Ext.A.1 genuine but dismissed the suit on the ground that the plaintiff had not proved readiness and willingness to perform his part of the contract under s.16(C) Specific Relief Act",
+    "Plaintiff filed second appeal before Madras HC on five substantial questions of law, including burden of proof of bona fide purchase and readiness/willingness"
+  ],
+  "legal_issues": [
+    "Whether a plaintiff is entitled to specific performance when both courts concurrently found the sale agreement genuine but the plaintiff failed to prove readiness and willingness under s.16(C) of the Specific Relief Act",
+    "Whether the burden of pleading and proving the bona fide purchaser exception under s.19(b) of the Specific Relief Act lies on the subsequent purchaser or on the plaintiff seeking specific performance",
+    "Whether the first Appellate Court could dismiss the suit on the ground of readiness and willingness when the fourth defendant had not raised this defence and the vendors had been set ex-parte"
+  ],
+  "issue_tags": [
+    "specific_performance_relief",
+    "evidence_appreciation"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["neutral"],
+  "outcome": "Second appeal dismissed. Judgment and decree of the first Appellate Court (III Additional District Judge, Krishnagiri) dated 12.07.2000 in A.S.No.34 of 1999 reversing the trial court decree upheld. Plaintiff's failure to prove readiness and willingness to perform the contract under s.16(C) Specific Relief Act was determinative; suit for specific performance dismissed.",
+  "key_holdings": [
+    "A decree for specific performance is a discretionary relief and the plaintiff must satisfy the conscience of the court that he deserves it; the genuineness of the agreement alone does not entitle the plaintiff to a decree.",
+    "Section 16(C) of the Specific Relief Act casts a statutory burden on the plaintiff to plead and prove readiness and willingness to perform his part of the contract throughout the relevant period; failure to discharge this burden is fatal to the suit.",
+    "Even if the subsequent purchaser fails to plead the bona fide purchaser defence under s.19(b) of the Specific Relief Act, the plaintiff who seeks equitable relief of specific performance must still prove that the subsequent purchaser had notice of the original agreement."
+  ],
+  "key_passages": [
+    {
+      "label": "specific_performance_is_discretionary",
+      "quote": "The decision to this case is rooted in the fundamental guiding principal that a decree for specific performances a discretionary relief, and that he who claims specific enforcement of an agreement should satisfy the conscience of the court that he deserves it.",
+      "page": null
+    },
+    {
+      "label": "section_16c_obligation_on_plaintiff",
+      "quote": "Section 16(C) of the Specific Relief Act as it stood then, when the suit was laid, mandates that the party seeking specific enforcement shall plead and prove his readiness and willingness to perform his part of the contract.",
+      "page": null
+    },
+    {
+      "label": "burden_remains_on_plaintiff_despite_defendants_failure_to_plead",
+      "quote": "even if the fourth defendant had pleaded so, yet, he cannot prove the negative, for the burden will still be on the plaintiff. Since the plaintiff seeks a relief in equity, he has to walk the extra distance to satisfy the Court's conscience that he is entitled to obtain a decree for specific performance.",
+      "page": null
+    },
+    {
+      "label": "outcome_second_appeal_dismissed",
+      "quote": "This Court does not find any perversity in the findings of the first Appellate Court, though the reasons for arriving at the same finding may have a mild variance. All the substantial questions of law fails. This Court does not find any merit in the appeal.",
+      "page": null
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The Madras High Court dismissed a second appeal in a specific performance suit. The plaintiff, a tenant of agricultural property, claimed to have entered into a sale agreement (Ext.A.1) dated 01.05.1992 paying Rs.50,000 out of Rs.75,000 total consideration and receiving possession. Defendants 1 to 3 (vendors) denied the agreement and sold the property to the fourth defendant by registered sale deed (Ext.B.1) on 24.09.1992. The trial court, finding defendants 1 to 3 failed to contest their signatures in Ext.A.1, decreed specific performance. The first Appellate Court concurrently found Ext.A.1 genuine but dismissed the suit, holding the plaintiff had not proved readiness and willingness to perform his part of the contract. The Madras High Court upheld this finding. Applying Section 16(C) of the Specific Relief Act as it stood at the time of suit, the Court affirmed that a decree for specific performance is a discretionary equitable relief requiring the plaintiff to plead and prove readiness and willingness throughout. The Court further held that even if the fourth defendant failed to plead the bona fide purchaser defence under Section 19(b) of the Specific Relief Act, the plaintiff still bore the burden of demonstrating the fourth defendant had notice of Ext.A.1, as he seeks equitable relief and must walk the extra distance to satisfy the court's conscience. Finding no perversity in the first Appellate Court's findings, all five substantial questions of law failed and the second appeal was dismissed.",
+  "confidence": "high"
+}

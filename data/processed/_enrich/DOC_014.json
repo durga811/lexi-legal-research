@@ -1,0 +1,74 @@
+{
+  "doc_id": "DOC_014",
+  "case_title": "Shivlal and Ors vs Smt. Rukmabai and Ors",
+  "court": "High Court of Madhya Pradesh",
+  "judge_or_bench": "K.L. Srivastava, J.",
+  "date": "1985-12-17",
+  "year": 1985,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Shivlal (driver/owner)", "Kanhaiyalal (owner)", "Insurer (appellant in MA No. 55/81)"],
+    "respondents": ["Smt. Rukmabai (widow)", "Radheshyam (minor son)", "Jagdish (minor son)"],
+    "claimants": ["Smt. Rukmabai", "Radheshyam", "Jagdish"],
+    "insurer": ["Insurer (appellant in MA No. 55/81)"],
+    "owner_or_driver": ["Shivlal (driver and co-owner)", "Kanhaiyalal (co-owner)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act s.95",
+    "Motor Vehicles Act s.95(2)",
+    "Motor Vehicles Act s.96(2)(b)(i)",
+    "Motor Vehicles Act s.110-B"
+  ],
+  "core_facts": [
+    "On 24.04.1977 at about 11:30 AM, tractor MPU 5571 owned by Shivlal and Kanhaiyalal and driven by Shivlal turned turtle on the road between Bibdod and Ratlam near a culvert from Sagod",
+    "Laxminarayan (agriculturist and milk vendor, aged about 50 years), who was travelling in the tractor brought to his field for boring of a well, died instantly in the accident",
+    "Widow Rukmabai and minor sons Radheshyam and Jagdish filed Claim Case No. 16 of 1977 before the Motor Accident Claims Tribunal, Ratlam",
+    "MACT awarded Rs. 32,000 to the claimants (annual dependency Rs. 2,000 with 15% deduction for lump-sum payment); owners' and insurer's appeals and claimants' cross-objections pending",
+    "Owners contended deceased had forcibly occupied a seat; insurer denied liability on the ground that its policy did not cover risk of gratuitous passenger in a goods vehicle (tractor)"
+  ],
+  "legal_issues": [
+    "Whether the accident was caused by negligence of the driver Shivlal (res ipsa loquitur)",
+    "Whether the insurer is liable for a gratuitous passenger who was not covered under the policy or under Section 95 of the Motor Vehicles Act",
+    "Whether the compensation of Rs. 32,000 awarded by the Tribunal was adequate"
+  ],
+  "issue_tags": [
+    "negligence_proof",
+    "insurance_liability",
+    "policy_breach",
+    "third_party_liability",
+    "compensation_quantum",
+    "loss_of_dependency",
+    "just_compensation"
+  ],
+  "vehicle_tags": ["tractor"],
+  "stance_tags": ["insurer_supporting", "adverse_to_claimant"],
+  "outcome": "MA 26/81 (owners' appeal) dismissed: negligence of Shivlal established under res ipsa loquitur; tractor turning turtle without credible explanation raises a rebuttable presumption of negligent driving. MA 55/81 (insurer's appeal) allowed: insurer held NOT liable for gratuitous passenger not covered under Section 95 of the Motor Vehicles Act; award set aside as against insurer. Claimants' cross-objection for enhancement dismissed: Rs. 32,000 award held adequate.",
+  "key_holdings": [
+    "A heavy vehicle (tractor) turning turtle without explanation attracts the maxim res ipsa loquitur; in the absence of credible rebuttal evidence, the presumption of negligence stands established.",
+    "Under Section 95(2) of the Motor Vehicles Act the insurer's liability is limited to the statutory minimum; a policy insuring a goods vehicle (tractor) is not required to cover risk to passengers who are not carried for hire or reward.",
+    "A gratuitous passenger in a goods vehicle is not covered under Section 95 of the Act; in the absence of policy terms covering such a passenger's risk, no liability can be fastened on the insurer."
+  ],
+  "key_passages": [
+    {
+      "label": "res_ipsa_loquitur_negligence",
+      "quote": "a heavy vehicle like the tractor had turned turtle and normally such a thing does not happen with a careful driving. The applicability of the maxim res ipsa loquitur is clearly, therefore, attracted in this case and there is no credible material to rebut the presumption of negligence.",
+      "page": 4
+    },
+    {
+      "label": "insurer_statutory_minimum",
+      "quote": "It is well settled that the insurer's liability is limited to the statutory minimum required by Section 95(2) of the Act.",
+      "page": 4
+    },
+    {
+      "label": "gratuitous_passenger_outcome",
+      "quote": "his risk was not required to be covered under Section 95 of the Act and the absence of any terms in the policy of insurance covering the risk of such a passenger, no liability can certainly be fastened on the insurance company.",
+      "page": 5
+    }
+  ],
+  "adverse_value": "Insurance company held not liable for death of a gratuitous passenger in a goods vehicle (tractor) where the policy does not cover such risk under Section 95(2) of the Motor Vehicles Act; directly usable by insurers to defeat compensation claims from families of persons who died while travelling as non-paying, non-employee passengers in goods vehicles.",
+  "summary": "This 1985 Madhya Pradesh High Court judgment decided two appeals and cross-objections against a 1980 MACT Ratlam award in Claim Case No. 16 of 1977. On 24 April 1977, tractor MPU 5571 owned by Shivlal and Kanhaiyalal turned turtle on the Bibdod-Ratlam road, killing Laxminarayan (an agriculturist and milk vendor, aged about 50), who was travelling in the tractor brought to his field for boring of a well. The MACT awarded Rs. 32,000 to his widow Rukmabai and minor sons based on annual dependency of Rs. 2,000 with a 15% deduction for lump-sum payment. The owners appealed against liability (MA 26/81) and the insurer appealed against its liability (MA 55/81); the claimants cross-objected for enhancement. The court dismissed the owners' appeal: a tractor turning turtle without credible explanation attracted res ipsa loquitur, and neither the owners' witnesses nor any plausible alternative explanation rebutted the presumption of negligence. The insurer's appeal was allowed: applying Section 95(2) of the Motor Vehicles Act and the Supreme Court's decision in Pushpabai's case (AIR 1977 SC 1735), the court held that a goods vehicle (tractor) policy is not required to cover risk to gratuitous passengers; since the policy contained no such term, no liability could be fastened on the insurer. The claimants' cross-objection was dismissed, the Tribunal's Rs. 32,000 award being found adequate.",
+  "confidence": "high"
+}

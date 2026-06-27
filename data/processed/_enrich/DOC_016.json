@@ -1,0 +1,78 @@
+{
+  "doc_id": "DOC_016",
+  "case_title": "Chaina Ram vs. State of H.P.",
+  "court": "High Court of Himachal Pradesh, Shimla",
+  "judge_or_bench": "Hon'ble Mr Justice Rakesh Kainthla",
+  "date": "2025-07-30",
+  "year": 2025,
+  "legal_area": "criminal",
+  "is_motor_accident": true,
+  "procedural_stage": "revision",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Chaina Ram (petitioner)"],
+    "respondents": ["State of H.P."],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": ["Chaina Ram (bus driver, HP53-2713)"]
+  },
+  "statutes": [
+    "Indian Penal Code s.279",
+    "Indian Penal Code s.337",
+    "Indian Penal Code s.338",
+    "Motor Vehicles Act, 1988 s.181"
+  ],
+  "core_facts": [
+    "On 11.03.2003, victim Akshay Kumar (PW-2) was boarding bus HP53-2713 at the old bus stand in Palampur when driver Chaina Ram started the bus.",
+    "Akshay Kumar fell and his left leg was crushed under the rear tyre of the bus, sustaining simple and grievous injuries.",
+    "Trial Court convicted accused under Sections 279, 337, 338 IPC and Section 181 MV Act; Appellate Court affirmed conviction.",
+    "In revision before the High Court, the accused argued no evidence showed he moved the bus without conductor's signal, and that absence of driving license does not constitute negligence.",
+    "Accused never produced any driving license before the Trial Court, Appellate Court, or High Court."
+  ],
+  "legal_issues": [
+    "Whether starting a bus while a passenger is boarding constitutes rash and negligent driving under Sections 279/337/338 IPC.",
+    "Whether absence of a driving license per se constitutes rashness or negligence in driving.",
+    "Whether the revisional court can re-appreciate evidence and substitute its own view."
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "negligence_proof",
+    "driving_license_validity",
+    "conviction",
+    "evidence_appreciation"
+  ],
+  "vehicle_tags": ["bus"],
+  "stance_tags": ["owner_driver_supporting", "neutral"],
+  "outcome": "Revision partly allowed. Conviction and sentence under Sections 279, 337 and 338 IPC set aside; prosecution failed to prove accused moved the bus without receiving conductor's signal. Conviction under Section 181 MV Act upheld as accused never produced driving license before any court. Fine for Section 181 MV Act conviction maintained.",
+  "key_holdings": [
+    "To fasten criminal liability on a bus driver for negligent driving when a passenger falls while boarding, there must be evidence that the driver moved the bus without getting a signal from the conductor.",
+    "Absence of a driving license does not per se constitute rashness or negligence in driving; liability under Section 181 MV Act is separate from criminal negligence under IPC.",
+    "No presumption of negligence can be drawn against a driver merely because a passenger fell from the bus while boarding.",
+    "In revisional jurisdiction under Section 397 CrPC, the High Court does not exercise appellate jurisdiction and should not re-appreciate evidence to reverse concurrent factual findings unless there is perversity, illegality, or a gross miscarriage of justice."
+  ],
+  "key_passages": [
+    {
+      "label": "negligence_standard_bus_boarding",
+      "quote": "to fasten the liability with the driver for negligent driving in such a situation, there should be evidence that he moved the bus suddenly before the passenger could get into the vehicle or that the driver moved the vehicle even before getting any signal from the rear side.",
+      "page": 9
+    },
+    {
+      "label": "no_signal_evidence",
+      "quote": "Learned Courts below proceeded on the basis that since the passenger had fallen, therefore, the accused was negligent, which is not a correct proposition of law. The prosecution was required to prove that the accused had moved the bus without getting the signal from the conductor, and nobody asserted any such fact.",
+      "page": 10
+    },
+    {
+      "label": "license_absence_not_negligence",
+      "quote": "There is no presumption in law that a person who possesses only a learner's licence or possesses no licence at all does not know driving.",
+      "page": 11
+    },
+    {
+      "label": "outcome",
+      "quote": "the present appeal is partly allowed and judgment of conviction and order of sentence passed by learned Trial Court convicting and sentencing the accused for the commissions of offences punishable under Sections 279, 337, 338 of IPC as affirmed by the learned Appellate Court are ordered to be set aside",
+      "page": 12
+    }
+  ],
+  "adverse_value": "Holding that driving without a valid license does not per se constitute rash or negligent driving can be cited by accused drivers to resist IPC negligence convictions based solely on license absence.",
+  "summary": "Chaina Ram, a bus driver, was convicted by the Trial Court under Sections 279, 337, 338 IPC and Section 181 MV Act after passenger Akshay Kumar's leg was crushed under the rear tyre of bus HP53-2713 while boarding at Palampur bus stand on 11.03.2003. The conviction was affirmed in appeal. In revision before the Himachal Pradesh High Court, the Court applied the law laid down by the Supreme Court in Mohd. Aynuddin v. State of A.P. and held that to impose criminal liability for negligent driving in a bus-boarding scenario, the prosecution must specifically prove that the driver moved the bus without receiving a signal from the conductor. No prosecution witness deposed to this fact. One witness (PW-9) suggested the victim was pushed by other passengers. Accordingly, the conviction under Sections 279, 337, 338 IPC was set aside for insufficient proof. However, since the accused never produced any driving license before any court despite being given the opportunity, the conviction under Section 181 MV Act was upheld. The revision was partly allowed to this limited extent.",
+  "confidence": "high"
+}

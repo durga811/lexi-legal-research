@@ -1,0 +1,70 @@
+{
+  "doc_id": "DOC_008",
+  "case_title": "General Manager Karnataka State Road Transport Corporation vs Khatujabee",
+  "court": "High Court of Karnataka (Full Bench)",
+  "judge_or_bench": "Venkatachala, J. (Full Bench)",
+  "date": "",
+  "year": 1990,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["General Manager, Karnataka State Road Transport Corporation"],
+    "respondents": ["Khatujabee"],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.110E",
+    "Constitution of India Art.141"
+  ],
+  "core_facts": [
+    "Fatal motor accident involving Kashimsab (Blacksmith, aged 40) whose dependants claimed compensation before the Motor Accidents Claims Tribunal",
+    "Tribunal awarded Rs. 2,70,000 under 'loss of dependency' using multiplier of 30; appeal confirmed award with 20% deduction for life's uncertainties",
+    "Division Bench in Khatujabee's case (MFA 708/1990) held that the operative multiplier principle in Bhandary's case had ceased to be binding after SC decisions in Jyotsna Dey and Rajendra Kumari under Art. 141",
+    "A second Division Bench referred the question of whether Bhandary's case stood impliedly overruled to the Full Bench",
+    "Full Bench examined nature of ratio decidendi and binding precedent under Art. 141 with reference to multiple SC decisions"
+  ],
+  "legal_issues": [
+    "Whether the 'operative multiplier' principle in H.T. Bhandary v. Muniyamma was impliedly overruled by SC decisions in Jyotsna Dey v. State of Assam and Rajendra Kumari v. Shanta Trivedi",
+    "When do conclusions in an SC decision constitute 'law declared' under Article 141 of the Constitution",
+    "What is the appropriate method for determining the multiplier in fatal accident loss-of-dependency claims"
+  ],
+  "issue_tags": [
+    "multiplier",
+    "loss_of_dependency",
+    "compensation_quantum",
+    "just_compensation",
+    "income_determination"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["neutral"],
+  "outcome": "Full Bench answered that H.T. Bhandary v. Muniyamma [ILR 1985(2) Karnataka 2337] does NOT stand overruled by the SC decisions in Rajendra Kumari v. Shanta Trivedi and Jyotsna Dey v. State of Assam [1987(1) ACJ 172]. The contrary view taken by the Division Bench in Khatujabee's case stands overruled. The operative multiplier principle (base multiplier 16, scaled down with age) remains binding on all Motor Accident Claims Tribunals in Karnataka.",
+  "key_holdings": [
+    "The 'operative multiplier' principle elaborated in Bhandary's case constitutes law declared by the Karnataka High Court and is a binding precedent for Tribunals in the State.",
+    "SC decisions in Jyotsna Dey and Rajendra Kumari contain fact-specific conclusions reached in the setting of the particular cases before them and do not constitute 'law declared' under Art. 141 on the general question of multiplier selection.",
+    "A decision is binding as a precedent only with respect to the ratio or principle laid down therein, not because of its conclusion; an obiter cannot take the place of the ratio."
+  ],
+  "key_passages": [
+    {
+      "label": "operative_multiplier_principle",
+      "quote": "All these factors, cumulatively, may be taken to bring down the multiplier by 20% which would perhaps be a just measure of deduction for all the contingencies and considerations relevant to the matter in an average case. This brings down the basic-multiplier to the operative multiplier of 16. This multiplier of 16 would be the highest applicable.",
+      "page": 9
+    },
+    {
+      "label": "ratio_decidendi",
+      "quote": "A decision ordinarily is a decision on the case before the Court while the principle underlying the decision would be binding as a precedent in a case which comes up for decision subsequently. Hence, while applying the decision to a later case, the Court which is dealing with it should carefully try to ascertain the true principle laid down by the previous decision. A decision often takes its colour from the questions involved in the case in which it is rendered.",
+      "page": 3
+    },
+    {
+      "label": "holding_outcome",
+      "quote": "The decision of this Court in H.T. Bhandary v. Muniyamma [IL.R 1985(2) Karnataka 2337] does not stand overruled by the decisions of the Supreme Court in Rajendra Kumari v. Shanta Trivedi and in Jyotsna Dey and Ors. v. State of Assam and Ors. [1987(1) ACJ 172]. Contrary View taken in the Division Bench decision of this Court in General Manager, Karnataka State Road Transport Corporation v. Khatujabee stands over-ruled.",
+      "page": 17
+    }
+  ],
+  "adverse_value": "The operative multiplier principle caps the maximum multiplier at 16 for the youngest deceased and requires systematic reduction with age; insurers or owners could cite this older Karnataka Full Bench precedent to argue for lower multipliers than those in the Sarla Verma schedule, potentially reducing compensation awards.",
+  "summary": "This 1990 Karnataka High Court Full Bench judgment resolved a reference question on whether the 'operative multiplier' principle established in H.T. Bhandary v. Muniyamma (ILR 1985(2) Karnataka 2337) was impliedly overruled by Supreme Court decisions in Jyotsna Dey v. State of Assam (1987 1 ACJ 172) and Rajendra Kumari v. Shanta Trivedi. The reference arose from a Division Bench in MFA No. 708/1990 where KSRTC appealed a Tribunal award applying a multiplier of 30 for a fatal accident involving a blacksmith. The Full Bench extensively examined the nature of binding precedent under Article 141 of the Constitution, holding that a Supreme Court decision is 'law declared' only with respect to the ratio and principle laid down therein—not mere conclusions reached on specific facts. Applying this test, the Full Bench found that the multiplier choices in Jyotsna Dey and Rajendra Kumari were factual determinations rather than legal principles of general application. Since those decisions laid down no general rule on multiplier selection, they could not have impliedly overruled Bhandary's carefully elaborated operative multiplier principle, which capped the base multiplier at 16 and provided a systematic framework for scaling it down with the deceased's age. The Full Bench answered the reference in favour of Bhandary's case and overruled the contrary view in Khatujabee's case.",
+  "confidence": "high"
+}

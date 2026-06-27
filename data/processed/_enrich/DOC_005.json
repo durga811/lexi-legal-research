@@ -1,0 +1,75 @@
+{
+  "doc_id": "DOC_005",
+  "case_title": "L And T Insurance Co Ltd vs Bindudevi Samharu Yadav And Others",
+  "court": "High Court of Gujarat at Ahmedabad",
+  "judge_or_bench": "Honourable Mr. Justice Mool Chand Tyagi",
+  "date": "2026-01-19",
+  "year": 2026,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["L And T Insurance Co Ltd"],
+    "respondents": ["Bindudevi Samharu Yadav and others"],
+    "claimants": ["Bindudevi Samharu Yadav and others (wife and dependants of deceased Sunil Samharu Yadav)"],
+    "insurer": ["L And T Insurance Co Ltd"],
+    "owner_or_driver": ["Respondent No. 5 (driver of dumper truck GJ-18-X-9452)", "Respondent No. 6 (owner of dumper truck)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.167",
+    "Motor Vehicles Act, 1988 s.149",
+    "Workmen's Compensation Act, 1923 s.3(5)"
+  ],
+  "core_facts": [
+    "On 19.05.2013 at about 1:00 p.m., deceased Sunil Samharu Yadav (aged 28 years, driver of tempo DN-09-K-9486 loaded with yarn) parked his tempo on the left side of National Highway No. 8 to change a punctured tyre; a dumper truck (GJ-18-X-9452) driven rashly by respondent No. 5 struck the tempo from behind, causing fatal injuries.",
+    "Claimants filed proceedings before the Workmen's Compensation Commissioner against the employer of the deceased and the insurer of the tempo (ICICI Lombard) and received compensation of Rs. 8,39,680/-.",
+    "Claimants also filed a claim petition under Section 166 of MV Act before Motor Accident Claims Tribunal (Auxiliary), Navsari against the driver, owner and insurer (L&T Insurance) of the offending dumper truck.",
+    "Motor Accident Claims Tribunal, Navsari awarded Rs. 12,12,400/- with interest at 9% p.a. from the date of filing of claim petition till realization.",
+    "L&T Insurance challenged the award on two grounds: (1) bar of Section 167 MV Act due to prior Workmen's Compensation proceedings; and (2) that the driver of the dumper truck was holding a fake driving license."
+  ],
+  "legal_issues": [
+    "Whether Section 167 of MV Act bars the claimants from filing a claim petition before the MACT after having received compensation under the Workmen's Compensation Act, 1923 from the employer, where the parties before both forums are entirely different",
+    "Whether the insurer can be exonerated from liability if the driver of the offending vehicle holds a fake driving license",
+    "Whether the insurer discharged the burden of proving by cogent evidence that the driving license was fake"
+  ],
+  "issue_tags": [
+    "fake_license",
+    "license_breach_defence",
+    "insurance_liability",
+    "maintainability",
+    "workmens_compensation",
+    "section_166",
+    "section_167_mv_act",
+    "third_party_liability"
+  ],
+  "vehicle_tags": ["tempo", "dumper"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "Appeal dismissed. The bar of Section 167 of MV Act does not apply because the parties before the Workmen's Compensation Commissioner (employer of the deceased and ICICI Lombard as insurer of the tempo) and the parties before the MACT (driver, owner and L&T Insurance as insurer of the dumper truck) were entirely different; the two claims arose under different legal relationships. On the driving license issue, the insurer failed to prove by cogent evidence that the license was fake; merely relying on oral testimony of a legal officer without producing proper documentation from the RTO was insufficient. Award of Rs. 12,12,400/- maintained.",
+  "key_holdings": [
+    "Section 167 of the Motor Vehicles Act bars dual proceedings only where the claimants seek compensation from the same employer/tortfeasor before both forums; where the parties before each forum are entirely different, the bar of Section 167 does not apply.",
+    "The liability under the Workmen's Compensation Act, 1923 is the statutory liability of the employer while the liability under Section 166 of the MV Act is tortious liability; claims against different parties under different instruments are not barred.",
+    "The insurer bears the burden of proving by cogent documentary evidence that the driving license was fake; mere oral evidence of its own legal officer without proper RTO documentation fails to discharge this burden."
+  ],
+  "key_passages": [
+    {
+      "label": "section_167_mv_act",
+      "quote": "The respondent nos.1 to 4 also filed the claim petition before the learned Tribunal under Section 166 of the Motor Vehicles Act against the driver, owner and insurer of the dumper truck bearing registration no.GJ-18-X-9452, therefore, the parties before the Commissioner Workmen's Compensation and the parties before the learned Motor Accident Claims Tribunal are different.",
+      "page": 5
+    },
+    {
+      "label": "maintainability",
+      "quote": "the bar of Section 167 of MV Act is applied only where the claimants seek compensation under the Motor Vehicles Act from the employer and insurer. When the parties before the both forums are entirely different, the bar of Section 167 of the MV Act would not apply.",
+      "page": 22
+    },
+    {
+      "label": "fake_license",
+      "quote": "the Insurance Company could not prove, that the driving license in question was fake, by leading the cogent evidence on record.",
+      "page": 23
+    }
+  ],
+  "adverse_value": "",
+  "summary": "L&T Insurance Company appealed against a MACT award of Rs. 12,12,400/- arising from the death of Sunil Samharu Yadav (aged 28 years) on 19.05.2013 when a dumper truck struck his parked tempo while he was changing a punctured tyre on NH-8. The insurer raised two defenses: (1) Section 167 MV Act bars the claim since claimants had already received Rs. 8,39,680/- from the employer under the Workmen's Compensation Act, 1923; and (2) the dumper driver held a fake driving license. The Gujarat High Court dismissed both defenses. On Section 167, it held that the bar applies only where the claimants seek compensation from the same tortfeasor/employer in both forums; here, the Workmen's Compensation proceedings were against the employer (and ICICI Lombard as insurer of the tempo) while the MACT proceedings were against the tortfeasors (dumper truck driver, owner, and L&T Insurance) — different parties with different liabilities. On the fake license, the insurer failed to lead cogent documentary evidence to prove the license was fake; mere oral testimony of the legal officer was insufficient. The appeal was dismissed and the award maintained.",
+  "confidence": "high"
+}

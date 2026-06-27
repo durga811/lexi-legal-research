@@ -1,0 +1,66 @@
+{
+  "doc_id": "DOC_037",
+  "case_title": "Bhagyashree Santosh Galande vs The Oriental Insurance Co Ltd",
+  "court": "Maharashtra State Consumer Disputes Redressal Commission, Mumbai, Bench at Aurangabad",
+  "judge_or_bench": "Milind S. Sonawane (Presiding Member) and Nagesh C. Kumbre (Member)",
+  "date": "2024-10-21",
+  "year": 2024,
+  "legal_area": "consumer",
+  "is_motor_accident": false,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Jayashree w/o Satish Kharote", "Tarachand s/o Raosaheb Chaudhari", "Omprakash s/o Laxminarayan Dhoot", "Trupti w/o Omprakash Dhoot"],
+    "respondents": ["The Oriental Insurance Company Ltd.", "MD India Health Insurance TPA Private Ltd."],
+    "claimants": ["Jayashree w/o Satish Kharote", "Tarachand s/o Raosaheb Chaudhari", "Omprakash s/o Laxminarayan Dhoot", "Trupti w/o Omprakash Dhoot"],
+    "insurer": ["The Oriental Insurance Company Ltd."],
+    "owner_or_driver": []
+  },
+  "statutes": ["Consumer Protection Act, 1986"],
+  "core_facts": [
+    "Multiple appellants availed the Corona Rakshak Policy from Oriental Insurance and paid premiums ranging from Rs. 2,580/- to Rs. 5,185/-.",
+    "Each appellant was diagnosed Covid-positive by RTPCR during the policy period and admitted to a Covid centre declared by Aurangabad Municipal Corporation for more than 72 hours on medical advice.",
+    "Oriental Insurance repudiated claims asserting Covid centres were quarantine centres and not hospitals under policy clause 3.6, and that there was no active line of treatment during hospitalization.",
+    "District Consumer Commission, Aurangabad dismissed the consumer complaints in CC Nos. 334, 335, 374, 375, and 336 of 2021 on 26.07.2022.",
+    "Appellants filed First Appeal Nos. 619-623 of 2022 before the Maharashtra State Consumer Disputes Redressal Commission."
+  ],
+  "legal_issues": [
+    "Whether a Covid care centre declared by the Aurangabad Municipal Corporation constitutes a hospital within the meaning of clause 3.6(vi) of the Corona Rakshak Policy.",
+    "Whether the insurer's repudiation of claims on the ground that Covid centres are not hospitals constituted deficiency in service.",
+    "Whether the conditions of the operative clause (Covid-positive diagnosis plus hospitalization exceeding 72 hours on medical advice) were satisfied."
+  ],
+  "issue_tags": ["insurance_liability", "policy_breach", "evidence_appreciation", "other"],
+  "vehicle_tags": [],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "All five appeals partly allowed. District Commission orders dated 26.07.2022 quashed. Oriental Insurance directed to pay Rs. 2,50,000/- per claimant under Corona Rakshak Policy with 8% p.a. interest from the respective repudiation dates plus Rs. 10,000/- for mental agony and costs.",
+  "key_holdings": [
+    "A government-designated Covid care centre run under municipal authority with medical practitioners and qualified nursing staff qualifies as a hospital under clause 3.6(vi) of the Corona Rakshak Policy.",
+    "Repudiation of a claim when the insured was demonstrably Covid-positive and hospitalized for more than 72 hours on medical advice amounts to deficiency in service.",
+    "The District Commission erred in dismissing the complaints by ignoring evidence that appellants met the eligibility criteria under clause 2 and 4.1 of the Corona Rakshak Policy."
+  ],
+  "key_passages": [
+    {
+      "label": "policy_clause_3.6vi",
+      "quote": "For the purpose of this policy any other set-up designated by the government as hospital for the treatment of Covid-19 shall also be considered as hospital.",
+      "page": 6
+    },
+    {
+      "label": "deficiency_in_service_holding_case621",
+      "quote": "the Samajkalyan Boys Hostel Covid centre declared by Aurangabad Municipal Corporation as a Covid centre comes within the purview of clause 3.6 (vi) of policy and repudiation of claim on the said ground is deficiency in service on the part of respondent no.1.",
+      "page": 20
+    },
+    {
+      "label": "entitlement_holding",
+      "quote": "Appellant was corona positive and hospitalized for more than 72 hours as per the advice of qualified medical practitioner and therefore entitled for benefits under the Corona Rakshak Policy.",
+      "page": 20
+    },
+    {
+      "label": "covid_cover_clause_4.1",
+      "quote": "Lump sum benefit equal to 100% of the sum insured shall be payable on positive diagnosis of Covid, requiring hospitalization for a minimum continuous period of 72 hours. The positive diagnosis of Covid shall be form a government authorized diagnostic centre.",
+      "page": 5
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This combined judgment of the Maharashtra State Consumer Disputes Redressal Commission (Aurangabad Bench), dated 21 October 2024, contains five appeal judgments (FA Nos. 619-623 of 2022) against the District Consumer Commission's dismissal of complaints under the Corona Rakshak Policy issued by Oriental Insurance Company Ltd. Each appellant was RTPCR-confirmed Covid-positive and admitted to a Municipal Corporation-declared Covid care centre in Aurangabad for hospitalization exceeding 72 hours on medical advice. The insurer repudiated all claims under clause 3.6 of the policy, contending Covid centres were quarantine facilities rather than hospitals with active treatment. The State Commission examined clause 3.6(vi), which includes any government-designated setup for Covid-19 treatment as a hospital, and held that Municipal Corporation-declared Covid centres with qualified medical staff squarely fell within this definition. The insurer's repudiation was found to be deficiency in service. All claims were allowed for Rs. 2,50,000/- each with 8% p.a. interest from the date of repudiation and Rs. 10,000/- towards mental agony and costs. The District Commission's orders were quashed. This judgment confirms that Covid-era pandemic care centres with government designation and qualified staff meet the policy definition of hospital under similar insurance products.",
+  "confidence": "high"
+}

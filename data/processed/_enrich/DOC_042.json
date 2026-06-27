@@ -1,0 +1,67 @@
+{
+  "doc_id": "DOC_042",
+  "case_title": "Nazar Singh vs State Of Punjab And Others",
+  "court": "High Court for the States of Punjab and Haryana at Chandigarh",
+  "judge_or_bench": "Justice Dr. Bharat Bhushan Parsoon",
+  "date": "2013-12-21",
+  "year": 2013,
+  "legal_area": "service_employment",
+  "is_motor_accident": false,
+  "procedural_stage": "writ",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": [],
+    "respondents": ["State of Punjab", "Punjab Roadways (Nangal Depot)", "General Manager, Punjab Roadway, Nangal"],
+    "claimants": ["Nazar Singh (petitioner in CWP 12064/1994)", "Iqbal Singh (petitioner in CWP 2373/1995)"],
+    "insurer": [],
+    "owner_or_driver": ["Nazar Singh (driver, Punjab Roadways bus PBM-6964)", "Iqbal Singh"]
+  },
+  "statutes": ["Motor Vehicles Act, 1988 s.146", "Constitution of India Art.311(2)"],
+  "core_facts": [
+    "Petitioner Nazar Singh, a driver employed by Punjab Roadways, was driving bus PBM-6964 on 12.02.1985 when it met with an accident in village Mander area, resulting in two deaths and two injuries.",
+    "The Motor Accident Claims Tribunal (MACT), Ludhiana, by award dated 02.06.1986 held the petitioner negligent and the employer Punjab Roadways paid Rs. 3,10,427.95/- in compensation to the accident victims.",
+    "Punjab Roadways issued a show cause notice in 1992 seeking recovery of Rs. 2,12,000/- with 9% interest from the petitioner-driver, and passed an order dated 24.02.1994 directing recovery of Rs. 3,10,427.95/- without conducting any departmental inquiry.",
+    "The bus was not insured; the State of Punjab had not established a statutory compensation fund as required by the proviso to Section 146(3) of the Motor Vehicles Act, 1988 as a precondition for exempting State transport vehicles from mandatory insurance.",
+    "In the proceedings before the MACT, Punjab Roadways had itself contested the claim supporting the driver's plea that he was not negligent, only for the employer to later seek full recovery from the same driver."
+  ],
+  "legal_issues": [
+    "Whether the employer-State can recover compensation paid to accident victims from the employee-driver solely on the basis of the MACT award without conducting a departmental inquiry affording the driver a meaningful opportunity of being heard.",
+    "Whether the State of Punjab's failure to maintain a statutory compensation fund under the proviso to Section 146(3) of the MV Act, while exempting its vehicles from insurance, bars it from recovering compensation from the driver.",
+    "Whether the MACT award by itself constitutes sufficient indictment of the driver to justify recovery proceedings against him."
+  ],
+  "issue_tags": ["insurance_liability", "vicarious_liability", "other"],
+  "vehicle_tags": [],
+  "stance_tags": ["owner_driver_supporting", "adverse_to_insurer"],
+  "outcome": "Both writ petitions allowed. Recovery order dated 24.02.1994 (Annexure P-3) quashed. State impressed upon to either insure its vehicles or establish and maintain a statutory compensation fund under Section 146 MV Act. State told it may recover loss from errant employees only after following proper departmental inquiry procedure with effective opportunity of hearing.",
+  "key_holdings": [
+    "The MACT award, standing alone, cannot form the basis of recovery of compensation from the driver-employee; a prior departmental inquiry with effective opportunity of hearing is mandatory before any such recovery can be ordered.",
+    "Vicarious liability of the State to pay compensation awarded by the MACT is qua the accident victims (claimants) and not qua the employee-driver; the State cannot bypass its own statutory obligations and shift its liability entirely to the driver.",
+    "The State of Punjab was in violation of its statutory duty under Section 146(3) of the MV Act by exempting its buses from insurance without establishing and maintaining the mandatory compensation fund, and cannot take shelter from this violation to recover from the driver.",
+    "Issuance of a show cause notice followed by an order without considering the driver's reply does not satisfy the requirement of affording an effective opportunity of being heard; such an order has no legal significance."
+  ],
+  "key_passages": [
+    {
+      "label": "section_146_3_proviso",
+      "quote": "When owner of a motor vehicle is statutorily obligated to obtain an insurance for the vehicle to cover with the third party risk, exemption from this statutory obligation of obtaining an insurance cover, is permissible inter-alia to the State, subject to the condition of establishing and maintaining a fund to meet liabilities such as the present one, towards legal heirs of the deceased or to the victims injured in the accident caused by its vehicles while any vehicle of the State was being in use.",
+      "page": 5
+    },
+    {
+      "label": "natural_justice_requirement",
+      "quote": "neither any inquiry was held nor liability to pay the demanded sum had been fixed by any objective method or criteria.",
+      "page": 5
+    },
+    {
+      "label": "mact_award_not_sufficient_basis",
+      "quote": "Award of the Tribunal ipso facto could not have formed the basis of recovery of the amount from the petitioner-driver of compensation paid to the victims of the accident by the respondent-employer.",
+      "page": 7
+    },
+    {
+      "label": "vicarious_liability_clarification",
+      "quote": "The State is vicariously liable for acts done by its employees but vicarious liability to pay compensation awarded of the State is qua the claimants and not qua the employees, viz, drivers.",
+      "page": 7
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This common judgment of the Punjab and Haryana High Court (dated 21 December 2013) decides CWP Nos. 12064 of 1994 (Nazar Singh) and 2373 of 1995 (Iqbal Singh), both challenging orders by Punjab Roadways seeking to recover from driver-employees the compensation amounts paid pursuant to MACT awards arising from bus accidents. In the lead case, Nazar Singh drove Punjab Roadways bus PBM-6964 in 1985 when it met with an accident killing two persons; the MACT held him negligent and the employer paid Rs. 3,10,427.95/-. Without holding any departmental inquiry and without meaningfully considering the driver's reply to the show cause notice, Punjab Roadways ordered recovery of the entire amount from the driver in 1994. The court quashed the recovery orders on two grounds. First, the State of Punjab exempted its buses from compulsory insurance under Section 146(3) MV Act without establishing the mandatory statutory compensation fund; having failed its own statutory obligation, the State could not pass its financial liability to the driver. Second, the MACT award was made on a preponderance-of-evidence standard not equivalent to a criminal conviction or departmental inquiry; the employer must hold a proper departmental inquiry with natural justice principles before recovering from an employee. The court directed that recovery from errant drivers is permissible only after following appropriate punishment rules and giving effective hearing, and impressed upon the State the obligation to insure its vehicles or establish the required statutory fund.",
+  "confidence": "high"
+}

@@ -1,0 +1,81 @@
+{
+  "doc_id": "DOC_019",
+  "case_title": "Surendra Singh And Another vs. Vijay Singh And Another (with connected appeals)",
+  "court": "High Court of Judicature at Allahabad",
+  "judge_or_bench": "Hon'ble Saumitra Dayal Singh, J.",
+  "date": "2018-01-19",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Surendra Singh and Another (FAFO 3484/2012)", "Mukthar Singh and Others (FAFO 1199/2016)", "Prabhu Narain Agarwal and Others (FAFO 1820/2002)", "Reliance General Insurance Co. Ltd. (FAFO 4230/2017)"],
+    "respondents": ["Vijay Singh and Another", "The New India Assurance Co. Ltd. and Others", "Arwa Deen Gupta and Others", "Ramjeet and Others"],
+    "claimants": ["Surendra Singh (father of Kapil Singh, 16 yrs)", "Mukthar Singh and Others (parents of Rakesh Kumar, 27 yrs)", "Prabhu Narain Agarwal and Others (parents of Pankaj Agarwal, 23 yrs)", "Ramjeet and Others (parents of Dharmendra, 20 yrs)"],
+    "insurer": ["New India Assurance Co. Ltd.", "Reliance General Insurance Co. Ltd."],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.163A",
+    "Motor Vehicles Act, 1988 s.168",
+    "Code of Civil Procedure Order XLI Rule 33"
+  ],
+  "core_facts": [
+    "Four connected First Appeals from Orders all involved death of bachelor sons (ages 16, 27, 23 and 20) caused in separate motor vehicle accidents, with parents claiming compensation.",
+    "In FAFO 3484/2012: Kapil Singh (16 years) was hit by truck UP-78 BT-3985 on 22.07.2010; Tribunal applied multiplier 7 based on age of claimant parents, not the deceased.",
+    "In FAFO 1199/2016: Rakesh Kumar (27 years) died on 29.11.2003; Tribunal applied multiplier 11 based on parents' age instead of deceased's age, and denied future prospects.",
+    "In FAFO 1820/2002: Pankaj Agarwal (23 years) died on 08.09.1997; Tribunal applied multiplier 15 but did not award future prospects for fixed salary employee.",
+    "In FAFO 4230/2017: Dharmendra (20 years) died on 17.09.2010; Reliance Insurance appealed the award claiming higher deduction for personal expenses, but the correct multiplier (18) with future prospects results in higher total compensation.",
+    "After the judgment reserved on 21.09.2017, the Supreme Court's constitution bench in National Insurance Co. Ltd. v. Pranay Sethi was pronounced on 31.10.2017; the case was re-listed and decided thereafter."
+  ],
+  "legal_issues": [
+    "Whether the multiplier in motor accident death cases involving bachelor deceased should be based on the age of the deceased or the age of the claimant (parent).",
+    "Whether future prospects under Pranay Sethi apply to deceased who was self-employed or on a fixed salary.",
+    "Whether the High Court can enhance compensation in an insurer's appeal even where no cross-objection has been filed by the claimants."
+  ],
+  "issue_tags": [
+    "compensation_quantum",
+    "compensation_enhancement",
+    "multiplier",
+    "future_prospects",
+    "loss_of_dependency",
+    "just_compensation",
+    "section_166"
+  ],
+  "vehicle_tags": ["truck", "car"],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "FAFO Nos. 3484/2012, 1199/2016 and 1820/2002 (claimant appeals) allowed with substantially enhanced compensation. FAFO No. 4230/2017 (insurer appeal) also allowed on the ground of higher personal expense deduction (1/2 for bachelor), but total compensation enhanced to Rs. 5,83,500/- because the correct multiplier of 18 and 40% future prospects together yielded a higher overall figure.",
+  "key_holdings": [
+    "The multiplier for computing compensation in motor accident death cases must be applied with reference to the age of the deceased (using the Sarla Verma table as approved in Pranay Sethi), not the age of the claimant parent.",
+    "Future prospects must be awarded for self-employed persons and persons on fixed salary: 40% if deceased was below 40 years, 25% if between 40-50 years, and 10% if between 50-60 years.",
+    "Future prospects cannot be awarded on notional income, since notional income is never actually earned and cannot constitute 'established income' within the meaning of Pranay Sethi.",
+    "In non-adversarial MACT proceedings, a court can enhance compensation in an insurer's appeal without cross-objection by the claimants, by applying the correct legal principle laid down by the Supreme Court, under Order XLI Rule 33 CPC."
+  ],
+  "key_passages": [
+    {
+      "label": "multiplier_age_of_deceased",
+      "quote": "the multiplier to be used should be as mentioned in Column (4) of the table above (prepared by applying Susamma Thomas, Trilok Chandra and Charlie), which starts with an operative multiplier of 18 (for the age groups of 15 to 20 and 21 to 25 years)",
+      "page": 5
+    },
+    {
+      "label": "future_prospects_self_employed_fixed_salary",
+      "quote": "when we accept the principle of standardization, there is really no rationale not to apply the said principle to the self-employed or a person who is on a fixed salary. To follow the doctrine of actual income at the time of death and not to add any amount with regard to future prospects to the income for the purpose of determination of multiplicand would be unjust.",
+      "page": 12
+    },
+    {
+      "label": "enhancement_in_insurer_appeal",
+      "quote": "The issue of determination of just and fair compensation has to be treated to be open for examination to offer correction at least on the basis of binding principle and/or formula laid down by the Supreme Court.",
+      "page": 27
+    },
+    {
+      "label": "outcome",
+      "quote": "Consequently, the First Appeal From Order Nos. 3484 of 2012, 1199 of 2016 and 1820 of 2002 are allowed. First Appeal From Order No. 4230 of 2017 is also allowed. However, the amount of compensation awarded in that case would also stand enhanced as above.",
+      "page": 30
+    }
+  ],
+  "adverse_value": "Establishes that future prospects cannot be awarded on notional income (income not actually earned), which insurers can cite to resist future prospects claims where the deceased had no established income.",
+  "summary": "Four First Appeals from Orders were consolidated before the Allahabad High Court to resolve common questions of law: the correct multiplier in bachelor death cases and entitlement to future prospects for the self-employed and fixed salary deceased. Judgment was reserved in September 2017 but the matter was re-opened after the Supreme Court's Constitution Bench decision in National Insurance Co. Ltd. v. Pranay Sethi (31.10.2017). The Court held: (i) the multiplier must be applied with reference to the age of the deceased, following the Sarla Verma table as approved in Pranay Sethi, and not the age of the parent-claimant; (ii) future prospects at 40% must be added to established income of self-employed and fixed-salary deceased below 40 years; (iii) future prospects cannot be awarded where income is notional, not established; (iv) standardized non-pecuniary heads from Pranay Sethi (loss of estate Rs. 15,000, consortium Rs. 40,000, funeral Rs. 15,000 enhanced at 10% every 3 years) apply. All three claimant appeals were allowed with substantially enhanced awards. The insurer's appeal on personal expense deduction was also allowed but the net effect was a higher total award. The Court exercised its power under Order XLI Rule 33 CPC to enhance even in the insurer's appeal.",
+  "confidence": "high"
+}

@@ -1,0 +1,83 @@
+{
+  "doc_id": "DOC_034",
+  "case_title": "K.G. Srinivasamurthy vs Habib Khathun And Ors.",
+  "court": "High Court of Karnataka",
+  "judge_or_bench": "R.V. Raveendran and V.G. Sabhahit, JJ.",
+  "date": "2001-10-19",
+  "year": 2001,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["K.G. Srinivasamurthy (owner of lorry in MVC 140/1994)", "insurer (appellant in MFA 5566/1999)"],
+    "respondents": ["Habib Khathun (claimant in MVC 140/1994)", "Suma (minor claimant in MVC 177/1997)", "insurer"],
+    "claimants": ["Suma (minor girl, MVC 177/1997)", "Habib Khathun (mother of deceased Inthu Pasha, MVC 140/1994)"],
+    "insurer": ["unnamed insurance company (respondent in MFA 5566/1999 and MFA 3557/1998)"],
+    "owner_or_driver": ["K.G. Srinivasamurthy (owner of Canter lorry KA 18-240)", "driver of lorry MYT 6600", "driver of Canter lorry KA 18-240"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.149",
+    "Motor Vehicles Act, 1988 s.149(2)",
+    "Motor Vehicles Act, 1988 s.149(2)(a)(ii)",
+    "Motor Vehicles Act, 1988 s.174"
+  ],
+  "core_facts": [
+    "Case 1 (MVC 177/1997, M.F.A. 5566/1999 by insurer and 690/2000 by claimant): Minor girl Suma (3 years old, right leg amputated above knee, 80% permanent disability) was hit by lorry MYT 6600 on 13.01.1997 while standing by the roadside; driver's licence had expired on 28.11.1996 and was renewed only on 17.01.1997 — 50-day gap; insurer appealed against Tribunal's joint liability finding",
+    "Case 2 (MVC 140/1994, M.F.A. 3557/1998 by owner): Inthu Pasha (20 years, pillion rider on motorcycle) died on 19.01.1994 when hit by Canter lorry KA 18-240 owned by K.G. Srinivasamurthy; driver's licence had expired 05.07.1993 and was renewed 24.02.1994 — 7-month 20-day gap; Tribunal dismissed claim against insurer; owner K.G. Srinivasamurthy appealed",
+    "In both cases, insurer's defence was that drivers had no valid (effective) driving licence on the date of accident due to licence expiry",
+    "Insurance policy condition in both cases used the word 'and' (not 'or') connecting 'not duly licensed' and 'disqualified'",
+    "Both drivers had been licensed since the early 1980s and had renewed consistently, except for the gaps on the accident dates"
+  ],
+  "legal_issues": [
+    "Whether mere expiry of a driving licence at the time of accident — without disqualification — constitutes a breach of the insurance policy exclusion clause under section 149(2)(a)(ii) of the MV Act",
+    "Whether the insurance company's statutory liability to third parties is defeated by the driver's failure to renew the licence, where the licence exclusion clause uses 'and' (not duly licensed AND disqualified) rather than 'or'",
+    "Whether the non-renewal of a driving licence as on the date of the accident amounts to a fundamental breach justifying the insurer's total avoidance of liability",
+    "Enhancement of compensation in both cases"
+  ],
+  "issue_tags": [
+    "driving_license_validity",
+    "license_breach_defence",
+    "insurance_liability",
+    "third_party_liability",
+    "pay_and_recover",
+    "compensation_quantum",
+    "compensation_enhancement",
+    "negligence_proof"
+  ],
+  "vehicle_tags": ["lorry", "motorcycle"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "M.F.A. No. 5566/1999 (insurer's appeal in MVC 177/1997) dismissed; insurer remains jointly liable with owner. M.F.A. No. 690/2000 (claimant's appeal) partly allowed; compensation enhanced to Rs.3,50,000/- with interest at 9% p.a. Cross-objection No. 23/2000 allowed in part (interest rate aspect). M.F.A. No. 3557/1998 (owner's appeal in MVC 140/1994) allowed; insurer held jointly and severally liable with owner; compensation enhanced to Rs.1,95,000/- with interest at 9% p.a. No recovery order made since insurer failed to prove breach.",
+  "key_holdings": [
+    "The insurance company's liability to satisfy an award against a third party is a statutory liability not inhibited by policy conditions; breach of policy conditions cannot bind the third party.",
+    "Mere expiry of a driving licence and failure to renew it as on the date of accident — without the driver being disqualified — does not amount to breach of the exclusion clause where the exclusion clause uses 'and' to connect 'not duly licensed' and 'disqualified'.",
+    "Where the breach alleged is not a factor that contributed to causing the accident, it is not a fundamental breach; the exclusion clause must be read down to serve the main purpose of the policy, i.e., to indemnify the insured.",
+    "In both cases, the insurance company failed to prove willful breach of policy conditions and therefore cannot recover the amount paid from the insured."
+  ],
+  "key_passages": [
+    {
+      "label": "third_party_liability / statutory liability not inhibited by policy conditions",
+      "quote": "it is clear that the liability of the insurance company to satisfy the award passed against third party is a statutory liability and the same is not inhibited by any of the conditions imposed in the policy and any breach of conditions imposed in the policy would not bind the third party and the insurance company is bound to satisfy the award against the third party",
+      "page": 22
+    },
+    {
+      "label": "driving_license_validity / expiry not a breach",
+      "quote": "mere fact that the driver of the offending vehicle had not got his driving licence renewed on the date of the accident and got it renewed subsequently would not amount to breach of condition of the policy as it cannot be said that there was violation of the condition of the exclusion clause.",
+      "page": 37
+    },
+    {
+      "label": "fundamental_breach / exclusion clause read down",
+      "quote": "Where the breach alleged is not a factor which has contributed to the causing of the accident, the said breach would not be a fundamental breach so as to afford a ground to the insurer to avoid liability altogether and the exclusion clause must be read down so as to serve the main purpose of the policy, i.e., to indemnify the insured.",
+      "page": 38
+    },
+    {
+      "label": "outcome / holding",
+      "quote": "we hold that the insurance company has failed to prove that there was breach of conditions of the policy and that, it is absolved of its liability to pay the compensation as per the terms of the policy and hold that the insurance company in both the cases is liable with the owner jointly and severally to pay the compensation awarded in these appeals.",
+      "page": 39
+    }
+  ],
+  "adverse_value": "",
+  "summary": "A Division Bench of the Karnataka High Court consolidated four appeals arising from two separate motor accident cases. In MVC No. 177 of 1997, a minor girl Suma had her right leg amputated above the knee after being hit while standing by the roadside; in MVC No. 140 of 1994, Inthu Pasha (20 years) died as a pillion rider on a motorcycle. In both cases, insurers argued that the drivers lacked valid driving licences on the accident date as licences had expired and were renewed only thereafter (50-day gap in the first case; 7-month gap in the second). The court held comprehensively: (1) the insurance company's liability to satisfy a third-party award is statutory and is not defeated by policy conditions; (2) mere expiry of a driving licence without disqualification does not constitute a breach of the exclusion clause, particularly where the clause uses 'and' (requiring both unlicensed and disqualified) rather than 'or'; (3) where the breach does not contribute to causing the accident, it is not a fundamental breach and the exclusion clause must be read down; and (4) the insurers in both cases failed to prove willful breach, so no recovery could be ordered. The insurer's appeal in the first case was dismissed; the owner's appeal in the second case was allowed with insurer held jointly liable. Compensation was enhanced to Rs.3,50,000/- and Rs.1,95,000/- respectively with interest at 9% per annum.",
+  "confidence": "high"
+}

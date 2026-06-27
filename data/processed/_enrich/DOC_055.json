@@ -1,0 +1,78 @@
+{
+  "doc_id": "DOC_055",
+  "case_title": "Smt. Iravva K Purantar vs S. Venkatesh and Kendra Upadyayara Sangha (Regd.)",
+  "court": "High Court of Karnataka at Bengaluru",
+  "judge_or_bench": "Hon'ble Mr. Justice S.R. Krishna Kumar",
+  "date": "2023-11-21",
+  "year": 2023,
+  "legal_area": "specific_performance",
+  "is_motor_accident": false,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Smt. Iravva K Purantar (non-party to original suit; subsequent purchaser of suit property)"],
+    "respondents": [
+      "S. Venkatesh (Plaintiff / Respondent No.1)",
+      "Kendra Upadyayara Sangha (Regd.) (Defendant / Respondent No.2)"
+    ],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Code of Civil Procedure, 1908 s.96",
+    "Code of Civil Procedure, 1908 Order 41 Rule 27",
+    "Code of Civil Procedure, 1908 Order 41 Rule 28"
+  ],
+  "core_facts": [
+    "Respondent No.1/plaintiff instituted O.S.No.3810/2010 against respondent No.2/defendant-Sangha for specific performance of an unregistered lease-cum-sale agreement dated 10.10.1986 in respect of a site property",
+    "The Sangha's written statement alleged it had separately allotted and alienated the very same site to the appellant (Smt. Iravva K Purantar) under a registered lease-cum-sale agreement dated 17.09.1987 and had issued a possession certificate dated 17.03.1988",
+    "The defendant-Sangha neither cross-examined the plaintiff's witness (PW.1) nor led any oral or documentary evidence in support of its defence",
+    "Trial court, on the basis of uncontroverted evidence of PW.1, decreed the suit for specific performance in favour of the plaintiff by judgment and decree dated 15.12.2015",
+    "Appellant (not arrayed as a party to the suit despite the Sangha's own written statement disclosing her claim) filed a Regular First Appeal with a delay of 677 days, along with applications for condonation of delay, permission to appeal, impleadment as additional defendant, and production of additional documents (registered lease-cum-sale agreement dated 17.09.1987, possession certificate, sale deed dated 19.03.2012, katha documents)"
+  ],
+  "legal_issues": [
+    "Whether a non-party to a specific performance suit who has a competing claim to the suit property (acknowledged in the defendant's own written statement) is a proper and necessary party entitled to be impleaded as additional defendant and to prefer an appeal",
+    "Whether the delay of 677 days in filing the appeal by a person who had no knowledge of the suit can be condoned as caused by bonafide reasons",
+    "Whether additional documents showing the competing claim (registered lease-cum-sale agreement, sale deed) should be received on record under Order 41 Rule 27 CPC"
+  ],
+  "issue_tags": [
+    "specific_performance_relief",
+    "maintainability",
+    "limitation",
+    "other"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["neutral"],
+  "outcome": "Regular First Appeal allowed. Impugned judgment and decree dated 15.12.2015 in O.S.No.3810/2010 set aside. Matter remitted to trial court for reconsideration afresh. Appellant impleaded as additional defendant No.2; additional documents received on record; delay of 677 days condoned; liberty granted to all parties to lead evidence and cross-examine witnesses.",
+  "key_holdings": [
+    "A non-party to a specific performance suit may be a proper and necessary party, and is entitled to prefer an appeal, where the suit property is the very property in which she claims rights under a competing registered agreement, and the defendant's written statement acknowledges the alienation in her favour but the defendant defaulted in contesting the suit.",
+    "Delay in filing an appeal by a non-party who had no knowledge of the pendency of the suit and whose competing agreement was registered (unlike the plaintiff's unregistered agreement) constitutes bonafide reason and unavoidable circumstance warranting condonation.",
+    "Where a non-party with competing rights is impleaded and additional evidence is necessary for adjudication, the proper course under Order 41 Rule 28 CPC is to set aside the impugned decree and remit the matter to the trial court for fresh consideration."
+  ],
+  "key_passages": [
+    {
+      "label": "non_party_as_proper_and_necessary_party",
+      "quote": "While it is true that in a suit for specific performance, a non-party to the contract would ordinarily not be construed or treated as a proper and necessary party, in the light of the specific assertion on the part of the Sangha in the written statement, that the suit was liable to be dismissed",
+      "page": null
+    },
+    {
+      "label": "delay_condoned_bonafide_reasons",
+      "quote": "being satisfied that the delay in preferring the present appeal, has been satisfactorily explained. I.A.No.1/2018 is hereby allowed and the delay in preferring the appeal is hereby condoned.",
+      "page": null
+    },
+    {
+      "label": "matter_remitted_for_fresh_trial",
+      "quote": "remitted back to the trial Court for reconsideration afresh in accordance with law.",
+      "page": null
+    },
+    {
+      "label": "outcome_appeal_allowed",
+      "quote": "Appeal is hereby allowed. II. Impugned judgment and decree dated 15.12.2015 is hereby set aside.",
+      "page": null
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The Karnataka High Court allowed a Regular First Appeal filed by a non-party to a specific performance suit. Respondent No.1/plaintiff had instituted O.S.No.3810/2010 against respondent No.2/defendant (Kendra Upadyayara Sangha, Regd.) for specific performance of an unregistered lease-cum-sale agreement dated 10.10.1986 relating to a site property. The Sangha's written statement admitted it had allotted and alienated the same property to the appellant under a registered lease-cum-sale agreement dated 17.09.1987, but the Sangha neither cross-examined the plaintiff's witness nor led any evidence. The trial court decreed specific performance in the plaintiff's favour. The appellant, who had not been made a party to the suit despite the Sangha's own admission, filed an appeal with a delay of 677 days, seeking impleadment, additional documents on record (including her registered lease-cum-sale agreement, possession certificate and sale deed), and condonation of delay. The High Court held that the delay was due to bonafide reasons since the appellant had no knowledge of the suit and her agreement was a registered document. It found the appellant to be both a proper and necessary party, allowed all interlocutory applications, and set aside the impugned decree. The matter was remitted to the trial court for fresh consideration with the appellant impleaded as additional defendant No.2, with liberty to all parties to adduce evidence.",
+  "confidence": "high"
+}

@@ -1,0 +1,77 @@
+{
+  "doc_id": "DOC_012",
+  "case_title": "Smt. Rekha Kumari and Others vs Gopal Malahakar and Others",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "judge_or_bench": "Sh. G. N. Pandey",
+  "date": "2018-06-07",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "claim_petition",
+  "document_type": "award",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Sh. Gopal Malahakar (driver)", "Sh. Sanjeev Kumar (owner)", "Reliance General Insurance Co. Ltd."],
+    "claimants": ["Smt. Rekha Kumari W/o Late Sh. Sachin", "Chahat (minor child)", "Samar (minor child)", "Duarka Prasad (father of deceased)", "Maya Devi (mother of deceased)", "Sh. Naresh S/o Sh. Munesh (injured)"],
+    "insurer": ["Reliance General Insurance Co. Ltd."],
+    "owner_or_driver": ["Sh. Gopal Malahakar (driver)", "Sh. Sanjeev Kumar (owner)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.140"
+  ],
+  "core_facts": [
+    "On 19.05.2016 at about 8 AM, deceased Sachin (motor mechanic, approximately 30 years) and injured Naresh were travelling on motorcycle DL 5 SAM 2688; offending vehicle UP 14 ET 9761 hit the motorcycle near Rajiv Colony, Karheda, Sahibabad",
+    "Sachin died at Narender Mohan Hospital, Ghaziabad; Naresh was referred to GTB Hospital Delhi; Crime No. 726/16 registered at PS Sahibabad under Section 279/338/304A IPC",
+    "Sachin's income assessed at minimum wages for unskilled workman (Rs. 9,568 per month as on 19.05.2016); 1/4th personal expenses deduction applied (father, Petitioner No. 4, not dependent); multiplier 17 for age 30; no future prospects (Pranay Sethi)",
+    "Loss of dependency for MACT 416/16: Rs. 14,63,904; total with consortium, estate, and funeral: Rs. 15,33,904",
+    "Naresh (MACT 417/16): 33% physical disability (permanent locomotor impairment, right upper limb); functional disability assessed at 15% of the whole body following Raj Kumar v. Ajay Kumar (2011) 1 SCC 343; multiplier 17 for age 27; total award Rs. 4,31,478",
+    "Reliance General Insurance Co. held liable under policy No. 1302252334005367 (06.01.2016 to 05.01.2017); no policy violation found"
+  ],
+  "legal_issues": [
+    "Whether rash and negligent driving of the offending vehicle's driver was established as the cause of the accident",
+    "Quantum of compensation for dependants of deceased Sachin including appropriate personal expenses deduction and consortium",
+    "Functional disability assessment for Naresh with 33% physical disability and its impact on future earning capacity",
+    "Future prospects when income is assessed at minimum wages"
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "loss_of_dependency",
+    "compensation_quantum",
+    "income_determination",
+    "section_166",
+    "multiplier",
+    "consortium",
+    "future_prospects",
+    "just_compensation",
+    "interest_on_compensation"
+  ],
+  "vehicle_tags": ["motorcycle"],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "MACT 416/16 (death claim): Rs. 15,33,904 awarded to five petitioners (wife, two minor children, parents) with 9% interest per annum from date of filing. MACT 417/16 (injury claim): Rs. 4,31,478 awarded to Naresh with 9% interest. Reliance General Insurance Co. directed to pay both awards.",
+  "key_holdings": [
+    "Negligence of the driver of the offending vehicle is established on preponderance of probability through FIR, site plan, and MLC; the respondents led no evidence in rebuttal.",
+    "Where the deceased had five dependants but one (the father) was not actually dependent, the personal expenses deduction is 1/4th rather than the standard 1/3rd.",
+    "Functional disability is assessed as a percentage of the whole body even though physical disability is partial; 33% limb-level disability translated to 15% whole-body functional disability following Raj Kumar v. Ajay Kumar (2011) 1 SCC 343."
+  ],
+  "key_passages": [
+    {
+      "label": "dependency_calculation",
+      "quote": "Therefore, the total loss of dependency would be calculated as follows :− Rs. 9,568/− X 12 (annual) X 17 (Multiplier) = Rs. 19,51,872/− Rs. 19,51,872/− - Rs. 4,87,968/− (1/4th personal expenses) = Rs. 14,63,904/−.",
+      "page": 14
+    },
+    {
+      "label": "injury_future_loss",
+      "quote": "The Claimant is thus awarded a compensation of an amount of Rs. 2,92,774/−( Rs. 9,568/− X 12 X 17 x 0.15) under the head Future Loss of Income.",
+      "page": 21
+    },
+    {
+      "label": "holding_outcome_death",
+      "quote": "in favour of the Claimant and against respondents.",
+      "page": 14
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This common award disposed of MACT 416/16 (death of Sachin) and 417/16 (injury to Naresh) before the MACT, Karkardooma Courts, Delhi. On 19 May 2016 at about 8 AM, deceased Sachin and injured Naresh were travelling on motorcycle DL 5 SAM 2688 when vehicle UP 14 ET 9761 hit them near Rajiv Colony, Karheda, Sahibabad. Sachin died; Naresh sustained 33% permanent locomotor impairment in his right upper limb. Crime No. 726/16 was registered under Section 279/338/304A IPC. Negligence was proved through FIR, site plan, and criminal records; the respondents produced no witness. For MACT 416/16 (death): income assessed at minimum wages for unskilled workman (Rs. 9,568 per month as of 19.05.2016). Age taken as 30 years from postmortem record. Father (Petitioner No. 4) was found not dependent, so 1/4th was deducted for personal expenses; loss of dependency was Rs. 14,63,904 (multiplier 17). Consortium (Rs. 40,000), loss of estate (Rs. 15,000), and funeral expenses (Rs. 15,000) were awarded, totalling Rs. 15,33,904. For MACT 417/16 (injury): functional disability assessed at 15% of the whole body despite 33% physical disability, following Raj Kumar v. Ajay Kumar (2011) 1 SCC 343. Multiplier 17 for age 27. Total compensation Rs. 4,31,478. No future prospects added per Pranay Sethi. Reliance General Insurance Co. held liable with 9% interest per annum.",
+  "confidence": "high"
+}

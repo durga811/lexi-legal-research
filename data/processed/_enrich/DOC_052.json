@@ -1,0 +1,80 @@
+{
+  "doc_id": "DOC_052",
+  "case_title": "Company Of Management For Baranagar Jute Factory vs Atis Dipankar Chowdhuri",
+  "court": "High Court at Calcutta",
+  "judge_or_bench": "Amal Kanti Bhattacharji, J.",
+  "date": "1993-02-15",
+  "year": 1993,
+  "legal_area": "banking_finance",
+  "is_motor_accident": false,
+  "procedural_stage": "revision",
+  "document_type": "order",
+  "parties": {
+    "appellants": [
+      "Committee of Management for Baranagar Jute Factory (Petitioner No.1)",
+      "Petitioner No.2 (signatory/authorized representative)"
+    ],
+    "respondents": [
+      "Atis Dipankar Chowdhuri (Manager, Recovery, State Bank of India)"
+    ],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Negotiable Instruments Act, 1881 s.138",
+    "Negotiable Instruments Act, 1881 s.141",
+    "Negotiable Instruments Act, 1881 s.142"
+  ],
+  "core_facts": [
+    "Baranagar Jute Factory was a borrower of the State Bank of India; a winding-up proceeding was initiated and the High Court formed a Committee of Management under a court-approved scheme to run the factory and repay debts by instalments",
+    "The Committee issued cheque No.776924 dated 29-8-90 on Union Bank of India (Ezra Street) in favour of SBI; the cheque was returned on 11-9-90 with remark 'exceeds arrangement' and again on 23-11-90 with remark 'refer to drawer'",
+    "SBI wrote to Union Bank confirming insufficient balance, issued a demand notice dated 4-12-90, and the Committee's reply dated 11-12-90 acknowledged receipt but denied liability and raised objections without paying",
+    "SBI filed a complaint before the Chief Metropolitan Magistrate, Calcutta under s.138 read with s.141 NI Act; cognizance was taken and proceedings began as criminal case No. C/46/1991",
+    "Petitioners filed a criminal revision challenging the prosecution on three grounds: timeliness of notice after second presentation, need for court's leave before prosecuting a court-created committee, and whether the Committee qualifies as a 'company' under s.141"
+  ],
+  "legal_issues": [
+    "Whether the bank's failure to give demand notice after the first dishonour and its choice to re-present the cheque bars a prosecution under s.138 NI Act",
+    "Whether prosecution of a Committee of Management appointed by the High Court requires prior leave of the court (analogous to prosecution of a court-appointed receiver)",
+    "Whether a Committee of Management constituted by court order qualifies as a 'company' under the explanation to s.141 NI Act, enabling vicarious liability"
+  ],
+  "issue_tags": [
+    "dishonour_of_cheque",
+    "maintainability",
+    "criminal_liability",
+    "limitation"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["neutral"],
+  "outcome": "Criminal revision allowed. The prosecution against the Committee of Management and its signatory quashed. Proceedings in criminal case No. C/46/1991 under s.138/141 NI Act before the CMC Calcutta set aside; accused petitioners discharged from bail bonds. The court held prosecution was bad for want of prior leave of court and that the Committee of Management is not a 'company' under s.141.",
+  "key_holdings": [
+    "A second presentation of a dishonoured cheque within the validity period is not prohibited by s.138 NI Act; the payee retains the right to give demand notice and initiate prosecution after the second dishonour.",
+    "A Committee of Management appointed by the High Court under a court-approved scheme is akin to a court-appointed receiver and cannot be prosecuted without prior leave of the court; prosecution without such leave is bad.",
+    "A Committee of Management constituted by court order is not a 'company' or body corporate or association of individuals within the meaning of the explanation to s.141 NI Act; no vicarious liability can be fastened on such a committee under that section."
+  ],
+  "key_passages": [
+    {
+      "label": "second_presentation_permissible",
+      "quote": "there is no prohibition in Section 138 of the Negotiable Instruments Act that a returned cheque cannot be presented again.",
+      "page": null
+    },
+    {
+      "label": "prior_leave_of_court_required",
+      "quote": "the prosecution in this case without the prior leave of the Court has been bad.",
+      "page": null
+    },
+    {
+      "label": "committee_not_a_legal_entity",
+      "quote": "the Committee of Management constituted by the High Court has no legal status as such to represent the aggregate of the individuals like a firm or any body corporate.",
+      "page": null
+    },
+    {
+      "label": "outcome_prosecution_quashed",
+      "quote": "The proceedings of criminal case No. C/46/1991 under Section 138/141 of the Negotiable Instruments Act pending in the Court of the Chief Metropolitan Magistrate, Calcutta, are hereby quashed. The accused petitioners are discharged after being released from their bail bonds.",
+      "page": null
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The Calcutta High Court allowed a criminal revision challenging prosecution under Sections 138 and 141 of the Negotiable Instruments Act, 1881. The petitioners were a Committee of Management of Baranagar Jute Factory, formed by High Court order under a court-approved scheme to manage the insolvent company, and its authorised signatory. The Committee had issued a cheque favouring the State Bank of India (creditor), which was dishonoured twice. SBI served a demand notice after the second dishonour and filed a complaint. The petitioners raised three objections. On the first objection, the Court rejected the argument that the bank's choice to re-present the cheque without sending notice after the first dishonour extinguished the right to prosecute; it held that re-presentation within the validity period is permissible and notice after the second dishonour is valid. On the second objection, the Court held that the Committee of Management, being a creation of the Court equivalent to a receiver, required prior leave of the court before it could be prosecuted; prosecuting without such leave rendered the action bad. On the third objection, the Court held that the Committee of Management is not a 'company', body corporate, firm, or association of individuals as defined in the explanation to Section 141 NI Act, and cannot suffer imprisonment, making vicarious prosecution under that section unavailable. The criminal revision was allowed and the prosecution quashed.",
+  "confidence": "high"
+}

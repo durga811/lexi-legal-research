@@ -1,0 +1,76 @@
+{
+  "doc_id": "DOC_011",
+  "case_title": "Asfaq Ahmad and Others vs Satender and Others",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "judge_or_bench": "Sh. G. N. Pandey",
+  "date": "2018-09-15",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "claim_petition",
+  "document_type": "award",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Satender (driver)", "Jagdish Prashad (owner)", "Rohit Bansal (owner)", "U.P.S.R.T.C.", "The Oriental Insurance Co. Ltd."],
+    "claimants": ["Asfaq Ahmad (father)", "Hasin Bano (mother)", "Imran (brother)", "Sherddin S/o Sh. Salimuddin (injured)"],
+    "insurer": ["The Oriental Insurance Co. Ltd."],
+    "owner_or_driver": ["Satender (driver)", "Jagdish Prashad (owner)", "Rohit Bansal (owner)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.140"
+  ],
+  "core_facts": [
+    "On 10.02.2018 at about 5 PM, deceased Istkhar (approximately 27-28 years, bachelor) and injured Sherddin were travelling on motorcycle DL 1 SZ 1427; bus UP 15 AT 4990 driven rashly by Satender struck the motorcycle near village Meetlli towards Meerut",
+    "Istkhar was brought dead to Baghpat Hospital; Crime No. 166/18 was registered at PS Baghpat under Sections 279/337/427/304-A IPC; chargesheet was filed",
+    "Istkhar's income assessed at minimum wages for a matriculate (Rs. 11,830 per month as on 10.02.2018); 50% deduction applied as he was a bachelor; multiplier 17 applied for age approximately 28; no future prospects awarded per Laxmidhar Nayak",
+    "Loss of dependency: Rs. 12,06,660; total MACT 74/18 award: Rs. 12,36,660 (including loss of estate Rs. 15,000 and funeral expenses Rs. 15,000)",
+    "Sherddin (MACT 124/18): injuries proved but no disability established (treating doctor not summoned); no future loss of income; total award Rs. 1,89,150",
+    "Oriental Insurance Co. held liable under policy No. 252405/31/2018/5376 (covering the bus from 30.11.2017 to midnight 29.11.2018)"
+  ],
+  "legal_issues": [
+    "Whether negligence of the bus driver was proved as the proximate cause of the accident and deaths/injuries",
+    "Appropriate multiplier and personal expenses deduction for a bachelor deceased with no proved income",
+    "Whether future prospects should be added where income is assessed at minimum wages",
+    "Quantum of compensation for injured Sherddin who failed to prove disability"
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "loss_of_dependency",
+    "compensation_quantum",
+    "income_determination",
+    "section_166",
+    "multiplier",
+    "future_prospects",
+    "just_compensation",
+    "interest_on_compensation"
+  ],
+  "vehicle_tags": ["motorcycle", "bus"],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "MACT 74/18 (death claim): Rs. 12,36,660 awarded to parents and brother with 9% interest per annum from date of filing. MACT 124/18 (injury claim): Rs. 1,89,150 awarded to Sherddin with 9% interest per annum. Oriental Insurance Co. Ltd. held liable for both awards; amounts directed to be deposited with UCO Bank.",
+  "key_holdings": [
+    "In the absence of documentary proof of income, deceased's income is assessed at minimum wages applicable to a matriculate on the date of accident.",
+    "For a bachelor deceased with only parents and siblings as dependants, 50% deduction is made from annual income for personal expenses before calculating loss of dependency.",
+    "Future prospects are not awarded where income is assessed at minimum wages and the deceased was not shown to have been in fixed salaried or self-employed work, following Laxmidhar Nayak v. Juggal Kishore Behera."
+  ],
+  "key_passages": [
+    {
+      "label": "income_assessment",
+      "quote": "of the deceased is assessed as Rs. 11,830/− per month. As per adhar card, the year of birth of",
+      "page": 21
+    },
+    {
+      "label": "bachelor_deduction_and_dependency",
+      "quote": "It was further held that 50% of the deduction is to be made in case of bachelor. Therefore, the total loss of dependency would be calculated as follows :− Rs. 11,830/− X 12 (annual) X 17 (Multiplier) = Rs. 24,13,320/−",
+      "page": 23
+    },
+    {
+      "label": "holding_outcome",
+      "quote": "I accordingly award an amount of compensation of Rs. 12,36,660/− in favour of the Claimant and against respondents.",
+      "page": 24
+    }
+  ],
+  "adverse_value": "A 50% deduction for personal expenses was applied because the deceased was a bachelor, substantially reducing the loss of dependency award; insurers or owners can cite this to halve dependency awards where the deceased had no spouse or children.",
+  "summary": "This common award disposed of MACT 74/18 (death claim by parents and brother of deceased Istkhar) and MACT 124/18 (injury claim by Sherddin) before the MACT, Karkardooma Courts, Delhi. On 10 February 2018 at about 5 PM, deceased Istkhar and injured Sherddin were travelling on motorcycle DL 1 SZ 1427 near village Meetlli towards Meerut when bus UP 15 AT 4990 struck their motorcycle. Istkhar died; Sherddin was injured. Crime No. 166/18 was registered at PS Baghpat under Sections 279/337/427/304-A IPC. Negligence of the bus driver was found established. For MACT 74/18 (death): Istkhar's income was assessed at minimum wages for a matriculate (Rs. 11,830 per month). As a bachelor, 50% was deducted for personal expenses. Multiplier 17 was applied for age approximately 28. No future prospects were added per Laxmidhar Nayak. Total loss of dependency was Rs. 12,06,660, with Rs. 15,000 each for loss of estate and funeral expenses—totalling Rs. 12,36,660. For MACT 124/18 (injury): Sherddin failed to prove disability as no treating doctor was summoned. Income assessed at Rs. 11,830 per month. No future income loss was awarded; total compensation was Rs. 1,89,150 covering loss of wages, pain and suffering, attendant charges, and diet. Oriental Insurance Co. Ltd. was found liable for both awards with 9% interest per annum from date of filing.",
+  "confidence": "high"
+}

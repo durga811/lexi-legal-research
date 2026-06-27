@@ -1,0 +1,70 @@
+{
+  "doc_id": "DOC_002",
+  "case_title": "Liyakat Ali vs Smt Chunni Devi",
+  "court": "High Court of Judicature at Allahabad",
+  "judge_or_bench": "Hon'ble Devi Prasad Singh, J. and Hon'ble Dr. Satish Chandra, J.",
+  "date": "2010-07-16",
+  "year": 2010,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Liyakat Ali (owner of tractor)"],
+    "respondents": ["Smt Chunni Devi"],
+    "claimants": ["Smt Chunni Devi (mother/heir of deceased Arvind Kumar)"],
+    "insurer": ["Insurance Company (unnamed in text)"],
+    "owner_or_driver": ["Liyakat Ali (owner of tractor UP-35-B-1649)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.146",
+    "Motor Vehicles Act, 1988 s.2(46)"
+  ],
+  "core_facts": [
+    "On 02.12.2000, deceased Arvind Kumar was travelling on a scooter when Tractor No. UP-35-B-1649 took a sharp turn and iron rods loaded in the trolley/trailer attached to the tractor struck him; he died on the spot.",
+    "The tractor was insured but the trolley/trailer was not separately insured; no premium was paid for the trolley.",
+    "The Motor Accident Claims Tribunal, Unnao awarded Rs. 1,18,850/- against the owner of the tractor (Liyakat Ali), holding the insurer not liable.",
+    "The tractor was insured only for agricultural use; at the time of accident it was carrying bricks and iron rods for construction of a room (pakki boring), not for agricultural purposes.",
+    "The owner admitted in paragraph 3 of his affidavit that the trolley was being used to carry iron rods and bricks for construction purposes."
+  ],
+  "legal_issues": [
+    "Whether the trailer/trolley attached to the tractor is part of the tractor and covered under its insurance policy without separate premium",
+    "Whether using the tractor for non-agricultural purposes (construction) constitutes a breach of the insurance policy",
+    "Whether the insurer is liable to pay compensation or the owner of the tractor"
+  ],
+  "issue_tags": [
+    "insurance_liability",
+    "policy_breach",
+    "third_party_liability",
+    "owner_liability",
+    "permit_violation",
+    "section_166"
+  ],
+  "vehicle_tags": ["tractor", "trailer"],
+  "stance_tags": ["insurer_supporting", "adverse_to_claimant"],
+  "outcome": "Appeal dismissed for different reasons. While the court held that a trailer/trolley attached to a tractor is part of the tractor and covered by the tractor's insurance (not requiring separate premium), it found that the tractor was insured only for agricultural use and was carrying bricks and iron rods for construction — a non-agricultural purpose — constituting a breach of policy conditions. The insurer was therefore not liable and the owner of the tractor was held liable to pay the compensation of Rs. 1,18,850/-.",
+  "key_holdings": [
+    "A trailer/trolley attached to a tractor is part of the tractor and need not be separately insured under Section 146 of the Motor Vehicles Act; if the prime mover (tractor) is insured and the driver's negligence is established, the insurer cannot escape liability merely because the trailer was not separately insured.",
+    "However, where the tractor was insured only for agricultural use and was being used for a non-agricultural purpose at the time of the accident, there is a breach of insurance policy conditions and the insurer is not liable; the owner must pay compensation."
+  ],
+  "key_passages": [
+    {
+      "label": "insurance_liability",
+      "quote": "the trailer/trolley, which is attached with the tractor is a part of the tractor, which was duly insured from the insurance company. Hence, the insurance company cannot escape from its liability to pay compensation by taking the plea that the trailer was not separately insured.",
+      "page": 3
+    },
+    {
+      "label": "policy_breach",
+      "quote": "Transportation of iron rods and bricks is certainly not an agricultural activity. The tractor was insured only for the purpose of agricultural activity. The tractor will have to be used only for agricultural purpose not for any other purpose including the construction of a room. Thus, there is a violation of the terms and conditions of the insurance policy.",
+      "page": 4
+    },
+    {
+      "label": "owner_liability",
+      "quote": "in the instant case, the insurance company is not liable to pay the compensation and the owner of the tractor will have to pay the compensation.",
+      "page": 4
+    }
+  ],
+  "adverse_value": "Directly adverse to claimants: the court exonerated the insurer from liability because the tractor was used for a non-agricultural purpose in breach of policy conditions. Claimants must recover from the owner (who may be less solvent) rather than the insurer.",
+  "summary": "An appeal by the owner of a tractor (Liyakat Ali) against an award of Rs. 1,18,850/- by the Motor Accident Claims Tribunal, Unnao, arising from the death of Arvind Kumar on 02.12.2000 when iron rods in the trolley attached to the tractor struck him as the tractor took a sharp turn near Hyderabad Paisara. The tractor was insured but the trolley was not separately insured. The court held that a trailer/trolley is part of the tractor and covered under the tractor's insurance, so the insurer could not escape liability merely for want of separate trailer insurance. However, the critical finding was that the tractor was insured only for agricultural use and was actually carrying bricks and iron rods for construction of a room — a non-agricultural purpose — constituting a breach of insurance policy conditions. Accordingly, the insurer was held not liable and the award was upheld against the owner of the tractor. The appeal was dismissed.",
+  "confidence": "high"
+}

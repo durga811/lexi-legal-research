@@ -1,0 +1,67 @@
+{
+  "doc_id": "DOC_039",
+  "case_title": "Smt. Kamla Devi vs Government Of NCT Of Delhi And Anr.",
+  "court": "High Court of Delhi",
+  "judge_or_bench": "Justice Badar Durrrez Ahmed",
+  "date": "2004-09-10",
+  "year": 2004,
+  "legal_area": "other",
+  "is_motor_accident": false,
+  "procedural_stage": "writ",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Government of NCT of Delhi", "Unnamed Respondent No. 2"],
+    "claimants": ["Smt. Kamla Devi (widow)", "Mukesh (minor son)"],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": ["Constitution of India Art.21", "Constitution of India Art.226", "Motor Vehicles Act, 1988 Second Schedule", "Fatal Accidents Act, 1855", "Code of Criminal Procedure, 1973 s.357"],
+  "core_facts": [
+    "Uday Singh, an electrician from Wazirpur, Gurgaon, died on 20.04.1996 in a bomb blast at Arjun Guest House, Paharganj, Delhi, caused by a terrorist who assembled an improvised explosive device (RDX) in the building.",
+    "Sixteen other persons also died in the blast. The terrorist was a member of a Jammu and Kashmir terrorist organisation and died in the explosion.",
+    "The Government of NCT of Delhi paid an ex-gratia amount of Rs. 50,000/- to the petitioner Kamla Devi (widow), which she regarded as grossly inadequate.",
+    "Petitioner filed a writ petition under Article 226 seeking a writ of mandamus directing respondents to pay Rs. 10 lakhs or adequate compensation for the State's failure to protect the life of her husband under Article 21 of the Constitution.",
+    "At the time of death, Uday Singh was 29 years old, earning Rs. 3,000/- per month, leaving behind wife Kamla Devi and infant son Mukesh (aged 4 months)."
+  ],
+  "legal_issues": [
+    "Whether the State is liable to pay compensation in public law under Article 226 for the death of a citizen caused by a terrorist act due to failure of State intelligence and protective duty under Article 21.",
+    "Whether compensation for crime victims can be awarded in writ jurisdiction without relegating the claimant to civil courts.",
+    "What is the appropriate methodology for computing compensation for loss of dependency and non-pecuniary loss in a public law claim."
+  ],
+  "issue_tags": ["compensation_quantum", "loss_of_dependency", "multiplier", "other"],
+  "vehicle_tags": [],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "Writ petition allowed. State directed to pay Rs. 4,36,500/- (after adjusting ex-gratia of Rs. 50,000/-) with simple interest at 7% p.a. from 20.04.1996 (date of explosion) till date within four weeks. The compensation comprised standard conventional sum of Rs. 97,700/- (inflation-adjusted) and dependency compensation of Rs. 3,88,800/- computed using the multiplier method.",
+  "key_holdings": [
+    "The State owes a duty to protect the life and liberty of innocent citizens under Article 21 and when it fails to prevent terrorism resulting in death, it is liable to compensate the victim's family under public law jurisdiction.",
+    "Compensation for crime victims can be awarded by High Courts under Article 226 without relegating them to civil courts; such public law compensation is in addition to private law tort remedies.",
+    "Compensation comprises two parts: a standard conventional sum for non-pecuniary losses (revised periodically for inflation using CPI-IW) and dependency compensation computed by the multiplier method using the Second Schedule of the Motor Vehicles Act, 1988 as a guide.",
+    "The standard conventional sum for non-pecuniary losses for the year 1996 was held to be Rs. 97,700/- (inflation-corrected from Rs. 50,000/- set in Lata Wadhwa for 1989)."
+  ],
+  "key_passages": [
+    {
+      "label": "public_law_compensation_principle",
+      "quote": "The Court, where the infringement of the fundamental right is established, therefore, cannot stop by giving a mere declaration. It must proceed further and give compensatory relief, not by way of damages as in a civil action but by way of compensation under the public law jurisdiction for the wrong done, due to breach of public duty by the State of not protecting the fundamental right to life of the citizen.",
+      "page": 4
+    },
+    {
+      "label": "state_liability_for_terrorism",
+      "quote": "So, compensation is payable to the petitioner by the State for the death of Uday Singh for the breach of the constitutional guarantee of Article 21 that ''no person shall be deprived of his life .. except according to procedure established by law''.",
+      "page": 11
+    },
+    {
+      "label": "multiplier_method_description",
+      "quote": "the multiplier method involves the ascertainment of the loss of dependency or the multiplicand having regard to the circumstances of the case and capitalizing the multiplicand by an appropriate multiplier.",
+      "page": 12
+    },
+    {
+      "label": "final_order",
+      "quote": "it is directed that the Respondents shall, within a period of four weeks from today, pay to the petitioner (for herself and her minor son, Mukesh) an amount of Rs 4,36,500/- Along with simple interest thereon @ 7% for the period 20.4.1996 (i.e., the date of the explosion) till date.",
+      "page": 17
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This writ petition (decided 10 September 2004 by the Delhi High Court) was filed by Kamla Devi, widow of Uday Singh who died in the Paharganj bomb blast of 20 April 1996 caused by a terrorist. Uday Singh was 29 years old and earned Rs. 3,000/- per month at the time of death. The petitioner sought Rs. 10 lakhs compensation from the State for failing to prevent the terrorist attack in violation of the constitutional guarantee under Article 21. The court held that the State, having failed to prevent terrorism resulting in the death of an innocent citizen, is liable to pay compensation in public law jurisdiction under Article 226. Rejecting the view that petitioners must pursue private law tort remedies, the court adopted a two-tier compensation formula drawing on D.K. Basu, Lata Wadhwa, and the Motor Vehicles Act Second Schedule: a standard conventional sum for non-pecuniary loss (revised to Rs. 97,700/- using CPI-IW inflation adjustment from the 1989 Lata Wadhwa benchmark of Rs. 50,000/-) plus dependency compensation using the multiplier of 18 (applicable to age 29) yielding Rs. 3,88,800/-. After adjusting the ex-gratia of Rs. 50,000/- already paid, the State was directed to pay Rs. 4,36,500/- with 7% simple interest from the date of death. The judgment is an important precedent on the methodology of inflation-adjusted conventional sums and crime-victim compensation under public law.",
+  "confidence": "high"
+}

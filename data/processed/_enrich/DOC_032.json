@@ -1,0 +1,79 @@
+{
+  "doc_id": "DOC_032",
+  "case_title": "S. Iyyapan vs M/S United India Insurance Co. Ltd. & Anr",
+  "court": "Supreme Court of India",
+  "judge_or_bench": "Surinder Singh Nijjar and M.Y. Eqbal, JJ.",
+  "date": "2013-07-01",
+  "year": 2013,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["S. Iyyapan (owner of Mahindra van)"],
+    "respondents": ["M/S United India Insurance Company Ltd.", "deceased's wife"],
+    "claimants": ["wife of deceased Charles"],
+    "insurer": ["United India Insurance Company Ltd."],
+    "owner_or_driver": ["S. Iyyapan (owner)", "Sivananayaitha Perumal (driver)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.146",
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.149",
+    "Motor Vehicles Act, 1988 s.149(2)(a)(ii)"
+  ],
+  "core_facts": [
+    "On 23.05.1998 at about 8.30 PM, deceased Charles was riding his bicycle when driver Sivananayaitha Perumal drove a Mahindra van at high speed and dashed against Charles, causing his death",
+    "Driver held a valid LMV (light motor vehicle) driving licence but had no specific endorsement for driving the Mahindra van as a commercial vehicle (taxi)",
+    "The vehicle was being used as a taxi (commercial vehicle) at the time of accident",
+    "Claims Tribunal awarded Rs.2,42,400/- with interest; the insurer challenged the award before the High Court",
+    "High Court exonerated the insurer, holding that the driver was not duly licensed to drive a commercial vehicle as he lacked an endorsement for driving commercial vehicles",
+    "Owner S. Iyyapan appealed to the Supreme Court against the High Court judgment"
+  ],
+  "legal_issues": [
+    "Whether an insurance company can disown its liability to pay compensation to a third party on the ground that although the driver held a valid LMV driving licence, there was no endorsement in the licence for driving the light motor vehicle when used as a commercial vehicle (taxi)",
+    "Whether a Mahindra Maxi Cab is a 'light motor vehicle' requiring only an LMV licence or a 'commercial vehicle' requiring a separate endorsement"
+  ],
+  "issue_tags": [
+    "driving_license_validity",
+    "license_breach_defence",
+    "insurance_liability",
+    "third_party_liability",
+    "commercial_vehicle_use",
+    "section_166"
+  ],
+  "vehicle_tags": ["taxi", "commercial_vehicle"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "Appeal allowed. Impugned judgment of the High Court set aside. Insurer held liable to pay the compensation so awarded to the dependants of the victim of the fatal accident.",
+  "key_holdings": [
+    "A Mahindra Maxi Cab is a light motor vehicle; a driver holding a valid LMV licence is entitled to drive it without needing a separate endorsement for use as a commercial vehicle.",
+    "An insurer cannot disown its third-party liability on the ground that although the driver held a valid LMV licence, there was no endorsement to drive the LMV when used as a commercial vehicle.",
+    "The statutory right of a third party to recover compensation from the insurer cannot be defeated merely by absence of a commercial vehicle endorsement when the vehicle qualifies as a light motor vehicle.",
+    "Chapter XI of the Motor Vehicles Act, 1988 mandates compulsory third-party insurance to ensure that victims of accidents can get compensation; this purpose is defeated if insurers can avoid liability on technical licensing grounds."
+  ],
+  "key_passages": [
+    {
+      "label": "legislative intent / third party insurance",
+      "quote": "The heading \"Insurance of Motor Vehicles against Third Party Risks\" given in Chapter XI of the Motor Vehicles Act, 1988 (Chapter VIII of 1939 Act) itself shows the intention of the legislature to make third party insurance compulsory and to ensure that the victims of accident arising out of use of motor vehicles would be able to get compensation for the death or injuries suffered.",
+      "page": 11
+    },
+    {
+      "label": "license_breach_defence / insurer cannot disown",
+      "quote": "the insurer cannot disown its liability on the ground that although the driver was holding a licence to drive a light motor vehicle but before driving light motor vehicle used as commercial vehicle, no endorsement to drive commercial vehicle was obtained in the driving licence. In any case, it is the statutory right of a third party to recover the amount of compensation so awarded from the insurer.",
+      "page": 12
+    },
+    {
+      "label": "driving_license_validity / LMV licence sufficient",
+      "quote": "admittedly the driver was holding a valid driving licence to drive light motor vehicle. There is no dispute that the motor vehicle in question, by which accident took place, was Mahindra Maxi Cab. Merely because the driver did not get any endorsement in the driving licence to drive Mahindra Maxi Cab, which is a light motor vehicle, the High Court has committed grave error of law in holding that the insurer is not liable to pay compensation because the driver was not holding the licence to drive the commercial vehicle.",
+      "page": 12
+    },
+    {
+      "label": "outcome / holding",
+      "quote": "We, therefore, allow this appeal, set aside the impugned judgment of the High Court and hold that the insurer is liable to pay the compensation so awarded to the dependants of the victim of the fatal accident.",
+      "page": 12
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The Supreme Court considered whether an insurance company could avoid its statutory third-party liability to pay compensation to a motor accident victim on the ground that the driver of the offending vehicle held a valid light motor vehicle (LMV) licence but had no specific endorsement for driving the vehicle when used as a commercial vehicle (taxi/Mahindra Maxi Cab). The deceased, Charles, was killed on 23 May 1998 when the driver of a Mahindra van drove at high speed and hit his bicycle. The Claims Tribunal awarded Rs.2,42,400/- with interest. The High Court exonerated the insurer, holding that a driver using a vehicle as a commercial taxi without a commercial vehicle endorsement was not duly licensed. The Supreme Court reversed this, holding that the Mahindra Maxi Cab was a light motor vehicle and a driver holding a valid LMV licence was duly authorised to drive it. No separate commercial vehicle endorsement was required when the vehicle qualifies as an LMV. The Court reiterated that Chapter XI of the Motor Vehicles Act mandates compulsory third-party insurance specifically to ensure victims receive compensation, and the insurer could not disown its statutory liability on technical licensing grounds. The insurer was held fully liable to pay the award; recovery from the insured remains available in the event of an actual policy breach.",
+  "confidence": "high"
+}

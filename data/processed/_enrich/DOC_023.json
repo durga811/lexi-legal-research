@@ -1,0 +1,85 @@
+{
+  "doc_id": "DOC_023",
+  "case_title": "Suman Lata And Ors. vs Madan Mohan Sonkar And Ors.",
+  "court": "High Court of Judicature at Allahabad",
+  "judge_or_bench": "U.K. Dhaon, J.",
+  "date": "2005-11-17",
+  "year": 2005,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["New India Assurance Company Ltd. (F.A.F.O. No. 510 of 2001)", "Suman Lata and others (F.A.F.O. No. 509 of 2001)"],
+    "respondents": ["Madan Mohan Sonkar (owner)", "New India Assurance Company Ltd.", "Suman Lata and others"],
+    "claimants": ["Suman Lata (widow)", "children of Dr. Kamlesh Kumar", "father of Dr. Kamlesh Kumar"],
+    "insurer": ["New India Assurance Company Ltd."],
+    "owner_or_driver": ["Madan Mohan Sonkar (owner)", "Gaya Prasad (driver)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.163-A",
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.168",
+    "Motor Vehicles Act, 1988 s.170",
+    "Motor Vehicles Act, 1988 s.173",
+    "Motor Vehicles Act, 1988 s.149"
+  ],
+  "core_facts": [
+    "Dr. Kamlesh Kumar, an Eye Surgeon aged 43 years, was killed on 12 August 1996 when a jeep bearing No. P.42-A 0174 hit his scooter No. U.P. 42/1395 from behind near Ayodhya",
+    "The jeep was owned by Madan Mohan Sonkar and insured with New India Assurance Company Ltd.; the driver Gaya Prasad held a valid driving licence",
+    "MACT-II Additional District Judge, Faizabad awarded Rs. 16,09,000 with 9% p.a. interest by judgment dated 7 August 2001",
+    "The insurer filed F.A.F.O. No. 510/2001 challenging the award amount; the claimants filed F.A.F.O. No. 509/2001 seeking enhancement",
+    "Monthly salary of deceased at the time of death was Rs. 9,776 (old scale) revised to Rs. 12,593 (5th Pay Commission scale) from 01.01.1996",
+    "Tribunal applied multiplier of 10 instead of the correct multiplier of 12 for age 43"
+  ],
+  "legal_issues": [
+    "Whether the insurer can challenge the quantum of compensation without permission under Section 170 of the MV Act",
+    "Whether contributory negligence on the part of the deceased was established",
+    "Whether the Tribunal applied the correct multiplier and correctly computed compensation",
+    "Whether the rate of interest of 9% per annum was excessive"
+  ],
+  "issue_tags": [
+    "contributory_negligence",
+    "compensation_quantum",
+    "multiplier",
+    "income_determination",
+    "future_prospects",
+    "insurance_liability",
+    "interest_on_compensation",
+    "section_166"
+  ],
+  "vehicle_tags": ["jeep", "scooter"],
+  "stance_tags": ["claimant_supporting", "insurer_supporting", "mixed"],
+  "outcome": "Both appeals disposed of with a modification: the rate of interest was reduced from 9% to 7.5% per annum. The award amount of Rs. 16,09,000 was confirmed. The share of minors was directed to be deposited in a nationalised bank in fixed deposits till majority.",
+  "key_holdings": [
+    "When the jeep hit the deceased's scooter from behind, findings of rash and negligent driving negate any case of contributory negligence; no separate finding on contributory negligence is necessary where the facts are self-speaking.",
+    "An insurer who has no valid defence under Section 149(2) has no right to challenge quantum of compensation without permission under Section 170 of the MV Act.",
+    "Where the Tribunal's formula under Susamma Thomas leads to the same figure as would result from the correct multiplier applied to revised salary, there is no ground for interference.",
+    "Interest on compensation may be reduced to 7.5% per annum having regard to prevailing bank rates."
+  ],
+  "key_passages": [
+    {
+      "label": "contributory_negligence",
+      "quote": "when there are the findings in unambiguous and clear terms that the deceased was hit by the jeep from behind, then no question of contributory negligence on the part of the deceased arises and the things being obvious, apparent and self-speaking, there was no question of any contributory negligence on the part of the deceased.",
+      "page": 3
+    },
+    {
+      "label": "insurance_liability_section_170",
+      "quote": "the Assurance Company cannot challenge the quantum of compensation without having permission under Section 170 of the Act.",
+      "page": 7
+    },
+    {
+      "label": "just_compensation",
+      "quote": "the compensation awarded must be just, fair and reasonable.",
+      "page": 4
+    },
+    {
+      "label": "interest_on_compensation",
+      "quote": "we are of the view that the interest should be reduced to 7.5% per annum.",
+      "page": 8
+    }
+  ],
+  "adverse_value": "Insurer cannot challenge quantum without Section 170 permission — cuts both ways but limits insurer's appeal rights.",
+  "summary": "Two First Appeals arose from the same MACT award of Rs. 16,09,000 with 9% interest, passed by MACT-II Additional District Judge, Faizabad, for the death of Dr. Kamlesh Kumar (Eye Surgeon, aged 43) who was knocked down by a jeep from behind while riding his scooter in Ayodhya on 12 August 1996. The insurer (New India Assurance Co. Ltd.) appealed challenging the quantum, while the claimants (widow, minor children and father) appealed for enhancement. The High Court rejected the insurer's contributory-negligence argument because the undisputed finding was that the jeep struck the scooter from behind, making any question of the deceased's negligence self-evidently untenable. The insurer's challenge to the multiplier (10 instead of 12) was also rejected on the ground that the overall compensation figure was correct when the Tribunal's formula was read as a whole — and in any case the insurer had no standing to challenge quantum without Section 170 permission. The claimants' enhancement appeal was dismissed because the compensated amount would not materially change even if the revised pay scale and future prospects were considered. The sole modification was a reduction of the interest rate from 9% to 7.5% p.a. to align with prevailing bank rates.",
+  "confidence": "high"
+}

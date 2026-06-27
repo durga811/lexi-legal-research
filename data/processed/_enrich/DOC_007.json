@@ -1,0 +1,71 @@
+{
+  "doc_id": "DOC_007",
+  "case_title": "National Insurance Co. Ltd. vs Harpreet Singh and Others",
+  "court": "High Court of Jammu and Kashmir at Jammu",
+  "judge_or_bench": "Hon'ble Mr. Justice Janak Raj Kotwal",
+  "date": "2014-02-03",
+  "year": 2014,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["National Insurance Co. Ltd."],
+    "respondents": ["Harpreet Singh", "Harbaksh Singh", "Inderjit Singh Bali"],
+    "claimants": ["Harpreet Singh (son)", "Harbaksh Singh (son)"],
+    "insurer": ["National Insurance Co. Ltd."],
+    "owner_or_driver": ["Inderjit Singh Bali (owner and driver of car JK02D-9212)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.140"
+  ],
+  "core_facts": [
+    "On 29.09.2007, deceased Amarjeet Singh was travelling from Kishtwar to Jammu in a car (JK02D-9212) owned and driven by Inderjit Singh Bali; the car met with an accident near Thathri, plunged into a trench, and Amarjeet Singh died.",
+    "The deceased was a Government servant serving as Manager QC in the Food Corporation of India with a monthly salary of Rs. 24,149/-; he was aged 54 years at the time of death.",
+    "Claimants Harpreet Singh (son, employed as clerk in Doordarshan, Central Government service) and Harbaksh Singh (son, MBA student) filed claim under Section 166 MV Act.",
+    "Motor Accident Claims Tribunal, Jammu awarded Rs. 17,53,800/- treating family strength as 3 (deceased + 2 sons) with 1/3 deduction for personal expenses, multiplier 9.",
+    "Insurer challenged: Harpreet Singh being gainfully employed in Central Government service is not dependent on the deceased and should not be counted for loss of dependency; only Harbaksh Singh (MBA student) qualifies as a dependent."
+  ],
+  "legal_issues": [
+    "Whether a legal representative of the deceased who is gainfully employed and not financially dependent on the deceased at the time of death is entitled to compensation under the head 'loss of dependency'",
+    "Whether the family strength for calculating 'loss of dependency' should include non-dependent claimants",
+    "Correct application of multiplier method under Sarla Verma for income, deduction for personal expenses, and selection of multiplier"
+  ],
+  "issue_tags": [
+    "loss_of_dependency",
+    "compensation_quantum",
+    "compensation_reduction",
+    "income_determination",
+    "multiplier",
+    "section_166"
+  ],
+  "vehicle_tags": ["car"],
+  "stance_tags": ["insurer_supporting", "adverse_to_claimant"],
+  "outcome": "Appeal allowed in part. Claimant Harpreet Singh, being gainfully employed as a clerk in Doordarshan (Central Government service) and not dependent on the deceased at the time of death, is not entitled to compensation under the head 'loss of dependency'; he is entitled only to compensation for loss to estate and the statutory minimum under Section 140. Family strength recalculated as 2 (deceased + Harbaksh Singh only); 50% deduction for personal expenses; no addition for future prospects (deceased above 50 years); income tax of Rs. 15,000/- deducted from gross income. Multiplier 9 (correctly scaled down from applicable 11). Compensation under loss of dependency: Rs. 12,36,600/-, plus Rs. 15,000/- funeral expenses. Total Rs. 12,51,600/- (reduced from Rs. 17,53,800/-).",
+  "key_holdings": [
+    "A legal representative of a motor accident victim who was not financially dependent on the deceased at the time of death is not entitled to compensation under the head 'loss of dependency'; such a claimant is entitled only to compensation for loss to estate and the statutory minimum under Section 140 of the Motor Vehicles Act.",
+    "For calculating 'loss of dependency', only financially dependent claimants are counted to determine family strength and the applicable personal expense deduction; non-dependent legal representatives are excluded from this computation.",
+    "Where the deceased was above 50 years of age at the time of death, no addition to income on account of future prospects is warranted under Sarla Verma."
+  ],
+  "key_passages": [
+    {
+      "label": "loss_of_dependency",
+      "quote": "a legal representative of a victim of a motor accident, who was not dependent upon the deceased, though can lay a claim for compensation, he is not entitled to compensation under the head 'loss of dependency'. He would be entitled to compensation for loss to estate as well as the statutory compensation under section 140 of the Act.",
+      "page": 6
+    },
+    {
+      "label": "compensation_reduction",
+      "quote": "Claimant-Harpreet Singh, though a legal representative of the deceased and thereby entitled to lay the claim for compensation, is not entitled to get compensation under the head 'loss of dependency' for the reason that he is gainfully employed in Central Government service and was not dependent upon the deceased .",
+      "page": 7
+    },
+    {
+      "label": "income_determination",
+      "quote": "learned Tribunal, therefore, cannot be said to have erred in taking total salary of the deceased as Rs. 24,149/ because nothing except income tax paid on the total salary is deductible, while ascertaining the contribution of the deceased towards his dependents.",
+      "page": 3
+    }
+  ],
+  "adverse_value": "Directly adverse to claimants: the court reduced total compensation from Rs. 17,53,800/- to Rs. 12,51,600/- by excluding a gainfully employed son (Central Government employee) from the 'loss of dependency' computation and reducing the family strength. Insurers can cite this to challenge compensation where one or more claimants are independently earning and not actually dependent on the deceased.",
+  "summary": "National Insurance Company appealed against the Motor Accident Claims Tribunal, Jammu's award of Rs. 17,53,800/- for the death of Amarjeet Singh (54-year-old FCI Manager, salary Rs. 24,149/- per month) who died in a road accident on 29.09.2007. The insurer challenged the treatment of both sons as dependants when Harpreet Singh was admittedly employed as a clerk in Doordarshan (Central Government service). The High Court of Jammu and Kashmir allowed the appeal in part. Relying on Sarla Verma v. Delhi Transport Corporation, U.P. State Road Transport Corporation v. Trilok Chandra, and Smt. Manjuri Bera v. Oriental Insurance Company, the court held that only financially dependent legal representatives are entitled to compensation under 'loss of dependency'. Harpreet Singh, being gainfully employed in Central Government service, was excluded from this head and entitled only to loss to estate and the statutory minimum under Section 140. Family strength was recalculated as 2 (deceased + Harbaksh Singh), with 50% deduction for personal expenses; income tax of Rs. 15,000/- deducted; no future prospects addition (deceased above 50 years); multiplier correctly reduced to 9. Total compensation reduced to Rs. 12,51,600/-.",
+  "confidence": "high"
+}

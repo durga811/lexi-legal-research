@@ -1,0 +1,73 @@
+{
+  "doc_id": "DOC_044",
+  "case_title": "Monnet Ispat & Energy Ltd vs C.C.E., Raipur",
+  "court": "Customs Excise & Service Tax Appellate Tribunal, New Delhi",
+  "judge_or_bench": "Rakesh Kumar, Member (Technical)",
+  "date": "2009-12-22",
+  "year": 2009,
+  "legal_area": "tax_excise",
+  "is_motor_accident": false,
+  "procedural_stage": "appeal",
+  "document_type": "order",
+  "parties": {
+    "appellants": ["Monnet Ispat & Energy Ltd"],
+    "respondents": ["C.C.E., Raipur"],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Cenvat Credit Rules, 2004 Rule 15",
+    "Central Excise Tariff Act, Chapter 72"
+  ],
+  "core_facts": [
+    "Monnet Ispat manufactured sponge iron and other iron and steel products chargeable to central excise duty under Chapter 72 and availed Cenvat credit under Cenvat Credit Rules, 2004",
+    "Department issued show cause notice dated 3.11.2006 seeking to deny service tax credit of Rs. 4,36,650 and impose penalty under Rule 15 of Cenvat Credit Rules",
+    "Assistant Commissioner allowed credit of Rs. 3,98,142 but disallowed Rs. 38,510 for five categories of services including marine inland transit insurance, money insurance, personnel accident insurance, follow-up installation services, and telephone services at GM residence and guest house",
+    "Commissioner (Appeals) vide order dated 9.10.2007 upheld the Assistant Commissioner's order in full",
+    "Appellant contended that the disallowed services fall within the definition of 'input service' under the Cenvat Credit Rules and that transit insurance for capital goods is covered when inward transportation is expressly covered"
+  ],
+  "legal_issues": [
+    "Whether marine inland transit insurance for captive power plant machinery during inward transport qualifies as an input service eligible for Cenvat credit",
+    "Whether insurance of money in transit from factory to bank qualifies as an input service",
+    "Whether follow-up services for installation of captive power plant qualify as business auxiliary input services",
+    "Whether accident insurance for contract workers (for whom the principal employer has vicarious liability under the Factory Act) qualifies as an input service",
+    "Whether telephone services installed at the General Manager's residence and company guest house qualify as input services"
+  ],
+  "issue_tags": ["excise_duty", "other"],
+  "vehicle_tags": [],
+  "stance_tags": ["mixed"],
+  "outcome": "Appeal partly allowed. Cenvat credit held eligible for marine inland transit insurance, money insurance in transit, follow-up installation services for captive power plant, and accident insurance for factory personnel including contract workers. Credit denied and penalty upheld for telephone services at GM's residence and company guest house.",
+  "key_holdings": [
+    "When inward transportation of capital goods is specifically covered by the definition of input service, transit insurance during inward transport of those capital goods is also covered",
+    "Insurance of money in transit from factory to bank is part of the business activity and is covered by the definition of input service",
+    "Follow-up services for installation of captive power plant are business auxiliary services eligible for Cenvat credit as they relate to setting up or modernisation",
+    "Accident insurance for contract workers engaged in the factory is eligible where the principal employer has vicarious liability under the Factory Act",
+    "Telephone services at the GM's residence and guest house are not eligible as no nexus with manufacturing activity was demonstrated"
+  ],
+  "key_passages": [
+    {
+      "label": "transit_insurance_holding",
+      "quote": "When inward transportation of input or capital goods is specifically covered by the definition of input services, the insurance during inward of the transport of capital goods would also be covered.",
+      "page": 3
+    },
+    {
+      "label": "money_in_transit_holding",
+      "quote": "I therefore, hold that service of insurance of money in transit is covered by the definition of Input Service.",
+      "page": 3
+    },
+    {
+      "label": "personnel_insurance_holding",
+      "quote": "I hold that appellants are eligible for Cenvat credit of service tax on the insurance premium for the insurance of the personnel working in the factory.",
+      "page": 4
+    },
+    {
+      "label": "outcome_order",
+      "quote": "the rest of the order upholding the cenvat credit demand by denying cenvat credit in respect of marine inland transit insurance, money insurance for money in transit from bank to factory to & fro, follow up services in connection with installation of plant & machinery of captive power plant and insurance of personnel working in the factory for accident or loss and upholding the penalty on the Appellant, is set aside.",
+      "page": 4
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This excise appeal before CESTAT was filed by Monnet Ispat & Energy Ltd. against denial of Cenvat credit under the Cenvat Credit Rules, 2004 for five categories of services. The Assistant Commissioner and Commissioner (Appeals) had disallowed credit of Rs. 38,510 for: marine inland transit insurance for captive power plant machinery transported from BHEL's premises to the appellant's factory; money insurance for cash in transit between factory and bank; follow-up services for installation of the captive power plant; accident insurance for personnel including contract workers; and telephone services at the General Manager's residence and company guest house. The Tribunal held that transit insurance for capital goods is covered by the definition of input service since inward transportation is expressly included. Money-in-transit insurance was held to be a normal prudent business activity covered as input service. Follow-up installation services qualified as business auxiliary services for setting up. Accident insurance for contract workers was held eligible on account of the principal employer's vicarious liability under the Factory Act. However, telephone services at non-factory premises with no demonstrated nexus to manufacturing were rightly denied. The appeal was accordingly allowed in part and the penalty qua the denied credit upheld.",
+  "confidence": "high"
+}

@@ -1,0 +1,82 @@
+{
+  "doc_id": "DOC_050",
+  "case_title": "M/S. Mandvi Co-Op Bank Ltd. vs Nimesh B. Thakore",
+  "court": "Supreme Court of India",
+  "judge_or_bench": "Hon'ble Mr. Justice Aftab Alam, Hon'ble Mr. Justice Tarun Chatterjee",
+  "date": "2010-01-11",
+  "year": 2010,
+  "legal_area": "banking_finance",
+  "is_motor_accident": false,
+  "procedural_stage": "criminal_appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["M/S. Mandvi Co-Op Bank Ltd.", "Various accused persons (SLP Nos. 4760, 5689/2006; 1106, 6442, 6443, 6703/2007)"],
+    "respondents": ["Nimesh B. Thakore", "Various complainants"],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Negotiable Instruments Act, 1881 s.138",
+    "Negotiable Instruments Act, 1881 s.141",
+    "Negotiable Instruments Act, 1881 s.143",
+    "Negotiable Instruments Act, 1881 s.145(1)",
+    "Negotiable Instruments Act, 1881 s.145(2)",
+    "Negotiable Instruments Act, 1881 s.147",
+    "Negotiable Instruments (Amendment and Miscellaneous Provisions) Act, 2002",
+    "Code of Criminal Procedure, 1973 s.296",
+    "Indian Evidence Act, 1872 s.137",
+    "Indian Evidence Act, 1872 s.165"
+  ],
+  "core_facts": [
+    "Mandvi Co-Op Bank Ltd. and other complainants had filed complaints under s.138 NI Act for dishonoured cheques",
+    "Multiple writ petitions and s.482 CrPC applications were filed before the Gujarat High Court by accused and complainants raising procedural questions about s.145 NI Act",
+    "High Court framed two questions: (A) scope of accused's right under s.145(2) to call witness for examination, and (B) retrospective applicability of s.145 to pending cases",
+    "High Court also held that accused could give evidence on affidavit analogously to the complainant under s.145(1)",
+    "Seven appeals arose before the Supreme Court from the High Court judgment"
+  ],
+  "legal_issues": [
+    "Whether the accused's right under s.145(2) to summon a witness is limited to cross-examination or extends to a fresh examination-in-chief",
+    "Whether s.143 to s.147 inserted by the 2002 Amendment Act operate retrospectively to pending cases",
+    "Whether the accused can give evidence on affidavit like the complainant under s.145(1)"
+  ],
+  "issue_tags": [
+    "dishonour_of_cheque",
+    "evidence_appreciation",
+    "maintainability",
+    "criminal_liability"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["neutral"],
+  "outcome": "Appeal from SLP (Crl.) No. 3915/2006 (by the bank against giving accused the right to tender affidavit evidence) allowed; High Court direction permitting accused to give evidence on affidavit set aside. Remaining six appeals by accused dismissed. Accused's right under s.145(2) is limited to cross-examination; provisions are procedural and retrospective.",
+  "key_holdings": [
+    "When summoned on the application of the accused under s.145(2), the witness's affidavit already on record constitutes examination-in-chief; the accused is limited to cross-examination of the deponent.",
+    "Sections 143 to 147 inserted by the 2002 Amendment are procedural, not substantive, and apply retrospectively to cases pending on the date they came into force (February 6, 2003).",
+    "Section 145(1) confers the right to give evidence on affidavit only on the complainant; the High Court erred in reading into the statute a similar right for the accused; courts cannot add words to a statute."
+  ],
+  "key_passages": [
+    {
+      "label": "scheme_of_sections_143_to_147",
+      "quote": "sections 143 to 147 were inserted in the Act by the Negotiable Instruments (Amendment and Miscellaneous Provisions) Act, 2002 to do away with all the stages and processes in a regular criminal trial that normally cause inordinate delay in its conclusion",
+      "page": null
+    },
+    {
+      "label": "accused_right_limited_to_cross_examination",
+      "quote": "on being summoned on the application made by the accused the deponent of the affidavit (the complainant or any of his witnesses) can only be subjected to cross-examination as to the facts stated in the affidavit.",
+      "page": null
+    },
+    {
+      "label": "retrospective_application",
+      "quote": "the provisions of sections 143 to 147 do not take away any substantive rights of the accused. Those provisions are not substantive but procedural in nature and would, therefore, undoubtedly, apply to the cases that were pending on the date the provisions came into force.",
+      "page": null
+    },
+    {
+      "label": "holding_accused_cannot_give_affidavit_evidence",
+      "quote": "we have no hesitation in holding that the High Court was in error in taking the view, that on a request made by the accused the magistrate may allow him to tender his evidence on affidavit",
+      "page": null
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The Supreme Court of India considered seven appeals arising from a Gujarat High Court judgment that addressed the procedure for dishonoured cheque trials under Section 145 of the Negotiable Instruments Act, 1881, as amended by the Negotiable Instruments (Amendment and Miscellaneous Provisions) Act, 2002. The Court resolved three issues. First, whether a person summoned under Section 145(2) at the instance of the accused must depose in examination-in-chief before cross-examination. The Court held that the affidavit already on record constitutes examination-in-chief and the accused is limited to cross-examination only. Second, whether Sections 143 to 147 apply retrospectively to cases pending on February 6, 2003, the date of insertion. The Court affirmed these provisions are procedural and therefore retrospective. Third, whether the accused can give evidence on affidavit like the complainant. The Court reversed the High Court, holding that Section 145(1) expressly confers this right only on the complainant, and courts cannot read in words not present in a statute even if the omission appears inadvertent. The judgment emphasises the legislative scheme of Sections 143 to 147 as a special code for expeditious disposal of cheque dishonour cases, cautioning against procedural interpretations that would convert efficiency measures into tools for delay. The appeal by the bank was allowed; the six appeals by accused persons were dismissed.",
+  "confidence": "high"
+}

@@ -1,0 +1,83 @@
+{
+  "doc_id": "DOC_031",
+  "case_title": "National Insurance Co. Ltd vs Laxmi Narain Dhut",
+  "court": "Supreme Court of India",
+  "judge_or_bench": "Dr. Arijit Pasayat and S.H. Kapadia, JJ.",
+  "date": "2007-03-02",
+  "year": 2007,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["National Insurance Co. Ltd."],
+    "respondents": ["Laxmi Narain Dhut", "others"],
+    "claimants": [],
+    "insurer": ["National Insurance Co. Ltd."],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.149",
+    "Motor Vehicles Act, 1988 s.149(2)",
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.168",
+    "Motor Vehicles Act, 1988 s.173",
+    "Motor Vehicles Act, 1988 s.15"
+  ],
+  "core_facts": [
+    "Civil Appeal No. 1140 of 2007 and connected appeals by National Insurance Co. Ltd. challenging High Court and Consumer Forum decisions",
+    "Multiple High Courts and the National Consumer Disputes Redressal Commission had applied the Swaran Singh ratio to own-damage claims (first-party insurance disputes) — not third-party claims",
+    "In several cases, insurer's defence of fake driving licence was not accepted on the basis that Swaran Singh's liberal approach applies to all motor accident cases",
+    "Some cases involved fake licences that had subsequently been renewed, with forums holding the renewal cured the defect",
+    "Appellants argued that Swaran Singh applies only to third-party risk cases under section 149, not to own-damage or consumer disputes"
+  ],
+  "legal_issues": [
+    "Whether the decision in National Insurance Co. Ltd. v. Swaran Singh (2004) 3 SCC 297 has application to cases other than third-party risk claims under section 149 of the Motor Vehicles Act, 1988",
+    "Whether a fake driving licence that has subsequently been renewed becomes valid so as to bind the insurer under an own-damage policy",
+    "Whether purposive interpretation applicable to third-party claims under section 149 extends to own-damage cases"
+  ],
+  "issue_tags": [
+    "fake_license",
+    "driving_license_validity",
+    "license_breach_defence",
+    "insurance_liability",
+    "third_party_liability",
+    "pay_and_recover",
+    "policy_breach"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["insurer_supporting", "adverse_to_claimant"],
+  "outcome": "All appeals allowed. High Courts and Consumer Commissions directed to reconsider matters afresh in light of the principles laid down: Swaran Singh applies only to third-party risk; fake licence renewal cannot cure the defect; purposive interpretation does not apply to section 149 cases.",
+  "key_holdings": [
+    "The decision in National Insurance Co. Ltd. v. Swaran Singh has no application to cases other than third-party risks under section 149 of the Motor Vehicles Act, 1988.",
+    "Where originally the licence was a fake one, renewal cannot cure the inherent fatality; a fake licence cannot be transformed into a genuine one by any subsequent renewal.",
+    "In cases of third-party risks the insurer must indemnify the amount and may, if so advised, recover the same from the insured.",
+    "The concept of purposive interpretation has no application to cases relatable to section 149 of the Act; the statute is beneficial only qua the third party, not the owner of the offending vehicle."
+  ],
+  "key_passages": [
+    {
+      "label": "third_party_liability / no contractual relation",
+      "quote": "there is no contractual relation between the insurance company and the third party. The liabilities and the obligations relatable to third parties are created only by fiction of Sections 147 and 149 of the Act.",
+      "page": 12
+    },
+    {
+      "label": "beneficial statute limited to third party",
+      "quote": "In the background of the statutory provisions, one thing is crystal clear i.e. the statute is beneficial one qua the third party. But that benefit cannot be extended to the owner of the offending vehicle.",
+      "page": 13
+    },
+    {
+      "label": "fake_license / renewal cannot cure",
+      "quote": "As a point of law we have no manner of doubt that a fake licence cannot get its forgery outfit stripped off merely on account of some officer renewing the same with or without knowing it to be forged. Section 15 of the Act only empowers any Licensing Authority to \"renew a driving licence issued under the provisions of this Act with effect from the date of its expiry\". No Licensing Authority has the power to renew a fake licence and, therefore, a renewal if at all made cannot transform a fake licence as genuine.",
+      "page": 19
+    },
+    {
+      "label": "outcome / four situations",
+      "quote": "In view of the above analysis the following situations emerge:\n1. The decision in Swaran Singh's case (supra) has no application to cases other than third party risks.\n2. Where originally the license was a fake one, renewal cannot cure the inherent fatality.\n3 In case of third party risks the insurer has to indemnify the amount and if so advised to recover the same from the insured.\n4. The concept of purposive interpretation has no application to cases relatable to Section 149 of the Act.",
+      "page": 20
+    }
+  ],
+  "adverse_value": "Limits the protective scope of Swaran Singh to third-party risk cases only; insurers can rely on this to resist paying own-damage claims where a driver held a fake licence. Also confirms that renewal of a fake licence does not validate it, a defence insurers can raise in both third-party and own-damage contexts.",
+  "summary": "Multiple civil appeals before the Supreme Court addressed a common question: whether the principles of National Insurance Co. Ltd. v. Swaran Singh (2004) 3 SCC 297, relating to third-party claims under section 149 of the Motor Vehicles Act, 1988, apply to own-damage claims and Consumer Forum matters. High Courts and the National Consumer Disputes Redressal Commission had extended Swaran Singh beyond third-party cases, holding insurers liable in own-damage contexts even where the driver had a fake licence or where the licence had been forged and subsequently renewed. The Supreme Court held categorically that Swaran Singh was rendered in the context of section 149, which governs only third-party risk, and has no application to own-damage cases or Consumer Forum disputes. The Court further held that a fake driving licence cannot be cured by any subsequent renewal, as no licensing authority has power to renew a fake licence and transform it into a genuine one. The distinction arises because section 149 creates a statutory fiction between third parties and insurers, while own-damage cases are pure contractual matters between insured and insurer where no such fiction operates. For third-party risks, the insurer must indemnify and may recover from the insured. Purposive interpretation applicable to third-party cases does not apply to own-damage cases under section 149. The High Courts and Commissions were directed to reconsider matters afresh in accordance with these principles.",
+  "confidence": "high"
+}

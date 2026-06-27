@@ -1,0 +1,96 @@
+{
+  "doc_id": "DOC_051",
+  "case_title": "Sh. Yashpal Chaudhrani & Ors. vs State (Govt. Of NCT Delhi) & Anr.",
+  "court": "High Court of Delhi at New Delhi",
+  "judge_or_bench": "Hon'ble Mr. Justice R.K. Gauba",
+  "date": "2019-04-22",
+  "year": 2019,
+  "legal_area": "criminal",
+  "is_motor_accident": false,
+  "procedural_stage": "other",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": [
+      "Sh. Yashpal Chaudhrani & Ors. (Crl.MC 5765/2018)",
+      "Akhil Arora & Ors. (Crl.MC 5768/2018)",
+      "Rajiv Arora & Ors. (Crl.MC 5785/2018)",
+      "Manish Jain & Ors. (Crl.MC 5805/2018)",
+      "Ashwani Kumar & Anr. (Crl.MC 5995/2018)"
+    ],
+    "respondents": [
+      "State (Govt. of NCT Delhi)",
+      "HDFC Bank Ltd. (R-2 in first four matters)",
+      "Complainant (R-2 in Crl.MC 5995/2018)"
+    ],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Code of Criminal Procedure, 1973 s.482",
+    "Code of Criminal Procedure, 1973 s.320",
+    "Code of Criminal Procedure, 1973 s.321",
+    "Indian Penal Code, 1860 s.420",
+    "Indian Penal Code, 1860 s.120-B",
+    "Indian Penal Code, 1860 s.409",
+    "Indian Penal Code, 1860 s.468",
+    "Indian Penal Code, 1860 s.471",
+    "Information Technology Act, 2000 s.66-A",
+    "Information Technology Act, 2000 s.67",
+    "Negotiable Instruments Act, 1881 s.138",
+    "Code of Civil Procedure, 1908 s.89"
+  ],
+  "core_facts": [
+    "Four FIRs (Nos.45, 47, 53, 54/2003) were registered against petitioners by Special Cell, Delhi Police for credit card cloning and fraud using skimmed data; charge-sheets filed in December 2003 and October 2004",
+    "A fifth case (FIR No.454/2013) arose from creation of fake social media IDs and obscene calls, charge-sheeted under IT Act s.66-A and s.67",
+    "All five cases had barely progressed in 10-15 years; charges were not formally framed in all cases",
+    "Credit card fraud accused negotiated a settlement of Rs.12 lakh with HDFC Bank through court-annexed mediation (Patiala House Courts) in 2018; IT Act case settled for Rs.2 lakh through Delhi HC Mediation Centre",
+    "Petitioners filed five Crl.MC petitions under s.482 CrPC seeking quashing of the FIRs and proceedings based on these settlements"
+  ],
+  "legal_issues": [
+    "Whether criminal proceedings for serious economic offences (credit card fraud) can be quashed under s.482 CrPC on the basis of private settlement through mediation",
+    "Whether criminal cases involving offences of mental depravity (IT Act obscenity) can be quashed on settlement",
+    "Whether courts may refer criminal cases to mediation without first assessing the quashability of the offences involved",
+    "What guidelines should govern courts and mediation centres when dealing with criminal cases involving non-compoundable or serious offences"
+  ],
+  "issue_tags": [
+    "criminal_liability",
+    "maintainability",
+    "evidence_appreciation",
+    "other"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["neutral"],
+  "outcome": "All five petitions under s.482 CrPC dismissed. Quashing of criminal proceedings in credit card fraud cases and IT Act obscene calls case refused. Comprehensive guidelines issued directing courts to assess quashability before referring criminal cases to mediation, and requiring mediators to undertake preliminary scrutiny of permissibility. Four fraud cases directed to be heard on day-to-day basis.",
+  "key_holdings": [
+    "Economic offences affecting the financial and economic well-being of the State and its banking institutions cannot be quashed on private settlement under s.482 CrPC, regardless of the complainant's willingness.",
+    "Offences involving mental depravity (such as obscene calls and IT Act violations) fall outside the category of cases quashable on settlement, especially where the court had previously declined to quash the same proceedings.",
+    "Before referring a criminal case to mediation, the court must first assess whether a settlement reached through such process could lawfully be acted upon to terminate the criminal proceedings.",
+    "Mediators must undertake a preliminary scrutiny of the criminal case to determine whether the settlement being facilitated is permissible in law before brokering any agreement."
+  ],
+  "key_passages": [
+    {
+      "label": "mediation_referral_must_assess_quashability",
+      "quote": "This Court is of the firm view that before making a reference to mediation in the context of criminal case, the court must consider as to whether a settlement reached by such effort would be acceptable for the criminal process to be brought to an end.",
+      "page": null
+    },
+    {
+      "label": "heinous_offences_not_quashable_on_settlement",
+      "quote": "Heinous and serious offences involving mental depravity or offences such as murder, rape and dacoity cannot appropriately be quashed though the victim or the family of the victim have settled the dispute. Such offences are, truly speaking, not private in nature but have a serious impact upon society.",
+      "page": null
+    },
+    {
+      "label": "economic_offences_exception",
+      "quote": "Economic offences involving the financial and economic well-being of the state have implications which lie beyond the domain of a mere dispute between private disputants.",
+      "page": null
+    },
+    {
+      "label": "outcome_all_petitions_dismissed",
+      "quote": "Thus, all the five petitions are liable to be dismissed. Ordered accordingly.",
+      "page": null
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The Delhi High Court consolidated five petitions under Section 482 CrPC seeking quashing of criminal cases on the basis of mediation settlements. Four petitions (Crl.MC 5765, 5768, 5785, 5805/2018) related to FIRs registered in 2003 against accused persons for credit card cloning and fraud using skimmed data, cases that had barely progressed in fifteen years. The fifth petition (Crl.MC 5995/2018) concerned FIR 454/2013 for creation of fake social media IDs and obscene calls under the IT Act. In each case, the accused had reached settlements through court-annexed mediation centres and sought quashing thereafter. The Court declined to quash any of the five proceedings. Reviewing the jurisprudence from Gian Singh, Narinder Singh, Parbatbhai Aahir and related cases, the Court held that economic offences involving credit card fraud affect the financial well-being of the State and public trust in banking; they are not private in nature and cannot be quashed on settlement. The obscene calls offence equally involves mental depravity and falls outside quashable categories. The Court issued comprehensive guidelines directing that before referring criminal cases to mediation, courts must assess whether the offences involved are quashable in law; mediators must conduct preliminary scrutiny before facilitating settlement; and vetting must occur before formal execution of any settlement. The four fraud cases were directed to proceed on day-to-day basis under monitoring of the Sessions Judge.",
+  "confidence": "high"
+}

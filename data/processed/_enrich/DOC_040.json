@@ -1,0 +1,66 @@
+{
+  "doc_id": "DOC_040",
+  "case_title": "A.V. Janaki Amma And Ors. vs Union Of India (Uoi) And Ors.",
+  "court": "High Court of Andhra Pradesh",
+  "judge_or_bench": "Justice V.V.S. Rao",
+  "date": "2003-10-23",
+  "year": 2003,
+  "legal_area": "other",
+  "is_motor_accident": false,
+  "procedural_stage": "writ",
+  "document_type": "order",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Union of India", "Col. M.N. Nath (Senior Advisor, Gynaecology, Military Hospital Secunderabad)", "Brig. S.V. Vatve (Commandant, Military Hospital Secunderabad)", "Director General of Armed Forces Medical Services"],
+    "claimants": ["A.V. Janaki Amma (mother-in-law)", "Minor daughter of Savithri", "Daughter of Savithri", "Major P. Gopalakrishna (husband)"],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": ["Constitution of India Art.21", "Constitution of India Art.226", "Consumer Protection Act, 1986"],
+  "core_facts": [
+    "Smt. Savithri, wife of Major P. Gopalakrishna (a Commissioned Officer in the Indian Army), died on 16.02.1997 after surgery at Military Hospital, Secunderabad.",
+    "A cystectomy surgery was performed on 26.11.1996 by Col. M.N. Nath (Obstetrician and Gynaecologist); a surgical mop was negligently left inside Savithri's abdomen during the operation.",
+    "Despite persistent post-operative symptoms including fever and wound discharge, Savithri was not referred to a specialist and was prematurely discharged.",
+    "On 01.01.1997, Savithri was taken to Apollo Hospital where exploratory laparotomy revealed the mop; she ultimately died on 16.02.1997 from septicemia and multi-organ failure.",
+    "A Court of Inquiry confirmed the negligence and recommended disciplinary action against Col. M.N. Nath and censure against Brig. S.V. Vatve; the findings were accepted by the General Officer Commanding."
+  ],
+  "legal_issues": [
+    "Whether respondent Nos. 2 and 3 (doctors at Military Hospital) were negligent in treating Savithri and whether Union of India and other respondents are vicariously liable.",
+    "Whether petitioners are entitled to compensation in public law remedy under Article 226 of the Constitution for violation of Savithri's fundamental right to life under Article 21."
+  ],
+  "issue_tags": ["evidence_appreciation", "vicarious_liability", "compensation_quantum", "other"],
+  "vehicle_tags": [],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "Writ petition allowed. Union of India directed to pay Rs. 3,00,000/- apportioned as Rs. 50,000/- each to petitioners 1 and 4, and Rs. 1,00,000/- each to petitioners 2 and 3. Medical expenses of Rs. 2,99,241/- at Apollo Hospital were separately reimbursed by the President of India. Petitioners given liberty to file civil suit, with any civil damages to be adjusted against the public law award.",
+  "key_holdings": [
+    "Principle of res ipsa loquitur applies where a surgical mop is left inside a patient's abdomen; the respondent doctors were grossly negligent.",
+    "When a fundamental right to life under Article 21 is violated by the negligence of a public authority's employees, the State is vicariously liable and compensation is awardable in public law under Article 226.",
+    "Public law compensation for violation of Article 21 is a palliative remedy in addition to private law tort remedies; it is based on strict liability and the defence of sovereign immunity is inapplicable.",
+    "The Court of Inquiry's findings of gross negligence, when produced before the court and accepted by the appropriate superior authority, constitute strong evidence of medical negligence."
+  ],
+  "key_passages": [
+    {
+      "label": "court_of_inquiry_finding",
+      "quote": "The wife of Major Gopalakrishna, Mrs. A.V. Savithri died due to the complications arising out of leaving a surgical mop in her abdomen during the surgery for ovarian cyst conducted at the Military Hospital, Secunderabad, on 26 November 1996.",
+      "page": 6
+    },
+    {
+      "label": "res_ipsa_loquitur_application",
+      "quote": "This Court, having gone through the detailed proceedings before the Court of Inquiry running into 114 pages, is of considered opinion, the principle of res ipso loquitor must be applied to the facts of this case.",
+      "page": 6
+    },
+    {
+      "label": "public_law_compensation_basis",
+      "quote": "It is no more res integra that for violation of fundamental right guaranteed under Article 21 of the Constitution of India, public authorities, officials and State are liable to pay compensation.",
+      "page": 10
+    },
+    {
+      "label": "compensation_order",
+      "quote": "this Court is of the considered opinion that a Mandamus should go to first respondent to pay an amount of Rs. 3,00,000/- (Rupees three lakhs only). I make it clear that this amount is not by way of punitive damages or is it towards pecuniary and non-pecuniary damages.",
+      "page": 36
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This writ petition (decided 23 October 2003 by the Andhra Pradesh High Court) arises from the death of Smt. Savithri, wife of Major P. Gopalakrishna, due to medical negligence at Military Hospital, Secunderabad. During surgery for an ovarian cyst on 26 November 1996, Col. M.N. Nath (Senior Advisor, Gynaecology) left a surgical mop inside Savithri's abdomen. Despite post-operative complications including persistent fever and wound discharge, she was not referred to a specialist and was prematurely discharged. When admitted to Apollo Hospital in January 1997, the mop was discovered; she died on 16 February 1997 from septicemia and multi-organ failure. A Court of Inquiry assembled in November 1997 confirmed gross negligence, attributing blame to Col. M.N. Nath for leaving the mop, concealing the information, and failing to take corrective measures, and to the Commandant for not investigating adequately. The court applied res ipsa loquitur and held the doctors grossly negligent. On the public law remedy, the court surveyed landmark decisions from Rudul Shah to D.K. Basu, holding that violation of Article 21 through State medical negligence attracts compensatory relief in writ jurisdiction. The Union of India was directed to pay Rs. 3,00,000/- apportioned among petitioners and was permitted to recover from the negligent doctors. Petitioners were also left free to pursue civil remedies, with any civil award to be adjusted.",
+  "confidence": "high"
+}

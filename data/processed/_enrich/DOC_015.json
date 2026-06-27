@@ -1,0 +1,79 @@
+{
+  "doc_id": "DOC_015",
+  "case_title": "State of H.P. vs. Krishan Lal",
+  "court": "High Court of Himachal Pradesh, Shimla",
+  "judge_or_bench": "Hon'ble Mr Justice Rakesh Kainthla",
+  "date": "2024-09-13",
+  "year": 2024,
+  "legal_area": "criminal",
+  "is_motor_accident": true,
+  "procedural_stage": "criminal_appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["State of H.P."],
+    "respondents": ["Krishan Lal"],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": ["Krishan Lal alias Babli (driver)"]
+  },
+  "statutes": [
+    "Indian Penal Code s.279",
+    "Indian Penal Code s.337",
+    "Indian Penal Code s.338",
+    "Indian Penal Code s.304-A",
+    "Motor Vehicles Act s.186"
+  ],
+  "core_facts": [
+    "On 30.08.2006 a vehicle bearing registration No. HP-01A-3243 driven by accused Krishan Lal alias Babli fell into a gorge at place Thachi due to alleged high speed and negligence.",
+    "Three persons (Yog Raj, Paras Ram and Besar Dutt) died on the spot; other occupants including Mohan Lal, Virender and Sanju sustained injuries.",
+    "The accused denied rash driving and claimed the accident occurred because the retaining wall (danga) on the road suddenly gave way.",
+    "Trial Court acquitted the accused under Sections 279, 337, 338 and 304-A IPC after finding the retaining wall collapse version plausible, supported by prosecution witnesses' own cross-examination admissions.",
+    "The State filed Cr. Appeal No. 189 of 2011 against the judgment of acquittal dated 31.07.2010."
+  ],
+  "legal_issues": [
+    "Whether the accused drove the vehicle rashly and negligently or whether the accident was caused by the collapse of a retaining wall.",
+    "Whether the principle of res ipsa loquitur applies to criminal trials and whether its application can substitute cogent evidence of rashness.",
+    "Whether the High Court should interfere with an order of acquittal where two views are possible from the evidence on record."
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "negligence_proof",
+    "evidence_appreciation",
+    "acquittal",
+    "fir_credibility"
+  ],
+  "vehicle_tags": ["private_vehicle"],
+  "stance_tags": ["neutral"],
+  "outcome": "Criminal appeal by State of H.P. dismissed. Acquittal of accused Krishan Lal upheld. High Court held the Trial Court's view was a plausible and reasonable view based on material on record, as prosecution witnesses admitted in cross-examination that the danga (retaining wall) on the road had collapsed, raising a reasonable alternative explanation. The accused was ordered released from custody.",
+  "key_holdings": [
+    "When two views are possible from evidence in a criminal case, the one in favour of the accused must be accepted; the prosecution must prove its case beyond reasonable doubt.",
+    "Use of the term 'high speed' by lay witnesses is legally insufficient to establish rashness or negligence without ascertaining what the witness understood by that expression.",
+    "A witness may not depose as to whether a driver was negligent; negligence is an inference to be drawn by the court from proven facts.",
+    "An appellate court will not interfere with an order of acquittal unless the Trial Court's view is perverse, illegal or affected by an error of law or fact."
+  ],
+  "key_passages": [
+    {
+      "label": "two_views_theory",
+      "quote": "The \"two-views theory\" has been judicially recognised by the courts and it comes into play when the appreciation of evidence results in two equally plausible views. However, the controversy is to be resolved in favour of the accused.",
+      "page": 5
+    },
+    {
+      "label": "res_ipsa_loquitur_criminal",
+      "quote": "in a criminal trial, the burden of proving everything essential to the establishment of the charge against the accused always rests on the prosecution, as every man is presumed to be innocent until the contrary is proved",
+      "page": 7
+    },
+    {
+      "label": "high_speed_insufficient",
+      "quote": "Merely because the truck was being driven at a \"high speed\" does not bespeak either \"negligence\" or \"rashness\" by itself. None of the witnesses examined by the prosecution could give any indication, even approximately as to what they meant by \"high speed\".",
+      "page": 18
+    },
+    {
+      "label": "outcome_acquittal_upheld",
+      "quote": "the learned Trial Court had taken a reasonable view which could have been taken based on the material placed before it and no interference is required with the same while deciding an appeal against the acquittal.",
+      "page": 21
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The State of Himachal Pradesh appealed against the acquittal of Krishan Lal alias Babli, who was charged under Sections 279, 337, 338 and 304-A IPC and Section 186 MV Act arising from a road accident on 30.08.2006 in which a vehicle fell into a gorge killing three persons and injuring others. The accused claimed the accident resulted from the sudden collapse of a retaining wall. The Trial Court acquitted him after prosecution witnesses themselves admitted in cross-examination that the 'danga' on the road gave way, the vehicle was not driven at high speed in rainy conditions, and the retaining wall had collapsed. The High Court, applying the parameters in Mallappa v. State of Karnataka, held that when two equally plausible views emerge from evidence the one favourable to the accused must be adopted. Witness statements that the accused was driving negligently were held inadmissible as expressions of opinion rather than depositions of fact. Bare reference to 'high speed' without any attempt to quantify or explain the term was held legally insufficient. The appeal was dismissed and the accused ordered released.",
+  "confidence": "high"
+}

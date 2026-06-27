@@ -1,0 +1,76 @@
+{
+  "doc_id": "DOC_048",
+  "case_title": "Azuga Inc & Anr vs Azuga Telematics LLC & Ors",
+  "court": "High Court of Delhi at New Delhi",
+  "judge_or_bench": "Justice Manmeet Pritam Singh Arora",
+  "date": "2025-09-26",
+  "year": 2025,
+  "legal_area": "trademark_ip",
+  "is_motor_accident": false,
+  "procedural_stage": "interlocutory_application",
+  "document_type": "order",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Azuga Telematics LLC (Defendant No. 1)", "Aman Kumar (Defendant No. 2)", "Senthil Kumar (Defendant No. 3)", "BigRock Solutions Ltd. (Defendant No. 4)"],
+    "claimants": ["Azuga Inc.", "Azuga Telematics Private Limited"],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Trade Marks Act, 1999 s.29(5)",
+    "Copyright Act, 1957 s.2(c)",
+    "Copyright Act, 1957 s.13(1)(a)",
+    "Code of Civil Procedure, 1908 Order XXXIX Rule 1",
+    "Code of Civil Procedure, 1908 Order XXXIX Rule 2",
+    "Commercial Courts Act, 2015",
+    "Bharatiya Sakshya Adhiniyam, 2023 s.63(4)(c)"
+  ],
+  "core_facts": [
+    "Plaintiff No. 1 Azuga Inc. is a California-based GPS fleet tracking and management company acquired by Bridgestone Americas Inc. in September 2021; Plaintiff No. 2 is its Indian engineering subsidiary based in Bangalore",
+    "Plaintiff No. 1 holds registered trademark 'AZUGA' in India (Registration No. 6422638) since at least 2012, as well as registrations in the US, Germany, Mexico and the EU",
+    "Defendant No. 1 Azuga Telematics LLC, founded in 2022 in Jamshedpur, provides identical GPS fleet tracking and management services using the name 'AZUGA TELEMATICS' and a similar logo",
+    "Defendant No. 3 (Senthil Kumar) is a former employee of Plaintiff No. 2; Defendant No. 2 (Aman Kumar) was listed as domain registrant but voluntarily appeared and denied active involvement with Defendant No. 1",
+    "Despite cease and desist notice in January 2023, Defendant No. 1 only altered its logo while continuing to use the full 'AZUGA' mark; defendants also copied plaintiff's website UI assets and product photographs on an 'as-is' basis",
+    "Pre-litigation mediation before Delhi High Court Legal Services Committee resulted in non-starter report dated 27.05.2025 as defendants failed to appear"
+  ],
+  "legal_issues": [
+    "Whether defendants' adoption of the trade name 'AZUGA TELEMATICS' incorporating the plaintiff's registered trademark 'AZUGA' for identical GPS fleet tracking services constitutes trademark infringement under Section 29(5) of the Trade Marks Act, 1999",
+    "Whether copying of website UI assets and product photographs constitutes copyright infringement under the Copyright Act, 1957",
+    "Whether ex-parte ad-interim injunction should be granted pending the suit"
+  ],
+  "issue_tags": ["trademark_infringement", "passing_off"],
+  "vehicle_tags": [],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "Ex-parte ad-interim injunction granted. Defendant Nos. 1 and 3 restrained from using the 'AZUGA' mark or any deceptively similar mark including the tradename 'AZUGA TELEMATICS' for GPS fleet tracking services, and from copying plaintiff's copyright-protected website images. Defendant No. 4 (BigRock) directed to lock and suspend Defendant No. 1's domain https://azugatelematicsllc.com/.",
+  "key_holdings": [
+    "Adoption of the name 'AZUGA' in identical services as that of the plaintiff's by defendants (including a former employee), prima facie appears mala fide",
+    "Defendants' use of a deceptively similar mark is likely to mislead the public into believing an association with the plaintiffs, causing confusion and diluting the distinctive character of the AZUGA brand",
+    "Defendants copying website images on an 'as-is' basis constitutes infringement of plaintiff's copyright in the product photographs",
+    "Prima facie case established; balance of convenience lies in plaintiff's favour and irreparable harm established"
+  ],
+  "key_passages": [
+    {
+      "label": "mala_fide_adoption",
+      "quote": "the Defendants adoption of the name 'AZUGA' in the identical services as that of the Plaintiffs, prima facie appears mala fide to the Court.",
+      "page": 6
+    },
+    {
+      "label": "confusion_and_dilution",
+      "quote": "Given the well-established recognition of the Plaintiffs' trademarks, Defendants use of a deceptively similar mark is likely to mislead the public into believing an association with the Plaintiffs, thereby causing confusion and diluting the distinctive character and identity of the Plaintiffs' AZUGA brand.",
+      "page": 6
+    },
+    {
+      "label": "prima_facie_case",
+      "quote": "In the view of the above, the Plaintiffs have made out a prima facie case for the grant of ad-interim injunction, balance of convenience lies in favour of the Plaintiffs and irreparable harm will be caused to the Plaintiffs, in case the restraint is not granted.",
+      "page": 6
+    },
+    {
+      "label": "injunction_direction",
+      "quote": "Defendant Nos. 1 and 3, their partners, if any, officers, servants, agents, distributors, stockists and representatives are restrained from importing, manufacturing, warehousing, selling and/or offering for sale, advertising, directly or indirectly dealing, in any manner in any product/services including GPS Fleet Tracking / Management related product/services bearing marks either identical or deceptively similar to the Plaintiffs' registered trademark 'AZUGA'",
+      "page": 7
+    }
+  ],
+  "adverse_value": "",
+  "summary": "California-based Azuga Inc. and its Indian subsidiary Azuga Telematics Private Limited (acquired by Bridgestone in 2021) filed this suit against Azuga Telematics LLC, a Jamshedpur-based GPS fleet management startup founded in 2022, for trademark infringement and copyright infringement. The plaintiff holds registered trademark 'AZUGA' in India since 2012 and reported global revenues of USD 83 million in 2024. The defendants, allegedly connected to former employees of the plaintiff, adopted the near-identical trade name 'AZUGA TELEMATICS' for identical GPS fleet tracking services and copied the plaintiff's website UI assets and product photographs on an 'as-is' basis. Despite cease and desist notices and an attempted pre-litigation mediation (which the defendants failed to attend), the infringement continued. Defendant No. 2 appeared voluntarily through video conferencing, denied active involvement with Defendant No. 1, and offered to cooperate. The Court, finding prima facie evidence of mala fide adoption of the mark, likelihood of confusion, and copyright infringement in the copied website images, granted an ex-parte ad-interim injunction restraining Defendant Nos. 1 and 3 from using the 'AZUGA' mark for GPS fleet tracking services and directed the domain registrar (BigRock) to lock and suspend the defendants' domain.",
+  "confidence": "high"
+}

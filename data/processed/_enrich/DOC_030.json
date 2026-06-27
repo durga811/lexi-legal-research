@@ -1,0 +1,83 @@
+{
+  "doc_id": "DOC_030",
+  "case_title": "Dadapeera S/O Abdul Salam Sab vs Mallesh M S/O Hanumanthappa",
+  "court": "High Court of Karnataka, Dharwad Bench",
+  "judge_or_bench": "Hon'ble Mr. Justice Hanchate Sanjeevkumar",
+  "date": "2025-01-15",
+  "year": 2025,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Dadapeera S/O Abdul Salam Sab (claimant)"],
+    "respondents": ["Mallesh M S/O Hanumanthappa (driver)", "Hussain Sab Bavaji (owner)", "National Insurance Co. Ltd."],
+    "claimants": ["Dadapeera S/O Abdul Salam Sab"],
+    "insurer": ["National Insurance Co. Ltd."],
+    "owner_or_driver": ["Hussain Sab Bavaji (owner)", "Mallesh M (driver)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.147(1)",
+    "Motor Vehicles Act, 1988 s.149",
+    "Motor Vehicles Act, 1988 s.149(2)",
+    "Motor Vehicles Act, 1988 s.173",
+    "Rules of Road Regulations, 1989 Rule 28"
+  ],
+  "core_facts": [
+    "Accident on 28.07.2011 during agricultural tilling operations at Kamalapura village",
+    "Claimant Dadapeera (20-year-old agricultural coolie) was sitting on mud-guard of tractor engine (tractor and trailer KA-35/T-9766) during field tilling",
+    "Driver Mallesh M drove the tractor rashly and negligently causing the tractor to turtle; claimant fell and sustained fracture of left femur and left leg",
+    "Claims Tribunal (MVC No.300/2013) awarded Rs.84,160/- with interest; held driver and owner liable; exonerated National Insurance Co. Ltd.",
+    "Claimant appealed for enhancement of compensation; insurer's exoneration was not challenged by claimant",
+    "Full Bench of Karnataka High Court in Gadhilingappa's case had already held person sitting on mud-guard of tractor is not covered under s.147(1) MV Act"
+  ],
+  "legal_issues": [
+    "Whether a person sitting on the mud-guard of a tractor engine during tilling operations is a 'third party' covered under statutory insurance under section 147(1) of the Motor Vehicles Act, 1988",
+    "Whether Rule 28 of Rules of Road Regulations, 1989 (prohibiting riding on non-designated part of vehicle) constitutes a defence under section 149(2) entitling insurer to avoid liability or enabling pay-and-recover",
+    "Whether compensation awarded by the Tribunal requires enhancement and on what heads"
+  ],
+  "issue_tags": [
+    "insurance_liability",
+    "third_party_liability",
+    "pay_and_recover",
+    "policy_breach",
+    "compensation_enhancement",
+    "compensation_quantum",
+    "income_determination",
+    "just_compensation"
+  ],
+  "vehicle_tags": ["tractor", "trailer"],
+  "stance_tags": ["insurer_supporting", "adverse_to_claimant"],
+  "outcome": "Appeal partly allowed. Compensation enhanced from Rs.84,160/- to Rs.2,33,680/- with interest at 6% per annum from date of petition till realisation. Insurance company's exoneration upheld. Only owner (Hussain Sab Bavaji) and driver (Mallesh M) are liable to pay the enhanced compensation.",
+  "key_holdings": [
+    "A person sitting on the mud-guard of a tractor is not required to be covered by statutory insurance under section 147(1) of the Motor Vehicles Act, 1988, as held by the Full Bench of the Karnataka High Court in Gadhilingappa's case.",
+    "The defence available to the Insurance Company is violation of Rule 28 of Rules of Road Regulations, 1989 (person sitting on mud-guard), which is not a defence under section 149(2) of the MV Act; therefore pay-and-recover order cannot be made.",
+    "Compensation under the heads of loss of income, pain and suffering, loss of amenities, medical expenses, and incidental charges was enhanced; notional income taken as Rs.6,000/- per month and functional disability at 8% (from 20% physical disability) with multiplier of 18."
+  ],
+  "key_passages": [
+    {
+      "label": "third_party_liability / mud-guard exclusion",
+      "quote": "we have no manner of doubt that a liability of a person working either on the ploughing or crushing machines attached to the tractor and who is travelling on the mud-guard of the tractor is not required to be covered by the statutory insurance as contemplated under sub-section (1) of Section 147 of the M.V.Act.",
+      "page": 8
+    },
+    {
+      "label": "insurance exoneration",
+      "quote": "the Insurance Company is not liable to indemnify the owner and the Insurance Company is liable to be exonerated for payment of compensation to the claimant.",
+      "page": 9
+    },
+    {
+      "label": "pay_and_recover / no power",
+      "quote": "defence available for the Insurance Company is violation of Regulation 28 of Rules of the Road Regulations, 1989, but not as stated under Sub- section (2) of Section 149 of Motor Vehicles Act. Therefore, order of pay and recovery cannot be made.",
+      "page": 18
+    },
+    {
+      "label": "outcome / compensation enhanced",
+      "quote": "The judgment and award dated 16.06.2014 passed in MVC No.300/2013 on the file of Member, Motor Accidents Claim Tribunal-II, Bellary, is hereby modified and the claimant is entitled for total compensation of Rs.2,33,680/- along with interest @ 6% p.a., from the date of petition till its realization",
+      "page": 23
+    }
+  ],
+  "adverse_value": "Holds that persons sitting on the mud-guard of a tractor are not covered by statutory insurance under section 147(1) MV Act, exonerating the insurer entirely. Also clarifies that violation of Rule 28 of Road Regulations is not a section 149(2) defence and therefore pay-and-recover cannot be ordered even in such breach cases.",
+  "summary": "A claimant-appellant aged 20 sustained fracture injuries to his left femur and left leg on 28 July 2011 while sitting on the mud-guard of a tractor engine during field tilling at Kamalapura village. The driver lost control, causing the tractor to turtle. The Claims Tribunal (MVC No.300/2013) awarded Rs.84,160/- but exonerated the insurer (National Insurance Co. Ltd.), holding only owner and driver liable. The Karnataka High Court upheld the insurance company's exoneration on the basis of a Full Bench ruling (Gadhilingappa's case) that persons sitting on the mud-guard of a tractor are not covered under section 147(1) of the Motor Vehicles Act, 1988. The court further held that while the claimant's presence on the mud-guard violated Rule 28 of the Rules of Road Regulations, 1989, this did not constitute a section 149(2) defence and therefore pay-and-recover order could not be made. On quantum, the court enhanced compensation significantly to Rs.2,33,680/-, taking notional income of Rs.6,000/- per month, functional disability of 8% from 20% physical disability, and multiplier of 18, plus adding amounts for pain and suffering, loss of amenities, incidental expenses, and medical expenses. The appeal was partly allowed: insurer exonerated, only owner and driver liable for the enhanced compensation.",
+  "confidence": "high"
+}

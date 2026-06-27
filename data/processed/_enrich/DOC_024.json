@@ -1,0 +1,83 @@
+{
+  "doc_id": "DOC_024",
+  "case_title": "Sunil Shreesail Killiket vs Mr. Subbaray and Bajaj Allianz General Insurance Co. Ltd.",
+  "court": "III Additional Judge and Motor Accident Claims Tribunal, Court of Small Causes, Bengaluru (SCCH-18)",
+  "judge_or_bench": "Lavanya H.N., III Addl. Judge & Member MACT",
+  "date": "2024-07-18",
+  "year": 2024,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "claim_petition",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Mr. Subbaray s/o Narsimhaiah (owner)", "Bajaj Allianz General Insurance Co. Ltd. (insurer)"],
+    "claimants": ["Sunil Shreesail Killiket (injured petitioner)"],
+    "insurer": ["Bajaj Allianz General Insurance Co. Ltd."],
+    "owner_or_driver": ["Mr. Subbaray (owner)", "Appu @ Bhagyodaya Shivapura (driver)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.149(2)",
+    "Indian Penal Code s.279",
+    "Indian Penal Code s.337",
+    "Indian Penal Code s.338"
+  ],
+  "core_facts": [
+    "On 09.01.2021 at about 5.30 p.m., petitioner Sunil Shreesail Killiket was a passenger in car No. KA-03-AC-5300 near MG Patel Hospital, Indi, Vijayapura when the driver Appu drove it rashly and negligently, causing the car to fall and rotate on the roadside",
+    "Petitioner sustained spinal cord injury (C7-T1), underwent surgery (laminectomy and C4-D2 fusion), and was left in wheelchair with 90% whole body disability and 100% functional disability",
+    "Medical expenses incurred of Rs. 14,85,260/-; petitioner was 25 years old at the time of accident",
+    "Insurer's defence: driver had no valid driving licence; vehicle used without valid permit and fitness certificate",
+    "Tribunal found the driver did not possess a driving licence; breach of fundamental condition proved by insurer",
+    "Insurer nonetheless directed to pay compensation to the third-party petitioner under the 'pay and recover' principle"
+  ],
+  "legal_issues": [
+    "Whether the accident was caused by rash and negligent driving of the driver of car KA-03-AC-5300",
+    "Whether petitioner is entitled to compensation and at what quantum",
+    "Whether insurer is absolved of liability due to driver having no driving licence, or whether pay and recover should be ordered"
+  ],
+  "issue_tags": [
+    "driving_license_validity",
+    "license_breach_defence",
+    "insurance_liability",
+    "pay_and_recover",
+    "third_party_liability",
+    "compensation_quantum",
+    "rash_negligent_driving",
+    "section_166"
+  ],
+  "vehicle_tags": ["car"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "Petition allowed in part. Total compensation of Rs. 87,49,500/- awarded against Respondent No. 1 (owner). Insurer directed to pay first under 'pay and recover' principle with liberty to recover from Respondent No. 1. Interest at 6% p.a. on Rs. 68,21,500/- from date of petition till realisation.",
+  "key_holdings": [
+    "A third party petitioner cannot be made to suffer due to the fault of the owner in allowing an unlicensed driver; the insurer must pay the compensation first and recover from the owner under the 'pay and recover' doctrine.",
+    "Where functional disability is 100%, future prospects at 40% must be added to notional income for computing loss of future earnings; multiplier of 18 applies for age 25.",
+    "Attendant charges are awarded using the multiplier method (Rs. 8,000/month x 12 x 18) for permanently disabled victims who require lifetime care.",
+    "Loss of marriage prospects is a compensable head for a victim with 90% whole body disability."
+  ],
+  "key_passages": [
+    {
+      "label": "pay_and_recover",
+      "quote": "But, on the said ground, the petitioner is third party, cannot be made to suffer due to fault of owner when the vehicle is covered with insurance at relevant point of time.",
+      "page": 17
+    },
+    {
+      "label": "driving_license_breach",
+      "quote": "riding/driving vehicle on public road without having driveling license it is not only an offense punishable under section 3(1) r/w 181 of MV Act but also fundamental and statutory breach of insurance policy. Hence, the respondent No.2 is not liable to indemnify the respondent No.1 for the loss suffered by him though there was insurance on the date of accident.",
+      "page": 16
+    },
+    {
+      "label": "compensation_quantum",
+      "quote": "In all, the petitioner is entitled for the compensation of Rs.87,49,260/- which is rounded to Rs.87,49,500/- (Rupees Eighty Seven Lakh Forty Nine Thousand & Five Hundred only).",
+      "page": 19
+    },
+    {
+      "label": "disability_finding",
+      "quote": "the petitioner was found to have sever spastic weakness, which amounts to disability of 90% to whole body. From this it could be said that petitioner unable to do any work including his day to day personal works such as attending nature call on his own without support of anyone.",
+      "page": 9
+    }
+  ],
+  "adverse_value": "Insurer proved breach of policy (no driving licence) and was found not liable to indemnify owner, but still directed to pay and recover; this case confirms that proving licence breach does not by itself exonerate the insurer from paying the third party.",
+  "summary": "Petitioner Sunil Shreesail Killiket (25 years) sustained catastrophic spinal cord injuries on 09.01.2021 when a car driven by an unlicensed driver overturned near Vijayapura, leaving him in a wheelchair with 90% whole body and 100% functional disability. He filed a claim under Section 166 of the MV Act against the vehicle owner and Bajaj Allianz General Insurance Co. Ltd. The Tribunal found rash and negligent driving proved. The insurer established that the driver had no valid driving licence, which constituted a fundamental breach of policy, and was held not liable to indemnify the owner. However, applying the 'pay and recover' principle (Pappu v. Vinod Kumar Lamba; Shamanna v. Oriental Insurance), the insurer was directed to pay the compensation first with liberty to recover from the owner. Compensation totalling Rs. 87,49,500/- was awarded, including Rs. 45,36,000 for future loss of income (notional income Rs. 15,000/month + 40% future prospects x multiplier 18 x 100% disability), Rs. 14,85,260 medical expenses, Rs. 17,28,000 attendant charges, Rs. 3,00,000 loss of marriage prospects, and other heads. Interest awarded at 6% p.a. on the principal sum (excluding attendant charges and future medical expenses).",
+  "confidence": "high"
+}

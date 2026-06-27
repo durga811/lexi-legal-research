@@ -1,0 +1,82 @@
+{
+  "doc_id": "DOC_046",
+  "case_title": "Ajay Alias Vishal Veeru Devgan vs The Artists Planet & Ors",
+  "court": "High Court of Delhi at New Delhi",
+  "judge_or_bench": "Justice Manmeet Pritam Singh Arora",
+  "date": "2025-11-27",
+  "year": 2025,
+  "legal_area": "trademark_ip",
+  "is_motor_accident": false,
+  "procedural_stage": "interlocutory_application",
+  "document_type": "order",
+  "parties": {
+    "appellants": [],
+    "respondents": ["The Artists Planet", "Good Hope", "Redbubble", "Amazon Seller Services Private Limited", "Meesho Technologies Private Limited", "@Dhananjay_Dhadk an_official (YouTube Channel)", "Google LLC", "Facebook pages (multiple defendants)", "Meta Platforms, Inc", "X Corp.", "Endurance Digital Technology Private Limited", "MeiTY", "DoT", "John Does/Defendant No. 17"],
+    "claimants": ["Ajay Alias Vishal Veeru Devgan"],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Trade Marks Act, 1999",
+    "Copyright Act, 1957 s.38",
+    "Copyright Act, 1957 s.38A",
+    "Copyright Act, 1957 s.38B",
+    "Constitution of India, Article 19",
+    "Constitution of India, Article 21",
+    "Code of Civil Procedure, 1908 Order XXXIX Rule 1",
+    "Code of Civil Procedure, 1908 Order XXXIX Rule 2",
+    "Information Technology Act, 2000",
+    "Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",
+    "Commercial Courts Act, 2015 s.12A"
+  ],
+  "core_facts": [
+    "Plaintiff Ajay Devgn is an acclaimed Bollywood actor with a career spanning over four decades, recipient of multiple National Film Awards and the Padma Shri",
+    "Plaintiff holds registered trademarks for his name 'Ajay Devgn'/'Ajay Devgan'/'Ajay Veeru Devgn' and variations under various classes, and has personality rights over his name, voice, likeness and image",
+    "Identified infringing defendants include: a website offering fake appearance/performance bookings, sellers of unauthorized merchandise, a YouTube channel creating deepfake content, Facebook pages posting AI-generated images in unsavoury scenarios, and pornographic websites posting face-morphed content",
+    "Defendant No. 7 (Google LLC/YouTube) impleaded on account of its 'Your content & third-party training' policy allowing creators to use videos for AI-model training, posing risk of propagating defamatory content",
+    "Defendants are using plaintiff's name, image and persona for commercial gain through unauthorized merchandise sales, deepfakes, AI-generated advertisements and pornographic content without plaintiff's consent",
+    "The Court noted that some infringing posts dated back to June 2025 and the plaintiff had not availed the IT Intermediary Rules grievance mechanism before approaching the court"
+  ],
+  "legal_issues": [
+    "Whether plaintiff's personality and publicity rights have been infringed by unauthorized use of his name, image, voice and likeness for commercial gain",
+    "Whether AI-generated deepfake content and face-morphed pornographic material violate the plaintiff's personality rights",
+    "Whether ex-parte ad-interim injunction should be granted against infringing defendants",
+    "Whether social media intermediaries must take down infringing content when uploaders fail to comply",
+    "Whether plaintiffs are required to first exhaust IT Intermediary Rules mechanism before seeking court-ordered takedowns"
+  ],
+  "issue_tags": ["trademark_infringement", "passing_off", "personality_rights"],
+  "vehicle_tags": [],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "Ex-parte ad-interim injunction granted against all identified infringing defendants. Directions issued to take down infringing content within 72 hours. Social media intermediaries (YouTube/Google, Meta, X) directed to act if uploaders fail to comply. ISPs directed via MeiTY/DoT to block infringing domains. Court issued prospective observation that plaintiffs bypassing IT Intermediary Rules mechanism for certain categories of posts may be denied ex-parte injunctions in future.",
+  "key_holdings": [
+    "Celebrity status grants the plaintiff proprietary rights over his personality and associated attributes including name, likeness, voice and image",
+    "Plaintiff's personality traits are protectable elements of personality rights and he is entitled to injunction against their use for commercial gain without authorisation",
+    "Plaintiff is prima facie entitled to protect himself against morphed and distorted AI-generated content that portrays him in a repugnant manner",
+    "Complainants who approach the court without first availing the statutory IT Intermediary Rules mechanism for certain categories of infringing content may be held not entitled to ex-parte ad-interim injunction"
+  ],
+  "key_passages": [
+    {
+      "label": "celebrity_status_finding",
+      "quote": "this Court is of the prima facie view that the Plaintiff is a well-known face in India who has gained immense goodwill and reputation over a course of a successful career and has acquired a celebrity status in India.",
+      "page": 8
+    },
+    {
+      "label": "personality_rights_holding",
+      "quote": "prima facie, the Plaintiff's personality traits and/or parts thereof, including the Plaintiff's name, likeness, voice, and image are protectable elements of the Plaintiff's personality rights. The Plaintiff is entitled to seek injunction against the use of his personality rights by third parties for selling merchandise for their commercial gains, without his authorisation.",
+      "page": 8
+    },
+    {
+      "label": "deepfake_protection",
+      "quote": "the Plaintiff is prima facie entitled to protect himself against morphed and distorted content created with the use of AI technology which portrays the Plaintiff in a repugnant manner, subjecting him to humiliation and ridicule.",
+      "page": 9
+    },
+    {
+      "label": "it_intermediary_rules_observation",
+      "quote": "if henceforth a complainant/plaintiff approaches the Court without availing the statutory mechanism provided under the IT Intermediary Rules, the said party may be held to be not entitled to an ex-parte ad-interim injunction, and the Court will direct the party to first avail its remedy under the aforesaid Rules.",
+      "page": 10
+    }
+  ],
+  "adverse_value": "",
+  "summary": "Bollywood actor Ajay Devgn filed this commercial suit (CS(COMM) 1269/2025) seeking permanent injunction and interim relief against 17 defendants infringing his personality, publicity, trademark, and copyright rights. The infringement took multiple forms: unauthorized merchandise bearing his name and image, deepfake videos, AI-generated pornographic content, impersonation on social media, and commercial exploitation of his persona without consent. The plaintiff holds registered trademarks for variations of his name and asserts personality rights under Articles 19 and 21 of the Constitution, moral rights under Sections 38-38B of the Copyright Act, and statutory trademark rights. The Court granted ex-parte ad-interim injunction against identified infringing defendants, directing takedown of infringing content within 72 hours, and ordered social media intermediaries (YouTube/Google, Meta/Facebook, X) to take action if uploaders failed to comply within the granted time. ISPs were directed via MeiTY and DoT to block infringing domains. The Court also issued a significant prospective observation that plaintiffs who bypass the IT Intermediary Rules grievance mechanism for certain categories of content before approaching the court risk being denied ex-parte ad-interim injunctions in future proceedings.",
+  "confidence": "high"
+}

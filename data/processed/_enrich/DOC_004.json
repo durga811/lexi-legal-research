@@ -1,0 +1,80 @@
+{
+  "doc_id": "DOC_004",
+  "case_title": "Oriental Insurance Company vs Soma Devi and Others",
+  "court": "High Court of Himachal Pradesh at Shimla",
+  "judge_or_bench": "Hon'ble Mr. Justice Anoop Chitkara",
+  "date": "2020-01-03",
+  "year": 2020,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Oriental Insurance Company"],
+    "respondents": ["Smt. Soma Devi", "Dev Raj (owner of car HP33B-2444)", "Jai Ram (driver)"],
+    "claimants": ["Smt. Soma Devi (mother of deceased Harish Kumar)"],
+    "insurer": ["Oriental Insurance Company"],
+    "owner_or_driver": ["Dev Raj (owner of car HP33B-2444)", "Jai Ram (driver of car)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.168"
+  ],
+  "core_facts": [
+    "On Jun 19, 2010, deceased Harish Kumar (aged 21 years, born Jan 21, 1989) was riding a motorcycle (HP34A-9526) when it collided with a car (HP33B-2444) driven by Jai Ram near Bhangrotu Bridge; both riders of the motorcycle fell and sustained injuries; Harish Kumar died while being transported to IGMC Hospital Shimla.",
+    "FIR No. 219 dated Jun 20, 2010 was registered by Jai Ram (driver of the car) at Police Station-Balh, District Mandi, HP, alleging rash and negligent driving by the deceased motorcycle rider.",
+    "The mother Soma Devi filed a Claim Petition under Section 166 of MV Act claiming Rs. 15 lacs; she alleged her son earned Rs. 10,000/- per month working in M/s Sidharth Communications.",
+    "Motor Accident Claims Tribunal (1), Mandi, HP, vide award dated Aug 31, 2012 awarded total compensation of Rs. 4,00,000/- fastening liability on Oriental Insurance Company, treating income as Rs. 3,500/- per month (unskilled worker).",
+    "Oriental Insurance Company challenged the award arguing the car's driver Jai Ram was not at fault and the FIR was against the deceased motorcycle rider."
+  ],
+  "legal_issues": [
+    "Whether the driver of the insured car was negligent or whether the accident was caused solely by the deceased motorcycle rider",
+    "Whether the FIR filed by the car driver and police investigation report against the deceased suffice to discharge the insurer's liability",
+    "Whether the court can enhance compensation beyond the claimed amount in the absence of cross-objections, to award just compensation"
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "negligence_proof",
+    "fir_credibility",
+    "insurance_liability",
+    "compensation_quantum",
+    "compensation_enhancement",
+    "future_prospects",
+    "income_determination",
+    "just_compensation",
+    "section_166"
+  ],
+  "vehicle_tags": ["motorcycle", "car"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "Appeal disposed of. Insurer's contention that the car's driver was not at fault was rejected; the FIR was found to be a one-sided version from the car driver, without independent investigation of the surviving occupant. Insurer's liability affirmed. Compensation enhanced from Rs. 4,00,000/- to Rs. 5,99,000/- by applying 40% future prospects on Rs. 3,500/- (self-employed, below 40 years per Pranay Sethi), 50% deduction for personal expenses (bachelor), multiplier 18 for age group 21-25 years (Sarla Verma), plus conventional heads: loss of estate Rs. 15,000/-, consortium Rs. 40,000/-, funeral expenses Rs. 15,000/-. Interest reduced from 7.5% to 6% p.a. from the date of filing of the petition.",
+  "key_holdings": [
+    "A FIR recording a one-sided version from the surviving car driver, without corroboration or investigation of other eyewitnesses, cannot be accepted as conclusive proof of negligence by the deceased motorcycle rider.",
+    "Under Order 41 Rule 33 CPC and Section 168 MV Act, courts may enhance compensation beyond the amount claimed or awarded even in the absence of cross-objections, where the award is manifestly unjust to a poor claimant.",
+    "For a self-employed bachelor below 40 years, 40% future prospects applies (Pranay Sethi), 50% is deducted for personal expenses, and multiplier 18 applies for age 21-25 years (Sarla Verma)."
+  ],
+  "key_passages": [
+    {
+      "label": "fir_credibility",
+      "quote": "What clinches the issue is the joint reply to the claim petition filed by the owner of the car and its driver. In response to paragraph No. 8, the respondent specifically pleaded that the accident took place due to rash and negligent driving of the driver of the motorcycle and hit his bike with the stationary car.",
+      "page": 4
+    },
+    {
+      "label": "insurance_liability",
+      "quote": "there is no illegality or infirmity in the award, and on the other hand, the same is well reasoned. This Court affirms the same, however, with the following modifications.",
+      "page": 4
+    },
+    {
+      "label": "just_compensation",
+      "quote": "the claimant had claimed an amount of Rs. 15 Lacs, whereas what she got was around one fourth of it.",
+      "page": 9
+    },
+    {
+      "label": "compensation_enhancement",
+      "quote": "Consequently, this Court modifies the compensation to the calculations mentioned in column no. 3 of paragraph 23.",
+      "page": 11
+    }
+  ],
+  "adverse_value": "",
+  "summary": "Oriental Insurance Company challenged the Motor Accident Claims Tribunal, Mandi's award of Rs. 4,00,000/- for the death of Harish Kumar (aged 21 years) in a road accident on Jun 19, 2010, in which his motorcycle collided with an insured car driven by Jai Ram. The FIR was registered against the deceased based on the car driver's version, and the police investigation concluded that the motorcycle was rash and negligent. The Himachal Pradesh High Court found the FIR to be a one-sided version from the surviving car driver; the joint reply filed by the car owner and driver in the claim petition contained an improvement over the FIR, undermining its credibility. The court affirmed liability on the insurer. Applying National Insurance Company Ltd. v. Pranay Sethi, the court calculated just compensation: 40% future prospects on Rs. 3,500/-, 50% personal expense deduction (bachelor), multiplier 18 for age 21, plus conventional heads as per Pranay Sethi. Total compensation was enhanced to Rs. 5,99,000/- with interest at 6% p.a. from the date of filing the petition.",
+  "confidence": "high"
+}

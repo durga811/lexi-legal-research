@@ -1,0 +1,85 @@
+{
+  "doc_id": "DOC_033",
+  "case_title": "Satto & Ors vs New India Assurance Co Ltd",
+  "court": "High Court of Delhi at New Delhi",
+  "judge_or_bench": "G.P. Mittal, J.",
+  "date": "2013-09-06",
+  "year": 2013,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Satto (mother of deceased Naresh Kumar son of Kashmira)", "Harpal Singh (father of deceased Naresh Kumar @ Setu)", "New India Assurance Co Ltd (in some appeals)"],
+    "respondents": ["New India Assurance Co Ltd", "Sunil Kumar (driver)", "Mohd. Qayum (owner)"],
+    "claimants": ["Satto & Ors", "Harpal Singh & Ors", "three injured persons"],
+    "insurer": ["New India Assurance Co Ltd"],
+    "owner_or_driver": ["Sunil Kumar (driver)", "Mohd. Qayum (owner)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.149",
+    "Motor Vehicles Act, 1988 s.149(2)",
+    "Motor Vehicles Act, 1988 s.149(2)(a)(ii)"
+  ],
+  "core_facts": [
+    "Accident on night of 11-12 September 2005 on Outer Ring Road, Delhi; Tempo No. UP-12K-5797 was travelling loaded with guava (fruit) when driver Sunil Kumar drove at high speed, causing the vehicle to overturn after a tyre burst",
+    "Five claim petitions: deaths of Naresh Kumar @ Setu (aged 18, son of Harpal Singh) and Naresh Kumar son of Kashmira (aged 21), plus injuries to three others",
+    "Insurance company proved that driver Sunil Kumar held only a Light Motor Vehicle (Non-Transport) licence and was driving a goods vehicle (commercial vehicle) — breach of policy conditions established",
+    "Insurance company did not challenge liability in three injury cases; challenged only in death cases (MAC APPs 138/2011, 143/2011, 744/2011)",
+    "Claims Tribunal had granted recovery rights to insurer and held insurer liable to pay despite proven breach; claimants appealed for enhancement of quantum",
+    "Key factual dispute: whether deceased were gratuitous passengers or owners/representatives of goods being transported"
+  ],
+  "legal_issues": [
+    "Whether the two deceased were travelling as gratuitous passengers or as owners/representatives of goods (guava) in the tempo, which determines their status as third parties covered under the MV Act",
+    "Whether the insurance company's statutory liability to satisfy a third-party award survives despite proven breach of policy condition (driver's licence breach)",
+    "Whether pay-and-recover direction is appropriate where insurer proves conscious breach of policy by the insured",
+    "Quantum of compensation: whether addition of 50% future prospects is permissible for self-employed or temporary workers"
+  ],
+  "issue_tags": [
+    "insurance_liability",
+    "pay_and_recover",
+    "third_party_liability",
+    "driving_license_validity",
+    "license_breach_defence",
+    "commercial_vehicle_use",
+    "compensation_quantum",
+    "compensation_enhancement",
+    "loss_of_dependency",
+    "future_prospects"
+  ],
+  "vehicle_tags": ["tempo", "goods_carriage", "commercial_vehicle"],
+  "stance_tags": ["claimant_supporting", "insurer_supporting", "mixed"],
+  "outcome": "MAC APPs 30/2012 and 138/2011 (Harpal Singh): compensation enhanced to Rs.4,38,000/-. MAC APPs 744/2011 and 143/2011 (Satto): compensation enhanced to Rs.3,75,000/-. Insurance company held liable to pay with recovery rights against owner (Mohd. Qayum) and driver (Sunil Kumar). No addition for future prospects as deceased were self-employed/temporary workers.",
+  "key_holdings": [
+    "Evidence established that the two deceased were travelling as owners/representatives of goods (guava) and not as gratuitous passengers; the insurance company could not avoid its liability to them as third parties.",
+    "The insurance company's statutory liability to satisfy a third-party award is not defeated by a proven breach of policy conditions; it must pay the compensation and can recover from the insured/tortfeasor.",
+    "No addition towards future prospects is permissible for self-employed or temporarily employed workers (following Reshma Kumari three-Judge Bench).",
+    "The owner and driver who did not appeal the recovery rights granted by the Tribunal remain bound by that finding."
+  ],
+  "key_passages": [
+    {
+      "label": "third_party_liability / owners of goods not gratuitous passengers",
+      "quote": "the Insurance Company cannot shy away from its liability to pay the compensation to the legal representatives of the two deceased as it is proved that the deceased Naresh Kumar @ Setu was travelling as owner of the goods whereas the deceased Naresh Kumar son of Kashmira was travelling as representative of the owner (Ajay Pal) of the goods.",
+      "page": 14
+    },
+    {
+      "label": "pay_and_recover / statutory liability survives breach",
+      "quote": "there is no manner of doubt that the liability of the Insurance Company to satisfy the award in the first instance is statutory; it is bound to satisfy the same and will be entitled to recover the amount of compensation paid from the driver and the owner Sunil Kumar and Mohd. Qayum (Respondents No.2 and 3 in MAC APPs.138/2011 and 143/2011) in execution of this very judgment without having recourse of independent civil proceedings.",
+      "page": 21
+    },
+    {
+      "label": "future_prospects / no addition for self-employed",
+      "quote": "Since the deceased was not in permanent or regular employment, he would not be entitled to any addition towards future prospects. The loss of dependency thus comes to ` 3,78,000/- (`4500/- x 1/2 x 12 x 14).",
+      "page": 25
+    },
+    {
+      "label": "outcome / compensation enhanced",
+      "quote": "The overall compensation thus comes to `4,38,000/-. The compensation stands enhanced from `4,24,000/- to `4,38,000/-. The enhanced compensation of `14,000/- shall carry interest @ 7.5% per annum as awarded by the Claims Tribunal.",
+      "page": 25
+    }
+  ],
+  "adverse_value": "Holds that no future prospects addition is permissible where the deceased was self-employed or in temporary employment (following Reshma Kumari). Insurers and defendants can cite this to restrict compensation in cases where the deceased was not in permanent salaried employment.",
+  "summary": "Four connected appeals arose from a tempo accident on the night of 11-12 September 2005 in Delhi when the driver lost control after a tyre burst, killing two passengers and injuring three others. The insurance company (New India Assurance Co. Ltd.) proved that the driver held only a Light Motor Vehicle (Non-Transport) licence but was driving a commercial goods vehicle — an established breach of policy conditions. The central issues were: (1) whether the two deceased were gratuitous passengers or owners of goods, and (2) whether the insurer remained liable despite proven breach. The Delhi High Court held that evidence proved both deceased were travelling as owners/representatives of goods (guava) and were not mere gratuitous passengers, so the insurer could not avoid liability on that ground. As regards the licence breach, the court confirmed that the insurance company's statutory obligation to pay third-party compensation survives a proven policy breach; the insurer pays and recovers from the owner/driver. On quantum, following Reshma Kumari (three-Judge Bench), no addition towards future prospects was permitted for self-employed or temporary workers. Compensation for Harpal Singh's son was enhanced to Rs.4,38,000/- and for Satto's son to Rs.3,75,000/-, with recovery rights preserved for the insurer against the owner and driver.",
+  "confidence": "high"
+}

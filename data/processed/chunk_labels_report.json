@@ -1,0 +1,23 @@
+{
+  "n_children": 3647,
+  "n_labeled": 3647,
+  "missing_meta": [],
+  "chunk_type_dist": {
+    "general": 1538,
+    "legal_principle": 631,
+    "holding": 327,
+    "procedural_history": 312,
+    "compensation_calculation": 278,
+    "driving_license_finding": 214,
+    "negligence_finding": 144,
+    "evidence": 105,
+    "final_order": 74,
+    "claimant_argument": 11,
+    "facts": 5,
+    "insurer_argument": 4,
+    "issues_framed": 4
+  },
+  "pct_with_issue_tag": 64.1,
+  "pct_with_vehicle_tag": 12.1,
+  "pct_with_stance_tag": 12.6
+}

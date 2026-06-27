@@ -1,0 +1,70 @@
+{
+  "doc_id": "DOC_049",
+  "case_title": "Intel Corporation vs S.P. Gupta and Others",
+  "court": "High Court of Delhi at New Delhi",
+  "judge_or_bench": "Justice Prathiba M. Singh",
+  "date": "2022-10-07",
+  "year": 2022,
+  "legal_area": "trademark_ip",
+  "is_motor_accident": false,
+  "procedural_stage": "suit",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": [],
+    "respondents": ["S.P. Gupta (deceased)", "Intel Gas Gadgets (P) Ltd.", "Intel Gas Guards (P) Ltd.", "Intel Safety Devices"],
+    "claimants": ["Intel Corporation"],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Trade Marks Act, 1999 s.2(zg)",
+    "Trade Marks Act, 1999"
+  ],
+  "core_facts": [
+    "Intel Corporation (USA, incorporated 1968) is the world's leading developer and manufacturer of microprocessors; it has used the mark 'INTEL' since inception and holds trademark registrations in India in Classes 9 and 18",
+    "In November 2005 the plaintiff discovered that defendant entities (Intel Gas Gadgets P. Ltd., Intel Gas Guards P. Ltd., and Intel Safety Devices), all promoted by S.P. Gupta, were using 'INTEL' as part of their trading names and domain name www.intelgasgadgets.com for LPG regulators, valves and accessories",
+    "Despite cease and desist letters in November 2005, December 2005 and March 2006, defendants did not respond, prompting the plaintiff to file suit in May 2006",
+    "No interim injunction was granted during the pendency of the suit; evidence was recorded and completed by April 2016",
+    "During pendency of the suit, the mark 'INTEL' was declared a well-known trademark by the Trade Marks Registry under Section 2(zg) of the Trade Marks Act, 1999",
+    "S.P. Gupta passed away during proceedings; his legal heirs (sons including Punit Gupta) informed the court through counsel that the three entities had ceased business and would not contest if plaintiff waived damages"
+  ],
+  "legal_issues": [
+    "Whether defendants' use of 'INTEL' as part of their corporate trading names, trademarks and domain name constitutes trademark infringement",
+    "Whether defendants are passing off their goods as those of the plaintiff",
+    "Whether the suit suffers from delay and laches"
+  ],
+  "issue_tags": ["trademark_infringement", "passing_off", "maintainability"],
+  "vehicle_tags": [],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "Suit decreed for permanent injunction in terms of prayers (i) and (ii) of the plaint. All other reliefs not pressed. Intel Gas Gadgets (P) Ltd. directed to change its name within three months. Decree sheet to be drawn accordingly.",
+  "key_holdings": [
+    "The mark 'INTEL' has been declared a well-known trademark within the meaning of Section 2(zg) of the Trade Marks Act, 1999 by the Trade Marks Registry",
+    "Use of the mark 'INTEL' as a trademark and/or part of trading style by the defendants constitutes infringement as also passing off the defendants' products as those of the plaintiff",
+    "Where the lis no longer exists between the parties and the defendants are willing to suffer permanent injunction, the suit can be decreed in terms of the prayer clause without proceeding to trial"
+  ],
+  "key_passages": [
+    {
+      "label": "well_known_trademark",
+      "quote": "during the pendency of the suit, the mark 'INTEL' has, in fact, been declared a well-known trademark within the meaning of Section 2(zg) of the Trade Marks Act, 1999 by the Trade Marks Registry in the well-known mark list published by the Registrar of Trademarks.",
+      "page": 4
+    },
+    {
+      "label": "infringement_and_passing_off",
+      "quote": "it is clear that the trademark 'INTEL' has been registered by the Plaintiff in several classes. The use of the mark 'INTEL' as a trademark and/or part of trading style would constitute infringement as also passing off the Defendants' products as that of the Plaintiff.",
+      "page": 5
+    },
+    {
+      "label": "lis_no_longer_exists",
+      "quote": "it is clear that the lis no longer exists between the parties and the Defendants are willing to suffer permanent injunction in terms of the prayer clause 37(i) & (ii) in the plaint for permanent injunction.",
+      "page": 5
+    },
+    {
+      "label": "decree",
+      "quote": "Under these circumstances, the suit of the Plaintiff is decreed in terms of the paragraph 37 (i) & (ii) of the plaint. All other reliefs are not pressed for.",
+      "page": 5
+    }
+  ],
+  "adverse_value": "",
+  "summary": "Intel Corporation (USA) filed this trademark infringement suit in 2006 against three Indian entities controlled by S.P. Gupta—Intel Gas Gadgets P. Ltd., Intel Gas Guards P. Ltd., and Intel Safety Devices—that used 'INTEL' as part of their corporate names, trademarks, and domain name for manufacturing and selling LPG regulators, adaptors, valves, and related accessories. Despite cease and desist notices from November 2005 onwards, the defendants did not respond. No interim injunction was granted during the prolonged proceedings. Evidence was recorded by April 2016. Notably, during the pendency of the suit, the Trade Marks Registry declared 'INTEL' a well-known trademark under Section 2(zg) of the Trade Marks Act, 1999. After S.P. Gupta's death, his legal heirs instructed counsel that the three entities had ceased business operations and were willing to suffer permanent injunction provided no damages were pursued. The plaintiff agreed not to press for damages or other reliefs. The Court noted that the lis had effectively ceased and decreed the suit for permanent injunction in terms of the prayer clauses. The registered company among the defendants was additionally directed to change its name within three months through the Registrar of Companies.",
+  "confidence": "high"
+}

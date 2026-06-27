@@ -1,0 +1,78 @@
+{
+  "doc_id": "DOC_022",
+  "case_title": "Sangeeta Devi W/O Sh. Vinod Kumar Singh vs Mahesh Chand & Ors",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "judge_or_bench": "Sh. G. N. Pandey",
+  "date": "2018-03-16",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "claim_petition",
+  "document_type": "award",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Mahesh Chand s/o Sh. Kishori Lal"],
+    "claimants": ["Sangeeta Devi (mother of deceased Shivam)"],
+    "insurer": [],
+    "owner_or_driver": ["Mahesh Chand (driver)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.158(6)",
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.163-A(3)"
+  ],
+  "core_facts": [
+    "Deceased child Shivam (aged approximately 10 years, born 2005) died on 14.01.2014 after being hit by motorcycle No. DL 3SBY5198 near Annpurna Mandir, Sonia Vihar, Delhi",
+    "The motorcycle was driven rashly and negligently at high speed by respondent Mahesh Chand",
+    "Shivam was taken to Jag Pravesh Chandra Hospital and then Lok Nayak Hospital where he died on the same day",
+    "Claimant is the mother of the deceased child",
+    "Respondent did not file a reply or lead evidence despite opportunities",
+    "No insurance company was made a party; liability fastened solely on respondent-driver"
+  ],
+  "legal_issues": [
+    "Whether the deceased died due to rash and negligent driving of vehicle No. DL 3SBY5198 by respondent",
+    "Whether claimant is entitled to compensation and on what quantum for death of a child"
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "negligence_proof",
+    "compensation_quantum",
+    "loss_of_dependency",
+    "multiplier",
+    "section_166",
+    "just_compensation"
+  ],
+  "vehicle_tags": ["motorcycle"],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "DAR petition allowed. Respondent directed to pay compensation of Rs. 5,74,000/- with interest at 9% p.a. from date of filing till realisation.",
+  "key_holdings": [
+    "Compensation for death of a child is computed using the notional income formula laid down by Delhi High Court in MAC Apps. No. 554/2010, with inflation correction using Cost Inflation Index from the base year 1997-98 and age-appropriate multiplier.",
+    "For a child aged up to 10 years the multiplier of 10 is applied and an equal amount is added as composite non-pecuniary damages.",
+    "Uncontested FIR and criminal record, coupled with absence of any defence evidence, is sufficient to prove rash and negligent driving on a preponderance of probability standard."
+  ],
+  "key_passages": [
+    {
+      "label": "negligence_proof",
+      "quote": "I have gone through the record and documents in respect of the accident caused to the petitioner which is prima facie suggestive of negligence of respondent in driving the vehicle at the time of accident.",
+      "page": 3
+    },
+    {
+      "label": "compensation_quantum_child",
+      "quote": "The inflation calculated notional income comes to Rs. 42,553/- (15,000/- x 939/331), rounded off Rs. 43,000/-. After deducting 1/3rd and applying the multiplier of 10, the pecuniary loss to estate is computed as ( Rs. 43,000/- x 1/3 x 10) Rs. 2,86,667/-.",
+      "page": 13
+    },
+    {
+      "label": "just_compensation_outcome",
+      "quote": "I accordingly award an amount of compensation of Rs. 5,73,334/- rounded to Rs. 5,74,000/- in favour of the Claimant and against Respondent.",
+      "page": 13
+    },
+    {
+      "label": "standard_of_proof",
+      "quote": "strict proof of any accident caused by a particular bus in a particular manner may not be possible to be done by the claimant. The claimants were merely to establish their case on the touchstone of preponderance of probability.",
+      "page": 3
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The claimant-mother Sangeeta Devi filed a DAR petition under Section 166 of the Motor Vehicles Act, 1988, claiming compensation for the death of her 10-year-old son Shivam, who was killed on 14.01.2014 near Annpurna Mandir, Sonia Vihar, Delhi. The deceased was hit by motorcycle No. DL 3SBY5198 driven rashly and negligently by respondent Mahesh Chand. The respondent neither filed a reply nor led evidence, and the criminal record along with the mother's testimony established negligence on a preponderance of probability. On the quantum, the Tribunal applied the formula prescribed by the Delhi High Court for deaths of children: the notional income of Rs. 15,000 p.a. (Second Schedule) was inflation-corrected using the Cost Inflation Index for 2013-14 (CII 939 against base 331), yielding a notional income of Rs. 43,000 p.a. After one-third deduction for personal expenses and applying a multiplier of 10 (appropriate for age group up to 10 years), the pecuniary loss to estate was Rs. 2,86,667. An equal amount was added as composite non-pecuniary damages, yielding total compensation of Rs. 5,74,000. Interest was awarded at 9% p.a. from the date of filing. The award was made solely against the respondent-driver.",
+  "confidence": "high"
+}

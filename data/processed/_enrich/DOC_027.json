@@ -1,0 +1,90 @@
+{
+  "doc_id": "DOC_027",
+  "case_title": "The Manager, New India Assurance Co. Ltd. vs Chennamma and others",
+  "court": "High Court of Judicature at Madras",
+  "judge_or_bench": "Hon'ble Mrs. Justice R. Banumathi and Hon'ble Mr. Justice R. Subbiah",
+  "date": "2013-10-22",
+  "year": 2013,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["The Manager, New India Assurance Co. Ltd., Chennai"],
+    "respondents": ["Chennamma (R1)", "Minor Kumar (R2)", "Minor Sujitha (R3)", "Ramulamma (R4)", "M/s. Ravi Bricks Pvt. Ltd. (R5 — owner of lorry)"],
+    "claimants": ["Chennamma (widow)", "Minor Kumar (son)", "Minor Sujitha (daughter)", "Ramulamma (mother of deceased)"],
+    "insurer": ["New India Assurance Co. Ltd."],
+    "owner_or_driver": ["M/s. Ravi Bricks Pvt. Ltd. (owner)", "unidentified driver of lorry TN-20 Z 3024"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.2(16)",
+    "Motor Vehicles Act, 1988 s.2(21)",
+    "Motor Vehicles Act, 1988 s.2(47)",
+    "Motor Vehicles Act, 1988 s.10",
+    "Motor Vehicles Act, 1988 s.41(4)",
+    "Motor Vehicles Act, 1988 s.146",
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.149(2)(a)(ii)",
+    "Motor Vehicles Act, 1988 s.163-A",
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.173"
+  ],
+  "core_facts": [
+    "On 5.10.2002 at 1.45 p.m., deceased Venkata Kondaiya (aged 38 years, Rivetter Grade II at Chennai Port Trust, earning Rs. 10,395/month) was riding his Hero Honda motorcycle TN-22 Y 1596 on Chennai-Minjur Road near Pungambedu bus stand when lorry TN-20 Z 3024 (belonging to 5th Respondent M/s Ravi Bricks Pvt. Ltd.) driven rashly in the opposite direction dashed against the motorcycle; deceased succumbed at Stanley Government Hospital",
+    "Claimants (widow, minor children, mother) filed claim petition claiming Rs. 30,00,000/-; MACT, Tiruvallur awarded Rs. 12,89,500/- with pay and recover order against insurer",
+    "Insurer's defence: driver held only LMV (light motor vehicle) licence; the lorry was a 'heavy goods vehicle' (GVW 16,200 kg); driver lacked valid licence to drive HGV",
+    "Registration Certificate (Ex.P8) confirmed lorry as 'Heavy Goods Vehicle' with GVW 16,200 kg exceeding the 12,000 kg threshold in Section 2(16)",
+    "Driver's history sheet (Ex.R1) showed licence for 'light motor vehicle' with an endorsement to drive 'transport vehicle' but no separate endorsement for 'heavy goods vehicle'",
+    "Owner remained ex parte before the Tribunal"
+  ],
+  "legal_issues": [
+    "Whether the lorry TN-20 Z 3024 is a 'heavy goods vehicle' within Section 2(16) of the MV Act",
+    "Whether a driver holding an LMV licence with 'transport vehicle' endorsement had valid driving licence to drive a heavy goods vehicle",
+    "Whether the insurer's defence of invalid driving licence justifies exoneration or only pay and recover",
+    "Whether quantum of compensation awarded by the Tribunal is just and reasonable"
+  ],
+  "issue_tags": [
+    "driving_license_validity",
+    "license_breach_defence",
+    "insurance_liability",
+    "pay_and_recover",
+    "third_party_liability",
+    "compensation_quantum",
+    "loss_of_dependency",
+    "section_166"
+  ],
+  "vehicle_tags": ["lorry", "truck", "goods_carriage", "commercial_vehicle", "motorcycle"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "Appeal dismissed. Tribunal's award of Rs. 12,89,500/- confirmed. Insurer directed to pay and recover from 5th Respondent (owner M/s Ravi Bricks Pvt. Ltd.) as per the mode stated in Nanjappan's case. 4th Claimant (Ramulamma) having died, her share to be apportioned equally among remaining claimants.",
+  "key_holdings": [
+    "For a goods vehicle the gross vehicle weight (not unladen weight) determines vehicle classification; a lorry with GVW of 16,200 kg is a 'heavy goods vehicle' under Section 2(16) of the MV Act.",
+    "An endorsement to drive 'transport vehicle' on an LMV licence does not authorise driving a 'heavy goods vehicle'; a separate endorsement is required for HGV.",
+    "When the driver of a vehicle did not have a valid driving licence to drive that category of vehicle, this constitutes a breach of Section 149(2)(a)(ii); however, as a third-party claim this does not exonerate the insurer — a 'pay and recover' order is appropriate.",
+    "In third-party risks cases the insurer has to indemnify the claimant and recover from the insured; the insurer cannot disown liability merely because the driver held a licence for a different category of vehicle."
+  ],
+  "key_passages": [
+    {
+      "label": "heavy_goods_vehicle_classification",
+      "quote": "since the gross vehicle weight of the lorry involved is 16,200 kilograms, we are of the view that the vehicle/lorry involved in the accident is only a \"heavy goods vehicle\".",
+      "page": 8
+    },
+    {
+      "label": "license_endorsement_insufficient",
+      "quote": "endorsement to drive 'transport vehicle' would not amount to valid licence to drive 'heavy goods vehicle'.",
+      "page": 10
+    },
+    {
+      "label": "pay_and_recover_third_party",
+      "quote": "the Hon'ble Supreme Court has consistently held that in case of Third Party risks the insurer has to indemnify the amount and if so directed, to recover the same from the insured.",
+      "page": 19
+    },
+    {
+      "label": "quantum_confirmed",
+      "quote": "The total compensation of Rs.12,89,500/- awarded by the Tribunal is just and reasonable and the same is confirmed. Appellant-Insurance Company is directed to pay the said compensation of Rs.12,89,500/- along with interest at the rate of 7.5% per annum from the date of Claim Petition till the date of realisation to the Claimants and recover the same from the 5th Respondent, owner of the vehicle.",
+      "page": 20
+    }
+  ],
+  "adverse_value": "Confirms that insurer who proves LMV-only-licence breach for a HGV still cannot be exonerated from paying third-party claimants; only pay and recover is available. Insurer-friendly on the substantive licence-breach finding but adverse on the remedy.",
+  "summary": "The widow, minor children and mother of Venkata Kondaiya (Rivetter at Chennai Port Trust, aged 38) challenged a MACT award which directed the insurer (New India Assurance Co. Ltd.) to pay Rs. 12,89,500/- and recover from the lorry owner (M/s Ravi Bricks Pvt. Ltd.) after the lorry TN-20 Z 3024 fatally knocked down the deceased's motorcycle on 5.10.2002. The insurer appealed arguing the driver had only an LMV licence with a 'transport vehicle' endorsement and lacked a specific HGV licence, so it should be fully absolved. The Madras High Court undertook a detailed analysis of Sections 2(16), 2(21) and 2(47) of the MV Act and the Central Government's vehicle-classification notifications. It held that the lorry with a gross vehicle weight of 16,200 kg was unambiguously a 'heavy goods vehicle', and that a 'transport vehicle' endorsement on an LMV licence does not extend to driving an HGV. The breach under Section 149(2)(a)(ii) was thus proved. However, following the consistent Supreme Court position (Swaran Singh, Iyyappan, Laxmi Narain Dhut), the court held that in third-party risk cases the insurer must indemnify first and recover from the insured. The quantum (Rs. 12,89,500/-) and interest (7.5% p.a.) were confirmed unchanged. The appeal was dismissed.",
+  "confidence": "high"
+}

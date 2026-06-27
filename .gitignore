@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+!.env.example
+
+# Source + normalized PDFs are NOT needed by the hosted app (it uses data/processed/ +
+# Pinecone); only offline re-ingestion needs them. Processed JSONL artifacts ARE tracked.
+data/raw/
+raw-docs/
+
+# Backups / scratch
+*.bak
+
+# Internal planning + the assessment brief (not part of the deliverable)
+goal/

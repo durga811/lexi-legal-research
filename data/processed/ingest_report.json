@@ -1,0 +1,752 @@
+{
+  "n_docs": 56,
+  "n_parents": 717,
+  "n_children": 3647,
+  "n_children_clamped": 3,
+  "child_token_dist": {
+    "min": 1,
+    "max": 469,
+    "mean": 313.2,
+    "p95": 416
+  },
+  "parent_token_dist": {
+    "min": 1,
+    "max": 3328,
+    "mean": 1202.8,
+    "p95": 1605
+  },
+  "child_overlap_count": 2931,
+  "fallback_docs": [],
+  "validation_passed": true,
+  "failures": [],
+  "per_doc": [
+    {
+      "doc_id": "DOC_001",
+      "pages": 16,
+      "char_len": 48606,
+      "parser_used": "pymupdf",
+      "n_parents": 12,
+      "n_children": 57,
+      "max_child_tokens": 444,
+      "source_hint": {
+        "footer_title": "United India Insurance Company Ltd vs Neelam Devi And Others",
+        "footer_line": "United India Insurance Company Ltd vs Neelam Devi And Others on 6 November, 2023"
+      }
+    },
+    {
+      "doc_id": "DOC_002",
+      "pages": 4,
+      "char_len": 8833,
+      "parser_used": "pymupdf",
+      "n_parents": 3,
+      "n_children": 11,
+      "max_child_tokens": 409,
+      "source_hint": {
+        "footer_title": "Liyakat Ali vs Smt Chunni Devi",
+        "footer_line": "Liyakat Ali vs Smt Chunni Devi on 16 July, 2010"
+      }
+    },
+    {
+      "doc_id": "DOC_003",
+      "pages": 8,
+      "char_len": 19257,
+      "parser_used": "pymupdf",
+      "n_parents": 5,
+      "n_children": 24,
+      "max_child_tokens": 412,
+      "source_hint": {
+        "footer_title": "United India Insurance Co Ltd., vs Smt Parvathi Hebbar W/O Late ...",
+        "footer_line": "United India Insurance Co Ltd., vs Smt Parvathi Hebbar W/O Late ... on 20 June, 2017"
+      }
+    },
+    {
+      "doc_id": "DOC_004",
+      "pages": 12,
+      "char_len": 24564,
+      "parser_used": "pymupdf",
+      "n_parents": 6,
+      "n_children": 28,
+      "max_child_tokens": 386,
+      "source_hint": {
+        "footer_title": "Oriental Insurance Company vs Soma Devi & Others",
+        "footer_line": "Oriental Insurance Company vs Soma Devi & Others on 3 January, 2020"
+      }
+    },
+    {
+      "doc_id": "DOC_005",
+      "pages": 19,
+      "char_len": 53010,
+      "parser_used": "pymupdf",
+      "n_parents": 13,
+      "n_children": 67,
+      "max_child_tokens": 455,
+      "source_hint": {
+        "footer_title": "L And T Insurance Co Ltd vs Bindudevi Samharu Yadav",
+        "footer_line": "L And T Insurance Co Ltd vs Bindudevi Samharu Yadav on 19 January, 2026"
+      }
+    },
+    {
+      "doc_id": "DOC_006",
+      "pages": 17,
+      "char_len": 51829,
+      "parser_used": "pymupdf",
+      "n_parents": 12,
+      "n_children": 61,
+      "max_child_tokens": 423,
+      "source_hint": {
+        "footer_title": "National Insurance Company Ltd. Thr. ... vs Smt. Meena And 4 Others",
+        "footer_line": "National Insurance Company Ltd. Thr. ... vs Smt. Meena And 4 Others on 18 June, 2024"
+      }
+    },
+    {
+      "doc_id": "DOC_007",
+      "pages": 6,
+      "char_len": 15832,
+      "parser_used": "pymupdf",
+      "n_parents": 4,
+      "n_children": 17,
+      "max_child_tokens": 396,
+      "source_hint": {
+        "footer_title": "National Insurance Co.Ltd. vs Harpreet Singh And Ors.",
+        "footer_line": "National Insurance Co.Ltd. vs Harpreet Singh And Ors. on 3 February, 2014"
+      }
+    },
+    {
+      "doc_id": "DOC_008",
+      "pages": 15,
+      "char_len": 44920,
+      "parser_used": "pymupdf",
+      "n_parents": 14,
+      "n_children": 54,
+      "max_child_tokens": 436,
+      "source_hint": {
+        "footer_title": "O.V. Shanthakumari vs Kokila",
+        "footer_line": "O.V. Shanthakumari vs Kokila on 27 November, 1990"
+      }
+    },
+    {
+      "doc_id": "DOC_009",
+      "pages": 21,
+      "char_len": 58439,
+      "parser_used": "pymupdf",
+      "n_parents": 15,
+      "n_children": 72,
+      "max_child_tokens": 438,
+      "source_hint": {
+        "footer_title": "Kamal S/O Shiv Ram vs Mursleem S/O Mohd. Akil",
+        "footer_line": "Kamal S/O Shiv Ram vs Mursleem S/O Mohd. Akil on 4 January, 2019"
+      }
+    },
+    {
+      "doc_id": "DOC_010",
+      "pages": 25,
+      "char_len": 68705,
+      "parser_used": "pymupdf",
+      "n_parents": 30,
+      "n_children": 155,
+      "max_child_tokens": 412,
+      "source_hint": {
+        "footer_title": "Raju Gupta S/O Sh. Madan Mohan Gupta vs Himachal Road",
+        "footer_line": "Raju Gupta S/O Sh. Madan Mohan Gupta vs Himachal Road on 8 October, 2018"
+      }
+    },
+    {
+      "doc_id": "DOC_011",
+      "pages": 19,
+      "char_len": 51871,
+      "parser_used": "pymupdf",
+      "n_parents": 23,
+      "n_children": 122,
+      "max_child_tokens": 412,
+      "source_hint": {
+        "footer_title": "Asfaq Ahmad Father vs Satender & Ors And 124/18 Titled",
+        "footer_line": "Asfaq Ahmad Father vs Satender & Ors And 124/18 Titled on 15 September, 2018"
+      }
+    },
+    {
+      "doc_id": "DOC_012",
+      "pages": 20,
+      "char_len": 56727,
+      "parser_used": "pymupdf",
+      "n_parents": 25,
+      "n_children": 123,
+      "max_child_tokens": 420,
+      "source_hint": {
+        "footer_title": "Smt. Rekha Kumari W/O Late Sh. Sachin vs Himachal Road",
+        "footer_line": "Smt. Rekha Kumari W/O Late Sh. Sachin vs Himachal Road on 7 June, 2018"
+      }
+    },
+    {
+      "doc_id": "DOC_013",
+      "pages": 3,
+      "char_len": 6176,
+      "parser_used": "pymupdf",
+      "n_parents": 2,
+      "n_children": 7,
+      "max_child_tokens": 377,
+      "source_hint": {
+        "footer_title": "Mohammed Aynuddin @ Miyam vs State Of Andhra Pradesh",
+        "footer_line": "Mohammed Aynuddin @ Miyam vs State Of Andhra Pradesh on 28 July, 2000"
+      }
+    },
+    {
+      "doc_id": "DOC_014",
+      "pages": 6,
+      "char_len": 14837,
+      "parser_used": "pymupdf",
+      "n_parents": 4,
+      "n_children": 17,
+      "max_child_tokens": 414,
+      "source_hint": {
+        "footer_title": "Shivlal And Ors. Etc. vs Smt. Rukmabai And Ors.",
+        "footer_line": "Shivlal And Ors. Etc. vs Smt. Rukmabai And Ors. on 17 December, 1985"
+      }
+    },
+    {
+      "doc_id": "DOC_015",
+      "pages": 28,
+      "char_len": 79272,
+      "parser_used": "pymupdf",
+      "n_parents": 18,
+      "n_children": 101,
+      "max_child_tokens": 422,
+      "source_hint": {
+        "footer_title": "State Of H.P vs Krishan Lal",
+        "footer_line": "State Of H.P vs Krishan Lal on 16 September, 2024"
+      }
+    },
+    {
+      "doc_id": "DOC_016",
+      "pages": 16,
+      "char_len": 39508,
+      "parser_used": "pymupdf",
+      "n_parents": 9,
+      "n_children": 45,
+      "max_child_tokens": 424,
+      "source_hint": {
+        "footer_title": "Reserved On: 21.07.2025 vs State Of H.P",
+        "footer_line": "Reserved On: 21.07.2025 vs State Of H.P on 30 July, 2025"
+      }
+    },
+    {
+      "doc_id": "DOC_017",
+      "pages": 15,
+      "char_len": 43990,
+      "parser_used": "pymupdf",
+      "n_parents": 11,
+      "n_children": 51,
+      "max_child_tokens": 438,
+      "source_hint": {
+        "footer_title": "Sanjay vs State Of Haryana",
+        "footer_line": "Sanjay vs State Of Haryana on 13 October, 2025"
+      }
+    },
+    {
+      "doc_id": "DOC_018",
+      "pages": 15,
+      "char_len": 43757,
+      "parser_used": "pymupdf",
+      "n_parents": 10,
+      "n_children": 49,
+      "max_child_tokens": 432,
+      "source_hint": {
+        "footer_title": "The Oriental Insurance Comp. Ltd. ... vs Smt. Rani And Ors.",
+        "footer_line": "The Oriental Insurance Comp. Ltd. ... vs Smt. Rani And Ors. on 12 February, 2019"
+      }
+    },
+    {
+      "doc_id": "DOC_019",
+      "pages": 25,
+      "char_len": 65751,
+      "parser_used": "pymupdf",
+      "n_parents": 18,
+      "n_children": 79,
+      "max_child_tokens": 426,
+      "source_hint": {
+        "footer_title": "Surendra Singh And Another vs Vijay Singh And Another",
+        "footer_line": "Surendra Singh And Another vs Vijay Singh And Another on 19 January, 2018"
+      }
+    },
+    {
+      "doc_id": "DOC_020",
+      "pages": 13,
+      "char_len": 39625,
+      "parser_used": "pymupdf",
+      "n_parents": 10,
+      "n_children": 49,
+      "max_child_tokens": 446,
+      "source_hint": {
+        "footer_title": "Yogeshkumar Badharsinh Baria vs Dilipkumar Ranchhodbhai Damor",
+        "footer_line": "Yogeshkumar Badharsinh Baria vs Dilipkumar Ranchhodbhai Damor on 8 September, 2025"
+      }
+    },
+    {
+      "doc_id": "DOC_021",
+      "pages": 32,
+      "char_len": 89878,
+      "parser_used": "pymupdf",
+      "n_parents": 39,
+      "n_children": 198,
+      "max_child_tokens": 420,
+      "source_hint": {
+        "footer_title": "Both R/O E−365 vs Naseem",
+        "footer_line": "Both R/O E−365 vs Naseem on 16 April, 2018"
+      }
+    },
+    {
+      "doc_id": "DOC_022",
+      "pages": 11,
+      "char_len": 28813,
+      "parser_used": "pymupdf",
+      "n_parents": 12,
+      "n_children": 55,
+      "max_child_tokens": 414,
+      "source_hint": {
+        "footer_title": "Sangeeta Devi W/O Sh. Vinod Kumar Singh vs Mahesh Chand & Ors",
+        "footer_line": "Sangeeta Devi W/O Sh. Vinod Kumar Singh vs Mahesh Chand & Ors on 16 March, 2018"
+      }
+    },
+    {
+      "doc_id": "DOC_023",
+      "pages": 9,
+      "char_len": 27511,
+      "parser_used": "pymupdf",
+      "n_parents": 7,
+      "n_children": 33,
+      "max_child_tokens": 418,
+      "source_hint": {
+        "footer_title": "Suman Lata And Ors. vs Madan Mohan Sonkar And Ors.",
+        "footer_line": "Suman Lata And Ors. vs Madan Mohan Sonkar And Ors. on 17 November, 2005"
+      }
+    },
+    {
+      "doc_id": "DOC_024",
+      "pages": 17,
+      "char_len": 46150,
+      "parser_used": "pymupdf",
+      "n_parents": 10,
+      "n_children": 51,
+      "max_child_tokens": 422,
+      "source_hint": {
+        "footer_title": "Sunil Shreesail Killiket vs Subbraya",
+        "footer_line": "Sunil Shreesail Killiket vs Subbraya on 18 July, 2024"
+      }
+    },
+    {
+      "doc_id": "DOC_025",
+      "pages": 66,
+      "char_len": 219671,
+      "parser_used": "pymupdf",
+      "n_parents": 52,
+      "n_children": 260,
+      "max_child_tokens": 424,
+      "source_hint": {
+        "footer_title": "New India Assurance Co., Ltd., vs Yallavva W/O Yamanappa Dharnakeri",
+        "footer_line": "New India Assurance Co., Ltd., vs Yallavva W/O Yamanappa Dharnakeri on 12 May, 2020"
+      }
+    },
+    {
+      "doc_id": "DOC_026",
+      "pages": 10,
+      "char_len": 24317,
+      "parser_used": "pymupdf",
+      "n_parents": 6,
+      "n_children": 27,
+      "max_child_tokens": 436,
+      "source_hint": {
+        "footer_title": "National Insurance Co. Ltd vs Ellappa ... 1St",
+        "footer_line": "National Insurance Co. Ltd vs Ellappa ... 1St on 13 February, 2009"
+      }
+    },
+    {
+      "doc_id": "DOC_027",
+      "pages": 20,
+      "char_len": 51049,
+      "parser_used": "pymupdf",
+      "n_parents": 12,
+      "n_children": 62,
+      "max_child_tokens": 454,
+      "source_hint": {
+        "footer_title": "The Manager vs Chennamma",
+        "footer_line": "The Manager vs Chennamma on 22 October, 2013"
+      }
+    },
+    {
+      "doc_id": "DOC_028",
+      "pages": 7,
+      "char_len": 18119,
+      "parser_used": "pymupdf",
+      "n_parents": 5,
+      "n_children": 22,
+      "max_child_tokens": 432,
+      "source_hint": {
+        "footer_title": "United India Insurance Co. Ltd., Thr ... vs Sukumarbai Suryakant Nikam And Ors",
+        "footer_line": "United India Insurance Co. Ltd., Thr ... vs Sukumarbai Suryakant Nikam And Ors on 5 August, 2019"
+      }
+    },
+    {
+      "doc_id": "DOC_029",
+      "pages": 64,
+      "char_len": 209552,
+      "parser_used": "pymupdf",
+      "n_parents": 52,
+      "n_children": 249,
+      "max_child_tokens": 439,
+      "source_hint": {
+        "footer_title": "United India Insurance Co.Ltd vs Minor Mahesh Kanubhai & 2",
+        "footer_line": "United India Insurance Co.Ltd vs Minor Mahesh Kanubhai & 2 on 7 April, 2014"
+      }
+    },
+    {
+      "doc_id": "DOC_030",
+      "pages": 10,
+      "char_len": 21259,
+      "parser_used": "pymupdf",
+      "n_parents": 5,
+      "n_children": 23,
+      "max_child_tokens": 437,
+      "source_hint": {
+        "footer_title": "Dadapeera S/O Abdul Salam Sab vs Mallesh M S/O Hanumanthappa",
+        "footer_line": "Dadapeera S/O Abdul Salam Sab vs Mallesh M S/O Hanumanthappa on 15 January, 2025"
+      }
+    },
+    {
+      "doc_id": "DOC_031",
+      "pages": 16,
+      "char_len": 46132,
+      "parser_used": "pymupdf",
+      "n_parents": 12,
+      "n_children": 60,
+      "max_child_tokens": 422,
+      "source_hint": {
+        "footer_title": "National Insurance Co. Ltd vs Laxmi Narain Dhut",
+        "footer_line": "National Insurance Co. Ltd vs Laxmi Narain Dhut on 2 March, 2007"
+      }
+    },
+    {
+      "doc_id": "DOC_032",
+      "pages": 14,
+      "char_len": 38482,
+      "parser_used": "pymupdf",
+      "n_parents": 10,
+      "n_children": 46,
+      "max_child_tokens": 422,
+      "source_hint": {
+        "footer_title": "S.Iyyapan vs M/S United India Insurance Co.Ld.& Anr",
+        "footer_line": "S.Iyyapan vs M/S United India Insurance Co.Ld.& Anr on 1 July, 2013"
+      }
+    },
+    {
+      "doc_id": "DOC_033",
+      "pages": 11,
+      "char_len": 31054,
+      "parser_used": "pymupdf",
+      "n_parents": 8,
+      "n_children": 36,
+      "max_child_tokens": 424,
+      "source_hint": {
+        "footer_title": "Satto & Ors vs New India Assurance Co Ltd",
+        "footer_line": "Satto & Ors vs New India Assurance Co Ltd on 6 September, 2013"
+      }
+    },
+    {
+      "doc_id": "DOC_034",
+      "pages": 33,
+      "char_len": 104633,
+      "parser_used": "pymupdf",
+      "n_parents": 24,
+      "n_children": 126,
+      "max_child_tokens": 430,
+      "source_hint": {
+        "footer_title": "K.G. Srinivasamurthy vs Habib Khathun And Ors.",
+        "footer_line": "K.G. Srinivasamurthy vs Habib Khathun And Ors. on 19 October, 2001"
+      }
+    },
+    {
+      "doc_id": "DOC_035",
+      "pages": 18,
+      "char_len": 48451,
+      "parser_used": "pymupdf",
+      "n_parents": 11,
+      "n_children": 53,
+      "max_child_tokens": 430,
+      "source_hint": {
+        "footer_title": "United India Insurance Company Limited vs V.Vijayakumar",
+        "footer_line": "United India Insurance Company Limited vs V.Vijayakumar on 8 September, 2010"
+      }
+    },
+    {
+      "doc_id": "DOC_036",
+      "pages": 20,
+      "char_len": 52861,
+      "parser_used": "pymupdf",
+      "n_parents": 12,
+      "n_children": 67,
+      "max_child_tokens": 448,
+      "source_hint": {
+        "footer_title": "Tarachand Raosaheb Chaudhari vs The Oriental Insurance Co Ltd",
+        "footer_line": "Tarachand Raosaheb Chaudhari vs The Oriental Insurance Co Ltd on 21 October, 2024"
+      }
+    },
+    {
+      "doc_id": "DOC_037",
+      "pages": 20,
+      "char_len": 52860,
+      "parser_used": "pymupdf",
+      "n_parents": 12,
+      "n_children": 67,
+      "max_child_tokens": 448,
+      "source_hint": {
+        "footer_title": "Bhagyashree Santosh Galande vs The Oriental Insurance Co Ltd",
+        "footer_line": "Bhagyashree Santosh Galande vs The Oriental Insurance Co Ltd on 21 October, 2024"
+      }
+    },
+    {
+      "doc_id": "DOC_038",
+      "pages": 36,
+      "char_len": 96132,
+      "parser_used": "pymupdf",
+      "n_parents": 22,
+      "n_children": 114,
+      "max_child_tokens": 459,
+      "source_hint": {
+        "footer_title": "M/S Crown Consultants (P) Ltd. vs The Oriental Insurance Company Ltd.",
+        "footer_line": "M/S Crown Consultants (P) Ltd. vs The Oriental Insurance Company Ltd. on 31 May, 2011"
+      }
+    },
+    {
+      "doc_id": "DOC_039",
+      "pages": 19,
+      "char_len": 60231,
+      "parser_used": "pymupdf",
+      "n_parents": 15,
+      "n_children": 73,
+      "max_child_tokens": 435,
+      "source_hint": {
+        "footer_title": "Smt. Kamla Devi vs Government Of Nct Of Delhi And Anr.",
+        "footer_line": "Smt. Kamla Devi vs Government Of Nct Of Delhi And Anr. on 10 September, 2004"
+      }
+    },
+    {
+      "doc_id": "DOC_040",
+      "pages": 16,
+      "char_len": 52446,
+      "parser_used": "pymupdf",
+      "n_parents": 12,
+      "n_children": 67,
+      "max_child_tokens": 442,
+      "source_hint": {
+        "footer_title": "A.V. Janaki Amma And Ors. vs Union Of India (Uoi) And Ors.",
+        "footer_line": "A.V. Janaki Amma And Ors. vs Union Of India (Uoi) And Ors. on 23 October, 2003"
+      }
+    },
+    {
+      "doc_id": "DOC_041",
+      "pages": 16,
+      "char_len": 45297,
+      "parser_used": "pymupdf",
+      "n_parents": 11,
+      "n_children": 56,
+      "max_child_tokens": 426,
+      "source_hint": {
+        "footer_title": "No.4 Is A Mother Of The Deceased Sri. M. ... vs No.1 Has Filed The Written Statement To ...",
+        "footer_line": "No.4 Is A Mother Of The Deceased Sri. M. ... vs No.1 Has Filed The Written Statement To ... on 19 October, 2016"
+      }
+    },
+    {
+      "doc_id": "DOC_042",
+      "pages": 8,
+      "char_len": 21095,
+      "parser_used": "pymupdf",
+      "n_parents": 5,
+      "n_children": 25,
+      "max_child_tokens": 429,
+      "source_hint": {
+        "footer_title": "Nazar Singh vs State Of Punjab And Others",
+        "footer_line": "Nazar Singh vs State Of Punjab And Others on 21 December, 2013"
+      }
+    },
+    {
+      "doc_id": "DOC_043",
+      "pages": 6,
+      "char_len": 13295,
+      "parser_used": "pymupdf",
+      "n_parents": 3,
+      "n_children": 16,
+      "max_child_tokens": 421,
+      "source_hint": {
+        "footer_title": "Jagdish Rai vs State Of Punjab And Others",
+        "footer_line": "Jagdish Rai vs State Of Punjab And Others on 22 April, 2009"
+      }
+    },
+    {
+      "doc_id": "DOC_044",
+      "pages": 5,
+      "char_len": 12308,
+      "parser_used": "pymupdf",
+      "n_parents": 3,
+      "n_children": 14,
+      "max_child_tokens": 440,
+      "source_hint": {
+        "footer_title": "Monnet Ispat & Energy Ltd vs C.C.E., Raipur",
+        "footer_line": "Monnet Ispat & Energy Ltd vs C.C.E., Raipur on 22 December, 2009"
+      }
+    },
+    {
+      "doc_id": "DOC_045",
+      "pages": 7,
+      "char_len": 21387,
+      "parser_used": "pymupdf",
+      "n_parents": 6,
+      "n_children": 26,
+      "max_child_tokens": 410,
+      "source_hint": {
+        "footer_title": "K. Surappa vs V. Venkatesha Reddy And Others",
+        "footer_line": "K. Surappa vs V. Venkatesha Reddy And Others on 17 November, 1995"
+      }
+    },
+    {
+      "doc_id": "DOC_046",
+      "pages": 38,
+      "char_len": 121124,
+      "parser_used": "pymupdf",
+      "n_parents": 36,
+      "n_children": 302,
+      "max_child_tokens": 469,
+      "source_hint": {
+        "footer_title": "Ajay Alias Vishal Veeru Devgan vs The Artists Planet & Ors",
+        "footer_line": "Ajay Alias Vishal Veeru Devgan vs The Artists Planet & Ors on 27 November, 2025"
+      }
+    },
+    {
+      "doc_id": "DOC_047",
+      "pages": 6,
+      "char_len": 14702,
+      "parser_used": "pymupdf",
+      "n_parents": 4,
+      "n_children": 15,
+      "max_child_tokens": 456,
+      "source_hint": {
+        "footer_title": "New Balance Athletics Inc. vs Ashok Kumar & Ors.",
+        "footer_line": "New Balance Athletics Inc. vs Ashok Kumar & Ors. on 27 November, 2024"
+      }
+    },
+    {
+      "doc_id": "DOC_048",
+      "pages": 9,
+      "char_len": 17791,
+      "parser_used": "pymupdf",
+      "n_parents": 5,
+      "n_children": 21,
+      "max_child_tokens": 461,
+      "source_hint": {
+        "footer_title": "Azuga Inc & Anr vs Azuga Telematics Llc & Ors",
+        "footer_line": "Azuga Inc & Anr vs Azuga Telematics Llc & Ors on 26 September, 2025"
+      }
+    },
+    {
+      "doc_id": "DOC_049",
+      "pages": 5,
+      "char_len": 11739,
+      "parser_used": "pymupdf",
+      "n_parents": 3,
+      "n_children": 12,
+      "max_child_tokens": 458,
+      "source_hint": {
+        "footer_title": "Intel Corporation vs S.P. Gupta And Others",
+        "footer_line": "Intel Corporation vs S.P. Gupta And Others on 7 October, 2022"
+      }
+    },
+    {
+      "doc_id": "DOC_050",
+      "pages": 18,
+      "char_len": 52210,
+      "parser_used": "pymupdf",
+      "n_parents": 13,
+      "n_children": 60,
+      "max_child_tokens": 429,
+      "source_hint": {
+        "footer_title": "M/S. Mandvi Co-Op Bank Ltd vs Nimesh B.Thakore",
+        "footer_line": "M/S. Mandvi Co-Op Bank Ltd vs Nimesh B.Thakore on 11 January, 2010"
+      }
+    },
+    {
+      "doc_id": "DOC_051",
+      "pages": 35,
+      "char_len": 103187,
+      "parser_used": "pymupdf",
+      "n_parents": 24,
+      "n_children": 120,
+      "max_child_tokens": 426,
+      "source_hint": {
+        "footer_title": "Sh. Yashpal Chaudhrani & Ors. vs State (Govt. Of Nct Delhi) & Anr.",
+        "footer_line": "Sh. Yashpal Chaudhrani & Ors. vs State (Govt. Of Nct Delhi) & Anr. on 22 April, 2019"
+      }
+    },
+    {
+      "doc_id": "DOC_052",
+      "pages": 8,
+      "char_len": 29029,
+      "parser_used": "pymupdf",
+      "n_parents": 7,
+      "n_children": 34,
+      "max_child_tokens": 424,
+      "source_hint": {
+        "footer_title": "Company Of Management For Baranagar ... vs Atis Dipankar Chowdhuri",
+        "footer_line": "Company Of Management For Baranagar ... vs Atis Dipankar Chowdhuri on 15 February, 1993"
+      }
+    },
+    {
+      "doc_id": "DOC_053",
+      "pages": 8,
+      "char_len": 25368,
+      "parser_used": "pymupdf",
+      "n_parents": 6,
+      "n_children": 31,
+      "max_child_tokens": 426,
+      "source_hint": {
+        "footer_title": "Ashokbhai Shankar Chaudhary & vs Jayendra Virendra Sharma &",
+        "footer_line": "Ashokbhai Shankar Chaudhary & vs Jayendra Virendra Sharma & on 22 July, 2014"
+      }
+    },
+    {
+      "doc_id": "DOC_054",
+      "pages": 5,
+      "char_len": 12499,
+      "parser_used": "pymupdf",
+      "n_parents": 4,
+      "n_children": 14,
+      "max_child_tokens": 413,
+      "source_hint": {
+        "footer_title": "Chinnasamy vs K.Viswanathan(Died)",
+        "footer_line": "Chinnasamy vs K.Viswanathan(Died) on 12 March, 2020"
+      }
+    },
+    {
+      "doc_id": "DOC_055",
+      "pages": 6,
+      "char_len": 13139,
+      "parser_used": "pymupdf",
+      "n_parents": 3,
+      "n_children": 16,
+      "max_child_tokens": 428,
+      "source_hint": {
+        "footer_title": "Smt Iravva K Purantar vs S Venkatesh",
+        "footer_line": "Smt Iravva K Purantar vs S Venkatesh on 21 November, 2023"
+      }
+    },
+    {
+      "doc_id": "DOC_056",
+      "pages": 4,
+      "char_len": 5831,
+      "parser_used": "pymupdf",
+      "n_parents": 2,
+      "n_children": 7,
+      "max_child_tokens": 378,
+      "source_hint": {
+        "footer_title": "Kum.H.Supriya vs S Krishnappa",
+        "footer_line": "Kum.H.Supriya vs S Krishnappa on 9 February, 2026"
+      }
+    }
+  ]
+}

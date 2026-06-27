@@ -1,0 +1,68 @@
+{
+  "doc_id": "DOC_038",
+  "case_title": "M/S Crown Consultants (P) Ltd. vs The Oriental Insurance Company Ltd.",
+  "court": "National Consumer Disputes Redressal Commission, New Delhi",
+  "judge_or_bench": "Justice R.C. Jain (Presiding Member) and Anupam Dasgupta (Member)",
+  "date": "2011-05-31",
+  "year": 2011,
+  "legal_area": "consumer",
+  "is_motor_accident": false,
+  "procedural_stage": "suit",
+  "document_type": "order",
+  "parties": {
+    "appellants": [],
+    "respondents": ["The Oriental Insurance Company Ltd.", "HIH Winterthur Underwriting (Australia) Pty. Ltd."],
+    "claimants": ["M/s Crown Consultants (P) Ltd."],
+    "insurer": ["The Oriental Insurance Company Ltd."],
+    "owner_or_driver": []
+  },
+  "statutes": ["Consumer Protection Act, 1986", "Insurance Act, 1938 s.64UM", "Indian Penal Code s.416", "Securities and Exchange Board of India Act"],
+  "core_facts": [
+    "Complainant M/s Crown Consultants (P) Ltd., a stockbroker and NSE member, suffered a loss of Rs. 43,05,032/- in share purchase transactions on behalf of client Babu Lal Sethia during 01-03 May 1996 after being allegedly deceived by an unidentified person impersonating Sethia on telephone.",
+    "The complainant lodged an insurance claim on 30.06.1996 under an NSE-negotiated policy with Oriental Insurance covering member stockbrokers against specified perils including deception as to identity of any person.",
+    "Oriental Insurance repudiated the claim on three grounds: (i) claim filed more than 30 days after crystallisation of loss on 07.05.1996; (ii) member-constituent agreement not executed on stamp paper as per NSE/SEBI rules; (iii) client codes not entered contemporaneously in trades as per NSE rules.",
+    "The complainant argued the loss crystallised only on 01.06.1996 after exhaustive enquiries at Barmer, and the NSE regulations cited were not in force in May 1996.",
+    "The National Commission found the complainant's conduct inconsistent with genuine deception and failed the burden of establishing the insured peril under Section 1(c) of the policy."
+  ],
+  "legal_issues": [
+    "Whether the insurance claim was filed within 30 days of discovery of loss as required by the Certificate of Insurance.",
+    "Whether the complainant discharged the burden of proving that the loss was caused by the insured peril (deception as to identity under Section 1(c) of the policy).",
+    "Whether the insurer's repudiation of the claim on the stated grounds constituted deficiency in service under the Consumer Protection Act, 1986.",
+    "Whether the doctrine of utmost good faith (uberrima fides) was breached by the complainant."
+  ],
+  "issue_tags": ["insurance_liability", "policy_breach", "limitation", "evidence_appreciation", "other"],
+  "vehicle_tags": [],
+  "stance_tags": ["insurer_supporting", "adverse_to_claimant"],
+  "outcome": "Original complaint dismissed as totally devoid of merit or good faith. No deficiency in service found on the part of the insurer in repudiating the insurance claim.",
+  "key_holdings": [
+    "The burden of proving that a loss was caused by the insured peril rests on the assured; the complainant failed to discharge this burden in respect of the alleged deception.",
+    "A contract of insurance is governed by the doctrine of utmost good faith (uberrima fides); the complainant's conduct showed lack of even ordinary good faith throughout.",
+    "The claim was filed well beyond the 30-day period from the date of discovery/awareness of the loss; the insurer committed no deficiency in service in treating the delay as uncondonable.",
+    "A stockbroker's failure to follow NSE regulatory requirements in executing large trades on behalf of a new client without adequate margin is inconsistent with the due diligence required for a valid insurance claim."
+  ],
+  "key_passages": [
+    {
+      "label": "repudiation_grounds_insurer",
+      "quote": "Claim was lodged on 1.7.96 i.e. more than 30 days after the incident and crystallisation of the loss on 7.5.96 and not immediately.",
+      "page": 3
+    },
+    {
+      "label": "uberrima_fides_principle",
+      "quote": "Good faith forbids either party by concealing what he privately knows, to draw the other into a bargain from his ignorance of that fact, and his believing the contrary.",
+      "page": 26
+    },
+    {
+      "label": "adverse_conduct_finding",
+      "quote": "ample evidence of lack of even ordinary good faith, leave alone utmost good faith in the conduct of the complainant.",
+      "page": 30
+    },
+    {
+      "label": "final_holding",
+      "quote": "we find no deficiency in service on the part of the Opposite Party no. 1, Insurance Company in repudiating the complainants insurance claim and dismiss the complaint as being totally devoid of merit or good faith.",
+      "page": 31
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This original complaint (Complaint Case No. 121 of 1999) before the National Consumer Disputes Redressal Commission, decided on 31 May 2011, concerns a stock-broking firm's claim for indemnification of Rs. 43,05,032/- under an NSE-negotiated insurance policy covering stockbrokers against various risks including deception as to the identity of persons placing orders. Crown Consultants alleged that an unidentified caller impersonated client Babu Lal Sethia and placed large share purchase orders during 01-03 May 1996, resulting in a loss after prices fell. The insurer repudiated the claim citing delayed filing (30 days from loss), non-execution of member-constituent agreement on stamp paper, and non-entry of client codes at the time of trading. The Commission conducted a thorough factual examination and found the complainant's narrative of deception implausible and internally inconsistent when compared across the first information report, the complaint filed three years later, and affidavits filed after twelve years. The Commission held that the doctrine of utmost good faith pervades an insurance contract from formation through claim, that the complainant breached NSE regulations by trading for Nahata without a separate member-constituent agreement, and that the delay in filing was uncondonable. The complaint was dismissed entirely, with no deficiency in service found on the insurer's part.",
+  "confidence": "high"
+}

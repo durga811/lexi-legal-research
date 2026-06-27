@@ -1,0 +1,75 @@
+{
+  "doc_id": "DOC_056",
+  "case_title": "Kum. H. Supriya vs S. Krishnappa and Others",
+  "court": "High Court of Karnataka at Bengaluru",
+  "judge_or_bench": "Hon'ble Mr. Justice S.R. Krishna Kumar",
+  "date": "2026-02-09",
+  "year": 2026,
+  "legal_area": "civil_procedure",
+  "is_motor_accident": false,
+  "procedural_stage": "writ",
+  "document_type": "order",
+  "parties": {
+    "appellants": ["Kum. H. Supriya (Defendant No.3 in O.S.No.7/2018)"],
+    "respondents": [
+      "S. Krishnappa (Plaintiff / Respondent No.1)",
+      "Smt. Shobha K.N. (Respondent No.2)",
+      "Sri. H.M. Harsha (Respondent No.3)"
+    ],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Constitution of India Article 227",
+    "Code of Civil Procedure, 1908 Order 6 Rule 17",
+    "Code of Civil Procedure, 1908 s.151"
+  ],
+  "core_facts": [
+    "O.S.No.7/2018 was instituted by respondent No.1/plaintiff before the Senior Civil Judge and JMFC, Holenarasipura, for specific performance of a sale agreement dated 14.09.2018 relating to immovable property, against defendant Nos.1, 2 and 3",
+    "The plaintiff had adduced evidence and cross-examination of PW1 (plaintiff's witness) was at an advanced stage when the petitioner/defendant No.3 filed I.A.No.VIII under Order 6 Rule 17 read with s.151 CPC seeking amendment of the written statement",
+    "The proposed amendment incorporated additional paragraph No.17a after paragraph 17, relating to certain subsequent events including the pendency of O.S.No.59/2021 before the Senior Civil Judge, Holenarasipura",
+    "The plaintiff opposed the amendment application; the trial court rejected I.A.No.VIII by impugned order dated 17.11.2025 on the ground that the petitioner had not exercised due diligence in not seeking the amendment earlier",
+    "Petitioner/defendant No.3 challenged the rejection order by Writ Petition No.37035 of 2025 under Article 227 of the Constitution"
+  ],
+  "legal_issues": [
+    "Whether a defendant's application to amend a written statement to incorporate subsequent events that occurred after institution of the suit (including pendency of another suit) can be rejected on the ground of lack of due diligence",
+    "Whether refusal of such amendment occasions failure of justice when the subsequent events could not have been pleaded at the time of filing the written statement"
+  ],
+  "issue_tags": [
+    "amendment_of_pleadings",
+    "specific_performance_relief"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["neutral"],
+  "outcome": "Writ petition allowed. Impugned order dated 17.11.2025 rejecting I.A.No.VIII in O.S.No.7/2018 set aside. I.A.No.VIII under Order 6 Rule 17 CPC allowed. Liberty granted to respondent No.1/plaintiff to file rejoinder/reply to the amended written statement. Trial court directed to dispose of the suit within one year from receipt of copy of this order.",
+  "key_holdings": [
+    "An application to amend a written statement to incorporate subsequent events that arose after the institution of the suit cannot be refused on the ground of lack of due diligence, since such events obviously could not have been pleaded at the time of filing the original written statement.",
+    "Refusal of an amendment relating to subsequent events occasions failure of justice warranting interference under Article 227 of the Constitution, particularly when the plaintiff suffers no prejudice as she can file a rejoinder to the amended written statement."
+  ],
+  "key_passages": [
+    {
+      "label": "subsequent_events_cannot_be_refused_for_lack_of_due_diligence",
+      "quote": "the proposed amendment relates to certain subsequent events that are alleged to have occurred after institution of the suit including institution of O.S.No.59/2021, which obviously could not have been pleaded by the petitioner- defendant No.3",
+      "page": null
+    },
+    {
+      "label": "no_prejudice_to_plaintiff",
+      "quote": "since the plaintiff would have an opportunity to file rejoinder/reply to the amended written statement, no prejudice can be said to have been caused to the plaintiff if the proposed amendment was allowed",
+      "page": null
+    },
+    {
+      "label": "failure_of_justice_warranting_interference",
+      "quote": "the impugned order passed by the trial Court refusing NC: 2026:KHC:7501 HC-KAR amendment has occasioned failure of justice warranting interference by this Court in the present petition.",
+      "page": null
+    },
+    {
+      "label": "outcome_petition_allowed",
+      "quote": "The petition is hereby allowed.",
+      "page": null
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The Karnataka High Court allowed a writ petition under Article 227 of the Constitution filed by defendant No.3 in a specific performance suit (O.S.No.7/2018) pending before the Senior Civil Judge and JMFC, Holenarasipura. The underlying suit was filed by the plaintiff for specific performance of a sale agreement dated 14.09.2018 relating to immovable property. After the plaintiff had led evidence and cross-examination of PW1 was underway, the petitioner/defendant No.3 filed I.A.No.VIII under Order 6 Rule 17 read with Section 151 CPC to amend the written statement by adding a paragraph incorporating certain subsequent events including the pendency of another suit, O.S.No.59/2021, arising after institution of the present suit. The trial court rejected the amendment on the ground that the petitioner had not exercised due diligence by not seeking the amendment earlier. The High Court set aside this order, holding that an amendment to incorporate events that arose after institution of the suit could not be refused on the ground of lack of due diligence since those events could not have been pleaded in the original written statement filed in 2018. Following the principles in LIC v. Sanjeev Builders, Dinesh Goyal v. Suman Agarwal, and a co-ordinate bench ruling, the Court found that refusal of the amendment occasioned failure of justice. No prejudice to the plaintiff was found as the plaintiff could file a rejoinder. I.A.No.VIII was allowed and the trial court was directed to dispose of the suit within one year.",
+  "confidence": "high"
+}

@@ -1,0 +1,79 @@
+{
+  "doc_id": "DOC_006",
+  "case_title": "National Insurance Company Ltd. vs Smt. Meena And 4 Others",
+  "court": "High Court of Judicature at Allahabad, Lucknow Bench",
+  "judge_or_bench": "Hon'ble Manjive Shukla, J.",
+  "date": "2024-06-18",
+  "year": 2024,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Smt. Meena and 3 Others (F.A.F.O. 123/2012)", "National Insurance Company Ltd. (F.A.F.O. 148/2012)"],
+    "respondents": ["Sri Anil Kumar Gupta and Another (F.A.F.O. 123/2012)", "Smt. Meena and 4 Others (F.A.F.O. 148/2012)"],
+    "claimants": ["Smt. Meena (wife)", "Surendra (son)", "Virendra (son)", "Renu (daughter)"],
+    "insurer": ["National Insurance Company Ltd."],
+    "owner_or_driver": ["Sri Anil Kumar Gupta (owner of Tanker UP32-T/6251)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.149"
+  ],
+  "core_facts": [
+    "On 12.5.2006 at about 7.00 A.M., deceased Sundar Lal was riding a moped (UP-32-AB/8094) near Neelam Traders, Devpur Tara, Police Station Talkatora, Lucknow when a Tanker (UP32-T/6251) driven negligently collided with the moped; Sundar Lal died on 15.5.2006.",
+    "The deceased was a government servant with a monthly salary of Rs. 8,841/-; the MACT deducted Rs. 500/- towards VPF and Rs. 150/- towards festival advance while calculating income.",
+    "Eye-witness P.W.-2 (Ram Gopal, also riding a moped) testified that deceased was on the left side of the road, took further left to avoid the Tanker, and was not negligent.",
+    "The MACT applied 50% contributory negligence based on the police site plan (relied upon as showing head-on collision), awarding only 50% of the calculated compensation.",
+    "Valid driving license of the Tanker driver was not produced; MACT directed insurer to pay compensation with right to recover from the owner.",
+    "MACT awarded Rs. 4,26,880/- with 6% simple interest; two appeals filed: F.A.F.O. 123/2012 by claimants and F.A.F.O. 148/2012 by the insurer."
+  ],
+  "legal_issues": [
+    "Whether the MACT was justified in applying 50% contributory negligence based on the site plan despite credible and unrebutted eye-witness testimony that the deceased was not negligent",
+    "Whether the insurer can avoid liability when the driver's valid driving license was not produced",
+    "Whether VPF contributions and festival advance are deductible from income when calculating compensation",
+    "Whether 30% future prospects must be added for a government servant aged between 40 and 50 years"
+  ],
+  "issue_tags": [
+    "contributory_negligence",
+    "negligence_proof",
+    "driving_license_validity",
+    "license_breach_defence",
+    "pay_and_recover",
+    "insurance_liability",
+    "compensation_quantum",
+    "compensation_enhancement",
+    "future_prospects",
+    "income_determination",
+    "section_166"
+  ],
+  "vehicle_tags": ["tanker"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "Insurer's appeal (F.A.F.O. 148/2012) dismissed: following S. Iyyapan v. United India Insurance Company, even where the driver lacks a valid license, the insurer must pay compensation to claimants with right to recover from the owner. Claimants' appeal (F.A.F.O. 123/2012) partly allowed: 50% contributory negligence finding reversed; 100% negligence attributed to Tanker driver based on credible unrebutted eye-witness testimony; VPF and festival advance deductions restored to income; 30% future prospects added; interest increased from 6% to 7%; total compensation recalculated to Rs. 13,74,876/-; insurer directed to pay with right to recover from owner Anil Kumar Gupta.",
+  "key_holdings": [
+    "Where there is consistent and credible testimony of an eye-witness that the deceased was not negligent, the Tribunal cannot discard that testimony and apply contributory negligence solely on the basis of a police site plan that does not clearly indicate a head-on collision.",
+    "Even where the driver of the offending vehicle does not possess a valid driving license, the insurer is liable to pay compensation to claimants and has a right to recover from the insured; this follows S. Iyyapan v. M/s. United India Insurance Company.",
+    "VPF contributions and festival advances form part of the deceased's gross income and cannot be deducted while calculating income available to dependent family members.",
+    "For a government servant aged between 40 and 50 years, 30% must be added to income towards future prospects as mandated by National Insurance Company Limited v. Pranay Sethi."
+  ],
+  "key_passages": [
+    {
+      "label": "contributory_negligence",
+      "quote": "once there was consistent testimony of the P.W.-2 before the learned Tribunal wherein he has categorically stated that deceased was not at all negligent while driving the moped, there was no occasion for the learned Tribunal to discard the testimony of P.W.-2 and hold the accident in question to be result of the contributory negligence on the basis of site plan/sketch",
+      "page": 13
+    },
+    {
+      "label": "compensation_enhancement",
+      "quote": "Thus the award dated 11.11.2011 passed by the learned Motor Accident Claims Tribunal in M.A.C.P. No. 190 of 2009 is modified and the Claim Petition is awarded for an amount of Rs. 13,74,876/- along with 7% simple interest from the date of filing of the Claim Petition till the date of actual payment.",
+      "page": 15
+    },
+    {
+      "label": "pay_and_recover",
+      "quote": "The insurer i.e. National Insurance Company Limited is directed to pay the entire compensation amount along with interest [after excluding the amount already paid (if any) ] to the claimants within three months from today. The insurer i.e. National Insurance Company Limited is also given right of recovery to recover the amount of compensation paid to the claimants from the owner of the vehicle i.e. Mr. Anil Kumar Gupta.",
+      "page": 15
+    }
+  ],
+  "adverse_value": "Insurer can cite the pay-and-recover direction: where the Tanker driver lacked a valid license, the court confirmed the insurer's right to recover the entire compensation from the owner (Anil Kumar Gupta). Insurers can use this precedent to shift ultimate financial liability to the vehicle owner.",
+  "summary": "Two cross-appeals arose from the MACT award in M.A.C.P. No. 190 of 2009 relating to the death of Sundar Lal (a government servant) on 12.5.2006 when a Tanker collided with his moped in Lucknow. The MACT applied 50% contributory negligence based on a site plan and directed the insurer to pay with right to recover, as the Tanker driver's license was not produced. The Allahabad High Court (Lucknow Bench) dismissed the insurer's appeal: following S. Iyyapan, the insurer must pay even where the driver lacks a valid license, with a right to recover from the owner. The claimants' appeal was partly allowed: the 50% contributory negligence finding was reversed since eye-witness P.W.-2 gave consistent and unrebutted testimony that the deceased was on the left side of the road, and the site plan did not clearly indicate head-on collision. VPF and festival advance deductions were reversed; 30% future prospects added for the government servant aged 40-50; interest enhanced from 6% to 7%. Total compensation was enhanced from Rs. 4,26,880/- to Rs. 13,74,876/-.",
+  "confidence": "high"
+}

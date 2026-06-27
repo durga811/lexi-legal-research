@@ -1,0 +1,84 @@
+{
+  "doc_id": "DOC_053",
+  "case_title": "Ashokbhai Shankar Chaudhary & 1 vs Jayendra Virendra Sharma & 1",
+  "court": "High Court of Gujarat at Ahmedabad",
+  "judge_or_bench": "Honourable Mr. Justice S.H. Vora",
+  "date": "2014-07-22",
+  "year": 2014,
+  "legal_area": "specific_performance",
+  "is_motor_accident": false,
+  "procedural_stage": "appeal",
+  "document_type": "order",
+  "parties": {
+    "appellants": [
+      "Ashokbhai Shankar Chaudhary (Defendant No.2)",
+      "Defendant No.3"
+    ],
+    "respondents": [
+      "Jayendra Virendra Sharma (Plaintiff/Respondent No.1)",
+      "Defendant No.1 (Respondent No.2)"
+    ],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Specific Relief Act, 1963 s.19",
+    "Specific Relief Act, 1963 s.19-B",
+    "Transfer of Property Act, 1882 s.52",
+    "Transfer of Property Act, 1882 s.54",
+    "Code of Civil Procedure, 1908 Order 39 Rule 1",
+    "Code of Civil Procedure, 1908 Order 39 Rule 2",
+    "Code of Civil Procedure, 1908 Order 43 Rule 1(r)"
+  ],
+  "core_facts": [
+    "Suit property (Revenue Survey No.544/3, 19260 sq.ft.) was owned in ½ undivided share each by the plaintiff and defendant No.1, who were cousins",
+    "On 07.03.2007, defendant No.1 entered into a sale agreement to sell his ½ share to the plaintiff for Rs.15 lakhs; plaintiff paid part consideration of Rs.1,50,000 by cheque and claimed to have been put in possession of the entire property",
+    "Defendant No.1, despite a public notice by him cancelling the sale agreement dated 16.02.2010 (citing plaintiff's failure to pay balance by 29.12.2009), sold his ½ share to defendants 2 and 3 by Registered Sale Deed dated 28.10.2010 for Rs.32 lakhs",
+    "Defendants 2 and 3 had published a public notice for title clearance on 02.03.2010 before execution of their sale deed",
+    "Plaintiff filed Special Civil Suit No.263 of 2010 for specific performance and filed two injunction applications (Exh.5 and Exh.37); the trial court granted both applications directing status quo on title and possession"
+  ],
+  "legal_issues": [
+    "Whether defendants 2 and 3 are bona fide purchasers without notice of the prior sale agreement under Section 19 of the Specific Relief Act so as to be protected from specific performance",
+    "Whether time was the essence of the sale agreement dated 07.03.2007 such that failure to pay balance consideration by 29.12.2009 entitled defendant No.1 to terminate the agreement",
+    "Whether the appellate court should interfere with a discretionary interim injunction order when no arbitrariness or perversity is shown in the trial court's exercise of discretion"
+  ],
+  "issue_tags": [
+    "specific_performance_relief",
+    "maintainability",
+    "other"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["neutral"],
+  "outcome": "Both Appeal from Orders (AFO No.196 and 197 of 2014) dismissed. Interim injunction directing status quo on title and possession upheld. Civil applications also dismissed. Defendants 2 and 3 cannot claim bona fide purchaser protection at this stage; time was not the essence of the contract.",
+  "key_holdings": [
+    "Defendants 2 and 3 cannot be characterised as bona fide purchasers under Section 19-B of the Specific Relief Act at this stage as they had notice of the prior sale agreement from a public notice before executing their sale deed.",
+    "In contracts relating to immovable property, time is ordinarily not the essence of contract and failure to pay balance consideration before a specified date does not render the contract terminable.",
+    "An appellate court should not interfere with a trial court's discretionary order on injunction unless the discretion was exercised arbitrarily, capriciously or perversely, or the court ignored settled principles."
+  ],
+  "key_passages": [
+    {
+      "label": "no_bona_fide_purchaser_protection",
+      "quote": "it cannot be inferred that the defendant Nos.2 and 3 are the bona fide purchasers as provided under Section 19-B of the Specific Relief Act so as to non-suit the plaintiff at threshold.",
+      "page": null
+    },
+    {
+      "label": "time_not_essence_of_contract",
+      "quote": "Normally, in the contract relating to immovable property, time cannot be essence of contract and the time stipulated in performance even if expressly read and shown to be the essence required to be read as not being essence of contract",
+      "page": null
+    },
+    {
+      "label": "appellate_court_limited_scope",
+      "quote": "the Appellate Court cannot interfere with the exercise of discretion of the Court of first instance and substitute its own discretion except, where the discretion has been shown to have been exercised arbitrarily, capriciously or perversely or where the Court had ignored the settled principles of law regulating grant or refusal of interlocutory injunctions.",
+      "page": null
+    },
+    {
+      "label": "outcome_appeals_dismissed",
+      "quote": "no case is made out to interfere with the findings recorded by the learned trial Judge in the impugned order and, therefore, present appeals deserve to be dismissed and are accordingly dismissed.",
+      "page": null
+    }
+  ],
+  "adverse_value": "",
+  "summary": "The Gujarat High Court dismissed appeals filed by defendants 2 and 3 against an interim injunction order granted in a specific performance suit (Special Civil Suit No.263 of 2010). The plaintiff and defendant No.1 were co-sharers of the suit property. Defendant No.1 had agreed to sell his ½ share to the plaintiff under a sale agreement dated 07.03.2007, receiving part payment. Before the injunction application was heard, defendant No.1 sold his ½ share to defendants 2 and 3 by registered sale deed dated 28.10.2010 for Rs.32 lakhs. The trial court granted status quo on title and possession. Defendants 2 and 3 challenged the injunction claiming bona fide purchaser protection under Section 19 of the Specific Relief Act, and arguing that the plaintiff's failure to pay the balance consideration by 29.12.2009 had extinguished the sale agreement. The High Court held that defendants 2 and 3 could not claim bona fide purchaser status as they had notice of the prior sale agreement through a public notice before executing their purchase deed. It also held that in immovable property contracts, time is ordinarily not the essence of the contract and failure to pay by a specified date does not automatically terminate the agreement. Applying the limited scope of Order 43 Rule 1(r) CPC, the appellate court declined to substitute its discretion for that of the trial court in the absence of arbitrariness or perversity. Both appeals were dismissed.",
+  "confidence": "high"
+}

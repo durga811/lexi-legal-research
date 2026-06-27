@@ -1,0 +1,74 @@
+{
+  "doc_id": "DOC_043",
+  "case_title": "Jagdish Rai vs State of Punjab and Others",
+  "court": "High Court of Punjab and Haryana at Chandigarh",
+  "judge_or_bench": "Hon'ble Mr. Justice M.M. Kumar",
+  "date": "2009-04-22",
+  "year": 2009,
+  "legal_area": "service_employment",
+  "is_motor_accident": false,
+  "procedural_stage": "writ",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": [],
+    "respondents": ["State of Punjab", "Assistant Excise and Taxation Commissioner, Muktsar"],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": ["Jagdish Rai (driver)"]
+  },
+  "statutes": [
+    "Constitution of India, Article 226",
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.140",
+    "Motor Vehicles Act, 1988 s.146",
+    "Punjab Civil Service (Punishment and Appeal) Rules, 1970 Rule 5",
+    "Punjab Civil Service (Punishment and Appeal) Rules, 1970 Rule 10"
+  ],
+  "core_facts": [
+    "Petitioner Jagdish Rai was a government driver employed with the Assistant Excise and Taxation Commissioner, Muktsar",
+    "On 4.10.1991, while driving government Jeep No. PAR-782 from Fazilka to Ferozepur, an accident occurred resulting in death of Constable Ranjit Singh",
+    "FIR registered under Section 304; petitioner was acquitted in criminal trial on 27.2.1999",
+    "Motor Accident Claims Tribunal, Ferozepur awarded compensation of Rs. 2,49,600/- against petitioner and respondents jointly and severally under Sections 166 and 140 of the Motor Vehicles Act, 1988",
+    "State paid the full compensation without filing an appeal; petitioner also did not challenge the award",
+    "On 26.11.1998, respondent No. 3 directed recovery of Rs. 83,200/- (1/3rd share) from petitioner's salary at Rs. 2,700/- per month without issuing prior notice or conducting any inquiry"
+  ],
+  "legal_issues": [
+    "Whether recovery from a government employee's salary can be effected without following the mandatory procedure under Punjab Civil Service (Punishment and Appeal) Rules, 1970",
+    "Whether acquittal in criminal proceedings absolves the driver of liability for contribution to the compensation award",
+    "Scope of vicarious liability of the State Government as employer for the negligent act of its driver"
+  ],
+  "issue_tags": ["vicarious_liability", "section_166", "other"],
+  "vehicle_tags": [],
+  "stance_tags": ["neutral"],
+  "outcome": "Writ petition allowed. Order dated 26.11.1998 directing salary recovery quashed. Respondents at liberty to proceed in accordance with law after following mandatory procedure under Punjab Civil Service Rules.",
+  "key_holdings": [
+    "Recovery from a government employee's salary for pecuniary loss caused by negligence is a minor penalty under Rule 5(iii) of the Punjab Civil Service (Punishment and Appeal) Rules, 1970, requiring prior notice and opportunity of hearing under Rule 10",
+    "Acquittal in criminal proceedings does not absolve a driver from civil liability for compensation under the Motor Vehicles Act",
+    "The State as employer has vicarious liability when its driver causes injury to a third party while driving in the course of employment"
+  ],
+  "key_passages": [
+    {
+      "label": "vicarious_liability",
+      "quote": "But once it is found and established that vehicle was being used for the business of the employer, then the employer will be held vicariously liable even for the lapse, omission and negligence of his driver to whom the vehicle had been entrusted for being driver for the business of the employer.",
+      "page": 3
+    },
+    {
+      "label": "disciplinary_procedure",
+      "quote": "no order imposing any of the penalties specified in Rule 5 (i) to (iv) could be passed except after informing the employee concerned of the proposal to take action against him and giving him a reasonable opportunity of making representation.",
+      "page": 4
+    },
+    {
+      "label": "holding",
+      "quote": "The aforesaid procedure in the present case admittedly has not been followed. Therefore, I am of the considered view that order dated 26.11.1998 (P-1) is liable to be set aside.",
+      "page": 4
+    },
+    {
+      "label": "minor_penalty_rule",
+      "quote": "(iii) recovery from his pay of the whole or partly of any pecuniary loss caused by him to the Government by negligence or breach of orders.",
+      "page": 3
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This writ petition under Article 226 was filed by a government driver challenging an order directing recovery of Rs. 83,200 from his salary. The petitioner had been involved in a motor vehicle accident on 4.10.1991 resulting in the death of Constable Ranjit Singh while driving a government Jeep in official duty. Though acquitted in criminal proceedings on 27.2.1999, the Motor Accident Claims Tribunal awarded Rs. 2,49,600 against the petitioner and others jointly and severally. After the State paid the compensation, it sought recovery of the petitioner's one-third share from his salary, issuing a direction without prior notice or inquiry as required by Rule 10 of the Punjab Civil Service (Punishment and Appeal) Rules, 1970. The Court examined the Supreme Court's principles on vicarious liability of government employers in motor accident cases, and held that such salary recovery constitutes a minor penalty under Rule 5(iii) of the Rules, which mandatorily requires notice, opportunity to make representation, and a recorded finding before imposition. Since the mandatory procedure was not followed, the recovery order was quashed and the State was directed to re-proceed in accordance with law.",
+  "confidence": "high"
+}

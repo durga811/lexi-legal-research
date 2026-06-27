@@ -1,0 +1,66 @@
+{
+  "doc_id": "DOC_036",
+  "case_title": "Tarachand Raosaheb Chaudhari vs The Oriental Insurance Co Ltd",
+  "court": "Maharashtra State Consumer Disputes Redressal Commission, Mumbai, Bench at Aurangabad",
+  "judge_or_bench": "Milind S. Sonawane (Presiding Member) and Nagesh C. Kumbre (Member)",
+  "date": "2024-10-21",
+  "year": 2024,
+  "legal_area": "consumer",
+  "is_motor_accident": false,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Jayashree w/o Satish Kharote", "Tarachand s/o Raosaheb Chaudhari", "Omprakash s/o Laxminarayan Dhoot", "Trupti w/o Omprakash Dhoot"],
+    "respondents": ["The Oriental Insurance Company Ltd.", "MD India Health Insurance TPA Private Ltd."],
+    "claimants": ["Jayashree w/o Satish Kharote", "Tarachand s/o Raosaheb Chaudhari", "Omprakash s/o Laxminarayan Dhoot", "Trupti w/o Omprakash Dhoot"],
+    "insurer": ["The Oriental Insurance Company Ltd."],
+    "owner_or_driver": []
+  },
+  "statutes": ["Consumer Protection Act, 1986"],
+  "core_facts": [
+    "Multiple appellants availed the Corona Rakshak Policy from Oriental Insurance Company Ltd. and paid premiums.",
+    "Each appellant was diagnosed COVID-19 positive by RTPCR during the policy period and admitted to a Covid care centre declared by Aurangabad Municipal Corporation for more than 72 hours on medical advice.",
+    "Oriental Insurance repudiated all claims on the ground that the Covid centres were quarantine centres and not hospitals under clause 3.6 of the policy.",
+    "District Consumer Commission, Aurangabad dismissed all original consumer complaints.",
+    "Appellants challenged the dismissal orders before the Maharashtra State Consumer Disputes Redressal Commission in First Appeal Nos. 619 to 623 of 2022."
+  ],
+  "legal_issues": [
+    "Whether a Covid care centre declared by Aurangabad Municipal Corporation qualifies as a hospital under clause 3.6(vi) of the Corona Rakshak Policy.",
+    "Whether repudiation of insurance claims on the ground that Covid centres are not hospitals constitutes deficiency in service by the insurer.",
+    "Whether appellants satisfied the eligibility criteria of being Covid-positive and hospitalized for more than 72 hours on medical advice during the policy period."
+  ],
+  "issue_tags": ["insurance_liability", "policy_breach", "evidence_appreciation", "other"],
+  "vehicle_tags": [],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "All five first appeals partly allowed. District Commission orders quashed. Oriental Insurance directed to pay Rs. 2,50,000/- under Corona Rakshak Policy with interest at 8% p.a. from the respective dates of repudiation plus Rs. 10,000/- for mental agony and litigation costs in each case.",
+  "key_holdings": [
+    "A Covid care centre designated by the government or Municipal Corporation for Covid-19 treatment qualifies as a hospital under clause 3.6(vi) of the Corona Rakshak Policy.",
+    "Repudiation of insurance claims solely on the ground that a Municipal Corporation-declared Covid centre is not a hospital constitutes deficiency in service by the insurer.",
+    "An insured who was corona positive and hospitalized for more than 72 hours on medical advice of a qualified practitioner is entitled to the full sum insured under the Corona Rakshak Policy."
+  ],
+  "key_passages": [
+    {
+      "label": "policy_clause_3.6vi",
+      "quote": "For the purpose of this policy any other set-up designated by the government as hospital for the treatment of Covid-19 shall also be considered as hospital.",
+      "page": 6
+    },
+    {
+      "label": "deficiency_in_service_holding",
+      "quote": "the MIT Boys Hostel declared by Aurangabad Municipal Corporation as a Covid centre comes within the purview of clause 3.6 (vi) of policy and repudiation of claim on the said ground is deficiency in service on the part of respondent no.1.",
+      "page": 6
+    },
+    {
+      "label": "entitlement_holding",
+      "quote": "Appellant was Corona positive and hospitalized for more than 72 hours as per the advice of qualified medical practitioner and therefore entitled for benefits under the Corona Rakshak Policy.",
+      "page": 7
+    },
+    {
+      "label": "operative_clause",
+      "quote": "If during the policy period the insured person is diagnosed with COVID and hospitalized for more than 72 hours following medical advice of a duly qualified medical practitioner. The insurance company shall pay the agreed sum insured towards the coverage mentioned in the policy schedule.",
+      "page": 5
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This combined judgment of the Maharashtra State Consumer Disputes Redressal Commission (Aurangabad Bench), delivered on 21 October 2024, decides five first appeals (FA Nos. 619-623/2022) challenging dismissals of consumer complaints against Oriental Insurance Company Ltd. for repudiating claims under the Corona Rakshak Policy. Each appellant tested COVID-19 positive during the policy period, was referred by the Aurangabad Municipal Corporation's Medical Officer to a designated Covid care centre (MIT Boys Hostel, Samajkalyan Boys Hostel, or Government Engineering College Covid Centre), and was admitted for more than 72 continuous hours on medical advice. The insurer repudiated all claims arguing the Covid centres were quarantine centres, not hospitals under clause 3.6 of the policy, and that no active line of treatment was given. The District Consumer Commission had dismissed the original complaints. On appeal, the State Commission held that clause 3.6(vi) of the Corona Rakshak Policy expressly includes any government-designated setup for Covid-19 treatment as a hospital, that the Municipal Corporation-declared Covid centres fell within this definition, and that the insurer's repudiation was deficiency in service. Each appellant, having satisfied the twin conditions of confirmed Covid-positive diagnosis and hospitalization exceeding 72 hours on medical advice, was held entitled to Rs. 2,50,000/- with 8% p.a. interest from the date of repudiation plus Rs. 10,000/- for mental agony and costs.",
+  "confidence": "high"
+}

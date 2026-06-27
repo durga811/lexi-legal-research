@@ -1,0 +1,86 @@
+{
+  "doc_id": "DOC_001",
+  "case_title": "United India Insurance Company Ltd vs Neelam Devi And Others",
+  "court": "High Court of Punjab and Haryana at Chandigarh",
+  "judge_or_bench": "Hon'ble Ms. Justice Amarjot Bhatti",
+  "date": "2023-11-06",
+  "year": 2023,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["United India Insurance Company Limited"],
+    "respondents": ["Sunil and others", "Kavita Devi and others", "Manoj Devi and others", "Neelam Devi and others"],
+    "claimants": ["Manoj Devi and others (FAO-1119)", "Sunil @ Rohit (FAO-1113)", "Neelam Devi and others (FAO-1120)", "Kavita Devi and others (FAO-1114)"],
+    "insurer": ["United India Insurance Company Limited"],
+    "owner_or_driver": ["Richpal Singh (owner of Truck)", "Sandeep (driver)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Central Motor Vehicles Rule, 1989 r.9",
+    "Central Motor Vehicles Rule, 1989 r.132"
+  ],
+  "core_facts": [
+    "On 21.11.2013 at about 10:00 P.M., Munish Kumar and friends Ram Niwas, Sultan and Sunil were travelling from Narwana to Vrindavan in a Maruti Car (HR-99-QMTP-3245) which was struck by a Truck/Tanker (HR-38-F-4365), causing deaths of Munish Kumar, Sultan Singh and Ram Niwas and injuries to Sunil.",
+    "FIR No. 938 dated 22.11.2013 was registered under Sections 279, 337, 338 and 304-A IPC at Police Station City Jind.",
+    "The Motor Accident Claims Tribunal, Jind passed a common award dated 30.10.2017 awarding compensation in four MACP cases totalling over Rs. 38 lacs.",
+    "United India Insurance Company filed four appeals (FAOs 1113, 1114, 1119, 1120 of 2018) challenging the award.",
+    "Driver Sandeep's license (Ex.R-2) was valid for MC, LMV, HGV, HTV but lacked the special endorsement required under Rule 9 of Central Motor Vehicles Rules, 1989 for driving a vehicle carrying dangerous or hazardous goods.",
+    "Claimants in FAO-1119-2018 filed cross-objections seeking enhancement of compensation for death of Munish Kumar, supported by Income Tax Returns showing gross annual income of Rs. 2,40,380/-.",
+    "Insurer challenged income assessment at DC Rate instead of Minimum Wages Act and questioned awards for consortium and funeral expenses."
+  ],
+  "legal_issues": [
+    "Whether Sandeep's driving license was valid for driving a Tanker carrying dangerous or hazardous goods under Rule 9 of Central Motor Vehicles Rules, 1989",
+    "Whether absence of special endorsement constitutes a breach of insurance policy conditions enabling the insurer to recover from the owner",
+    "Whether insurer can escape liability despite policy breach, or must pay and recover from the owner",
+    "Quantum of compensation including future prospects, income assessment and consortium"
+  ],
+  "issue_tags": [
+    "driving_license_validity",
+    "license_breach_defence",
+    "insurance_liability",
+    "policy_breach",
+    "pay_and_recover",
+    "compensation_quantum",
+    "compensation_enhancement",
+    "future_prospects",
+    "income_determination",
+    "consortium",
+    "section_166"
+  ],
+  "vehicle_tags": ["tanker", "truck", "car"],
+  "stance_tags": ["claimant_supporting", "insurer_supporting", "mixed"],
+  "outcome": "Four appeals by the insurer partly allowed. Driver Sandeep found to lack the special endorsement required for driving a Tanker carrying hazardous goods under Rule 9 of Central Motor Vehicles Rules, 1989, constituting a policy breach; Tribunal findings on Issue No. 3 reversed giving insurer the right to recover from the insured. Insurer nonetheless directed to pay compensation. Compensation recalculated upward in FAO-1114-2018 and FAO-1119-2018 with 40% future prospects applied; cross-objections in FAO-1119-2018 accepted, compensation for Munish Kumar's death enhanced to Rs. 40,60,400/-. All four appeals and cross-objections disposed of.",
+  "key_holdings": [
+    "A driver of a vehicle carrying dangerous or hazardous goods requires a special endorsement on the driving license under Rule 9 of Central Motor Vehicles Rule, 1989; absence of such endorsement is a breach of insurance policy conditions.",
+    "Despite the policy breach, the insurer cannot escape liability to third-party claimants and must pay compensation, retaining the right to recover from the insured.",
+    "There is no fixed rule that the income of a deceased must be assessed only as per minimum wages; the facts and circumstances of each case must be evaluated.",
+    "Future prospects must be added to income for compensation calculation as mandated by National Insurance Company Limited v. Pranay Sethi and Others."
+  ],
+  "key_passages": [
+    {
+      "label": "license_breach_defence",
+      "quote": "there is no such endorsement on the driving license of Sandeep. Therefore, he was not competent to drive Truck/Tanker and there is clear cut violation of the terms and conditions of insurance policy.",
+      "page": 25
+    },
+    {
+      "label": "pay_and_recover",
+      "quote": "the insurance company cannot escape its liability to make payment of compensation awarded in favour of the claimants. Once the payment is made, the insurance company has right to recover the same from the insured.",
+      "page": 25
+    },
+    {
+      "label": "income_determination",
+      "quote": "there cannot be any fixed rule in all the situations where there is no documentary evidence regarding income of the deceased nor there is any fixed rule that income of the deceased has to be taken only as per minimum wages revised from time to time.",
+      "page": 13
+    },
+    {
+      "label": "compensation_enhancement",
+      "quote": "the future prospects have to be considered in case of deceased Sultan, who was 22 years old, which is to the extent of 40%.",
+      "page": 13
+    }
+  ],
+  "adverse_value": "Insurer's pay-and-recover right affirmed: the court accepted the driving license breach defense (no special endorsement for hazardous goods tanker) and reversed the Tribunal on Issue No. 3, reserving the insurer's right to recover compensation from the owner. Insurers can cite this to establish policy breach and shift ultimate financial liability to the owner in similar tanker/hazardous goods cases.",
+  "summary": "United India Insurance Company filed four appeals challenging a common award dated 30.10.2017 by the Motor Accident Claims Tribunal, Jind, arising from a motor vehicle accident on 21.11.2013 in which a Truck/Tanker struck a Maruti Car, resulting in three deaths and one injury. The insurer contested the quantum of compensation and the validity of driver Sandeep's license for operating a Tanker transporting hazardous goods. The High Court upheld the income assessment method (rejecting the insurer's plea to restrict income to Minimum Wages Act) and applied 40% future prospects for the 22-year-old and 32-year-old deceased, and 25% for the 46-year-old deceased, as mandated by National Insurance Company Limited v. Pranay Sethi. On the license issue, the court reversed the Tribunal and held that a special endorsement under Rule 9 of Central Motor Vehicles Rules, 1989 is required for driving a vehicle carrying dangerous or hazardous goods, which Sandeep lacked, constituting a policy breach. Nonetheless, the insurer was directed to pay the compensation with the right to recover from the insured. The cross-objections filed by claimants in FAO-1119-2018 were accepted and compensation for the death of Munish Kumar was substantially enhanced to Rs. 40,60,400/-. All four appeals and cross-objections were disposed of.",
+  "confidence": "high"
+}

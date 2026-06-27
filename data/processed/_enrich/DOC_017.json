@@ -1,0 +1,82 @@
+{
+  "doc_id": "DOC_017",
+  "case_title": "Sanjay vs. State of Haryana",
+  "court": "High Court of Punjab and Haryana at Chandigarh",
+  "judge_or_bench": "Hon'ble Mr. Justice Vinod S. Bhardwaj",
+  "date": "2025-10-13",
+  "year": 2025,
+  "legal_area": "criminal",
+  "is_motor_accident": true,
+  "procedural_stage": "revision",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Sanjay (petitioner)"],
+    "respondents": ["State of Haryana"],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": ["Sanjay (driver and registered owner of HR 44 E 0207)"]
+  },
+  "statutes": [
+    "Indian Penal Code, 1860 s.279",
+    "Indian Penal Code, 1860 s.337",
+    "Indian Penal Code, 1860 s.304-A",
+    "Indian Penal Code, 1860 s.427",
+    "Motor Vehicles Act, 1988 s.181",
+    "Motor Vehicles Act, 1988 s.192",
+    "Motor Vehicles Act, 1988 s.166"
+  ],
+  "core_facts": [
+    "On 17.11.2016 at about 7:30 P.M. near Kabrel bus stand area, Hisar, a pick-up van bearing registration No. HR 44 E 0207 driven rashly and negligently by Sanjay struck Balbir who was near the khokha of Vikas on the roadside.",
+    "The offending vehicle also rammed into the khokha of PW-7 Vikas, causing property damage. Sanjay fled the spot.",
+    "Balbir succumbed to injuries on 09.12.2016 after continuous treatment at multiple hospitals; Section 304-A IPC was added.",
+    "Accused Sanjay was identified in court by eyewitnesses PW-6 Satish (son of deceased) and PW-7 Vikas; no Test Identification Parade was held.",
+    "Trial Court convicted and sentenced the accused; Additional Sessions Judge dismissed the criminal appeal. The offending vehicle was not insured."
+  ],
+  "legal_issues": [
+    "Whether the death of Balbir was proximately caused by the accident or broken by subsequent shifts in medical treatment.",
+    "Whether identification of accused in court without prior Test Identification Parade is legally valid.",
+    "Whether sentence of 2 years RI under Section 304-A IPC is excessive given mitigating circumstances."
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "negligence_proof",
+    "evidence_appreciation",
+    "conviction",
+    "sentencing",
+    "fir_credibility"
+  ],
+  "vehicle_tags": ["other"],
+  "stance_tags": ["neutral"],
+  "outcome": "Revision petition partly allowed on sentence only. Conviction under all sections affirmed. Sentence under Section 304-A IPC reduced from 2 years rigorous imprisonment to 18 months rigorous imprisonment, considering petitioner is aged 44 years, is the sole breadwinner with four minor children and a deceased wife, and civil compensation of Rs. 11,76,509 has already been awarded under Section 166 MV Act. All other sentences and fine unchanged.",
+  "key_holdings": [
+    "Continuous shifting of an injured person from one hospital to another does not break the causal nexus between the accident and death; the family cannot be attributed negligence for such transfers absent positive medical evidence of improper treatment.",
+    "Identification of an accused in court by natural witnesses who had adequate opportunity to observe the accused is valid even without a prior Test Identification Parade.",
+    "The doctrine of res ipsa loquitur applies where a vehicle crosses the entire width of a road and strikes a pedestrian standing off the road; no contributory negligence can be attributed to such a pedestrian.",
+    "Compensation awarded in a civil motor accident claim is a relevant mitigating factor while considering modification of sentence in a criminal revision."
+  ],
+  "key_passages": [
+    {
+      "label": "causation_medical_treatment",
+      "quote": "It is not in dispute that the deceased remained under continuous medical treatment from the date of the accident until his demise. The mere shifting of the injured from one hospital to another cannot, by itself, be construed as an act of negligence attributable to the family of the deceased.",
+      "page": 20
+    },
+    {
+      "label": "res_ipsa_loquitur",
+      "quote": "The site plan further fortifies the prosecution case. The deceased was standing towards the kuccha portion near PW-7's shop, away from the metalled road. The petitioner, while driving a pick-up vehicle, approached from village Dobhi, failed to negotiate the T-point, and crossed the entire width of the road before striking the deceased.",
+      "page": 22
+    },
+    {
+      "label": "identification_valid",
+      "quote": "identification of the accused in court is valid and admissible in law, and that it is not always mandatory that such identification must be preceded by a Test Identification Parade.",
+      "page": 8
+    },
+    {
+      "label": "outcome_sentence_modified",
+      "quote": "I am of the opinion that the compensation awarded under the M.V. Act, 1988 to the tune of Rs.11,76,509/- has already been awarded, the interest of justice would be well served in case, the sentence awarded by the Courts is modified",
+      "page": 30
+    }
+  ],
+  "adverse_value": "",
+  "summary": "Sanjay, the registered owner and driver of pick-up van HR 44 E 0207, was convicted by the Trial Court under Sections 279, 337, 304-A, 427 IPC and Sections 181 and 192 MV Act for rashly driving and causing the death of Balbir on 17.11.2016 near Kabrel bus stand, Hisar. The Additional Sessions Judge dismissed the criminal appeal. In the criminal revision before the Punjab and Haryana High Court, the petitioner challenged the conviction on three grounds: the causal chain was broken by repeated hospital transfers, in-court identification without TIP was unreliable, and the sentence was excessive. The High Court rejected all contentions on conviction. It held that continuous medical treatment linked the death to the accident, and no medical evidence suggested improper treatment or a break in causation. Identification by natural witnesses PW-6 and PW-7, who had opportunity to observe the accused and were not impeached in cross-examination, was held valid without TIP. The site plan demonstrating that the pick-up van crossed the entire road to strike a pedestrian standing off the road established res ipsa loquitur. On sentence, the Court granted partial relief under Section 304-A, reducing imprisonment from two years to eighteen months RI, considering the petitioner's age, family circumstances (sole breadwinner, four minor children), and the civil compensation already awarded.",
+  "confidence": "high"
+}

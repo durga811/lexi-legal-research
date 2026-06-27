@@ -1,0 +1,73 @@
+{
+  "doc_id": "DOC_045",
+  "case_title": "K. Surappa vs V. Venkatesha Reddy and Others",
+  "court": "High Court of Karnataka",
+  "judge_or_bench": "",
+  "date": "1995-11-17",
+  "year": 1995,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["K. Surappa"],
+    "respondents": ["V. Venkatesha Reddy (owner)", "second respondent (driver)", "Deputy Commissioner, Chitradurga District", "Election Commission of India", "Union of India", "fifth respondent (insurer)"],
+    "claimants": ["K. Surappa"],
+    "insurer": ["fifth respondent (insurer of the bus)"],
+    "owner_or_driver": ["V. Venkatesha Reddy (owner)", "second respondent (driver)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act s.96(2)",
+    "Representation of the People Act s.160",
+    "Representation of the People Act s.161"
+  ],
+  "core_facts": [
+    "Petitioner K. Surappa, a police constable, was travelling in bus No. MYY 3122 belonging to first respondent V. Venkatesha Reddy for election duty on 7.3.1971",
+    "Bus was requisitioned by the Deputy Commissioner under Section 160 of the Representation of the People Act for transporting election officials and boxes",
+    "The bus dashed against a roadside tree and capsized due to rash or negligent driving of the driver, causing compound fracture of both bones of petitioner's left leg and a simple fracture",
+    "Motor Accidents Claims Tribunal dismissed the claim holding: (a) master-servant relationship between owner and driver was temporarily suspended during requisition, and (b) State had sovereign immunity for tortious acts in exercise of sovereign function",
+    "Insurer also contended that commandeering of vehicle for election purposes was outside the policy cover",
+    "No evidence was adduced by the owner that he was not required to pay the driver's wages during the requisition period"
+  ],
+  "legal_issues": [
+    "Whether requisitioning of a vehicle under Section 160 of the Representation of the People Act suspends the master-servant relationship between the vehicle owner and his driver",
+    "Whether the vehicle owner is vicariously liable for the driver's negligence when the vehicle is requisitioned by government for election purposes",
+    "Whether the insurer can avoid liability on the ground that the vehicle was commandeered for election purposes falling outside the policy cover",
+    "Whether the State can claim sovereign immunity for tortious acts of the driver during a sovereign function"
+  ],
+  "issue_tags": ["vicarious_liability", "rash_negligent_driving", "insurance_liability", "owner_liability", "third_party_liability", "compensation_quantum"],
+  "vehicle_tags": ["bus"],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "Appeal allowed with costs. Judgment and award of Tribunal rejecting claim set aside. Petitioner awarded Rs. 20,000 with 12% interest per annum from date of filing petition to date of payment. Insurer (fifth respondent) liable for Rs. 5,000 with proportionate costs and interest; balance payable by owner (first respondent).",
+  "key_holdings": [
+    "Mere requisitioning of a vehicle by government under Section 160 of the Representation of the People Act does not suspend or extinguish the master-servant relationship between the vehicle owner and his driver",
+    "When a vehicle along with its driver is effectively given on hire for a temporary period, the driver does not cease to be the employee of the owner; the relationship only ends if the hirer also controls the method of driving, not merely the destination",
+    "The insurer's defence that commandeering for election purposes took the vehicle outside the policy cover was rightly rejected by the Tribunal under Section 96(2) of the Motor Vehicles Act",
+    "The question of the State's sovereign immunity was rendered unnecessary to decide once owner's vicarious liability was established"
+  ],
+  "key_passages": [
+    {
+      "label": "master_servant_relationship",
+      "quote": "The mere fact that the vehicle ' is requisitioned by the Deputy Commissioner under the above statutory provision, does not lead to the inference that the driver of the vehicle ceased to be the employee of the owner nor does it indicate that the owner ceased to have interest in the vehicle.",
+      "page": 3
+    },
+    {
+      "label": "vicarious_liability_holding",
+      "quote": "the driver continued to be employee of the first respondent and that the first respondent is vicariously liable for the rash or negligent driving of the bus by the driver.",
+      "page": 5
+    },
+    {
+      "label": "insurer_liability",
+      "quote": "The only objection which has been raised by the insurer with regard to its liability namely that as the vehicle had been commandeered for election purposes it is not liable to pay the compensation has been rightly negatived by the Tribunal.",
+      "page": 5
+    },
+    {
+      "label": "compensation_awarded",
+      "quote": "awarding him Rs. 20,000/- together with costs and current interest at 12% per annum from the date of the filing of the petition till date of payment.",
+      "page": 5
+    }
+  ],
+  "adverse_value": "Insurer's liability limited to Rs. 5,000 per endorsement No. 13 in the policy despite total compensation of Rs. 20,000; the endorsement limiting third-party liability was accepted, with the balance payable by the owner.",
+  "summary": "This appeal was filed by K. Surappa, a police constable, seeking compensation for injuries sustained in a motor vehicle accident on 7.3.1971 when a bus requisitioned by the Deputy Commissioner for election duty capsized due to rash and negligent driving. The Motor Accidents Claims Tribunal had dismissed the claim on two grounds: that the requisition temporarily suspended the master-servant relationship between the bus owner and driver, and that the State enjoyed sovereign immunity for tortious acts during a sovereign function. The insurer also pleaded that commandeering placed the vehicle outside the policy cover. The Karnataka High Court reversed all these findings. Applying the principle from Mersey Docks and Harbour Board, the Court held that mere requisitioning under statute does not sever the employer-employee relationship; the burden rests heavily on the owner to prove transfer of the servant and no such evidence was led. The Court further noted that Section 160 of the Representation of the People Act only contemplated requisitioning the vehicle and not the driver's services. The insurer's defence was rejected under Section 96(2). The claimant was awarded Rs. 20,000 with 12% interest, with the insurer bearing Rs. 5,000 per the policy endorsement and the owner the balance.",
+  "confidence": "high"
+}

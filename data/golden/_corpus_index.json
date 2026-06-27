@@ -1,0 +1,1362 @@
+[
+ {
+  "doc_id": "DOC_001",
+  "case_title": "United India Insurance Company Ltd vs Neelam Devi And Others",
+  "court": "High Court of Punjab and Haryana at Chandigarh",
+  "year": 2023,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "driving_license_validity",
+   "license_breach_defence",
+   "insurance_liability",
+   "policy_breach",
+   "pay_and_recover",
+   "compensation_quantum",
+   "compensation_enhancement",
+   "future_prospects",
+   "income_determination",
+   "consortium",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "insurer_supporting",
+   "mixed"
+  ],
+  "vehicle_tags": [
+   "tanker",
+   "truck",
+   "car"
+  ],
+  "outcome": "Four appeals by the insurer partly allowed. Driver Sandeep found to lack the special endorsement required for driving a Tanker carrying hazardous goods under Rule 9 of Central Motor Vehicles Rules, 1989, constituting a policy breach; Tribunal findings on Issue No. 3 reversed giving insurer the right to recover from the insured. Insurer nonetheless directed to pay compensation. Compensation recalculated upward in FAO-1114-2018 and FAO-1119-2018 with 40% future prospects applied; cross-objections in FAO-1119-2018 accepted, compensation for Munish Kumar's death enhanced to Rs. 40,60,400/-. All four appeals and cross-objections disposed of.",
+  "adverse_value": "Insurer's pay-and-recover right affirmed: the court accepted the driving license breach defense (no special endorsement for hazardous goods tanker) and reversed the Tribunal on Issue No. 3, reserving the insurer's right to recover compensation from the owner. Insurers can cite this to establish policy breach and shift ultimate financial liability to the owner in similar tanker/hazardous goods cases."
+ },
+ {
+  "doc_id": "DOC_002",
+  "case_title": "Liyakat Ali vs Smt Chunni Devi",
+  "court": "High Court of Judicature at Allahabad",
+  "year": 2010,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "insurance_liability",
+   "policy_breach",
+   "third_party_liability",
+   "owner_liability",
+   "permit_violation",
+   "section_166"
+  ],
+  "stance_tags": [
+   "insurer_supporting",
+   "adverse_to_claimant"
+  ],
+  "vehicle_tags": [
+   "tractor",
+   "trailer"
+  ],
+  "outcome": "Appeal dismissed for different reasons. While the court held that a trailer/trolley attached to a tractor is part of the tractor and covered by the tractor's insurance (not requiring separate premium), it found that the tractor was insured only for agricultural use and was carrying bricks and iron rods for construction — a non-agricultural purpose — constituting a breach of policy conditions. The insurer was therefore not liable and the owner of the tractor was held liable to pay the compensation of Rs. 1,18,850/-.",
+  "adverse_value": "Directly adverse to claimants: the court exonerated the insurer from liability because the tractor was used for a non-agricultural purpose in breach of policy conditions. Claimants must recover from the owner (who may be less solvent) rather than the insurer."
+ },
+ {
+  "doc_id": "DOC_003",
+  "case_title": "United India Insurance Co Ltd vs Smt Parvathi Hebbar W/O Late Ramakrishna Hebbar",
+  "court": "High Court of Karnataka at Bengaluru",
+  "year": 2017,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "driving_license_validity",
+   "license_breach_defence",
+   "insurance_liability",
+   "policy_breach",
+   "pay_and_recover",
+   "third_party_liability",
+   "compensation_quantum",
+   "section_166"
+  ],
+  "stance_tags": [
+   "insurer_supporting",
+   "adverse_to_claimant"
+  ],
+  "vehicle_tags": [
+   "car"
+  ],
+  "outcome": "Appeal allowed. Liability shifted from insurer to owner. The driving license expired on 30-04-2008 and the accident occurred on 02-07-2008; since renewal was applied for more than 30 days after expiry, the proviso to Section 15(1) operates and the license is valid only from the date of renewal (04-07-2008), not retrospectively. The driver was not holding a valid license on the date of the accident, constituting a policy breach. However, since third parties have a statutory right to recover compensation, the insurer was directed to pay the awarded sum and recover from the insured by applying the pay-and-recover principle.",
+  "adverse_value": "Directly adverse to claimants: the court accepted the insurer's defense of driving license breach (license expired more than 30 days before the accident and renewed only after) and shifted primary liability to the owner. The insurer pays only on a pay-and-recover basis, exposing claimants to collection risk if the owner cannot repay."
+ },
+ {
+  "doc_id": "DOC_004",
+  "case_title": "Oriental Insurance Company vs Soma Devi and Others",
+  "court": "High Court of Himachal Pradesh at Shimla",
+  "year": 2020,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "negligence_proof",
+   "fir_credibility",
+   "insurance_liability",
+   "compensation_quantum",
+   "compensation_enhancement",
+   "future_prospects",
+   "income_determination",
+   "just_compensation",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "motorcycle",
+   "car"
+  ],
+  "outcome": "Appeal disposed of. Insurer's contention that the car's driver was not at fault was rejected; the FIR was found to be a one-sided version from the car driver, without independent investigation of the surviving occupant. Insurer's liability affirmed. Compensation enhanced from Rs. 4,00,000/- to Rs. 5,99,000/- by applying 40% future prospects on Rs. 3,500/- (self-employed, below 40 years per Pranay Sethi), 50% deduction for personal expenses (bachelor), multiplier 18 for age group 21-25 years (Sarla Verma), plus conventional heads: loss of estate Rs. 15,000/-, consortium Rs. 40,000/-, funeral expenses Rs. 15,000/-. Interest reduced from 7.5% to 6% p.a. from the date of filing of the petition.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_005",
+  "case_title": "L And T Insurance Co Ltd vs Bindudevi Samharu Yadav And Others",
+  "court": "High Court of Gujarat at Ahmedabad",
+  "year": 2026,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "fake_license",
+   "license_breach_defence",
+   "insurance_liability",
+   "maintainability",
+   "workmens_compensation",
+   "section_166",
+   "section_167_mv_act",
+   "third_party_liability"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "tempo",
+   "dumper"
+  ],
+  "outcome": "Appeal dismissed. The bar of Section 167 of MV Act does not apply because the parties before the Workmen's Compensation Commissioner (employer of the deceased and ICICI Lombard as insurer of the tempo) and the parties before the MACT (driver, owner and L&T Insurance as insurer of the dumper truck) were entirely different; the two claims arose under different legal relationships. On the driving license issue, the insurer failed to prove by cogent evidence that the license was fake; merely relying on oral testimony of a legal officer without producing proper documentation from the RTO was insufficient. Award of Rs. 12,12,400/- maintained.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_006",
+  "case_title": "National Insurance Company Ltd. vs Smt. Meena And 4 Others",
+  "court": "High Court of Judicature at Allahabad, Lucknow Bench",
+  "year": 2024,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "contributory_negligence",
+   "negligence_proof",
+   "driving_license_validity",
+   "license_breach_defence",
+   "pay_and_recover",
+   "insurance_liability",
+   "compensation_quantum",
+   "compensation_enhancement",
+   "future_prospects",
+   "income_determination",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "tanker"
+  ],
+  "outcome": "Insurer's appeal (F.A.F.O. 148/2012) dismissed: following S. Iyyapan v. United India Insurance Company, even where the driver lacks a valid license, the insurer must pay compensation to claimants with right to recover from the owner. Claimants' appeal (F.A.F.O. 123/2012) partly allowed: 50% contributory negligence finding reversed; 100% negligence attributed to Tanker driver based on credible unrebutted eye-witness testimony; VPF and festival advance deductions restored to income; 30% future prospects added; interest increased from 6% to 7%; total compensation recalculated to Rs. 13,74,876/-; insurer directed to pay with right to recover from owner Anil Kumar Gupta.",
+  "adverse_value": "Insurer can cite the pay-and-recover direction: where the Tanker driver lacked a valid license, the court confirmed the insurer's right to recover the entire compensation from the owner (Anil Kumar Gupta). Insurers can use this precedent to shift ultimate financial liability to the vehicle owner."
+ },
+ {
+  "doc_id": "DOC_007",
+  "case_title": "National Insurance Co. Ltd. vs Harpreet Singh and Others",
+  "court": "High Court of Jammu and Kashmir at Jammu",
+  "year": 2014,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "loss_of_dependency",
+   "compensation_quantum",
+   "compensation_reduction",
+   "income_determination",
+   "multiplier",
+   "section_166"
+  ],
+  "stance_tags": [
+   "insurer_supporting",
+   "adverse_to_claimant"
+  ],
+  "vehicle_tags": [
+   "car"
+  ],
+  "outcome": "Appeal allowed in part. Claimant Harpreet Singh, being gainfully employed as a clerk in Doordarshan (Central Government service) and not dependent on the deceased at the time of death, is not entitled to compensation under the head 'loss of dependency'; he is entitled only to compensation for loss to estate and the statutory minimum under Section 140. Family strength recalculated as 2 (deceased + Harbaksh Singh only); 50% deduction for personal expenses; no addition for future prospects (deceased above 50 years); income tax of Rs. 15,000/- deducted from gross income. Multiplier 9 (correctly scaled down from applicable 11). Compensation under loss of dependency: Rs. 12,36,600/-, plus Rs. 15,000/- funeral expenses. Total Rs. 12,51,600/- (reduced from Rs. 17,53,800/-).",
+  "adverse_value": "Directly adverse to claimants: the court reduced total compensation from Rs. 17,53,800/- to Rs. 12,51,600/- by excluding a gainfully employed son (Central Government employee) from the 'loss of dependency' computation and reducing the family strength. Insurers can cite this to challenge compensation where one or more claimants are independently earning and not actually dependent on the deceased."
+ },
+ {
+  "doc_id": "DOC_008",
+  "case_title": "General Manager Karnataka State Road Transport Corporation vs Khatujabee",
+  "court": "High Court of Karnataka (Full Bench)",
+  "year": 1990,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "multiplier",
+   "loss_of_dependency",
+   "compensation_quantum",
+   "just_compensation",
+   "income_determination"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Full Bench answered that H.T. Bhandary v. Muniyamma [ILR 1985(2) Karnataka 2337] does NOT stand overruled by the SC decisions in Rajendra Kumari v. Shanta Trivedi and Jyotsna Dey v. State of Assam [1987(1) ACJ 172]. The contrary view taken by the Division Bench in Khatujabee's case stands overruled. The operative multiplier principle (base multiplier 16, scaled down with age) remains binding on all Motor Accident Claims Tribunals in Karnataka.",
+  "adverse_value": "The operative multiplier principle caps the maximum multiplier at 16 for the youngest deceased and requires systematic reduction with age; insurers or owners could cite this older Karnataka Full Bench precedent to argue for lower multipliers than those in the Sarla Verma schedule, potentially reducing compensation awards."
+ },
+ {
+  "doc_id": "DOC_009",
+  "case_title": "Kamal S/o Shiv Ram vs Mursleem S/o Mohd. Akil and Others",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "year": 2019,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "contributory_negligence",
+   "driving_license_validity",
+   "compensation_quantum",
+   "income_determination",
+   "section_166",
+   "just_compensation",
+   "interest_on_compensation"
+  ],
+  "stance_tags": [
+   "mixed"
+  ],
+  "vehicle_tags": [
+   "motorcycle"
+  ],
+  "outcome": "All three DAR petitions (402/18, 403/18, 404/18) allowed with 50% deduction for contributory negligence. Kamal awarded Rs. 55,844 (reduced from Rs. 1,11,688); Rajni and Tannu each awarded Rs. 48,500 (reduced from Rs. 97,000 each). Bajaj Allianz General Insurance Co. directed to pay all amounts within one month with 9% per annum interest from date of filing of each petition.",
+  "adverse_value": "A 50% contributory negligence deduction was applied because the motorcycle rider had no driving licence and none of the occupants wore helmets; this precedent can be cited by insurers or defendants to argue for proportionate contributory negligence reduction in similar circumstances."
+ },
+ {
+  "doc_id": "DOC_010",
+  "case_title": "Raju Gupta S/o Sh. Madan Mohan Gupta vs Manoj Kumar and Others",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "compensation_quantum",
+   "income_determination",
+   "section_166",
+   "future_prospects",
+   "just_compensation",
+   "interest_on_compensation",
+   "insurance_liability"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [
+   "auto_rickshaw",
+   "truck"
+  ],
+  "outcome": "All three petitions allowed. Raju Gupta (DAR 153/16) awarded Rs. 5,33,033 (primarily Rs. 3,52,432 for future loss of income at 20% functional disability, multiplier 16, plus wages for 5 months, pain and suffering, amenities, attendant charges, and medical expenses). Neelam (DAR 154/16) and Satish Kumar (DAR 155/16) each awarded Rs. 15,000 for simple injuries. National Insurance Co. directed to pay all amounts with 9% interest from date of filing.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_011",
+  "case_title": "Asfaq Ahmad and Others vs Satender and Others",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "loss_of_dependency",
+   "compensation_quantum",
+   "income_determination",
+   "section_166",
+   "multiplier",
+   "future_prospects",
+   "just_compensation",
+   "interest_on_compensation"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [
+   "motorcycle",
+   "bus"
+  ],
+  "outcome": "MACT 74/18 (death claim): Rs. 12,36,660 awarded to parents and brother with 9% interest per annum from date of filing. MACT 124/18 (injury claim): Rs. 1,89,150 awarded to Sherddin with 9% interest per annum. Oriental Insurance Co. Ltd. held liable for both awards; amounts directed to be deposited with UCO Bank.",
+  "adverse_value": "A 50% deduction for personal expenses was applied because the deceased was a bachelor, substantially reducing the loss of dependency award; insurers or owners can cite this to halve dependency awards where the deceased had no spouse or children."
+ },
+ {
+  "doc_id": "DOC_012",
+  "case_title": "Smt. Rekha Kumari and Others vs Gopal Malahakar and Others",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "loss_of_dependency",
+   "compensation_quantum",
+   "income_determination",
+   "section_166",
+   "multiplier",
+   "consortium",
+   "future_prospects",
+   "just_compensation",
+   "interest_on_compensation"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [
+   "motorcycle"
+  ],
+  "outcome": "MACT 416/16 (death claim): Rs. 15,33,904 awarded to five petitioners (wife, two minor children, parents) with 9% interest per annum from date of filing. MACT 417/16 (injury claim): Rs. 4,31,478 awarded to Naresh with 9% interest. Reliance General Insurance Co. directed to pay both awards.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_013",
+  "case_title": "Mohammed Aynuddin @ Miyam vs State of Andhra Pradesh",
+  "court": "Supreme Court of India",
+  "year": 2000,
+  "legal_area": "criminal",
+  "is_motor": false,
+  "issue_tags": [
+   "criminal_liability",
+   "acquittal",
+   "evidence_appreciation",
+   "negligence_proof"
+  ],
+  "stance_tags": [
+   "owner_driver_supporting"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Appeal allowed. Conviction and sentence under Section 304A IPC set aside. Appellant acquitted. The Supreme Court held that the evidence was too scanty to establish criminal negligence and that res ipsa loquitur did not apply because the accident could have had multiple explanations other than negligent driving.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_014",
+  "case_title": "Shivlal and Ors vs Smt. Rukmabai and Ors",
+  "court": "High Court of Madhya Pradesh",
+  "year": 1985,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "negligence_proof",
+   "insurance_liability",
+   "policy_breach",
+   "third_party_liability",
+   "compensation_quantum",
+   "loss_of_dependency",
+   "just_compensation"
+  ],
+  "stance_tags": [
+   "insurer_supporting",
+   "adverse_to_claimant"
+  ],
+  "vehicle_tags": [
+   "tractor"
+  ],
+  "outcome": "MA 26/81 (owners' appeal) dismissed: negligence of Shivlal established under res ipsa loquitur; tractor turning turtle without credible explanation raises a rebuttable presumption of negligent driving. MA 55/81 (insurer's appeal) allowed: insurer held NOT liable for gratuitous passenger not covered under Section 95 of the Motor Vehicles Act; award set aside as against insurer. Claimants' cross-objection for enhancement dismissed: Rs. 32,000 award held adequate.",
+  "adverse_value": "Insurance company held not liable for death of a gratuitous passenger in a goods vehicle (tractor) where the policy does not cover such risk under Section 95(2) of the Motor Vehicles Act; directly usable by insurers to defeat compensation claims from families of persons who died while travelling as non-paying, non-employee passengers in goods vehicles."
+ },
+ {
+  "doc_id": "DOC_015",
+  "case_title": "State of H.P. vs. Krishan Lal",
+  "court": "High Court of Himachal Pradesh, Shimla",
+  "year": 2024,
+  "legal_area": "criminal",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "negligence_proof",
+   "evidence_appreciation",
+   "acquittal",
+   "fir_credibility"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [
+   "private_vehicle"
+  ],
+  "outcome": "Criminal appeal by State of H.P. dismissed. Acquittal of accused Krishan Lal upheld. High Court held the Trial Court's view was a plausible and reasonable view based on material on record, as prosecution witnesses admitted in cross-examination that the danga (retaining wall) on the road had collapsed, raising a reasonable alternative explanation. The accused was ordered released from custody.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_016",
+  "case_title": "Chaina Ram vs. State of H.P.",
+  "court": "High Court of Himachal Pradesh, Shimla",
+  "year": 2025,
+  "legal_area": "criminal",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "negligence_proof",
+   "driving_license_validity",
+   "conviction",
+   "evidence_appreciation"
+  ],
+  "stance_tags": [
+   "owner_driver_supporting",
+   "neutral"
+  ],
+  "vehicle_tags": [
+   "bus"
+  ],
+  "outcome": "Revision partly allowed. Conviction and sentence under Sections 279, 337 and 338 IPC set aside; prosecution failed to prove accused moved the bus without receiving conductor's signal. Conviction under Section 181 MV Act upheld as accused never produced driving license before any court. Fine for Section 181 MV Act conviction maintained.",
+  "adverse_value": "Holding that driving without a valid license does not per se constitute rash or negligent driving can be cited by accused drivers to resist IPC negligence convictions based solely on license absence."
+ },
+ {
+  "doc_id": "DOC_017",
+  "case_title": "Sanjay vs. State of Haryana",
+  "court": "High Court of Punjab and Haryana at Chandigarh",
+  "year": 2025,
+  "legal_area": "criminal",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "negligence_proof",
+   "evidence_appreciation",
+   "conviction",
+   "sentencing",
+   "fir_credibility"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [
+   "other"
+  ],
+  "outcome": "Revision petition partly allowed on sentence only. Conviction under all sections affirmed. Sentence under Section 304-A IPC reduced from 2 years rigorous imprisonment to 18 months rigorous imprisonment, considering petitioner is aged 44 years, is the sole breadwinner with four minor children and a deceased wife, and civil compensation of Rs. 11,76,509 has already been awarded under Section 166 MV Act. All other sentences and fine unchanged.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_018",
+  "case_title": "The Oriental Insurance Company Ltd. vs. Smt. Rani And Others",
+  "court": "High Court of Judicature at Allahabad, Lucknow Bench",
+  "year": 2019,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "compensation_quantum",
+   "contributory_negligence",
+   "insurance_liability",
+   "multiplier",
+   "loss_of_dependency",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "motorcycle",
+   "other"
+  ],
+  "outcome": "Appeal dismissed. MACT award of Rs. 4,17,500 with interest at 7% per annum confirmed. Insurer directed to pay entire compensation within one month from date of judgment.",
+  "adverse_value": "Suggests that the insurer's failure to call the driver for cross-examination and not producing any evidence of contributory negligence is fatal; insurer must adduce positive evidence to successfully plead contributory negligence."
+ },
+ {
+  "doc_id": "DOC_019",
+  "case_title": "Surendra Singh And Another vs. Vijay Singh And Another (with connected appeals)",
+  "court": "High Court of Judicature at Allahabad",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "compensation_quantum",
+   "compensation_enhancement",
+   "multiplier",
+   "future_prospects",
+   "loss_of_dependency",
+   "just_compensation",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [
+   "truck",
+   "car"
+  ],
+  "outcome": "FAFO Nos. 3484/2012, 1199/2016 and 1820/2002 (claimant appeals) allowed with substantially enhanced compensation. FAFO No. 4230/2017 (insurer appeal) also allowed on the ground of higher personal expense deduction (1/2 for bachelor), but total compensation enhanced to Rs. 5,83,500/- because the correct multiplier of 18 and 40% future prospects together yielded a higher overall figure.",
+  "adverse_value": "Establishes that future prospects cannot be awarded on notional income (income not actually earned), which insurers can cite to resist future prospects claims where the deceased had no established income."
+ },
+ {
+  "doc_id": "DOC_020",
+  "case_title": "Yogeshkumar Badharsinh Baria vs. Dilipkumar Ranchhodbhai Damor And Another",
+  "court": "High Court of Gujarat at Ahmedabad",
+  "year": 2025,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "compensation_quantum",
+   "compensation_enhancement",
+   "future_prospects",
+   "income_determination",
+   "multiplier",
+   "just_compensation",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [
+   "other"
+  ],
+  "outcome": "Appeal allowed. Total compensation revised from Rs. 4,68,600 to Rs. 16,42,440 (enhanced by Rs. 11,73,840), with interest at 9% p.a. from date of filing of claim petition till actual realization. Respondents held jointly and severally liable. Enhanced amount to be deposited with concerned Tribunal within eight weeks.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_021",
+  "case_title": "Rajesh Kumar Shukla And Another vs. Naseem Ahmed And Others (with connected petitions)",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "compensation_quantum",
+   "loss_of_dependency",
+   "insurance_liability",
+   "section_166",
+   "third_party_liability",
+   "interest_on_compensation"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [
+   "truck",
+   "car"
+  ],
+  "outcome": "All four claim petitions allowed. United India Insurance Co. Ltd. directed to pay: Rs. 6,53,334 with 9% interest from date of filing (MACT 14615/15 - death of Shaksham Shukla); Rs. 88,663 with 9% interest (MACT 15128/15 - injuries to Anushka Shukla); Rs. 1,83,444 with 9% interest (MACT 15129/15 - injuries to Meena Shukla); Rs. 26,172 with 9% interest (MACT 15182/15 - injuries to Vansh Shukla).",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_022",
+  "case_title": "Sangeeta Devi W/O Sh. Vinod Kumar Singh vs Mahesh Chand & Ors",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "rash_negligent_driving",
+   "negligence_proof",
+   "compensation_quantum",
+   "loss_of_dependency",
+   "multiplier",
+   "section_166",
+   "just_compensation"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [
+   "motorcycle"
+  ],
+  "outcome": "DAR petition allowed. Respondent directed to pay compensation of Rs. 5,74,000/- with interest at 9% p.a. from date of filing till realisation.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_023",
+  "case_title": "Suman Lata And Ors. vs Madan Mohan Sonkar And Ors.",
+  "court": "High Court of Judicature at Allahabad",
+  "year": 2005,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "contributory_negligence",
+   "compensation_quantum",
+   "multiplier",
+   "income_determination",
+   "future_prospects",
+   "insurance_liability",
+   "interest_on_compensation",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "insurer_supporting",
+   "mixed"
+  ],
+  "vehicle_tags": [
+   "jeep",
+   "scooter"
+  ],
+  "outcome": "Both appeals disposed of with a modification: the rate of interest was reduced from 9% to 7.5% per annum. The award amount of Rs. 16,09,000 was confirmed. The share of minors was directed to be deposited in a nationalised bank in fixed deposits till majority.",
+  "adverse_value": "Insurer cannot challenge quantum without Section 170 permission — cuts both ways but limits insurer's appeal rights."
+ },
+ {
+  "doc_id": "DOC_024",
+  "case_title": "Sunil Shreesail Killiket vs Mr. Subbaray and Bajaj Allianz General Insurance Co. Ltd.",
+  "court": "III Additional Judge and Motor Accident Claims Tribunal, Court of Small Causes, Bengaluru (SCCH-18)",
+  "year": 2024,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "driving_license_validity",
+   "license_breach_defence",
+   "insurance_liability",
+   "pay_and_recover",
+   "third_party_liability",
+   "compensation_quantum",
+   "rash_negligent_driving",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "car"
+  ],
+  "outcome": "Petition allowed in part. Total compensation of Rs. 87,49,500/- awarded against Respondent No. 1 (owner). Insurer directed to pay first under 'pay and recover' principle with liberty to recover from Respondent No. 1. Interest at 6% p.a. on Rs. 68,21,500/- from date of petition till realisation.",
+  "adverse_value": "Insurer proved breach of policy (no driving licence) and was found not liable to indemnify owner, but still directed to pay and recover; this case confirms that proving licence breach does not by itself exonerate the insurer from paying the third party."
+ },
+ {
+  "doc_id": "DOC_025",
+  "case_title": "New India Assurance Co. Ltd. vs Yallavva W/O Yamanappa Dharnakeri",
+  "court": "High Court of Karnataka at Bengaluru (Special Full Bench)",
+  "year": 2020,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "insurance_liability",
+   "policy_breach",
+   "pay_and_recover",
+   "third_party_liability",
+   "commercial_vehicle_use",
+   "permit_violation",
+   "section_166",
+   "license_breach_defence"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "tempo",
+   "goods_carriage",
+   "commercial_vehicle"
+  ],
+  "outcome": "Appeal dismissed. Full Bench held that Tribunals and High Courts can pass 'pay and recover' orders even when the insurer has proved a breach of policy under Section 149(2), subject to the exception of fraud or collusion by the victim with the insured. The only circumstance where the insurer can be completely absolved is if the third party/victim was responsible for or complicit in the breach.",
+  "adverse_value": "Insurer directed to pay and recover even when gratuitous-passenger breach was proved; insurer retains pay-and-recover rights but cannot be fully exonerated for third-party claims absent fraud/collusion — limits insurer's ability to use policy breach as complete defence."
+ },
+ {
+  "doc_id": "DOC_026",
+  "case_title": "National Insurance Co. Ltd. vs Ellappa and others",
+  "court": "High Court of Judicature at Madras",
+  "year": 2009,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "insurance_liability",
+   "pay_and_recover",
+   "third_party_liability",
+   "commercial_vehicle_use",
+   "permit_violation",
+   "compensation_quantum",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "tempo",
+   "goods_carriage",
+   "commercial_vehicle"
+  ],
+  "outcome": "All 11 civil miscellaneous appeals disposed of. Common award of the Tribunal as to quantum confirmed. Insurer directed to pay compensation to claimants first and to recover the same from the owner-cum-driver (Kuttiappan/first respondent in MCOPs) by filing execution proceedings directly before the concerned court.",
+  "adverse_value": "Insurer is not statutorily liable for gratuitous passengers in goods vehicles; however, court exercised discretion to pass pay-and-recover order. Insurer-supporting precedent on the statutory non-coverage point, but adverse on the pay-and-recover outcome."
+ },
+ {
+  "doc_id": "DOC_027",
+  "case_title": "The Manager, New India Assurance Co. Ltd. vs Chennamma and others",
+  "court": "High Court of Judicature at Madras",
+  "year": 2013,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "driving_license_validity",
+   "license_breach_defence",
+   "insurance_liability",
+   "pay_and_recover",
+   "third_party_liability",
+   "compensation_quantum",
+   "loss_of_dependency",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "lorry",
+   "truck",
+   "goods_carriage",
+   "commercial_vehicle",
+   "motorcycle"
+  ],
+  "outcome": "Appeal dismissed. Tribunal's award of Rs. 12,89,500/- confirmed. Insurer directed to pay and recover from 5th Respondent (owner M/s Ravi Bricks Pvt. Ltd.) as per the mode stated in Nanjappan's case. 4th Claimant (Ramulamma) having died, her share to be apportioned equally among remaining claimants.",
+  "adverse_value": "Confirms that insurer who proves LMV-only-licence breach for a HGV still cannot be exonerated from paying third-party claimants; only pay and recover is available. Insurer-friendly on the substantive licence-breach finding but adverse on the remedy."
+ },
+ {
+  "doc_id": "DOC_028",
+  "case_title": "United India Insurance Co. Ltd. vs Sukumarbai Suryakant Nikam And Ors",
+  "court": "High Court of Judicature at Bombay, Bench at Aurangabad",
+  "year": 2019,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "insurance_liability",
+   "policy_breach",
+   "pay_and_recover",
+   "third_party_liability",
+   "commercial_vehicle_use"
+  ],
+  "stance_tags": [
+   "insurer_supporting",
+   "adverse_to_claimant"
+  ],
+  "vehicle_tags": [
+   "jeep"
+  ],
+  "outcome": "Appeal partly allowed. MACT award set aside to the extent of holding the insurance company liable jointly and severally. Claim as against the insurance company dismissed. Claimants directed to recover compensation solely from opponent No. 1 (driver-cum-owner Abdul Gazi). Insurance company's deposited amount to be returned.",
+  "adverse_value": "A claimant travelling in a private vehicle being plied for hire or reward is not a 'third party' and the insurer may be completely exonerated; this judgment is directly adverse to claimants in such scenarios as it removes even the pay-and-recover protection. Insurer can cite this to resist any claim by occupants of privately-owned vehicles used for hire."
+ },
+ {
+  "doc_id": "DOC_029",
+  "case_title": "United India Insurance Co. Ltd. vs Minor Mahesh Kanubhai & 2",
+  "court": "High Court of Gujarat at Ahmedabad",
+  "year": 2014,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "pay_and_recover",
+   "third_party_liability",
+   "insurance_liability",
+   "policy_breach",
+   "commercial_vehicle_use",
+   "section_166",
+   "maintainability"
+  ],
+  "stance_tags": [
+   "insurer_supporting",
+   "adverse_to_claimant"
+  ],
+  "vehicle_tags": [
+   "tempo",
+   "tractor",
+   "goods_carriage",
+   "commercial_vehicle"
+  ],
+  "outcome": "All five appeals allowed. Insurance companies exonerated. Impugned awards modified so that only the driver and owner of the vehicle are liable to pay compensation; insurance companies stand exonerated from such liability.",
+  "adverse_value": "Holds that Claims Tribunal and High Court exercising section 173 jurisdiction have no power to direct an insurer to pay and recover for gratuitous passengers in goods vehicles; such directions require Article 142 powers only available to the Supreme Court. Insurers can cite this to challenge pay-and-recover orders passed against them in non-third-party cases."
+ },
+ {
+  "doc_id": "DOC_030",
+  "case_title": "Dadapeera S/O Abdul Salam Sab vs Mallesh M S/O Hanumanthappa",
+  "court": "High Court of Karnataka, Dharwad Bench",
+  "year": 2025,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "insurance_liability",
+   "third_party_liability",
+   "pay_and_recover",
+   "policy_breach",
+   "compensation_enhancement",
+   "compensation_quantum",
+   "income_determination",
+   "just_compensation"
+  ],
+  "stance_tags": [
+   "insurer_supporting",
+   "adverse_to_claimant"
+  ],
+  "vehicle_tags": [
+   "tractor",
+   "trailer"
+  ],
+  "outcome": "Appeal partly allowed. Compensation enhanced from Rs.84,160/- to Rs.2,33,680/- with interest at 6% per annum from date of petition till realisation. Insurance company's exoneration upheld. Only owner (Hussain Sab Bavaji) and driver (Mallesh M) are liable to pay the enhanced compensation.",
+  "adverse_value": "Holds that persons sitting on the mud-guard of a tractor are not covered by statutory insurance under section 147(1) MV Act, exonerating the insurer entirely. Also clarifies that violation of Rule 28 of Road Regulations is not a section 149(2) defence and therefore pay-and-recover cannot be ordered even in such breach cases."
+ },
+ {
+  "doc_id": "DOC_031",
+  "case_title": "National Insurance Co. Ltd vs Laxmi Narain Dhut",
+  "court": "Supreme Court of India",
+  "year": 2007,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "fake_license",
+   "driving_license_validity",
+   "license_breach_defence",
+   "insurance_liability",
+   "third_party_liability",
+   "pay_and_recover",
+   "policy_breach"
+  ],
+  "stance_tags": [
+   "insurer_supporting",
+   "adverse_to_claimant"
+  ],
+  "vehicle_tags": [],
+  "outcome": "All appeals allowed. High Courts and Consumer Commissions directed to reconsider matters afresh in light of the principles laid down: Swaran Singh applies only to third-party risk; fake licence renewal cannot cure the defect; purposive interpretation does not apply to section 149 cases.",
+  "adverse_value": "Limits the protective scope of Swaran Singh to third-party risk cases only; insurers can rely on this to resist paying own-damage claims where a driver held a fake licence. Also confirms that renewal of a fake licence does not validate it, a defence insurers can raise in both third-party and own-damage contexts."
+ },
+ {
+  "doc_id": "DOC_032",
+  "case_title": "S. Iyyapan vs M/S United India Insurance Co. Ltd. & Anr",
+  "court": "Supreme Court of India",
+  "year": 2013,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "driving_license_validity",
+   "license_breach_defence",
+   "insurance_liability",
+   "third_party_liability",
+   "commercial_vehicle_use",
+   "section_166"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "taxi",
+   "commercial_vehicle"
+  ],
+  "outcome": "Appeal allowed. Impugned judgment of the High Court set aside. Insurer held liable to pay the compensation so awarded to the dependants of the victim of the fatal accident.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_033",
+  "case_title": "Satto & Ors vs New India Assurance Co Ltd",
+  "court": "High Court of Delhi at New Delhi",
+  "year": 2013,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "insurance_liability",
+   "pay_and_recover",
+   "third_party_liability",
+   "driving_license_validity",
+   "license_breach_defence",
+   "commercial_vehicle_use",
+   "compensation_quantum",
+   "compensation_enhancement",
+   "loss_of_dependency",
+   "future_prospects"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "insurer_supporting",
+   "mixed"
+  ],
+  "vehicle_tags": [
+   "tempo",
+   "goods_carriage",
+   "commercial_vehicle"
+  ],
+  "outcome": "MAC APPs 30/2012 and 138/2011 (Harpal Singh): compensation enhanced to Rs.4,38,000/-. MAC APPs 744/2011 and 143/2011 (Satto): compensation enhanced to Rs.3,75,000/-. Insurance company held liable to pay with recovery rights against owner (Mohd. Qayum) and driver (Sunil Kumar). No addition for future prospects as deceased were self-employed/temporary workers.",
+  "adverse_value": "Holds that no future prospects addition is permissible where the deceased was self-employed or in temporary employment (following Reshma Kumari). Insurers and defendants can cite this to restrict compensation in cases where the deceased was not in permanent salaried employment."
+ },
+ {
+  "doc_id": "DOC_034",
+  "case_title": "K.G. Srinivasamurthy vs Habib Khathun And Ors.",
+  "court": "High Court of Karnataka",
+  "year": 2001,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "driving_license_validity",
+   "license_breach_defence",
+   "insurance_liability",
+   "third_party_liability",
+   "pay_and_recover",
+   "compensation_quantum",
+   "compensation_enhancement",
+   "negligence_proof"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "lorry",
+   "motorcycle"
+  ],
+  "outcome": "M.F.A. No. 5566/1999 (insurer's appeal in MVC 177/1997) dismissed; insurer remains jointly liable with owner. M.F.A. No. 690/2000 (claimant's appeal) partly allowed; compensation enhanced to Rs.3,50,000/- with interest at 9% p.a. Cross-objection No. 23/2000 allowed in part (interest rate aspect). M.F.A. No. 3557/1998 (owner's appeal in MVC 140/1994) allowed; insurer held jointly and severally liable with owner; compensation enhanced to Rs.1,95,000/- with interest at 9% p.a. No recovery order made since insurer failed to prove breach.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_035",
+  "case_title": "United India Insurance Company Limited vs V. Vijayakumar",
+  "court": "High Court of Judicature at Madras",
+  "year": 2010,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "driving_license_validity",
+   "license_breach_defence",
+   "insurance_liability",
+   "pay_and_recover",
+   "third_party_liability",
+   "compensation_quantum",
+   "just_compensation"
+  ],
+  "stance_tags": [
+   "mixed",
+   "insurer_supporting"
+  ],
+  "vehicle_tags": [
+   "taxi",
+   "commercial_vehicle"
+  ],
+  "outcome": "Appeal partly allowed. Quantum of Rs.19,59,895/- with 9% interest per annum confirmed as just and reasonable. Award modified: insurance company is not jointly and severally liable but must pay the compensation to the claimant (1st respondent) and then recover the same from the insured (owner C. Marimuthu and driver). Insurer entitled to file execution petition against respondents 3 and 4 in the same proceedings.",
+  "adverse_value": "Holds that an insurer who proves that the driver lacked specific transport vehicle authorisation (badge) has established a breach of policy conditions under section 149(2)(a)(ii); the insurer escapes joint-and-several liability and obtains recovery rights against the owner/driver through a pay-and-recover modification."
+ },
+ {
+  "doc_id": "DOC_036",
+  "case_title": "Tarachand Raosaheb Chaudhari vs The Oriental Insurance Co Ltd",
+  "court": "Maharashtra State Consumer Disputes Redressal Commission, Mumbai, Bench at Aurangabad",
+  "year": 2024,
+  "legal_area": "consumer",
+  "is_motor": false,
+  "issue_tags": [
+   "insurance_liability",
+   "policy_breach",
+   "evidence_appreciation",
+   "other"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [],
+  "outcome": "All five first appeals partly allowed. District Commission orders quashed. Oriental Insurance directed to pay Rs. 2,50,000/- under Corona Rakshak Policy with interest at 8% p.a. from the respective dates of repudiation plus Rs. 10,000/- for mental agony and litigation costs in each case.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_037",
+  "case_title": "Bhagyashree Santosh Galande vs The Oriental Insurance Co Ltd",
+  "court": "Maharashtra State Consumer Disputes Redressal Commission, Mumbai, Bench at Aurangabad",
+  "year": 2024,
+  "legal_area": "consumer",
+  "is_motor": false,
+  "issue_tags": [
+   "insurance_liability",
+   "policy_breach",
+   "evidence_appreciation",
+   "other"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [],
+  "outcome": "All five appeals partly allowed. District Commission orders dated 26.07.2022 quashed. Oriental Insurance directed to pay Rs. 2,50,000/- per claimant under Corona Rakshak Policy with 8% p.a. interest from the respective repudiation dates plus Rs. 10,000/- for mental agony and costs.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_038",
+  "case_title": "M/S Crown Consultants (P) Ltd. vs The Oriental Insurance Company Ltd.",
+  "court": "National Consumer Disputes Redressal Commission, New Delhi",
+  "year": 2011,
+  "legal_area": "consumer",
+  "is_motor": false,
+  "issue_tags": [
+   "insurance_liability",
+   "policy_breach",
+   "limitation",
+   "evidence_appreciation",
+   "other"
+  ],
+  "stance_tags": [
+   "insurer_supporting",
+   "adverse_to_claimant"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Original complaint dismissed as totally devoid of merit or good faith. No deficiency in service found on the part of the insurer in repudiating the insurance claim.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_039",
+  "case_title": "Smt. Kamla Devi vs Government Of NCT Of Delhi And Anr.",
+  "court": "High Court of Delhi",
+  "year": 2004,
+  "legal_area": "other",
+  "is_motor": false,
+  "issue_tags": [
+   "compensation_quantum",
+   "loss_of_dependency",
+   "multiplier",
+   "other"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Writ petition allowed. State directed to pay Rs. 4,36,500/- (after adjusting ex-gratia of Rs. 50,000/-) with simple interest at 7% p.a. from 20.04.1996 (date of explosion) till date within four weeks. The compensation comprised standard conventional sum of Rs. 97,700/- (inflation-adjusted) and dependency compensation of Rs. 3,88,800/- computed using the multiplier method.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_040",
+  "case_title": "A.V. Janaki Amma And Ors. vs Union Of India (Uoi) And Ors.",
+  "court": "High Court of Andhra Pradesh",
+  "year": 2003,
+  "legal_area": "other",
+  "is_motor": false,
+  "issue_tags": [
+   "evidence_appreciation",
+   "vicarious_liability",
+   "compensation_quantum",
+   "other"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Writ petition allowed. Union of India directed to pay Rs. 3,00,000/- apportioned as Rs. 50,000/- each to petitioners 1 and 4, and Rs. 1,00,000/- each to petitioners 2 and 3. Medical expenses of Rs. 2,99,241/- at Apollo Hospital were separately reimbursed by the President of India. Petitioners given liberty to file civil suit, with any civil damages to be adjusted against the public law award.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_041",
+  "case_title": "Mrs. M. Rathnamma and Others vs ICICI Lombard General Ins. Co. Ltd. and Another",
+  "court": "IX Additional Small Causes Court and Additional MACT, Bangalore (SCCH-7), M.V.C. No. 2107/2015",
+  "year": 2016,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "section_166",
+   "rash_negligent_driving",
+   "insurance_liability",
+   "driving_license_validity",
+   "permit_violation",
+   "compensation_quantum",
+   "loss_of_dependency",
+   "future_prospects",
+   "multiplier",
+   "consortium"
+  ],
+  "stance_tags": [
+   "claimant_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [
+   "bus",
+   "commercial_vehicle"
+  ],
+  "outcome": "Petition partly allowed. ICICI Lombard directed to pay Rs. 25,95,346/- with interest at 9% p.a. from the date of petition till payment. Insurer's defences (invalid licence, no permit/fitness) rejected as not proved. Father (petitioner No. 3) held not entitled to dependency but recognized as legal representative. Amount to be shared in ratio 50:20:10:20 among petitioners 1-4.",
+  "adverse_value": "The Tribunal held that a father cannot be considered a dependant upon a son, which could be cited to exclude fathers from the class of dependants in compensation claims for male deceased breadwinners."
+ },
+ {
+  "doc_id": "DOC_042",
+  "case_title": "Nazar Singh vs State Of Punjab And Others",
+  "court": "High Court for the States of Punjab and Haryana at Chandigarh",
+  "year": 2013,
+  "legal_area": "service_employment",
+  "is_motor": false,
+  "issue_tags": [
+   "insurance_liability",
+   "vicarious_liability",
+   "other"
+  ],
+  "stance_tags": [
+   "owner_driver_supporting",
+   "adverse_to_insurer"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Both writ petitions allowed. Recovery order dated 24.02.1994 (Annexure P-3) quashed. State impressed upon to either insure its vehicles or establish and maintain a statutory compensation fund under Section 146 MV Act. State told it may recover loss from errant employees only after following proper departmental inquiry procedure with effective opportunity of hearing.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_043",
+  "case_title": "Jagdish Rai vs State of Punjab and Others",
+  "court": "High Court of Punjab and Haryana at Chandigarh",
+  "year": 2009,
+  "legal_area": "service_employment",
+  "is_motor": false,
+  "issue_tags": [
+   "vicarious_liability",
+   "section_166",
+   "other"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Writ petition allowed. Order dated 26.11.1998 directing salary recovery quashed. Respondents at liberty to proceed in accordance with law after following mandatory procedure under Punjab Civil Service Rules.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_044",
+  "case_title": "Monnet Ispat & Energy Ltd vs C.C.E., Raipur",
+  "court": "Customs Excise & Service Tax Appellate Tribunal, New Delhi",
+  "year": 2009,
+  "legal_area": "tax_excise",
+  "is_motor": false,
+  "issue_tags": [
+   "excise_duty",
+   "other"
+  ],
+  "stance_tags": [
+   "mixed"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Appeal partly allowed. Cenvat credit held eligible for marine inland transit insurance, money insurance in transit, follow-up installation services for captive power plant, and accident insurance for factory personnel including contract workers. Credit denied and penalty upheld for telephone services at GM's residence and company guest house.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_045",
+  "case_title": "K. Surappa vs V. Venkatesha Reddy and Others",
+  "court": "High Court of Karnataka",
+  "year": 1995,
+  "legal_area": "motor_accident",
+  "is_motor": true,
+  "issue_tags": [
+   "vicarious_liability",
+   "rash_negligent_driving",
+   "insurance_liability",
+   "owner_liability",
+   "third_party_liability",
+   "compensation_quantum"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [
+   "bus"
+  ],
+  "outcome": "Appeal allowed with costs. Judgment and award of Tribunal rejecting claim set aside. Petitioner awarded Rs. 20,000 with 12% interest per annum from date of filing petition to date of payment. Insurer (fifth respondent) liable for Rs. 5,000 with proportionate costs and interest; balance payable by owner (first respondent).",
+  "adverse_value": "Insurer's liability limited to Rs. 5,000 per endorsement No. 13 in the policy despite total compensation of Rs. 20,000; the endorsement limiting third-party liability was accepted, with the balance payable by the owner."
+ },
+ {
+  "doc_id": "DOC_046",
+  "case_title": "Ajay Alias Vishal Veeru Devgan vs The Artists Planet & Ors",
+  "court": "High Court of Delhi at New Delhi",
+  "year": 2025,
+  "legal_area": "trademark_ip",
+  "is_motor": false,
+  "issue_tags": [
+   "trademark_infringement",
+   "passing_off",
+   "personality_rights"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Ex-parte ad-interim injunction granted against all identified infringing defendants. Directions issued to take down infringing content within 72 hours. Social media intermediaries (YouTube/Google, Meta, X) directed to act if uploaders fail to comply. ISPs directed via MeiTY/DoT to block infringing domains. Court issued prospective observation that plaintiffs bypassing IT Intermediary Rules mechanism for certain categories of posts may be denied ex-parte injunctions in future.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_047",
+  "case_title": "New Balance Athletics Inc. vs Ashok Kumar & Ors.",
+  "court": "High Court of Delhi at New Delhi",
+  "year": 2024,
+  "legal_area": "trademark_ip",
+  "is_motor": false,
+  "issue_tags": [
+   "trademark_infringement",
+   "passing_off"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Suit decreed in favour of plaintiff against defendant nos. 1 and 11. Permanent injunction granted. Actual costs of Rs. 14,51,670/- (including court fees of Rs. 2,01,000 and Local Commissioner's fee of Rs. 1,00,000) awarded jointly and severally payable within 8 weeks.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_048",
+  "case_title": "Azuga Inc & Anr vs Azuga Telematics LLC & Ors",
+  "court": "High Court of Delhi at New Delhi",
+  "year": 2025,
+  "legal_area": "trademark_ip",
+  "is_motor": false,
+  "issue_tags": [
+   "trademark_infringement",
+   "passing_off"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Ex-parte ad-interim injunction granted. Defendant Nos. 1 and 3 restrained from using the 'AZUGA' mark or any deceptively similar mark including the tradename 'AZUGA TELEMATICS' for GPS fleet tracking services, and from copying plaintiff's copyright-protected website images. Defendant No. 4 (BigRock) directed to lock and suspend Defendant No. 1's domain https://azugatelematicsllc.com/.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_049",
+  "case_title": "Intel Corporation vs S.P. Gupta and Others",
+  "court": "High Court of Delhi at New Delhi",
+  "year": 2022,
+  "legal_area": "trademark_ip",
+  "is_motor": false,
+  "issue_tags": [
+   "trademark_infringement",
+   "passing_off",
+   "maintainability"
+  ],
+  "stance_tags": [
+   "claimant_supporting"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Suit decreed for permanent injunction in terms of prayers (i) and (ii) of the plaint. All other reliefs not pressed. Intel Gas Gadgets (P) Ltd. directed to change its name within three months. Decree sheet to be drawn accordingly.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_050",
+  "case_title": "M/S. Mandvi Co-Op Bank Ltd. vs Nimesh B. Thakore",
+  "court": "Supreme Court of India",
+  "year": 2010,
+  "legal_area": "banking_finance",
+  "is_motor": false,
+  "issue_tags": [
+   "dishonour_of_cheque",
+   "evidence_appreciation",
+   "maintainability",
+   "criminal_liability"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Appeal from SLP (Crl.) No. 3915/2006 (by the bank against giving accused the right to tender affidavit evidence) allowed; High Court direction permitting accused to give evidence on affidavit set aside. Remaining six appeals by accused dismissed. Accused's right under s.145(2) is limited to cross-examination; provisions are procedural and retrospective.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_051",
+  "case_title": "Sh. Yashpal Chaudhrani & Ors. vs State (Govt. Of NCT Delhi) & Anr.",
+  "court": "High Court of Delhi at New Delhi",
+  "year": 2019,
+  "legal_area": "criminal",
+  "is_motor": false,
+  "issue_tags": [
+   "criminal_liability",
+   "maintainability",
+   "evidence_appreciation",
+   "other"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [],
+  "outcome": "All five petitions under s.482 CrPC dismissed. Quashing of criminal proceedings in credit card fraud cases and IT Act obscene calls case refused. Comprehensive guidelines issued directing courts to assess quashability before referring criminal cases to mediation, and requiring mediators to undertake preliminary scrutiny of permissibility. Four fraud cases directed to be heard on day-to-day basis.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_052",
+  "case_title": "Company Of Management For Baranagar Jute Factory vs Atis Dipankar Chowdhuri",
+  "court": "High Court at Calcutta",
+  "year": 1993,
+  "legal_area": "banking_finance",
+  "is_motor": false,
+  "issue_tags": [
+   "dishonour_of_cheque",
+   "maintainability",
+   "criminal_liability",
+   "limitation"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Criminal revision allowed. The prosecution against the Committee of Management and its signatory quashed. Proceedings in criminal case No. C/46/1991 under s.138/141 NI Act before the CMC Calcutta set aside; accused petitioners discharged from bail bonds. The court held prosecution was bad for want of prior leave of court and that the Committee of Management is not a 'company' under s.141.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_053",
+  "case_title": "Ashokbhai Shankar Chaudhary & 1 vs Jayendra Virendra Sharma & 1",
+  "court": "High Court of Gujarat at Ahmedabad",
+  "year": 2014,
+  "legal_area": "specific_performance",
+  "is_motor": false,
+  "issue_tags": [
+   "specific_performance_relief",
+   "maintainability",
+   "other"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Both Appeal from Orders (AFO No.196 and 197 of 2014) dismissed. Interim injunction directing status quo on title and possession upheld. Civil applications also dismissed. Defendants 2 and 3 cannot claim bona fide purchaser protection at this stage; time was not the essence of the contract.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_054",
+  "case_title": "Chinnasamy vs K. Viswanathan (died) and Others",
+  "court": "High Court of Judicature at Madras",
+  "year": 2020,
+  "legal_area": "specific_performance",
+  "is_motor": false,
+  "issue_tags": [
+   "specific_performance_relief",
+   "evidence_appreciation"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Second appeal dismissed. Judgment and decree of the first Appellate Court (III Additional District Judge, Krishnagiri) dated 12.07.2000 in A.S.No.34 of 1999 reversing the trial court decree upheld. Plaintiff's failure to prove readiness and willingness to perform the contract under s.16(C) Specific Relief Act was determinative; suit for specific performance dismissed.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_055",
+  "case_title": "Smt. Iravva K Purantar vs S. Venkatesh and Kendra Upadyayara Sangha (Regd.)",
+  "court": "High Court of Karnataka at Bengaluru",
+  "year": 2023,
+  "legal_area": "specific_performance",
+  "is_motor": false,
+  "issue_tags": [
+   "specific_performance_relief",
+   "maintainability",
+   "limitation",
+   "other"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Regular First Appeal allowed. Impugned judgment and decree dated 15.12.2015 in O.S.No.3810/2010 set aside. Matter remitted to trial court for reconsideration afresh. Appellant impleaded as additional defendant No.2; additional documents received on record; delay of 677 days condoned; liberty granted to all parties to lead evidence and cross-examine witnesses.",
+  "adverse_value": ""
+ },
+ {
+  "doc_id": "DOC_056",
+  "case_title": "Kum. H. Supriya vs S. Krishnappa and Others",
+  "court": "High Court of Karnataka at Bengaluru",
+  "year": 2026,
+  "legal_area": "civil_procedure",
+  "is_motor": false,
+  "issue_tags": [
+   "amendment_of_pleadings",
+   "specific_performance_relief"
+  ],
+  "stance_tags": [
+   "neutral"
+  ],
+  "vehicle_tags": [],
+  "outcome": "Writ petition allowed. Impugned order dated 17.11.2025 rejecting I.A.No.VIII in O.S.No.7/2018 set aside. I.A.No.VIII under Order 6 Rule 17 CPC allowed. Liberty granted to respondent No.1/plaintiff to file rejoinder/reply to the amended written statement. Trial court directed to dispose of the suit within one year from receipt of copy of this order.",
+  "adverse_value": ""
+ }
+]

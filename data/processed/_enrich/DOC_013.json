@@ -1,0 +1,67 @@
+{
+  "doc_id": "DOC_013",
+  "case_title": "Mohammed Aynuddin @ Miyam vs State of Andhra Pradesh",
+  "court": "Supreme Court of India",
+  "judge_or_bench": "R.P. Sethi and K.T. Thomas JJ. (Thomas, J. writing)",
+  "date": "2000-07-28",
+  "year": 2000,
+  "legal_area": "criminal",
+  "is_motor_accident": false,
+  "procedural_stage": "criminal_appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Mohammed Aynuddin @ Miyam (bus driver)"],
+    "respondents": ["State of Andhra Pradesh"],
+    "claimants": [],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Indian Penal Code s.304A"
+  ],
+  "core_facts": [
+    "On 17.12.1993 the appellant was driving an Andhra Pradesh Road Transport Corporation bus; passenger Agamma boarded the bus enroute, fell as the bus moved forward, and the rear wheel ran over her causing death",
+    "All three courts below (trial court, Sessions Court, and High Court in revision) convicted the appellant under Section 304A IPC and sentenced him to three months' imprisonment",
+    "The conductor (PW3) admitted only hearing the sound of the accident while the bus was in motion; the sole eyewitness (PW4) stated only that Agamma was boarding and the bus moved, causing her to fall",
+    "No witness, including the conductor, stated that the driver moved the bus before getting a signal from the conductor; the driver's version was that he was unaware of the accident"
+  ],
+  "legal_issues": [
+    "Whether the evidence on record was sufficient to establish criminal negligence of the bus driver under Section 304A IPC",
+    "Whether res ipsa loquitur applies to create a presumption of negligence where a passenger falls from a bus while boarding",
+    "The distinction between culpable rashness and criminal negligence for the purposes of Section 304A IPC"
+  ],
+  "issue_tags": [
+    "criminal_liability",
+    "acquittal",
+    "evidence_appreciation",
+    "negligence_proof"
+  ],
+  "vehicle_tags": [],
+  "stance_tags": ["owner_driver_supporting"],
+  "outcome": "Appeal allowed. Conviction and sentence under Section 304A IPC set aside. Appellant acquitted. The Supreme Court held that the evidence was too scanty to establish criminal negligence and that res ipsa loquitur did not apply because the accident could have had multiple explanations other than negligent driving.",
+  "key_holdings": [
+    "A presumption of negligence cannot be drawn merely because a passenger fell from a bus while boarding; negligence must be positively established by evidence that the driver moved the bus prematurely or without the conductor's signal.",
+    "Res ipsa loquitur applies only where the nature of the accident and attending circumstances reasonably lead to the belief that in the absence of negligence the accident would not have occurred and the thing causing injury was under the management and control of the accused.",
+    "Criminal negligence requires failure to exercise duty with reasonable and proper care and precaution; where no witness establishes that the driver moved without signal, the evidence is insufficient to convict under Section 304A IPC."
+  ],
+  "key_passages": [
+    {
+      "label": "no_presumption_of_negligence",
+      "quote": "It is a wrong proposition that for any motor accident negligence of the driver should be presumed. An accident of such a nature as would prima facie show that it cannot be accounted to anything other than the negligence of the driver of the vehicle may create a presumption and in such a case the driver has to explain how the accident happened without negligence on his part. Merely because a passenger fell down from the bus while boarding the bus no presumption of negligence can be drawn against the driver of the bus.",
+      "page": 2
+    },
+    {
+      "label": "criminal_negligence_defined",
+      "quote": "Culpable rashness lies in running the risk of doing an act with recklessness and with indifference as to the consequences. Criminal negligence is the failure to exercise duty with reasonable and proper care and precaution guarding against injury to the public generally or to any individual in particular.",
+      "page": 2
+    },
+    {
+      "label": "acquittal_outcome",
+      "quote": "The evidence in this case is too scanty to fasten him with criminal negligence. Some further evidence is indispensably needed to presume that the passenger fell down due to the negligence of the driver of the bus. Such further evidence is lacking in this case. Therefore, the court is disabled from concluding that the victim fell down only because of the negligent driving of the bus. The corollary thereof is that the conviction of the appellant of the offence is unsustainable. In the result, we allow this appeal and set aside the conviction and sentence and he is acquitted.",
+      "page": 3
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This 2000 Supreme Court criminal appeal concerned the conviction of an APSRTC bus driver under Section 304A of the Indian Penal Code. On 17 December 1993, passenger Agamma boarded the appellant's bus enroute; as the bus moved forward she fell and the rear wheel ran over her, causing death. The trial court, Sessions Court, and High Court in revision all convicted the driver and sentenced him to three months' imprisonment. The Supreme Court (per Thomas, J.) allowed the appeal and set aside the conviction. The court held that criminal negligence cannot be presumed merely because a passenger fell from a boarding bus; the prosecution must establish positively that the driver moved the bus prematurely or without the conductor's signal to proceed. The doctrine of res ipsa loquitur applies only where the accident cannot be reasonably attributed to causes other than negligence within the accused's control; on the present facts, a passenger's fall while boarding admits of multiple explanations. No witness, including the conductor (PW3), said the driver moved the bus before getting the signal, and the sole eyewitness (PW4) only observed the fall itself. Finding the evidence too scanty to establish criminal negligence, the Supreme Court acquitted the appellant. The judgment provides important guidance on the higher standard of evidence required for criminal liability as distinct from civil negligence.",
+  "confidence": "high"
+}

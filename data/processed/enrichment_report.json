@@ -1,0 +1,470 @@
+{
+  "n_enriched": 56,
+  "n_expected": 56,
+  "coverage_ok": true,
+  "failed_docs": [],
+  "n_warnings": 41,
+  "per_doc": [
+    {
+      "doc_id": "DOC_001",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'policy_breach' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_002",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'policy_breach' has no lexicon evidence in text",
+        "issue_tag 'third_party_liability' has no lexicon evidence in text",
+        "issue_tag 'owner_liability' has no lexicon evidence in text",
+        "issue_tag 'permit_violation' has no lexicon evidence in text",
+        "issue_tag 'section_166' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_003",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'policy_breach' has no lexicon evidence in text",
+        "issue_tag 'section_166' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_004",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'negligence_proof' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_005",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_006",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_007",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'compensation_reduction' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_008",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_009",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_010",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_011",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_012",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_013",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'negligence_proof' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_014",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'third_party_liability' has no lexicon evidence in text",
+        "issue_tag 'just_compensation' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_015",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_016",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'negligence_proof' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_017",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'negligence_proof' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_018",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_019",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_020",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'just_compensation' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_021",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'third_party_liability' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_022",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'negligence_proof' has no lexicon evidence in text",
+        "issue_tag 'loss_of_dependency' has no lexicon evidence in text",
+        "issue_tag 'section_166' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_023",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'section_166' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_024",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_025",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_026",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'permit_violation' has no lexicon evidence in text",
+        "issue_tag 'section_166' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_027",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_028",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_029",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'maintainability' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_030",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'policy_breach' has no lexicon evidence in text",
+        "issue_tag 'just_compensation' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_031",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_032",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_033",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_034",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_035",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_036",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'policy_breach' has no lexicon evidence in text",
+        "issue_tag 'evidence_appreciation' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_037",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'policy_breach' has no lexicon evidence in text",
+        "issue_tag 'evidence_appreciation' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_038",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'policy_breach' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_039",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_040",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'evidence_appreciation' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_041",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "statute 'Indian Penal Code s.304A' core token not found in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_042",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_043",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_044",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_045",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_046",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_047",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_048",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "1 key_passage quote(s) not verbatim"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_049",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'maintainability' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_050",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'maintainability' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_051",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'maintainability' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_052",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'limitation' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_053",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'maintainability' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_054",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_055",
+      "status": "ok",
+      "hard": [],
+      "warn": [
+        "issue_tag 'maintainability' has no lexicon evidence in text",
+        "issue_tag 'limitation' has no lexicon evidence in text"
+      ],
+      "confidence": "high"
+    },
+    {
+      "doc_id": "DOC_056",
+      "status": "ok",
+      "hard": [],
+      "warn": [],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "DOC_021",
+  "case_title": "Rajesh Kumar Shukla And Another vs. Naseem Ahmed And Others (with connected petitions)",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "judge_or_bench": "Sh. G. N. Pandey, MACT Judge",
+  "date": "2018-04-16",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "claim_petition",
+  "document_type": "award",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Naseem Ahmed (driver)", "M/s Sparsh Transport Carrier Pvt. Ltd. (owner of truck UP 27 5376)", "United India Insurance Co. Ltd. (insurer of truck)"],
+    "claimants": ["Rajesh Kumar Shukla (father of deceased Shaksham, age 27)", "Satish Kumari (mother of deceased, age 26)", "Anushka Shukla (minor, age 6, daughter of Sandeep Kumar Shukla)", "Meena Shukla (wife of Sandeep Kumar Shukla, age 29)", "Vansh Shukla (minor, age 9 months, son of Sandeep Kumar Shukla)"],
+    "insurer": ["United India Insurance Co. Ltd."],
+    "owner_or_driver": ["Naseem Ahmed (driver of truck UP 27 5376)", "M/s Sparsh Transport Carrier Pvt. Ltd. (owner)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.140"
+  ],
+  "core_facts": [
+    "On 09.06.2015 at about 5:45 hrs, the family was travelling in Wagon-R No. DL 2 CAL 3562 on NH 24 from Delhi to Faizabad, UP.",
+    "At Village Kotra, PS Praswa, Sub Division Mohamdi, Lakhimpur Kheri, a speeding truck No. UP 27 5376 owned by M/s Sparsh Transport Carrier Pvt. Ltd. and driven by Naseem Ahmed came from the opposite direction in high speed and in gross violation of lane driving and hit the Wagon-R.",
+    "Shaksham Shukla (approximately 5 years old, DOB 17.10.2010) sustained fatal injuries and died; Anushka Shukla (6 years) sustained head injuries with 7 stitches; Meena Shukla (29 years) sustained rib fractures and head injuries; Vansh Shukla (9 months) sustained head injuries and right upper limb weakness.",
+    "FIR No. 16/15 registered under Sections 279/337/338/304A/427 IPC at PS Praswa. Respondent No. 3 (United India Insurance Co. Ltd.) confirmed policy No. 0805013114P107786597 was valid from 31.12.2014 to 30.12.2015."
+  ],
+  "legal_issues": [
+    "Whether the accident occurred due to rash and negligent driving of truck UP 27 5376 and whether the petitioners suffered fatal injuries/simple and grievous injuries as a result.",
+    "Quantum of compensation in cases of death of a young child and injuries of varying severity to surviving family members."
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "compensation_quantum",
+    "loss_of_dependency",
+    "insurance_liability",
+    "section_166",
+    "third_party_liability",
+    "interest_on_compensation"
+  ],
+  "vehicle_tags": ["truck", "car"],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "All four claim petitions allowed. United India Insurance Co. Ltd. directed to pay: Rs. 6,53,334 with 9% interest from date of filing (MACT 14615/15 - death of Shaksham Shukla); Rs. 88,663 with 9% interest (MACT 15128/15 - injuries to Anushka Shukla); Rs. 1,83,444 with 9% interest (MACT 15129/15 - injuries to Meena Shukla); Rs. 26,172 with 9% interest (MACT 15182/15 - injuries to Vansh Shukla).",
+  "key_holdings": [
+    "In motor accident claims, FIR, chargesheet and eyewitness testimony on the standard of preponderance of probability are sufficient to establish negligence of the offending vehicle driver.",
+    "For death of a child in a motor accident where no established income exists, compensation is computed using inflation-corrected notional income (Rs. 15,000 p.a. from Second Schedule, multiplied by CII for year of accident divided by base CII 331), deducting 1/3 for personal expenses, applying appropriate multiplier, and adding equal amount for composite non-pecuniary damages.",
+    "An insurer of the offending vehicle is liable to pay compensation when the insurance policy was valid at the time of accident and no violation of policy terms is proved.",
+    "Loss of wages of an employed person during treatment period and actual medical expenses are separate and cognizable heads of compensation."
+  ],
+  "key_passages": [
+    {
+      "label": "negligence_established",
+      "quote": "Shukla, Meena Shukla and Vansh Shukla sustained fatal injuries / simple and grievous injuries on 09.06.2015 due to rash and negligent driving of offending vehicle bearing No. UP 27 5376 driven by its driver i.e. respondent No. 1.",
+      "page": 13
+    },
+    {
+      "label": "standard_of_proof",
+      "quote": "establish their case on the touchstone of preponderance of probability. The standard of proof beyond reasonable doubt could not have been applied.",
+      "page": 11
+    },
+    {
+      "label": "child_death_cii_formula",
+      "quote": "The death occurred on 09.06.2015 and therefore the CII (cost inflation index) for the financial year 2015-2016 i.e. Rs. 1,081/- would apply. The age of the deceased child was about 5 years and therefore the calculation is to be made on multiplier of 10.",
+      "page": 20
+    },
+    {
+      "label": "insurer_liability",
+      "quote": "Respondent No. 3 is the insurance company which admittedly has issued a valid insurance policy of the offending vehicle. There is no evidence on behalf of respondent No. 3 to show that there was any violation of the rules and terms of policy by the respondent No. 1 & 2.",
+      "page": 41
+    }
+  ],
+  "adverse_value": "",
+  "summary": "Four connected MACT petitions filed by members of the Shukla family arising from a road accident on 09.06.2015 on NH 24 at Lakhimpur Kheri when speeding truck UP 27 5376, owned by M/s Sparsh Transport Carrier Pvt. Ltd. and driven by Naseem Ahmed, collided with their Wagon-R car DL 2 CAL 3562. Shaksham Shukla (age 5 years) died of fatal injuries; Anushka Shukla (6 yrs, head injuries), Meena Shukla (29 yrs, rib fractures), and Vansh Shukla (9 months, head injuries) survived with varying injuries. The Tribunal applied the preponderance of probability standard and found negligence established through criminal records, eyewitness testimony, and adverse inference from the driver's non-appearance in the witness box. For Shaksham's death, the Delhi High Court's formula for child deaths was applied: notional income Rs. 15,000 p.a. (Second Schedule) inflation-corrected using CII 1081/331 = Rs. 49,000 p.a.; deducting 1/3 personal expenses gives Rs. 32,666; multiplier 10 for child below 5 years gives pecuniary loss Rs. 3,26,667; adding equal amount for composite non-pecuniary damages, total = Rs. 6,53,334. United India Insurance Co. Ltd., confirmed as insurer with valid policy, was held liable for all amounts across the four petitions.",
+  "confidence": "high"
+}

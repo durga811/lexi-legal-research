@@ -1,0 +1,95 @@
+{
+  "doc_id": "DOC_025",
+  "case_title": "New India Assurance Co. Ltd. vs Yallavva W/O Yamanappa Dharnakeri",
+  "court": "High Court of Karnataka at Bengaluru (Special Full Bench)",
+  "judge_or_bench": "Hon'ble Mrs. Justice B.V. Nagarathna, Hon'ble Mr. Justice K.N. Phaneendra, Hon'ble Mr. Justice B.A. Patil",
+  "date": "2020-05-12",
+  "year": 2020,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["New India Assurance Co. Ltd., Bijapur (by its Divisional Manager)"],
+    "respondents": ["Yallavva W/O Yamanappa Dharanakeri (R1)", "Vinayakumar S/O Mahantappa Kottagi (R2)"],
+    "claimants": ["Yallavva W/O Yamanappa Dharanakeri"],
+    "insurer": ["New India Assurance Co. Ltd."],
+    "owner_or_driver": ["Vinayakumar S/O Mahantappa Kottagi (owner)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.146",
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.149(1)",
+    "Motor Vehicles Act, 1988 s.149(2)",
+    "Motor Vehicles Act, 1988 s.149(4)",
+    "Motor Vehicles Act, 1988 s.149(5)",
+    "Motor Vehicles Act, 1988 s.149(7)",
+    "Motor Vehicles Act, 1988 s.163-A",
+    "Motor Vehicles Act, 1988 s.165",
+    "Motor Vehicles Act, 1988 s.168",
+    "Motor Vehicles Act, 1988 s.173(1)",
+    "Constitution of India Art.142"
+  ],
+  "core_facts": [
+    "Claimant Yallavva W/O Yamanappa Dharanakeri was travelling as a coolie/gratuitous passenger in Tempo No. KA-28/B-5434 (a goods vehicle) from Tikota to Dhulkhed village for coolie work on 24.04.2006",
+    "The tempo's driver drove rashly near Horti village on NH-13, the vehicle turned turtle and the claimant sustained grievous injuries",
+    "MACT-V, Bijapur awarded compensation of Rs. 1,000/- with 6% p.a. interest and directed New India Assurance Co. to pay and recover from owner (Respondent No. 2)",
+    "The insurer appealed arguing it was not liable since the claimant was a gratuitous passenger in a goods vehicle — a policy breach under Section 149(2)",
+    "Learned Single Judge referred two questions to a Full Bench: (I) whether a contractual policy with extra premium makes insurer liable to pay and recover for any breach; (II) whether 'pay and recover' rule applies in view of Section 149 mandate"
+  ],
+  "legal_issues": [
+    "Whether the Tribunal and High Court have jurisdiction to pass a 'pay and recover' order even when the insurer has proved a breach of policy condition under Section 149(2), or whether only the Supreme Court can do so under Article 142",
+    "Whether the distinction between 'Act policy' and 'contractual policy' (extra premium) affects the insurer's liability to pay and recover",
+    "What constitutes 'fundamental breach' and how the 'main purpose rule' applies to Section 149 of the MV Act"
+  ],
+  "issue_tags": [
+    "insurance_liability",
+    "policy_breach",
+    "pay_and_recover",
+    "third_party_liability",
+    "commercial_vehicle_use",
+    "permit_violation",
+    "section_166",
+    "license_breach_defence"
+  ],
+  "vehicle_tags": ["tempo", "goods_carriage", "commercial_vehicle"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "Appeal dismissed. Full Bench held that Tribunals and High Courts can pass 'pay and recover' orders even when the insurer has proved a breach of policy under Section 149(2), subject to the exception of fraud or collusion by the victim with the insured. The only circumstance where the insurer can be completely absolved is if the third party/victim was responsible for or complicit in the breach.",
+  "key_holdings": [
+    "Tribunals and High Courts — and not only the Supreme Court under Article 142 — have the power to pass a 'pay and recover' order against an insurer that has proved a defence under Section 149(2) of the MV Act.",
+    "A 'fundamental breach' of a policy condition is one which is referable to the cause of the accident; but even a fundamental breach does not automatically absolve the insurer of its liability to pay the third party — it only entitles the insurer to recover from the insured.",
+    "The insurer can be completely absolved of liability only where the third party/victim was individually or in collusion with the insured responsible for the breach of a fundamental condition.",
+    "The 'main purpose rule' requires that conditions in an insurance policy be interpreted so that no innocent third party suffers for a breach of condition for which they had no responsibility.",
+    "A pay and recover order is an exercise of discretion based on facts and circumstances of each case; the court must give appropriate reasons."
+  ],
+  "key_passages": [
+    {
+      "label": "pay_and_recover_tribunal_power",
+      "quote": "Tribunals and High Courts can also pass such an order of pay and recovery but there must be valid reasons to be recorded in absolving liability of the Insurance Company or fastening the liability on the Insurance Company, again by considering the facts and circumstances of each case.",
+      "page": 36
+    },
+    {
+      "label": "fundamental_breach_definition",
+      "quote": "a mere breach of any condition, even if it falls under Section 149 (2) of the Act but which is not responsible for the cause of accident, in such an eventuality, the insurance company cannot absolve itself from its liability because under the doctrine of indemnity, the insurer is liable to reimburse the awarded amount to the insured.",
+      "page": 37
+    },
+    {
+      "label": "main_purpose_rule",
+      "quote": "the main purpose recognized under the statute is that no third party should suffer despite breach of any condition in the insurance policy between insurer and insured. Though such breach of condition is proved by the insurer against the insured, it should be treated as an inter se dispute between the insurer and the insured and the same should not affect the right of a third party",
+      "page": 39
+    },
+    {
+      "label": "answer_to_reference",
+      "quote": "The Insurer is liable to pay the third party and recover from the insured even if there is breach of any condition recognized under Section 149(2), even if it is a fundamental breach (that is breach of condition which is the cause for the accident) and the insurer proves the said breach, in view of the mandate under Section 149(1) of the Act.",
+      "page": 43
+    },
+    {
+      "label": "fraud_exception",
+      "quote": "no such order can be passed against the insurer, if, on the facts and circumstances of a case, a finding is given by the court that the third party (injured or deceased) had played any fraud or was in collusion with the insured, individually or collectively, for a wrongful gain to themselves or cause wrongful loss to the insurer.",
+      "page": 43
+    }
+  ],
+  "adverse_value": "Insurer directed to pay and recover even when gratuitous-passenger breach was proved; insurer retains pay-and-recover rights but cannot be fully exonerated for third-party claims absent fraud/collusion — limits insurer's ability to use policy breach as complete defence.",
+  "summary": "In this Special Full Bench judgment of the Karnataka High Court (three judges), the court answered a reference arising from MFA No. 30131/2010 in which the New India Assurance Co. challenged a Tribunal order directing it to pay Rs. 1,000 compensation and recover from the insured for injuries to a coolie (Yallavva) travelling as a gratuitous passenger in a goods vehicle (Tempo KA-28/B-5434) that overturned on 24.04.2006. The insurer argued the breach (gratuitous passenger in goods vehicle) was a fundamental breach under Section 149(2) and that only the Supreme Court under Article 142 could order 'pay and recover.' After exhaustively analysing Sections 146, 147 and 149 of the MV Act, the Full Bench held: (1) Tribunals and High Courts can pass 'pay and recover' orders; this power is not exclusive to the Supreme Court. (2) A 'fundamental breach' is one causally connected to the accident, but even proving such a breach does not completely absolve the insurer vis-à-vis an innocent third party. (3) The 'main purpose rule' — protecting innocent third parties — means the insurer's inter-se dispute with the insured cannot affect the third party's right to compensation. (4) Complete absolution is possible only if the victim/third party was responsible for or in collusion with the insured in causing the breach. The appeal was dismissed.",
+  "confidence": "high"
+}

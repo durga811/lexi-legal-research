@@ -1,0 +1,79 @@
+{
+  "doc_id": "DOC_018",
+  "case_title": "The Oriental Insurance Company Ltd. vs. Smt. Rani And Others",
+  "court": "High Court of Judicature at Allahabad, Lucknow Bench",
+  "judge_or_bench": "Hon'ble Vikas Kunvar Srivastav, J.",
+  "date": "2019-02-12",
+  "year": 2019,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["The Oriental Insurance Company Ltd., Amethi Sultanpur"],
+    "respondents": ["Smt. Rani", "Shyam Lal", "Dhanpata Devi", "Dev Raj Singh", "Ram Sumer"],
+    "claimants": ["Smt. Rani (wife of deceased)", "two minor children of deceased", "parents of deceased Shyam Lal and Dhanpata Devi"],
+    "insurer": ["The Oriental Insurance Company Ltd."],
+    "owner_or_driver": ["Dev Raj Singh (owner of Truck 44 AH/4081)", "Ram Sumer (driver of Truck 44 AH/4081)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.149",
+    "Motor Vehicles Act, 1988 s.163A",
+    "Motor Vehicles Act, 1988 s.170"
+  ],
+  "core_facts": [
+    "On 22.06.2009 at about 3:00 p.m. deceased Ramhet was riding Motorcycle No. UP 42-G/2180 from village Umaradeeh to Jamo with father-in-law Shyam Lal and mother-in-law Dhanpata Devi as pillion riders.",
+    "Mini Truck No. 44 AH/4081 driven rashly and negligently by Ram Sumer collided with the motorcycle from the front side near Dharmshala of Jivnanandan Tiwari Ka Purwa; Ramhet died on the spot and pillion riders sustained severe injuries.",
+    "FIR No. 375/2009 was registered under Sections 338, 279, 427, 304-A IPC at Police Station Jamo, District Sultanpur.",
+    "MACT Sultanpur (MACP No. 232 of 2009) awarded Rs. 4,17,500 with 7% interest using multiplier 17 and notional income Rs. 3,000 per month for the 32-year-old deceased.",
+    "Oriental Insurance Company (insurer of the offending truck) filed FAFO No. 757 of 2011 challenging the award on grounds of excessive compensation, contributory negligence, and wrongful rejection of Section 170 application."
+  ],
+  "legal_issues": [
+    "Whether the compensation award of Rs. 4,17,500 was excessive.",
+    "Whether the deceased motorcycle driver was contributorily negligent for carrying two pillion passengers.",
+    "Whether the Tribunal erred in rejecting the insurer's application under Section 170 MV Act, and whether such rejection restricts the insurer's right to contest on all grounds."
+  ],
+  "issue_tags": [
+    "compensation_quantum",
+    "contributory_negligence",
+    "insurance_liability",
+    "multiplier",
+    "loss_of_dependency",
+    "section_166"
+  ],
+  "vehicle_tags": ["motorcycle", "other"],
+  "stance_tags": ["claimant_supporting", "adverse_to_insurer"],
+  "outcome": "Appeal dismissed. MACT award of Rs. 4,17,500 with interest at 7% per annum confirmed. Insurer directed to pay entire compensation within one month from date of judgment.",
+  "key_holdings": [
+    "In motor accident claims the standard of proof is preponderance of probability, not proof beyond reasonable doubt; the Tribunal is not a criminal court.",
+    "Where the insurer is already impleaded as a party respondent in the claim petition, it can contest on all available grounds without restriction to statutory defences under Section 149(2); a separate Section 170 application is unnecessary.",
+    "Contributory negligence must be proved by documentary or oral evidence; an unsubstantiated plea of negligence for carrying two pillion riders will fail in absence of such evidence.",
+    "An insurer of the offending vehicle is responsible to indemnify the third party where the insurance coverage was effective at the relevant date of accident."
+  ],
+  "key_passages": [
+    {
+      "label": "standard_of_proof_civil",
+      "quote": "in a road accident claim, the strict principles of proof in a criminal case are not attracted.......",
+      "page": 11
+    },
+    {
+      "label": "contributory_negligence_unproved",
+      "quote": "no documentary evidence has been produced on behalf of the appellant-Oriental Insurance Company or on behalf of the owner of the offending vehicle Truck no. 44 AH/4081 to prove the fact of negligence on the part of Motorcycle driver",
+      "page": 9
+    },
+    {
+      "label": "insurance_liability",
+      "quote": "as the offending vehicle was insured by the appellant and the insurance coverage was effective at the relevant date of accident, there is no doubt as to the responsibility of the Insurance Company to demnify the third party who suffered the risk.",
+      "page": 7
+    },
+    {
+      "label": "outcome",
+      "quote": "In view of the discussions made hereinabove, there is no need to interfere with the judgment and award of the learned court below. The appeal is liable to be dismissed and it is hereby dismissed.",
+      "page": 18
+    }
+  ],
+  "adverse_value": "Suggests that the insurer's failure to call the driver for cross-examination and not producing any evidence of contributory negligence is fatal; insurer must adduce positive evidence to successfully plead contributory negligence.",
+  "summary": "The Oriental Insurance Company appealed against a MACT Sultanpur award of Rs. 4,17,500 at 7% interest, arising from the death of Ramhet whose motorcycle UP 42-G/2180 was hit from the front by Mini Truck No. 44 AH/4081 on 22.06.2009. The insurer argued the award was excessive, the deceased was contributorily negligent in carrying two pillion riders, the Section 170 application was wrongly rejected, and the driver was not examined. The Allahabad High Court held: (i) in MACT proceedings the standard is preponderance of probability, not proof beyond reasonable doubt, making the claim valid; (ii) the insurer produced no documentary or oral evidence to rebut eyewitness PW-2 Shyam Lal's account that the truck driver was on the wrong side; (iii) since the insurer was already impleaded as opposite party respondent, it was entitled to contest on all grounds and the Section 170 application was unnecessary; and (iv) the multiplier of 17 for age 32 and notional income Rs. 3,000 per month were in accord with Schedule Table of Section 163(A). The appeal was dismissed and the award confirmed.",
+  "confidence": "high"
+}

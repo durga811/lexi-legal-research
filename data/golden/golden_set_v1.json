@@ -1,0 +1,965 @@
+{
+  "version": "v1",
+  "queries": [
+    {
+      "query_id": "g_det_01",
+      "query": "Which judgments involve a commercial or goods vehicle such as a truck, lorry, bus, tempo, tanker or goods carriage?",
+      "query_type": "factual_metadata",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_001",
+        "DOC_005",
+        "DOC_006",
+        "DOC_010",
+        "DOC_011",
+        "DOC_016",
+        "DOC_019",
+        "DOC_021",
+        "DOC_025",
+        "DOC_026",
+        "DOC_027",
+        "DOC_029",
+        "DOC_032",
+        "DOC_033",
+        "DOC_034",
+        "DOC_035",
+        "DOC_041",
+        "DOC_045"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "commercial vehicle"
+      ],
+      "must_not_claim": [
+        "every motor accident case involves a commercial vehicle"
+      ],
+      "ideal_answer_facets": [
+        "lists matching doc_ids",
+        "names the vehicle type per case"
+      ],
+      "difficulty": "easy",
+      "no_answer": false,
+      "label_source": "deterministic"
+    },
+    {
+      "query_id": "g_det_02",
+      "query": "Which documents in this corpus are NOT motor accident cases?",
+      "query_type": "factual_metadata",
+      "legal_area": "mixed",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_013",
+        "DOC_036",
+        "DOC_037",
+        "DOC_038",
+        "DOC_039",
+        "DOC_040",
+        "DOC_042",
+        "DOC_043",
+        "DOC_044",
+        "DOC_046",
+        "DOC_047",
+        "DOC_048",
+        "DOC_049",
+        "DOC_050",
+        "DOC_051",
+        "DOC_052",
+        "DOC_053",
+        "DOC_054",
+        "DOC_055",
+        "DOC_056"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [],
+      "must_not_claim": [
+        "all documents are motor accident cases"
+      ],
+      "ideal_answer_facets": [
+        "identifies non-motor docs",
+        "states their legal area"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "deterministic"
+    },
+    {
+      "query_id": "g_det_03",
+      "query": "Which cases specifically discuss a fake driving licence?",
+      "query_type": "single_issue",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_005",
+        "DOC_031"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "fake licence"
+      ],
+      "must_not_claim": [
+        "a fake licence always exonerates the insurer"
+      ],
+      "ideal_answer_facets": [
+        "identifies fake-licence cases",
+        "distinguishes from mere expiry"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "deterministic"
+    },
+    {
+      "query_id": "g_det_04",
+      "query": "Which cases involve contributory negligence?",
+      "query_type": "single_issue",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_006",
+        "DOC_009",
+        "DOC_018",
+        "DOC_023"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "contributory negligence"
+      ],
+      "must_not_claim": [],
+      "ideal_answer_facets": [
+        "lists contributory-negligence cases"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "deterministic"
+    },
+    {
+      "query_id": "g_det_05",
+      "query": "Which judgments are trademark or intellectual-property cases?",
+      "query_type": "factual_metadata",
+      "legal_area": "trademark_ip",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_046",
+        "DOC_047",
+        "DOC_048",
+        "DOC_049"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [],
+      "must_not_claim": [
+        "the corpus is only about motor accidents"
+      ],
+      "ideal_answer_facets": [
+        "identifies the trademark/IP docs"
+      ],
+      "difficulty": "easy",
+      "no_answer": false,
+      "label_source": "deterministic"
+    },
+    {
+      "query_id": "g_det_06",
+      "query": "Which case interprets Section 167 of the Motor Vehicles Act (election between the Motor Vehicles Act and the Workmen's Compensation Act)?",
+      "query_type": "statutory",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_005"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "Section 167",
+        "Workmen's Compensation"
+      ],
+      "must_not_claim": [],
+      "ideal_answer_facets": [
+        "identifies the Section 167 case",
+        "explains the election bar"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "deterministic"
+    },
+    {
+      "query_id": "g_det_07",
+      "query": "Which case involves amendment of pleadings or amendment of a written statement?",
+      "query_type": "procedural",
+      "legal_area": "civil_procedure",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_056"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "amendment of pleadings"
+      ],
+      "must_not_claim": [],
+      "ideal_answer_facets": [
+        "identifies the amendment case"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "deterministic"
+    },
+    {
+      "query_id": "g_det_08",
+      "query": "Find trademark dilution cases that also involve a commercial motor vehicle accident.",
+      "query_type": "no_answer",
+      "legal_area": "mixed",
+      "required_workflow": "no_answer_check",
+      "expected_relevant_doc_ids": [],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [],
+      "must_not_claim": [
+        "a corpus case combines trademark dilution with a motor accident"
+      ],
+      "ideal_answer_facets": [
+        "states no such case exists",
+        "does not hallucinate"
+      ],
+      "difficulty": "hard",
+      "no_answer": true,
+      "label_source": "deterministic"
+    },
+    {
+      "query_id": "g_det_09",
+      "query": "Find Supreme Court cyber-fraud sentencing cases arising from a motor accident.",
+      "query_type": "no_answer",
+      "legal_area": "mixed",
+      "required_workflow": "no_answer_check",
+      "expected_relevant_doc_ids": [],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [],
+      "must_not_claim": [
+        "the corpus contains a cyber-fraud motor-accident case"
+      ],
+      "ideal_answer_facets": [
+        "states the corpus lacks such a case",
+        "may point to closest material"
+      ],
+      "difficulty": "hard",
+      "no_answer": true,
+      "label_source": "deterministic"
+    },
+    {
+      "query_id": "DSQ_01",
+      "query": "Show me writ petitions where a constitutional court awarded monetary compensation against the State or the Union of India for a death or injury (public-law compensation), rather than a Motor Vehicles Act tribunal award.",
+      "query_type": "procedural",
+      "legal_area": "mixed",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_039",
+        "DOC_040"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "public-law compensation under Article 226",
+        "multiplier-based loss of dependency computed in writ jurisdiction",
+        "State/Union liability for death or injury"
+      ],
+      "must_not_claim": [
+        "that these are Motor Vehicles Act / Section 166 Tribunal awards",
+        "that an insurer was a party or held liable"
+      ],
+      "ideal_answer_facets": [
+        "identify DOC_039 (explosion death, State of NCT Delhi) and DOC_040 (Union of India)",
+        "note compensation was computed using the multiplier method even in writ jurisdiction",
+        "distinguish public-law compensation from a MACT award"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_02",
+      "query": "Find High Court decisions where the insurance company appealed a Motor Accident Claims Tribunal award but the appeal was dismissed and the Tribunal's award was confirmed unchanged.",
+      "query_type": "procedural",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_005",
+        "DOC_018",
+        "DOC_025",
+        "DOC_027"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "insurer's appeal dismissed",
+        "Tribunal award confirmed/maintained",
+        "appeal grounds rejected (fake licence, contributory negligence, policy/licence breach)"
+      ],
+      "must_not_claim": [
+        "that compensation was enhanced in these particular appeals",
+        "that the insurer was exonerated"
+      ],
+      "ideal_answer_facets": [
+        "list the four insurer appeals that were dismissed with the award confirmed",
+        "note the rejected ground in each (fake licence not proved DOC_005, contributory negligence DOC_018, policy-breach pay-and-recover DOC_025, HGV licence breach DOC_027)",
+        "contrast with appeals that succeeded or enhanced compensation"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_03",
+      "query": "List the motor accident cases where the appellate court enhanced the compensation originally awarded to the victims or their families.",
+      "query_type": "single_issue",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_001",
+        "DOC_004",
+        "DOC_006",
+        "DOC_019",
+        "DOC_020",
+        "DOC_030",
+        "DOC_033",
+        "DOC_034"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "compensation enhancement on appeal",
+        "future prospects / corrected multiplier / income re-determination driving the increase"
+      ],
+      "must_not_claim": [
+        "that DOC_007 enhanced compensation (it reduced the award)",
+        "that every motor case resulted in enhancement"
+      ],
+      "ideal_answer_facets": [
+        "enumerate the enhancement cases with the revised figures",
+        "identify the common drivers: future prospects (Pranay Sethi), correct multiplier (Sarla Verma), income re-computation",
+        "flag that some enhancements (e.g. DOC_030) are payable by the owner because the insurer was exonerated"
+      ],
+      "difficulty": "easy",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_04",
+      "query": "Which cases resulted in a 'pay and recover' order, where the insurer was directed to pay the claimant first and then recover the amount from the owner or driver?",
+      "query_type": "single_issue",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_001",
+        "DOC_003",
+        "DOC_006",
+        "DOC_024",
+        "DOC_025",
+        "DOC_026",
+        "DOC_027",
+        "DOC_033",
+        "DOC_035"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "pay-and-recover direction",
+        "policy/licence breach proved yet the third party is still protected",
+        "insurer's right of recovery against owner/driver"
+      ],
+      "must_not_claim": [
+        "that DOC_028, DOC_029 or DOC_030 ordered pay-and-recover (the insurer was exonerated in those)",
+        "that pay-and-recover means the insurer escaped all liability to the claimant"
+      ],
+      "ideal_answer_facets": [
+        "list the pay-and-recover cases",
+        "explain the doctrine: third party is paid first, insurer then recovers from the insured",
+        "highlight DOC_025 (Full Bench) affirming pay-and-recover even on a proven breach",
+        "contrast with the exoneration cases DOC_029/DOC_030"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_05",
+      "query": "I want cases where the insurer actively disputed its liability on a licence or policy-breach defence, yet the court still protected the claimants by either holding the insurer fully liable or directing it to pay and recover. Also flag the cases where the same kind of defence let the insurer escape.",
+      "query_type": "multi_hop",
+      "legal_area": "motor_accident",
+      "required_workflow": "support_adverse_strategy",
+      "expected_relevant_doc_ids": [
+        "DOC_002",
+        "DOC_003",
+        "DOC_005",
+        "DOC_006",
+        "DOC_024",
+        "DOC_025",
+        "DOC_027",
+        "DOC_028",
+        "DOC_029",
+        "DOC_030",
+        "DOC_032",
+        "DOC_034",
+        "DOC_041"
+      ],
+      "supporting_doc_ids": [
+        "DOC_005",
+        "DOC_006",
+        "DOC_024",
+        "DOC_025",
+        "DOC_027",
+        "DOC_032",
+        "DOC_034",
+        "DOC_041"
+      ],
+      "adverse_doc_ids": [
+        "DOC_002",
+        "DOC_003",
+        "DOC_028",
+        "DOC_029",
+        "DOC_030"
+      ],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "insurer raised a licence or policy-breach defence",
+        "court protected the claimant via insurer liability or pay-and-recover",
+        "fraud/collusion as the only complete escape (DOC_025)"
+      ],
+      "must_not_claim": [
+        "that proving a breach always exonerates the insurer",
+        "that a pay-and-recover order leaves the claimant unpaid"
+      ],
+      "ideal_answer_facets": [
+        "marshal the claimant-protective precedents and why protection followed (third-party statutory right, S. Iyyapan, Yallavva Full Bench)",
+        "honestly flag the adverse counter-cases where the insurer escaped (gratuitous/hire passengers DOC_028/DOC_029/DOC_030, non-agricultural use DOC_002, licence shift DOC_003)",
+        "explain that escape generally requires the passenger to fall outside third-party cover or the claimant's complicity"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_06",
+      "query": "Find cases that involve BOTH a commercial goods vehicle (truck, tanker, lorry, tempo, dumper, goods carriage) AND a dispute over the driver's licence, whether validity, a fake licence, or a missing endorsement or badge.",
+      "query_type": "multi_hop",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_001",
+        "DOC_005",
+        "DOC_006",
+        "DOC_025",
+        "DOC_027",
+        "DOC_033",
+        "DOC_034"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "commercial goods vehicle involved",
+        "driving licence validity / fake licence / endorsement or badge breach",
+        "consequence for insurer indemnity"
+      ],
+      "must_not_claim": [
+        "that passenger-vehicle cases (car/taxi/bus) belong in this set",
+        "that a licence breach automatically voids third-party cover"
+      ],
+      "ideal_answer_facets": [
+        "return the intersection of goods-vehicle plus licence-dispute cases",
+        "specify the licence issue in each (hazardous-goods tanker endorsement DOC_001, fake licence DOC_005, HGV-vs-LMV DOC_027)",
+        "summarise the indemnity outcome per case (liable, pay-and-recover, or not proved)"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_07",
+      "query": "Research how courts allocate liability between the insurer and the owner when the victim was a passenger arguably outside third-party cover, such as a gratuitous passenger in a goods vehicle or an occupant of a vehicle used for hire. When is the insurer completely off the hook and when must it still pay?",
+      "query_type": "multi_hop",
+      "legal_area": "motor_accident",
+      "required_workflow": "support_adverse_strategy",
+      "expected_relevant_doc_ids": [
+        "DOC_014",
+        "DOC_025",
+        "DOC_026",
+        "DOC_028",
+        "DOC_029",
+        "DOC_030"
+      ],
+      "supporting_doc_ids": [
+        "DOC_025",
+        "DOC_026"
+      ],
+      "adverse_doc_ids": [
+        "DOC_014",
+        "DOC_028",
+        "DOC_029",
+        "DOC_030"
+      ],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "gratuitous passenger not covered under Section 147/95",
+        "insurer exoneration versus pay-and-recover",
+        "owner's residual liability"
+      ],
+      "must_not_claim": [
+        "that gratuitous passengers in goods vehicles are always covered by the policy",
+        "that pay-and-recover is always available (DOC_029/DOC_030 refused it)"
+      ],
+      "ideal_answer_facets": [
+        "contrast pay-and-recover cases (DOC_025, DOC_026) with full-exoneration cases (DOC_014, DOC_029, DOC_030)",
+        "note DOC_028 holding a hire-vehicle occupant is not a third party",
+        "explain when the Tribunal lacks power to order pay-and-recover (DOC_029)"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_08",
+      "query": "Compare the cases where the insurer SUCCEEDED in establishing a driving-licence defence (escaping indemnity or securing recovery rights) against the cases where the licence defence FAILED and the insurer was held fully liable. What distinguished the winners from the losers?",
+      "query_type": "comparison",
+      "legal_area": "motor_accident",
+      "required_workflow": "comparison",
+      "expected_relevant_doc_ids": [
+        "DOC_001",
+        "DOC_003",
+        "DOC_005",
+        "DOC_031",
+        "DOC_032",
+        "DOC_034",
+        "DOC_035",
+        "DOC_041"
+      ],
+      "supporting_doc_ids": [
+        "DOC_005",
+        "DOC_032",
+        "DOC_034",
+        "DOC_041"
+      ],
+      "adverse_doc_ids": [
+        "DOC_001",
+        "DOC_003",
+        "DOC_031",
+        "DOC_035"
+      ],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "proof of the licence breach by cogent/RTO evidence",
+        "fundamental versus technical breach",
+        "third-party protection versus own-damage",
+        "recovery rights versus full exoneration"
+      ],
+      "must_not_claim": [
+        "that a licence defence always exonerates the insurer of third-party liability",
+        "that an unproved fake-licence allegation can succeed"
+      ],
+      "ideal_answer_facets": [
+        "group the cases by outcome (defence succeeded vs failed)",
+        "identify the differentiator: quality of proof (DOC_005 unproved vs DOC_031 SC) and the third-party protection principle",
+        "note that even successful defences usually yield only pay-and-recover, not full exoneration"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_09",
+      "query": "Compare how courts have weighed FIR-based evidence against eyewitness or circumstantial evidence (including res ipsa loquitur) when deciding negligence in motor accident and related criminal cases. When is an FIR decisive and when is it treated as unreliable?",
+      "query_type": "comparison",
+      "legal_area": "mixed",
+      "required_workflow": "comparison",
+      "expected_relevant_doc_ids": [
+        "DOC_004",
+        "DOC_006",
+        "DOC_013",
+        "DOC_014",
+        "DOC_015",
+        "DOC_017"
+      ],
+      "supporting_doc_ids": [
+        "DOC_004",
+        "DOC_006",
+        "DOC_014"
+      ],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [
+        "DOC_013",
+        "DOC_015",
+        "DOC_017"
+      ],
+      "must_include_issues": [
+        "FIR treated as a one-sided / uncorroborated version (DOC_004)",
+        "eyewitness testimony crediting negligence (DOC_006)",
+        "res ipsa loquitur applied (DOC_014) versus rejected (DOC_013)",
+        "alternative-explanation acquittals (DOC_015)"
+      ],
+      "must_not_claim": [
+        "that an FIR is conclusive proof of negligence",
+        "that a criminal acquittal bars a civil compensation claim"
+      ],
+      "ideal_answer_facets": [
+        "contrast cases where the FIR was discounted (DOC_004, DOC_015) with where the evidence sufficed (DOC_006, DOC_017)",
+        "explain the res ipsa split (DOC_013 rejected vs DOC_014 applied)",
+        "note the different standards in criminal versus compensation proceedings"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_10",
+      "query": "Find cases that help us on negligence.",
+      "query_type": "ambiguous",
+      "legal_area": "motor_accident",
+      "required_workflow": "support_adverse_strategy",
+      "expected_relevant_doc_ids": [
+        "DOC_004",
+        "DOC_006",
+        "DOC_014",
+        "DOC_018",
+        "DOC_022",
+        "DOC_034"
+      ],
+      "supporting_doc_ids": [
+        "DOC_004",
+        "DOC_006",
+        "DOC_014",
+        "DOC_018",
+        "DOC_022",
+        "DOC_034"
+      ],
+      "adverse_doc_ids": [
+        "DOC_013",
+        "DOC_015",
+        "DOC_016"
+      ],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "clarify whose side: proving negligence (claimant) versus defeating a negligence allegation (driver)",
+        "establishing rash/negligent driving",
+        "rebutting contributory negligence",
+        "res ipsa loquitur"
+      ],
+      "must_not_claim": [
+        "that the query unambiguously favours one side",
+        "that res ipsa loquitur applies automatically to every accident"
+      ],
+      "ideal_answer_facets": [
+        "surface the ambiguity and ask whether the user wants to prove or disprove negligence",
+        "for proving negligence cite DOC_004 (FIR discounted), DOC_006 (eyewitness), DOC_014 (res ipsa), DOC_018 (contributory negligence rejected), DOC_022 (negligence established), DOC_034",
+        "flag the defence-side counter-authorities (DOC_013, DOC_015, DOC_016) for the opposite reading"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_11",
+      "query": "Pull up cases where insurance liability was disputed.",
+      "query_type": "ambiguous",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_002",
+        "DOC_014",
+        "DOC_028",
+        "DOC_029",
+        "DOC_030"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "clarify the ground of dispute (licence, policy breach, passenger coverage, permit)",
+        "clarify the desired outcome (disputes the insurer won versus lost)",
+        "policy-breach / statutory non-coverage exoneration"
+      ],
+      "must_not_claim": [
+        "that 'insurance liability was disputed' has a single obvious meaning",
+        "that the insurer is always exonerated when liability is disputed"
+      ],
+      "ideal_answer_facets": [
+        "note the query is under-specified and ask the user to narrow the ground and outcome",
+        "offer a representative cluster where the insurer's liability dispute succeeded (non-agricultural use DOC_002, hire occupant DOC_028, gratuitous passenger DOC_014/DOC_029/DOC_030)",
+        "offer to also retrieve disputes the insurer lost"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_12",
+      "query": "What principles do courts apply to determine 'just compensation' under Section 166 of the Motor Vehicles Act, covering income determination, future prospects, the multiplier, and personal-expense deductions? Give me the leading worked examples in the corpus.",
+      "query_type": "statutory",
+      "legal_area": "motor_accident",
+      "required_workflow": "simple_lookup",
+      "expected_relevant_doc_ids": [
+        "DOC_004",
+        "DOC_008",
+        "DOC_011",
+        "DOC_012",
+        "DOC_019",
+        "DOC_020",
+        "DOC_022"
+      ],
+      "supporting_doc_ids": [],
+      "adverse_doc_ids": [],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "just compensation under Section 166",
+        "income determination and future prospects (Pranay Sethi)",
+        "multiplier selection (Sarla Verma)",
+        "personal-expense deduction and conventional heads"
+      ],
+      "must_not_claim": [
+        "that the multiplier or future-prospects percentages are fixed regardless of the deceased's age or employment",
+        "that Section 166 imposes a statutory cap on compensation"
+      ],
+      "ideal_answer_facets": [
+        "state the just-compensation framework (income, future prospects, multiplier, deductions, conventional heads)",
+        "cite worked examples (DOC_004, DOC_019, DOC_020, DOC_011, DOC_012, DOC_022)",
+        "note the multiplier-principle authority DOC_008 (Karnataka Full Bench)"
+      ],
+      "difficulty": "medium",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_13",
+      "query": "I represent a widow whose husband was killed by a commercial truck driven by an unlicensed driver. The insurer denies liability, claiming the policy is void for the licence breach. Build a precedent strategy: which authorities support paying the widow, and which could the insurer use against us?",
+      "query_type": "cross_document_strategy",
+      "legal_area": "motor_accident",
+      "required_workflow": "support_adverse_strategy",
+      "expected_relevant_doc_ids": [
+        "DOC_001",
+        "DOC_002",
+        "DOC_003",
+        "DOC_005",
+        "DOC_006",
+        "DOC_024",
+        "DOC_025",
+        "DOC_027",
+        "DOC_031",
+        "DOC_032",
+        "DOC_034",
+        "DOC_035",
+        "DOC_041"
+      ],
+      "supporting_doc_ids": [
+        "DOC_005",
+        "DOC_006",
+        "DOC_024",
+        "DOC_025",
+        "DOC_027",
+        "DOC_032",
+        "DOC_034",
+        "DOC_041"
+      ],
+      "adverse_doc_ids": [
+        "DOC_001",
+        "DOC_002",
+        "DOC_003",
+        "DOC_031",
+        "DOC_035"
+      ],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "third party's statutory right to compensation despite a licence breach",
+        "pay-and-recover as the usual remedy",
+        "insurer must prove the breach by cogent/RTO evidence",
+        "fundamental versus technical breach"
+      ],
+      "must_not_claim": [
+        "that a licence breach renders the policy void against a third-party claimant",
+        "that the widow cannot recover at all if the breach is proved"
+      ],
+      "ideal_answer_facets": [
+        "lead with supporting authorities (S. Iyyapan DOC_032, Yallavva Full Bench DOC_025, DOC_006, DOC_027) showing the insurer must pay or pay-and-recover",
+        "anticipate the adverse authorities (expired licence DOC_003, fake licence DOC_031, endorsement DOC_001, badge DOC_035, policy void DOC_002) and how to distinguish them",
+        "advise on the evidentiary burden, since the insurer must prove the breach with RTO records (DOC_005)"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_14",
+      "query": "We act for a claimant facing a driving-licence dispute. Identify the STRONGEST adverse precedents an insurer could deploy to deny or limit its liability on licence grounds, and the best counter-authorities we can use to distinguish them.",
+      "query_type": "cross_document_strategy",
+      "legal_area": "motor_accident",
+      "required_workflow": "support_adverse_strategy",
+      "expected_relevant_doc_ids": [
+        "DOC_001",
+        "DOC_003",
+        "DOC_006",
+        "DOC_025",
+        "DOC_027",
+        "DOC_031",
+        "DOC_032",
+        "DOC_034",
+        "DOC_035"
+      ],
+      "supporting_doc_ids": [
+        "DOC_006",
+        "DOC_025",
+        "DOC_027",
+        "DOC_032",
+        "DOC_034"
+      ],
+      "adverse_doc_ids": [
+        "DOC_001",
+        "DOC_003",
+        "DOC_031",
+        "DOC_035"
+      ],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "fake-licence renewal does not cure the defect (DOC_031)",
+        "expired-licence renewal beyond 30 days (DOC_003)",
+        "missing hazardous-goods endorsement / transport badge (DOC_001, DOC_035)",
+        "recovery rights / escape from joint and several liability"
+      ],
+      "must_not_claim": [
+        "that these adverse precedents defeat a third-party claim entirely (most yield only pay-and-recover)",
+        "that Laxmi Narain Dhut (DOC_031) bars third-party recovery (it limits Swaran Singh to third-party risk and bites mainly on own-damage)"
+      ],
+      "ideal_answer_facets": [
+        "rank the adverse precedents (DOC_031 SC fake licence, DOC_003 expired, DOC_001 endorsement, DOC_035 badge) and the exact limit of each",
+        "explain recovery-rights vs exoneration and own-damage vs third-party distinctions",
+        "supply counter-authorities (DOC_032, DOC_025, DOC_027, DOC_034) to distinguish and blunt them"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_15",
+      "query": "Help me build a precedent strategy for a fatal motor accident claim where the offending vehicle was a commercial goods vehicle and the insurer is disputing its liability on licence, permit or passenger-coverage grounds. What helps the dependants and what hurts them?",
+      "query_type": "cross_document_strategy",
+      "legal_area": "motor_accident",
+      "required_workflow": "support_adverse_strategy",
+      "expected_relevant_doc_ids": [
+        "DOC_001",
+        "DOC_002",
+        "DOC_005",
+        "DOC_006",
+        "DOC_014",
+        "DOC_025",
+        "DOC_026",
+        "DOC_027",
+        "DOC_028",
+        "DOC_029",
+        "DOC_030",
+        "DOC_032",
+        "DOC_041"
+      ],
+      "supporting_doc_ids": [
+        "DOC_005",
+        "DOC_006",
+        "DOC_025",
+        "DOC_026",
+        "DOC_027",
+        "DOC_032",
+        "DOC_041"
+      ],
+      "adverse_doc_ids": [
+        "DOC_001",
+        "DOC_002",
+        "DOC_014",
+        "DOC_028",
+        "DOC_029",
+        "DOC_030"
+      ],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "third-party protection and pay-and-recover for commercial-vehicle accidents",
+        "licence and permit breach defences",
+        "gratuitous / non-third-party passenger exoneration",
+        "loss of dependency computation"
+      ],
+      "must_not_claim": [
+        "that a commercial vehicle's policy breach always exonerates the insurer",
+        "that all goods-vehicle occupants are covered third parties"
+      ],
+      "ideal_answer_facets": [
+        "assemble supporting authorities where the dependants were paid (DOC_006, DOC_025, DOC_026, DOC_027, DOC_032, DOC_041, DOC_005)",
+        "flag adverse authorities where the insurer escaped (non-agricultural use DOC_002, gratuitous passenger DOC_014/DOC_029/DOC_030, hire occupant DOC_028, endorsement recovery DOC_001)",
+        "advise checking whether the deceased was a third party or a non-covered passenger"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "subagent"
+    },
+    {
+      "query_id": "DSQ_16",
+      "query": "Our client's claim is being resisted because the insurer alleges the driver held a FAKE driving licence. Map the precedents: which support the claimant despite a fake-licence allegation (and what proof the insurer must bring), and which are adverse?",
+      "query_type": "cross_document_strategy",
+      "legal_area": "motor_accident",
+      "required_workflow": "support_adverse_strategy",
+      "expected_relevant_doc_ids": [
+        "DOC_001",
+        "DOC_003",
+        "DOC_005",
+        "DOC_006",
+        "DOC_025",
+        "DOC_027",
+        "DOC_031",
+        "DOC_032",
+        "DOC_034",
+        "DOC_035"
+      ],
+      "supporting_doc_ids": [
+        "DOC_005",
+        "DOC_006",
+        "DOC_025",
+        "DOC_027",
+        "DOC_032",
+        "DOC_034"
+      ],
+      "adverse_doc_ids": [
+        "DOC_001",
+        "DOC_003",
+        "DOC_031",
+        "DOC_035"
+      ],
+      "neutral_doc_ids": [],
+      "must_include_issues": [
+        "insurer must prove the licence is fake by cogent RTO evidence, not bare oral testimony (DOC_005)",
+        "renewal of a fake licence does not validate it (DOC_031)",
+        "third-party protection / pay-and-recover even where the breach is proved",
+        "Swaran Singh limited to third-party risk (DOC_031)"
+      ],
+      "must_not_claim": [
+        "that a mere allegation of a fake licence shifts the burden to the claimant",
+        "that a proven fake licence defeats the third-party claim entirely"
+      ],
+      "ideal_answer_facets": [
+        "lead with DOC_005 (insurer failed to prove the fake licence; oral evidence insufficient) and the protective line DOC_032/DOC_025/DOC_027/DOC_034",
+        "explain the adverse line: DOC_031 (fake licence, renewal no cure), DOC_003, DOC_001, DOC_035",
+        "stress the evidentiary burden on the insurer and the third-party pay-and-recover fallback"
+      ],
+      "difficulty": "hard",
+      "no_answer": false,
+      "label_source": "subagent"
+    }
+  ]
+}

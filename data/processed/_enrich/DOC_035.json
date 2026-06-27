@@ -1,0 +1,85 @@
+{
+  "doc_id": "DOC_035",
+  "case_title": "United India Insurance Company Limited vs V. Vijayakumar",
+  "court": "High Court of Judicature at Madras",
+  "judge_or_bench": "R. Banumathi, J. and G.M. Akbar Ali, J.",
+  "date": "2010-09-08",
+  "year": 2010,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["United India Insurance Company Limited, Salem"],
+    "respondents": ["V. Vijayakumar (rep. by his mother V. Kalamani)", "V. Kalamani", "C. Marimuthu (owner)", "T. Rukmani"],
+    "claimants": ["V. Vijayakumar (injured claimant)"],
+    "insurer": ["United India Insurance Company Limited"],
+    "owner_or_driver": ["C. Marimuthu (owner)", "3rd Respondent/driver (name not specified)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.149",
+    "Motor Vehicles Act, 1988 s.149(1)",
+    "Motor Vehicles Act, 1988 s.149(2)(a)(ii)",
+    "Tamil Nadu Motor Vehicles Rules, 1989 Rule 35",
+    "Tamil Nadu Motor Vehicles Rules, 1989 Rule 36",
+    "Central Motor Vehicles Rules, 1989 s.3",
+    "Motor Vehicles Act, 1988 s.3"
+  ],
+  "core_facts": [
+    "Accident on 07.07.2002: claimant V. Vijayakumar (22 years, B.Com graduate, working as accountant at Rs.4,500/month) was walking on road near Annur Bus Stand when Tourist Maxi Cab (Mahendra van TN 27 L 3638) driven by 3rd respondent Marimuthu dashed into him",
+    "Claimant sustained severe head injuries — diffuse axonal injury and corpus callosum involvement; admitted to KMCH ICU for 5.5 months; on ventilator 46 days; tracheostomy performed",
+    "At time of trial, claimant was totally paralysed, non-communicative, in vegetative existence; permanent disability assessed at 95%",
+    "Driver (3rd respondent) had only LMV licence (No.1407/97) valid up to 05.06.2016 but had no authorisation (badge) to drive a transport vehicle (Tourist Maxi Cab)",
+    "R.W.1 (Junior Assistant from Motor Vehicles Inspector's office) testified that 3rd respondent was not granted any authorisation to drive transport vehicle nor allotted a badge number",
+    "Claims Tribunal awarded Rs.19,59,895/- including Rs.8,20,800/- for permanent disability and Rs.9,37,095/- for medical expenses; held insurer jointly and severally liable",
+    "Insurer appealed challenging both liability and the quantum as excessive"
+  ],
+  "legal_issues": [
+    "Whether the insurer discharged its burden of proving that the driver was not duly licensed to drive the transport vehicle (Tourist Maxi Cab) and thereby proved a breach of policy conditions under section 149(2)(a)(ii)",
+    "Whether, upon proving breach of policy conditions, the insurer is absolved of liability or whether pay-and-recover (insurer pays claimant then recovers from owner) should be directed",
+    "Whether the compensation of Rs.19,59,895/- awarded by the Tribunal is excessive or just and reasonable"
+  ],
+  "issue_tags": [
+    "driving_license_validity",
+    "license_breach_defence",
+    "insurance_liability",
+    "pay_and_recover",
+    "third_party_liability",
+    "compensation_quantum",
+    "just_compensation"
+  ],
+  "vehicle_tags": ["taxi", "commercial_vehicle"],
+  "stance_tags": ["mixed", "insurer_supporting"],
+  "outcome": "Appeal partly allowed. Quantum of Rs.19,59,895/- with 9% interest per annum confirmed as just and reasonable. Award modified: insurance company is not jointly and severally liable but must pay the compensation to the claimant (1st respondent) and then recover the same from the insured (owner C. Marimuthu and driver). Insurer entitled to file execution petition against respondents 3 and 4 in the same proceedings.",
+  "key_holdings": [
+    "The insurance company discharged its burden of proving that the 3rd respondent (driver) had only an LMV licence and lacked the specific authorisation (badge) required to drive a transport vehicle (Tourist Maxi Cab), establishing a breach of policy conditions under section 149(2)(a)(ii).",
+    "Absence of badge/authorisation for transport vehicle proved by R.W.1's evidence that no badge was allotted and by the absence of endorsement in the driving licence; the Tribunal erred in fastening statutory liability on the insurer.",
+    "Despite the insurer proving breach of policy conditions, a pay-and-recover order is the appropriate remedy: the insurer must pay compensation to the innocent claimant and can then recover from the insured/owner.",
+    "Total compensation of Rs.19,59,895/- including Rs.8,20,800/- for permanent disability (Rs.4,500 x 12 x 16 x 95/100) and Rs.9,37,095/- for medical expenses with interest at 9% per annum is just, reasonable, and not excessive given the 95% disability and vegetative existence."
+  ],
+  "key_passages": [
+    {
+      "label": "driving_license_validity / breach proved",
+      "quote": "The absence of any endorsement in the driving licence as to the issuance of authorisation to drive the transport vehicle and non-mention of allotment of badge number clearly shows that the 3rd Respondent was not in possession of a valid driving licence and that he was not duly licensed to drive the transport vehicle and there was violation of Policy conditions.",
+      "page": 10
+    },
+    {
+      "label": "pay_and_recover / direction despite breach proved",
+      "quote": "The 3rd Respondent had a licence, but not a valid one. As there was violation of conditions of policy, Tribunal was not right in fastening the statutory liability upon the Insurance Company. Since there was violation of policy conditions the Tribunal ought not to have fastened the statutory liability upon the Insurance Company. Keeping in view the nature of injuries sustained by the claimant and that the claimant is now reduced to vegetable existence, the only just and reasonable course would be to direct the Insurance Company to pay compensation to the 1st Respondent – Claimant and recover it from the owner for his breach of the policy conditions.",
+      "page": 16
+    },
+    {
+      "label": "pay_and_recover / insurer must pay and recover",
+      "quote": "we are of the view that the Appellant - insurer must pay the amount to the claimant - 1st Respondent and then recover the same from the insured and to that extent the award passed by the Tribunal has to be modified.",
+      "page": 18
+    },
+    {
+      "label": "outcome / quantum confirmed",
+      "quote": "the quantum of compensation of Rs.19,59,895/- awarded by the Tribunal in M.C.O.P.No.428 of 2003 on the file of the Motor Accident Claims Tribunal (Principal Subordinate Judge), Coimbatore is confirmed. The award passed by the Tribunal holding that the Appellant Insurance Company is jointly and severally liable to pay the compensation along with Respondents No.3 and 4 – driver and owner of the vehicle is modified and it is held that the Appellant Insurance Company must pay the compensation amount to the 1st respondent – Claimant along with interest at 9% per annum and then recover the same from the insured",
+      "page": 18
+    }
+  ],
+  "adverse_value": "Holds that an insurer who proves that the driver lacked specific transport vehicle authorisation (badge) has established a breach of policy conditions under section 149(2)(a)(ii); the insurer escapes joint-and-several liability and obtains recovery rights against the owner/driver through a pay-and-recover modification.",
+  "summary": "A Madras High Court Division Bench heard an appeal by United India Insurance Company Limited challenging both liability and quantum in an award of Rs.19,59,895/- for a severe road accident. On 7 July 2002, V. Vijayakumar (22 years, B.Com graduate, accountant earning Rs.4,500/month) sustained severe head injuries when the driver of a Tourist Maxi Cab (Mahendra van) drove rashly and hit him while walking near Annur Bus Stand. The driver was convicted. The claimant suffered diffuse axonal injury, became totally paralysed, entered vegetative existence (95% permanent disability), and spent 5.5 months in ICU on ventilator. The insurer proved that the driver held only an LMV licence without the specific transport vehicle badge/authorisation required under Tamil Nadu Motor Vehicles Rules. The court accepted this defence: the driver was not duly licensed for the transport vehicle (tourist maxi cab), establishing violation of policy conditions under section 149(2)(a)(ii). However, applying the Kamla/Swaran Singh doctrine, the court modified the award so that the insurer must pay compensation to the claimant and then recover from the owner/insured. The quantum of Rs.19,59,895/- (including Rs.8,20,800/- for permanent disability and Rs.9,37,095/- for medical expenses) with 9% interest was maintained as just and reasonable given the severity of injuries.",
+  "confidence": "high"
+}

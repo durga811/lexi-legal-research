@@ -1,0 +1,80 @@
+{
+  "doc_id": "DOC_010",
+  "case_title": "Raju Gupta S/o Sh. Madan Mohan Gupta vs Manoj Kumar and Others",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "judge_or_bench": "Sh. G. N. Pandey",
+  "date": "2018-10-08",
+  "year": 2018,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "claim_petition",
+  "document_type": "award",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Manoj Kumar S/o Sh. Babu Ram (driver)", "Ram Singh S/o Sh. G.S. Meena (owner)", "National Insurance Co. Ltd."],
+    "claimants": ["Raju Gupta S/o Sh. Madan Mohan Gupta", "Neelam W/o Sh. Satish Kumar", "Satish Kumar S/o Sh. Kanhaiya Lal"],
+    "insurer": ["National Insurance Co. Ltd."],
+    "owner_or_driver": ["Manoj Kumar (driver)", "Ram Singh (owner)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.140"
+  ],
+  "core_facts": [
+    "On 14/15.02.2016 at about 2 AM, all three petitioners boarded auto-rickshaw DL 1 RM 0893 at Khajuri Chowk to go to Sonia Vihar; driver drove rashly at high speed and collided with stationary truck HR 55F 2507 at Wazirabad Road in front of Sonia Vihar Water Plant",
+    "FIR No. 155/16 was registered at PS Kajoori Khas under Sections 279/337/338 IPC; respondents were common across all three petitions",
+    "Raju Gupta (DAR 153/16) sustained 37% physical disability in left lower limb and right upper limb; functional disability assessed at 20% of the whole body",
+    "Income assessed at minimum wages for unskilled workman on 15.02.2016 at Rs. 9,178 per month; no future prospects addition per Pranay Sethi judgment",
+    "Neelam (DAR 154/16) and Satish Kumar (DAR 155/16) sustained simple injuries only; no significant loss of income or disability established",
+    "National Insurance Co. held liable under a valid policy (No. 361801/31/14/670000152) covering the offending auto for the period 10.03.2015 to 09.03.2016"
+  ],
+  "legal_issues": [
+    "Whether rash and negligent driving by the auto driver was established as the cause of the collision",
+    "Quantum of compensation for Raju Gupta with 37% physical and 20% functional disability",
+    "Whether future prospects are to be added when income is assessed at minimum wages",
+    "Liability of National Insurance Co. under the policy"
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "compensation_quantum",
+    "income_determination",
+    "section_166",
+    "future_prospects",
+    "just_compensation",
+    "interest_on_compensation",
+    "insurance_liability"
+  ],
+  "vehicle_tags": ["auto_rickshaw", "truck"],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "All three petitions allowed. Raju Gupta (DAR 153/16) awarded Rs. 5,33,033 (primarily Rs. 3,52,432 for future loss of income at 20% functional disability, multiplier 16, plus wages for 5 months, pain and suffering, amenities, attendant charges, and medical expenses). Neelam (DAR 154/16) and Satish Kumar (DAR 155/16) each awarded Rs. 15,000 for simple injuries. National Insurance Co. directed to pay all amounts with 9% interest from date of filing.",
+  "key_holdings": [
+    "Negligence of the driver is established through FIR, site plan, and eyewitness evidence on preponderance of probability; denial without counter-evidence is insufficient to rebut the claim.",
+    "Functional disability for compensation purposes is assessed as a percentage of the whole body even where the physical disability certificate specifies injury to a particular limb, following Raj Kumar v. Ajay Kumar (2011) 1 SCC 343.",
+    "Future prospects cannot be added to income assessed at statutory minimum wages where the petitioner has not proved a fixed salary or regular employment."
+  ],
+  "key_passages": [
+    {
+      "label": "fir_and_negligence",
+      "quote": "Regarding accident, FIR No. 155/16 was registered at PS Kajoori Khas, Delhi for offence U/s 279/337/338 IPC. The respondents in all the petitions are common.",
+      "page": 3
+    },
+    {
+      "label": "future_loss_award",
+      "quote": "The Claimant is thus awarded a compensation of an amount of Rs. 3,52,432/−( Rs. 9,178/− X 12 X 16 x 0.20) under the head Future Loss of Income.",
+      "page": 17
+    },
+    {
+      "label": "insurer_liability",
+      "quote": "Hence, I am of the opinion that respondent No. 3 being insurance company is liable to pay the",
+      "page": 31
+    },
+    {
+      "label": "award_outcome",
+      "quote": "Resultantly, the DAR petition stands allowed. Insurance company is hereby directed to pay",
+      "page": 32
+    }
+  ],
+  "adverse_value": "",
+  "summary": "This common award disposed of three DAR petitions (153/16, 154/16, 155/16) before the MACT, Karkardooma Courts, Delhi. On 14-15 February 2016 at 2 AM, the three petitioners—Raju Gupta, Neelam, and Satish Kumar—were passengers in auto-rickshaw DL 1 RM 0893. The driver drove rashly at high speed, causing the auto to collide with a stationary truck (HR 55F 2507) at Wazirabad Road. FIR No. 155/16 was registered under Sections 279/337/338 IPC. Negligence was established via FIR, site plan, and MLC records; respondents produced no controverting witnesses. For DAR 153/16 (Raju Gupta): a disability certificate established 37% physical disability in left lower limb and right upper limb; the Tribunal assessed 20% functional disability following Raj Kumar v. Ajay Kumar (2011) 1 SCC 343. Income was assessed at minimum wages for unskilled workman (Rs. 9,178 per month as of 15.02.2016); no future prospects were added per Pranay Sethi. Future loss of earnings was Rs. 3,52,432 (income × 12 × multiplier 16 × 20%), with additional awards for wages (5 months), pain and suffering, amenities, medical bills, conveyance, and attendant charges totalling Rs. 5,33,033. Neelam (154/16) and Satish Kumar (155/16) sustained simple injuries and were awarded Rs. 15,000 each. National Insurance Co. held liable for all three awards with 9% interest per annum from date of filing.",
+  "confidence": "high"
+}

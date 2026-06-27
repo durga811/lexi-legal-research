@@ -1,0 +1,561 @@
+{
+  "n_queries": 25,
+  "by_type": {
+    "factual_metadata": 3,
+    "single_issue": 4,
+    "statutory": 2,
+    "procedural": 3,
+    "no_answer": 2,
+    "multi_hop": 3,
+    "comparison": 2,
+    "ambiguous": 2,
+    "cross_document_strategy": 4
+  },
+  "by_workflow": {
+    "simple_lookup": 14,
+    "no_answer_check": 2,
+    "support_adverse_strategy": 7,
+    "comparison": 2
+  },
+  "by_difficulty": {
+    "easy": 3,
+    "medium": 10,
+    "hard": 12
+  },
+  "deep_queries": 9,
+  "n_with_adverse_labels": 8,
+  "distinct_docs_covered": 55,
+  "mean_pool_recall": 0.94,
+  "low_pool_recall_queries": [
+    "g_det_02"
+  ],
+  "hard_failures": [],
+  "per_query": [
+    {
+      "query_id": "g_det_01",
+      "query_type": "factual_metadata",
+      "required_workflow": "simple_lookup",
+      "difficulty": "easy",
+      "n_expected": 18,
+      "n_adverse": 0,
+      "pool_recall": 0.94,
+      "missing_from_pool": [
+        "DOC_021"
+      ],
+      "pooling_suggestions": [
+        "DOC_030",
+        "DOC_014",
+        "DOC_013",
+        "DOC_017",
+        "DOC_002",
+        "DOC_008"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "g_det_02",
+      "query_type": "factual_metadata",
+      "required_workflow": "simple_lookup",
+      "difficulty": "medium",
+      "n_expected": 20,
+      "n_adverse": 0,
+      "pool_recall": 0.2,
+      "missing_from_pool": [
+        "DOC_013",
+        "DOC_036",
+        "DOC_037",
+        "DOC_038",
+        "DOC_039",
+        "DOC_043",
+        "DOC_044",
+        "DOC_046",
+        "DOC_047",
+        "DOC_048",
+        "DOC_049",
+        "DOC_052",
+        "DOC_053",
+        "DOC_054",
+        "DOC_055",
+        "DOC_056"
+      ],
+      "pooling_suggestions": [
+        "DOC_018",
+        "DOC_024",
+        "DOC_009",
+        "DOC_006",
+        "DOC_034",
+        "DOC_011"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "g_det_03",
+      "query_type": "single_issue",
+      "required_workflow": "simple_lookup",
+      "difficulty": "medium",
+      "n_expected": 2,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_006",
+        "DOC_029",
+        "DOC_035",
+        "DOC_032",
+        "DOC_025",
+        "DOC_027"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "g_det_04",
+      "query_type": "single_issue",
+      "required_workflow": "simple_lookup",
+      "difficulty": "medium",
+      "n_expected": 4,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_015",
+        "DOC_040",
+        "DOC_004",
+        "DOC_025",
+        "DOC_035",
+        "DOC_019"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "g_det_05",
+      "query_type": "factual_metadata",
+      "required_workflow": "simple_lookup",
+      "difficulty": "easy",
+      "n_expected": 4,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_053",
+        "DOC_005",
+        "DOC_016",
+        "DOC_019",
+        "DOC_031",
+        "DOC_039"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "g_det_06",
+      "query_type": "statutory",
+      "required_workflow": "simple_lookup",
+      "difficulty": "hard",
+      "n_expected": 1,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_027",
+        "DOC_029",
+        "DOC_041",
+        "DOC_020",
+        "DOC_002",
+        "DOC_018"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "g_det_07",
+      "query_type": "procedural",
+      "required_workflow": "simple_lookup",
+      "difficulty": "medium",
+      "n_expected": 1,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_052",
+        "DOC_024",
+        "DOC_048",
+        "DOC_046",
+        "DOC_047",
+        "DOC_029"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "g_det_08",
+      "query_type": "no_answer",
+      "required_workflow": "no_answer_check",
+      "difficulty": "hard",
+      "n_expected": 0,
+      "n_adverse": 0,
+      "pool_recall": null,
+      "missing_from_pool": [],
+      "pooling_suggestions": [],
+      "closest_for_no_answer": [
+        "DOC_010",
+        "DOC_032",
+        "DOC_011",
+        "DOC_022",
+        "DOC_035"
+      ],
+      "errors": []
+    },
+    {
+      "query_id": "g_det_09",
+      "query_type": "no_answer",
+      "required_workflow": "no_answer_check",
+      "difficulty": "hard",
+      "n_expected": 0,
+      "n_adverse": 0,
+      "pool_recall": null,
+      "missing_from_pool": [],
+      "pooling_suggestions": [],
+      "closest_for_no_answer": [
+        "DOC_023",
+        "DOC_010",
+        "DOC_008",
+        "DOC_011",
+        "DOC_025"
+      ],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_01",
+      "query_type": "procedural",
+      "required_workflow": "simple_lookup",
+      "difficulty": "medium",
+      "n_expected": 2,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_011",
+        "DOC_021",
+        "DOC_022",
+        "DOC_009",
+        "DOC_032",
+        "DOC_024"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_02",
+      "query_type": "procedural",
+      "required_workflow": "simple_lookup",
+      "difficulty": "medium",
+      "n_expected": 4,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_014",
+        "DOC_034",
+        "DOC_002",
+        "DOC_035",
+        "DOC_029",
+        "DOC_026"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_03",
+      "query_type": "single_issue",
+      "required_workflow": "simple_lookup",
+      "difficulty": "easy",
+      "n_expected": 8,
+      "n_adverse": 0,
+      "pool_recall": 0.88,
+      "missing_from_pool": [
+        "DOC_020"
+      ],
+      "pooling_suggestions": [
+        "DOC_018",
+        "DOC_024",
+        "DOC_039",
+        "DOC_021",
+        "DOC_043",
+        "DOC_011"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_04",
+      "query_type": "single_issue",
+      "required_workflow": "simple_lookup",
+      "difficulty": "medium",
+      "n_expected": 9,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_029",
+        "DOC_028",
+        "DOC_042",
+        "DOC_031",
+        "DOC_030",
+        "DOC_034"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_05",
+      "query_type": "multi_hop",
+      "required_workflow": "support_adverse_strategy",
+      "difficulty": "hard",
+      "n_expected": 13,
+      "n_adverse": 5,
+      "pool_recall": 0.85,
+      "missing_from_pool": [
+        "DOC_027",
+        "DOC_041"
+      ],
+      "pooling_suggestions": [
+        "DOC_033",
+        "DOC_035",
+        "DOC_010",
+        "DOC_011",
+        "DOC_031",
+        "DOC_038"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_06",
+      "query_type": "multi_hop",
+      "required_workflow": "simple_lookup",
+      "difficulty": "hard",
+      "n_expected": 7,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_032",
+        "DOC_021",
+        "DOC_010",
+        "DOC_011",
+        "DOC_012",
+        "DOC_035"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_07",
+      "query_type": "multi_hop",
+      "required_workflow": "support_adverse_strategy",
+      "difficulty": "hard",
+      "n_expected": 6,
+      "n_adverse": 4,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_031",
+        "DOC_034",
+        "DOC_035",
+        "DOC_024",
+        "DOC_033",
+        "DOC_002"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_08",
+      "query_type": "comparison",
+      "required_workflow": "comparison",
+      "difficulty": "hard",
+      "n_expected": 8,
+      "n_adverse": 4,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_025",
+        "DOC_006",
+        "DOC_029",
+        "DOC_027",
+        "DOC_024",
+        "DOC_033"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_09",
+      "query_type": "comparison",
+      "required_workflow": "comparison",
+      "difficulty": "hard",
+      "n_expected": 6,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_016",
+        "DOC_018",
+        "DOC_022",
+        "DOC_011",
+        "DOC_010",
+        "DOC_012"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_10",
+      "query_type": "ambiguous",
+      "required_workflow": "support_adverse_strategy",
+      "difficulty": "medium",
+      "n_expected": 6,
+      "n_adverse": 3,
+      "pool_recall": 0.83,
+      "missing_from_pool": [
+        "DOC_004"
+      ],
+      "pooling_suggestions": [
+        "DOC_015",
+        "DOC_011",
+        "DOC_025",
+        "DOC_021",
+        "DOC_020",
+        "DOC_008"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_11",
+      "query_type": "ambiguous",
+      "required_workflow": "simple_lookup",
+      "difficulty": "medium",
+      "n_expected": 5,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_027",
+        "DOC_035",
+        "DOC_033",
+        "DOC_019",
+        "DOC_005",
+        "DOC_012"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_12",
+      "query_type": "statutory",
+      "required_workflow": "simple_lookup",
+      "difficulty": "medium",
+      "n_expected": 7,
+      "n_adverse": 0,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_041",
+        "DOC_039",
+        "DOC_007",
+        "DOC_009",
+        "DOC_001",
+        "DOC_014"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_13",
+      "query_type": "cross_document_strategy",
+      "required_workflow": "support_adverse_strategy",
+      "difficulty": "hard",
+      "n_expected": 13,
+      "n_adverse": 5,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_029",
+        "DOC_010",
+        "DOC_039",
+        "DOC_028",
+        "DOC_004",
+        "DOC_018"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_14",
+      "query_type": "cross_document_strategy",
+      "required_workflow": "support_adverse_strategy",
+      "difficulty": "hard",
+      "n_expected": 9,
+      "n_adverse": 4,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_029",
+        "DOC_010",
+        "DOC_026",
+        "DOC_018",
+        "DOC_024",
+        "DOC_002"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_15",
+      "query_type": "cross_document_strategy",
+      "required_workflow": "support_adverse_strategy",
+      "difficulty": "hard",
+      "n_expected": 13,
+      "n_adverse": 6,
+      "pool_recall": 0.92,
+      "missing_from_pool": [
+        "DOC_041"
+      ],
+      "pooling_suggestions": [
+        "DOC_034",
+        "DOC_033",
+        "DOC_035",
+        "DOC_031",
+        "DOC_010",
+        "DOC_022"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    },
+    {
+      "query_id": "DSQ_16",
+      "query_type": "cross_document_strategy",
+      "required_workflow": "support_adverse_strategy",
+      "difficulty": "hard",
+      "n_expected": 10,
+      "n_adverse": 4,
+      "pool_recall": 1.0,
+      "missing_from_pool": [],
+      "pooling_suggestions": [
+        "DOC_029",
+        "DOC_010",
+        "DOC_024",
+        "DOC_038",
+        "DOC_016",
+        "DOC_004"
+      ],
+      "closest_for_no_answer": [],
+      "errors": []
+    }
+  ]
+}

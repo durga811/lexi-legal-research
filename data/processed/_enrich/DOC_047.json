@@ -1,0 +1,74 @@
+{
+  "doc_id": "DOC_047",
+  "case_title": "New Balance Athletics Inc. vs Ashok Kumar & Ors.",
+  "court": "High Court of Delhi at New Delhi",
+  "judge_or_bench": "Justice Mini Pushkarna",
+  "date": "2024-11-27",
+  "year": 2024,
+  "legal_area": "trademark_ip",
+  "is_motor_accident": false,
+  "procedural_stage": "suit",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Indramani Sahu (Defendant No. 1)", "Jagabandhu Sahoo (Defendant No. 11)", "other proforma defendants"],
+    "claimants": ["New Balance Athletics Inc."],
+    "insurer": [],
+    "owner_or_driver": []
+  },
+  "statutes": [
+    "Trade Marks Act, 1999 s.29(2)(c)",
+    "Trade Marks Act, 1999 s.29(3)",
+    "Code of Civil Procedure, 1908 Order VIII Rule 10",
+    "Code of Civil Procedure, 1908 Order I Rule 10"
+  ],
+  "core_facts": [
+    "New Balance Athletics Inc. is a US-based footwear company using the trademark 'NEW BALANCE' since 1951 and 'NB' device marks since the 1970s, with registrations in India",
+    "Defendants Indramani Sahu and Jagabandhu Sahoo operated website www.luxurytag.in which openly sold counterfeit footwear bearing the plaintiff's marks",
+    "The website explicitly described itself as 'India's first online store to sell replica of all kind (Since 2015)' and admitted selling products 'which look similar to the originals'",
+    "A representative of the plaintiff placed a test order in February 2023 and confirmed the product received was a fake/counterfeit",
+    "Main contesting defendants (Nos. 1 and 11) were served but failed to appear or file any written statement despite service on 08.09.2023 and 02.09.2023 respectively",
+    "Other defendants (proforma defendants) had either complied with court directions or had their right to file written statements closed"
+  ],
+  "legal_issues": [
+    "Whether the defendants' sale of counterfeit footwear bearing the plaintiff's registered trademarks constitutes trademark infringement under Section 29(2)(c) and 29(3) of the Trade Marks Act, 1999",
+    "Whether the triple/quadruple identity test (same marks, goods, consumers, and channels) is satisfied",
+    "Whether defendants' self-admission of selling replica/counterfeit products is sufficient proof of infringement",
+    "Whether actual litigation costs can be awarded as a remedy for counterfeiting"
+  ],
+  "issue_tags": ["trademark_infringement", "passing_off"],
+  "vehicle_tags": [],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "Suit decreed in favour of plaintiff against defendant nos. 1 and 11. Permanent injunction granted. Actual costs of Rs. 14,51,670/- (including court fees of Rs. 2,01,000 and Local Commissioner's fee of Rs. 1,00,000) awarded jointly and severally payable within 8 weeks.",
+  "key_holdings": [
+    "Where defendants use marks identical to plaintiff's registered trademarks on identical goods sold to identical consumers through identical channels, the triple/quadruple identity test under Section 29(2)(c) read with 29(3) is satisfied and likelihood of confusion is presumed",
+    "Defendants' explicit self-admissions on their website of selling replica/counterfeit products constitute sufficient proof of infringement and passing off",
+    "Where contesting defendants fail to file a written statement despite service, the plaintiff's submissions stand admitted under Order VIII Rule 10 of the CPC",
+    "Counterfeiting is a serious economic offence that erodes brand value and misleads consumers, warranting strict treatment and award of actual costs"
+  ],
+  "key_passages": [
+    {
+      "label": "self_admission_of_counterfeiting",
+      "quote": "Perusal of the above clearly shows that defendant nos. 1 and 11 have made categorical statements admitting sale of replica/fake/counterfeit products.",
+      "page": 5
+    },
+    {
+      "label": "triple_identity_test",
+      "quote": "the triple identity test, which envisages identity of marks, goods and consumers and availability of the goods through identical sources and outlets, is satisfied in the present case. One may even say the quadruple identity test stands satisfied.",
+      "page": 5
+    },
+    {
+      "label": "infringement_and_passing_off",
+      "quote": "The statements as aforenoted, on the Impugned Website, which can be found in plain view, for the consumers to observe, is sufficient admittance on its own by the said defendants, and prima facie amounts to the acts of infringement and passing off of the plaintiff",
+      "page": 5
+    },
+    {
+      "label": "actual_costs_awarded",
+      "quote": "In view of the above and on account of a clear case of counterfeiting and infringing activity being made out against defendant nos. 1 and 11, the present is a fit case for awarding actual costs in favor of the plaintiff and against defendant nos. 1 and 11.",
+      "page": 6
+    }
+  ],
+  "adverse_value": "",
+  "summary": "New Balance Athletics Inc., the American footwear company holding registered trademarks 'NEW BALANCE' and 'NB' in India, filed this commercial suit against operators of a rogue website www.luxurytag.in that openly sold counterfeit footwear bearing the plaintiff's marks. The website explicitly described itself as selling replicas 'which look similar to the originals.' The plaintiff's identities of the infringing defendants were established through discovery from proforma defendants, revealing Indramani Sahu as operator and Jagabandhu Sahoo as the UPI payment beneficiary. Despite service in September 2023, the contesting defendants failed to appear or file written statements, allowing the Court to invoke Order VIII Rule 10 CPC and treat the plaintiff's submissions as admitted. The Court found that the triple/quadruple identity test under Section 29(2)(c) read with 29(3) of the Trade Marks Act was satisfied: identical marks, identical goods (footwear), identical consumer base, and identical channels of distribution. The defendants' own website statements constituted clear admissions of selling counterfeit products. Following the coordinate bench's ruling in Puma SE v. Brijendra Singh that counterfeiting is a serious economic offence, the suit was decreed with a permanent injunction and actual litigation costs of Rs. 14,51,670 awarded jointly and severally against the infringing defendants.",
+  "confidence": "high"
+}

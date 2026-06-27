@@ -1,0 +1,73 @@
+{
+  "doc_id": "DOC_009",
+  "case_title": "Kamal S/o Shiv Ram vs Mursleem S/o Mohd. Akil and Others",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "judge_or_bench": "Sh. G. N. Pandey",
+  "date": "2019-01-04",
+  "year": 2019,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "claim_petition",
+  "document_type": "award",
+  "parties": {
+    "appellants": [],
+    "respondents": ["Mursleem S/o Mohd. Akil (driver)", "Ashif S/o Mohd. Abdulla Khan (owner)", "Bajaj Allianz General Insurance Co. Ltd."],
+    "claimants": ["Kamal S/o Shiv Ram", "Rajni D/o Shiv Ram", "Tannu D/o Ramesh Kumar"],
+    "insurer": ["Bajaj Allianz General Insurance Co. Ltd."],
+    "owner_or_driver": ["Mursleem S/o Mohd. Akil (driver)", "Ashif S/o Mohd. Abdulla Khan (owner)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.140"
+  ],
+  "core_facts": [
+    "On 31.08.2018 at about 20:00 hrs at 4th Pushta, Sonia Vihar, Delhi, the offending vehicle DL 1 LX 2320 driven rashly and negligently hit the motorcycle of injured Kamal",
+    "FIR No. 188/18 was registered at PS Sonia Vihar; three petitioners—Kamal (rider), Rajni (pillion, minor aged 14), and Tannu (pillion, minor aged 13)—were injured",
+    "Kamal admitted in cross-examination that he had no driving licence at the time of the accident and all three were not wearing helmets",
+    "Income of Kamal assessed at Rs. 13,896/month (minimum wages for unskilled worker as on 31.08.2018); Rajni and Tannu were students with no independent income",
+    "Bajaj Allianz General Insurance Co. Ltd. insured the offending vehicle; no policy violation found by respondents"
+  ],
+  "legal_issues": [
+    "Whether negligence of the offending vehicle's driver was proved",
+    "Extent of contributory negligence of the motorcycle rider for riding without a driving licence and without helmets",
+    "Quantum of compensation payable to three injured claimants under Motor Vehicles Act s.166"
+  ],
+  "issue_tags": [
+    "rash_negligent_driving",
+    "contributory_negligence",
+    "driving_license_validity",
+    "compensation_quantum",
+    "income_determination",
+    "section_166",
+    "just_compensation",
+    "interest_on_compensation"
+  ],
+  "vehicle_tags": ["motorcycle"],
+  "stance_tags": ["mixed"],
+  "outcome": "All three DAR petitions (402/18, 403/18, 404/18) allowed with 50% deduction for contributory negligence. Kamal awarded Rs. 55,844 (reduced from Rs. 1,11,688); Rajni and Tannu each awarded Rs. 48,500 (reduced from Rs. 97,000 each). Bajaj Allianz General Insurance Co. directed to pay all amounts within one month with 9% per annum interest from date of filing of each petition.",
+  "key_holdings": [
+    "Negligence of the respondent driver is established on the standard of preponderance of probability through the FIR, site plan, and medical records; no rebuttal evidence was led by the respondents.",
+    "Contributory negligence of 50% is applicable where the motorcycle rider had no driving licence and none of the three occupants wore helmets.",
+    "Income of a claimant with no documentary proof of earnings is assessed at the minimum wages applicable on the date of accident."
+  ],
+  "key_passages": [
+    {
+      "label": "standard_of_proof",
+      "quote": "In a situation of this nature, the Tribunal has rightly taken a holistic view of the matter. It was necessary to be borne in mind that strict proof of any accident caused by a particular bus in a particular manner may not be possible to be done by the claimant. The claimants were merely to establish their case on the touchstone of preponderance of probability.",
+      "page": 7
+    },
+    {
+      "label": "contributory_negligence_finding",
+      "quote": "The contributory negligence of injured is proved in view of testimony of PW−1 who categorically deposed during cross examination that the he is the one who was driving the motorcycle at the time of accident and other two injured persons namely Tannu and Rajni were pillion riders at the time of accident ; he did not have DL at the time of accident and they all three were not wearing the helmets. Keeping in view of circumstances of the case, the 50 % of the total compensation amount is deducted towards contributory negligence.",
+      "page": 16
+    },
+    {
+      "label": "award_outcome",
+      "quote": "Resultantly, the DAR petition stands allowed. Insurance Company is hereby directed to pay the compensation of Rs. 55,844/− within one month to the Claimants.",
+      "page": 31
+    }
+  ],
+  "adverse_value": "A 50% contributory negligence deduction was applied because the motorcycle rider had no driving licence and none of the occupants wore helmets; this precedent can be cited by insurers or defendants to argue for proportionate contributory negligence reduction in similar circumstances.",
+  "summary": "This award disposed of three connected DAR petitions (402/18, 403/18, 404/18) filed before the Motor Accident Claims Tribunal, Karkardooma Courts, Delhi by Kamal, Rajni, and Tannu—all injured on 31 August 2018 when their motorcycle was struck by rashly driven vehicle DL 1 LX 2320 at 4th Pushta, Sonia Vihar. FIR No. 188/18 was registered at PS Sonia Vihar. Negligence of the driver was established on the standard of preponderance of probability through the FIR, site plan, and MLC records; the respondents led no counter-evidence. The central issue was contributory negligence: Kamal (the motorcycle rider) admitted in cross-examination that he had no driving licence and that none of the three occupants were wearing helmets. The Tribunal accordingly deducted 50% of the gross award from each claimant for contributory negligence. Kamal was awarded Rs. 1,11,688 gross (primarily loss of wages for three months at minimum wages of Rs. 13,896 per month, plus pain and suffering, attendant charges, and diet), reduced to Rs. 55,844. Rajni (aged 14, student) and Tannu (aged 13, student) each received Rs. 97,000 gross (primarily pain and suffering and medical incidentals), reduced to Rs. 48,500. Bajaj Allianz General Insurance Co., insurer of the offending vehicle, was held liable to pay all three reduced amounts with 9% per annum interest from the date of filing.",
+  "confidence": "high"
+}

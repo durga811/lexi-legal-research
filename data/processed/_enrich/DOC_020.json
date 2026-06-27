@@ -1,0 +1,81 @@
+{
+  "doc_id": "DOC_020",
+  "case_title": "Yogeshkumar Badharsinh Baria vs. Dilipkumar Ranchhodbhai Damor And Another",
+  "court": "High Court of Gujarat at Ahmedabad",
+  "judge_or_bench": "Honourable Ms. Justice Nisha M. Thakore",
+  "date": "2025-09-08",
+  "year": 2025,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["Yogeshkumar Badharsinh Baria (original claimant)"],
+    "respondents": ["Dilipkumar Ranchhodbhai Damor", "Another Respondent (unnamed)"],
+    "claimants": ["Yogeshkumar Badharsinh Baria"],
+    "insurer": [],
+    "owner_or_driver": ["Dilipkumar Ranchhodbhai Damor (respondent no. 1)"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.166",
+    "Motor Vehicles Act, 1988 s.168",
+    "Motor Vehicles Act, 1988 s.173",
+    "Employees Compensation Act, 1923 Schedule I"
+  ],
+  "core_facts": [
+    "Original claimant Yogeshkumar Badharsinh Baria sustained amputation of right leg below knee in a motor accident caused by rash and negligent driving of respondent no. 1.",
+    "Claimant was 28 years old at time of accident and was engaged as a skilled worker in masonry and centering work; also earned from agriculture.",
+    "MACT (Auxiliary) & 6th Additional District Judge, Panchmahals at Godhra awarded Rs. 4,68,600 in MACP No. 695 of 2016 (judgment dated 08.02.2023).",
+    "Disability certificates showed 65% permanent disability (doctor opined 70% but conceded 35% as whole body disability in cross-examination); Tribunal applied 35% disability.",
+    "Tribunal also assessed income at Rs. 4,000 per month instead of minimum wages rate of Rs. 7,800 per month applicable to skilled workers for April-September 2016 period."
+  ],
+  "legal_issues": [
+    "Whether functional disability for amputation below knee should be assessed at 50% per Schedule I Part II of Employees Compensation Act 1923 rather than 35% whole body disability accepted by Tribunal.",
+    "Whether income should be assessed at minimum wages for skilled workers (Rs. 7,800/month) rather than Rs. 4,000/month accepted by Tribunal.",
+    "Whether future prospects at 40% under Pranay Sethi were applicable.",
+    "Whether future medical expenses for prosthetic leg were omitted by the Tribunal."
+  ],
+  "issue_tags": [
+    "compensation_quantum",
+    "compensation_enhancement",
+    "future_prospects",
+    "income_determination",
+    "multiplier",
+    "just_compensation",
+    "section_166"
+  ],
+  "vehicle_tags": ["other"],
+  "stance_tags": ["claimant_supporting"],
+  "outcome": "Appeal allowed. Total compensation revised from Rs. 4,68,600 to Rs. 16,42,440 (enhanced by Rs. 11,73,840), with interest at 9% p.a. from date of filing of claim petition till actual realization. Respondents held jointly and severally liable. Enhanced amount to be deposited with concerned Tribunal within eight weeks.",
+  "key_holdings": [
+    "Functional disability for amputation below knee must be assessed at 50% per Schedule I Part II of the Employees Compensation Act 1923 (Entry Nos. 20 and 21), which is the percentage of loss of earning capacity for such specific injury, particularly when the claimant's occupation requires physical mobility.",
+    "Income of a skilled worker should be assessed with reference to the prescribed minimum wages; for April-September 2016 the applicable rate was Rs. 7,800 per month.",
+    "Courts should not adopt a stereotypical or myopic approach in assessing disabilities and compensation; the functional impact of the injury on the claimant's earning capacity in their specific occupation is the relevant measure.",
+    "Future medical expenses including the cost of prosthetic limb and its periodic replacement must be awarded as a separate head; failure by the Tribunal to consider this is a material error."
+  ],
+  "key_passages": [
+    {
+      "label": "courts_functional_disability",
+      "quote": "Courts should not adopt a stereotypical or myopic approach, but instead, view the matter taking into account the realities of life, both in the assessment of the extent of disabilities, and compensation under various heads.",
+      "page": 8
+    },
+    {
+      "label": "amputation_below_knee_50_percent",
+      "quote": "On bare appreciation of Schedule-I appended to Employees Compensation, 1923, under part-II thereof specifies list of injuries which would be deemed to result in permanent partial disablement. The said list includes amputation below knee at Entry nos.20 and 21, wherein the percentage of loss of earning capacity is suggested as 50.",
+      "page": 11
+    },
+    {
+      "label": "prosthetic_leg_future_medical",
+      "quote": "the Tribunal ought to have considered the expenses towards prosthetic leg and the replacement of the same in the coming years. Noticing the age of the applicant as 28 years at the time of accident, this Court is inclined to consider the future medical expenses to the tune of Rs.2,50,000/-.",
+      "page": 14
+    },
+    {
+      "label": "outcome",
+      "quote": "the captioned appeal is hereby allowed. appellant - original claimant is held entitled to total amount of compensation to the tune of Rs.11,73,840/- with 9% interest from the date of filing of the claim petition till its actual realization",
+      "page": 15
+    }
+  ],
+  "adverse_value": "",
+  "summary": "Original claimant Yogeshkumar Badharsinh Baria, a 28-year-old skilled worker engaged in masonry and centering, suffered amputation of right leg below the knee in a motor accident. The MACT Godhra awarded Rs. 4,68,600 in MACP No. 695 of 2016, applying 35% whole body disability and income of Rs. 4,000 per month, and omitting future medical expenses. On appeal before the Gujarat High Court, the Court held: (i) functional disability for amputation below knee should be 50% per Schedule I Part II ECA 1923, Entries 20 and 21, especially for a masonry worker requiring full physical mobility; (ii) income must be assessed at minimum wages for skilled workers, being Rs. 7,800 per month for the relevant period April-September 2016; (iii) future prospects at 40% are applicable per Pranay Sethi as the claimant was below 40; (iv) multiplier 17 for age 28 confirmed; (v) future medical expenses including prosthetic limb Rs. 2,50,000 must be separately awarded. Applying monthly income Rs. 7,800, 40% future prospects (Rs. 10,920/month), 50% disability (Rs. 5,460/month), multiplier 17, the future loss of income was Rs. 11,13,840. Adding enhanced pain/suffering Rs. 1,00,000, SAT Rs. 25,000, medical Rs. 60,000, actual loss Rs. 93,600, and future medical Rs. 2,50,000, total compensation was enhanced to Rs. 16,42,440.",
+  "confidence": "high"
+}

@@ -1,0 +1,85 @@
+{
+  "doc_id": "DOC_029",
+  "case_title": "United India Insurance Co. Ltd. vs Minor Mahesh Kanubhai & 2",
+  "court": "High Court of Gujarat at Ahmedabad",
+  "judge_or_bench": "Hon'ble Ms. Justice Harsha Devani",
+  "date": "2014-04-07",
+  "year": 2014,
+  "legal_area": "motor_accident",
+  "is_motor_accident": true,
+  "procedural_stage": "appeal",
+  "document_type": "judgment",
+  "parties": {
+    "appellants": ["United India Insurance Co. Ltd."],
+    "respondents": ["Minor Mahesh Kanubhai", "others"],
+    "claimants": ["Minor Mahesh Kanubhai", "heirs of Parvatiben Tejabhai", "heirs of Chandrakantbhai"],
+    "insurer": ["United India Insurance Co. Ltd."],
+    "owner_or_driver": ["owner of tractor No. GAO-6007", "owner of Matador Tempo No. GJ.5T-2312"]
+  },
+  "statutes": [
+    "Motor Vehicles Act, 1988 s.147",
+    "Motor Vehicles Act, 1988 s.149",
+    "Motor Vehicles Act, 1988 s.149(4)",
+    "Motor Vehicles Act, 1988 s.149(5)",
+    "Motor Vehicles Act, 1988 s.165",
+    "Motor Vehicles Act, 1988 s.173",
+    "Constitution of India Art.142"
+  ],
+  "core_facts": [
+    "Five consolidated first appeals by United India Insurance Co. Ltd. challenging Claims Tribunal awards directing pay-and-recover",
+    "FA 3852/2008: deceased Chandrakantbhai was travelling as gratuitous passenger in a Matador Tempo bearing No.GJ.5T-2312 carrying his goods; driver drove rashly causing death",
+    "FA 710-713/2007: tractor No.GAO-6007 accident causing death of Parvatiben Tejabhai and injuries to other claimants who were travelling on the mudguard/tractor",
+    "In all cases, insurance policies were 'Act only' policies not covering gratuitous passengers",
+    "Claims Tribunals had held insurance companies not liable but directed them to pay compensation and recover from owner (pay-and-recover direction)",
+    "Insurance companies challenged the pay-and-recover direction as beyond statutory power"
+  ],
+  "legal_issues": [
+    "Whether gratuitous passengers in a goods vehicle or other vehicle are 'third parties' within Chapter XI of the Motor Vehicles Act, 1988",
+    "Whether section 149(4) and (5) can be invoked to issue pay-and-recover directions when victims are gratuitous passengers not covered by 'Act only' policy",
+    "Whether Claims Tribunal or High Court under section 173 has power to issue pay-and-recover directions absent statutory backing",
+    "Whether prior Supreme Court pay-and-recover directions in such cases were under Article 142 or under section 149 of the Act"
+  ],
+  "issue_tags": [
+    "pay_and_recover",
+    "third_party_liability",
+    "insurance_liability",
+    "policy_breach",
+    "commercial_vehicle_use",
+    "section_166",
+    "maintainability"
+  ],
+  "vehicle_tags": ["tempo", "tractor", "goods_carriage", "commercial_vehicle"],
+  "stance_tags": ["insurer_supporting", "adverse_to_claimant"],
+  "outcome": "All five appeals allowed. Insurance companies exonerated. Impugned awards modified so that only the driver and owner of the vehicle are liable to pay compensation; insurance companies stand exonerated from such liability.",
+  "key_holdings": [
+    "Gratuitous passengers in goods vehicles are not 'third parties' covered under Chapter XI of the Motor Vehicles Act, 1988, and an 'Act only' policy does not cover such risk.",
+    "Section 149(4) and (5) operate only in respect of liabilities required to be statutorily covered or covered by the policy; they cannot be invoked for gratuitous passengers in goods vehicles.",
+    "Neither the Claims Tribunal nor the High Court in section 173 appellate jurisdiction has power to issue pay-and-recover directions where the risk is neither statutory nor covered by the policy.",
+    "Supreme Court pay-and-recover directions in earlier cases involving gratuitous passengers (Baljit Kaur, Saju Paul) were exercises of power under Article 142 of the Constitution, not precedents under section 149."
+  ],
+  "key_passages": [
+    {
+      "label": "policy_breach / third_party_liability",
+      "quote": "However, where the policy is an 'Act only' policy and does not cover the risk of gratuitous passengers, section 149 of the Act cannot be invoked.",
+      "page": 37
+    },
+    {
+      "label": "pay_and_recover limitation",
+      "quote": "The powers conferred under section 149(4) and (5) of the Act, are the only source of power insofar as the High Court and the Claims Tribunal are concerned, to direct the insurer to pay the compensation and then recover the same from the insured/owner of the vehicle.",
+      "page": 47
+    },
+    {
+      "label": "outcome / holding",
+      "quote": "The impugned awards passed by the Claims Tribunal in all the appeals shall stand modified to the extent that instead of the opponents being jointly and severally liable to pay the compensation awarded under the said award, it shall be only the driver and the owner of the vehicle who shall be so liable and the insurance company shall stand exonerated from such liability.",
+      "page": 52
+    },
+    {
+      "label": "no statutory power",
+      "quote": "If the case does not fall within the ambit of the said provisions, in the absence of any statutory power being vested either in the High Court or in the Claims Tribunal, the question of issuing such directions would not arise.",
+      "page": 47
+    }
+  ],
+  "adverse_value": "Holds that Claims Tribunal and High Court exercising section 173 jurisdiction have no power to direct an insurer to pay and recover for gratuitous passengers in goods vehicles; such directions require Article 142 powers only available to the Supreme Court. Insurers can cite this to challenge pay-and-recover orders passed against them in non-third-party cases.",
+  "summary": "In five consolidated first appeals before the Gujarat High Court, the central issue was whether, where a Claims Tribunal found an insurance company not liable to indemnify the insured under an 'Act only' policy (because victims were gratuitous passengers in goods vehicles), the Tribunal or High Court could still direct the insurer to first pay compensation and then recover from the owner. The cases involved a Matador tempo accident (FA 3852/2008) and a tractor accident (FA 710-713/2007). The court held that gratuitous passengers in goods vehicles are not 'third parties' under Chapter XI of the Motor Vehicles Act, 1988. Section 149(4) and (5) operates only for third-party risks and risks required to be statutorily covered. The Claims Tribunal and High Court, exercising powers under sections 166 and 173, have no authority to issue pay-and-recover directions for non-statutory, non-third-party risks. Any such direction by the Supreme Court in prior cases (Baljit Kaur, Challa Bharathamma, Saju Paul) was under Article 142 of the Constitution, not under section 149. Affirming the co-ordinate bench decision in United India Insurance Co. Ltd. v. Lilaben, the court allowed all appeals, exonerated the insurance companies, and restricted liability to the vehicle owners and drivers.",
+  "confidence": "high"
+}
