@@ -1,0 +1,20 @@
+# Keep the image small + secret-free.
+.git
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+.env
+.env.example
+raw-docs
+data/raw
+data/processed/extracted
+data/processed/_enrich
+goal
+reports
+tests
+*.bak
+PROGRESS.md
+.python-version
+pyproject.toml
+uv.lock
