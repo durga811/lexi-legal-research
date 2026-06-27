@@ -17,8 +17,8 @@ Implementation plan: `goal/goal-guide.md`.
 | 6 | Streamlit UI with visible trace | no | §9.2 | ✅ Done |
 | 7 | Golden set (25 queries, accuracy-verified) | yes | §11 | ✅ Done |
 | 8 | Evaluation framework + results | no | §12 | ✅ Done |
-| 9 | Railway deployment | no | §14, §16-P7 | ⬜ |
-| 10 | README + ADR + submission | no | §15.2, §18 | ⬜ |
+| 9 | Railway deployment | no | §14, §16-P7 | 🔧 deploy-ready (awaiting live URL) |
+| 10 | README + ADR + submission | no | §15.2, §18 | 🔧 ADR+README done (awaiting URL + email) |
 
 Dependency chain: 1→2→3→4→5→6; 7 needs 2; 8 needs 5+6+7; 9 needs 6; 10 needs 8+9.
 
