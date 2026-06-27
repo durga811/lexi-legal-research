@@ -74,11 +74,14 @@ An earlier version (local Chroma + `bge-small` embeddings + cross-encoder + a **
 driven by one big prompt**) was built and evaluated first. Its numbers ran on a *different* gold set, so
 they are **not directly comparable** to this build — they are used below only to show *direction*.
 
-- **A single-prompt agent limited flexibility.** One monolithic system prompt had to cover lookups,
-  deep research, and no-answer cases at once, so behavior couldn't adapt cleanly to different prompt
-  shapes. This build splits the work into **typed nodes with an explicit router and per-node prompts**,
-  so behavior varies by design — not by overloading one prompt. (The prior build's own note: "a 22-step
-  ReAct log is a worse reasoning artifact than an up-front plan.")
+- **A single-prompt agent over-reasoned and couldn't adapt.** The prior build was one agent driven by
+  a single monolithic prompt — no multi-node decomposition and no metadata routing/filtering per prompt
+  type — so the LLM had to reason its way through *every* request and ran the same heavy path for a
+  trivial lookup as for deep research, producing long, wasteful ReAct loops (its own note: "a 22-step
+  ReAct log is a worse reasoning artifact than an up-front plan"). This build splits the work into
+  **typed nodes with an explicit router + per-node prompts**, and adds **metadata routing/filtering** so
+  a simple lookup takes a short, mostly-deterministic path while deep research uses structured retrieval.
+  Reasoning is spent only where it's needed, and behavior adapts by design rather than by overloading one prompt.
 - **Adverse identification is a classification problem, not a ranking problem.** In the prior build,
   counter-query *prompting* didn't move adverse recall at all, and regex outcome-tagging failed
   (adverse docs *discuss* "pay and recover" while *rejecting* it — the signal is in the holding). The
