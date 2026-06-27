@@ -1,115 +1,105 @@
-# Architecture Decision Record — Lexi Legal Precedent Research Agent
+# ADR — Lexi Legal Precedent Research Agent
 
-## Context
+## What this is
 
-Build a flexible agent over 56 Indian court judgments that handles both simple corpus questions
-("which judgments involve commercial vehicles?") and deep precedent research (supporting precedents,
-adverse precedents, litigation strategy) — without hard-coding the provided case brief, and with all
-intermediate retrieval/ranking steps visible. The corpus is heterogeneous: mostly motor-accident
-insurance cases, plus criminal, trademark/IP, banking, civil-procedure, and consumer matters.
+An agent over 56 Indian court judgments that answers both **simple lookups** ("which judgments involve
+commercial vehicles?") and **deep precedent research** (supporting precedents, adverse precedents,
+strategy) — without hard-coding the case brief, and showing every retrieval/ranking step.
 
-## Decisions and rationale
+## Stack — and why
 
-### 1. Agent framework — LangGraph (not a single RAG chain)
-The task needs *flexible* behavior: the same system must answer a one-line lookup and run a multi-step
-research workflow. I modelled this as a **stateful, inspectable state machine**: `interpret → route →`
-either a simple-lookup path or a deep path (`plan → query-expansion → support/adverse/compensation
-retrieval → rerank → select → analyze → synthesize → validate`). LangGraph gives typed state, explicit
-nodes, and a natural place to expose every intermediate step to the UI and to LangSmith.
-**Tradeoff:** more moving parts than a single chain, but the inspectability and the clean simple-vs-deep
-split are exactly what the assessment grades. **Not allowed / rejected:** CrewAI-style drag-and-drop.
+| Component | Choice | Why |
+|---|---|---|
+| Agent | **LangGraph** state machine | flexible simple-vs-deep routing; the graph *is* the visible reasoning trace |
+| Retrieval | **hybrid**: dense + BM25 + metadata, **RRF** fused | dense finds paraphrase, BM25 finds exact legal terms; RRF avoids score-scaling issues |
+| Embeddings | **Pinecone-hosted `multilingual-e5-large`** (open-source) | no embedding model in the app → light deploy; managed inference |
+| Reranker | **Pinecone `bge-reranker-v2-m3`** | reorders the fused pool by true relevance |
+| Chunking | **child (~300 tok) + parent (~1200 tok) + case cards** | small chunks = precision; parents = context; cards = doc-level lookups |
+| Enrichment | **Claude sub-agents, build-time** | grounded case cards / metadata / stance labels, frozen once — no per-query cost |
+| LLM (runtime) | **Gemini `gemini-3.5-flash`** | cost/latency; bump to Pro for synthesis if needed |
+| Deploy / eval | **Railway · LangSmith** | hosted URL, no local infra to evaluate |
 
-### 2. Retrieval — hybrid (dense + lexical + metadata), RRF, reranked
-Legal text needs both semantics *and* exact-term recall (statute sections, "pay and recover", case
-names). I combined **dense** (Pinecone hosted `multilingual-e5-large`) + **lexical BM25** (local, over
-3,647 child chunks) + **metadata** boosts, fused with **Reciprocal Rank Fusion**, then reordered by
-Pinecone's hosted **`bge-reranker-v2-m3`**. RRF avoids either signal dominating; the eval shows the
-value directly (a dense-rank-23 chunk rescued to the top by lexical-rank-2).
-**Tradeoff:** BM25 in-process rather than a second Pinecone sparse index — minimal infra/cost/rate-limit
-surface and fully reproducible, at the price of holding the corpus in memory (trivial at this scale).
+## Key decisions (and the tradeoff)
 
-### 3. Chunking — hierarchical parent/child + document case cards
-Judgments are inconsistently structured, so a section-aware splitter alone fails. I used **child chunks**
-(~300 tokens, retrieval units, kept under the e5 507-token limit with a conservative estimator) inside
-**parent chunks** (~1,200 tokens, context for reasoning, fetched via parent-expansion), plus a
-**document-level case card** for broad corpus queries. Parents are *not* embedded (they exceed 507
-tokens) — they live in JSONL and are fetched by id. **Tradeoff:** more artifacts to manage, but it gives
-both retrieval precision (small children) and reasoning context (parents) without truncation.
-
-### 4. Build-time enrichment by Claude sub-agents (not a runtime LLM loop)
-Case cards, document metadata, and chunk issue/stance/vehicle tags are produced **once, offline, by
-Claude Code sub-agents** reading each document in full, then frozen into JSONL. This keeps the deployed
-app light (no per-query enrichment cost) and yields higher-quality, grounded labels. Reliability is
-enforced in code: a strict schema, **verbatim-quote grounding** (a hallucinated quote fails validation),
-controlled vocabularies, coverage and motor-consistency checks; offending docs are re-processed.
-The **runtime** nodes (interpreter, planner, analyzer, synthesizer, validator) stay programmatic Gemini
-calls because they run on every query. **Tradeoff:** enrichment isn't regenerated live, so corpus changes
-require a rebuild — acceptable for a fixed corpus.
-
-### 5. Models — open-source embedding + Gemini Flash
-`multilingual-e5-large` (open-source, Pinecone-hosted integrated inference) satisfies the open-source
-embedding allowance while avoiding running a model server on the host. Runtime reasoning uses
-**Gemini `gemini-3.5-flash`** for cost/latency; the synthesis/validation nodes are the place to bump to a
-Pro tier if quality demands.
-
-### 6. Stance-aware adverse identification
-"Adverse" is a **document-level** property of a precedent (a claimant-winning judgment that nonetheless
-reserves the insurer's recovery rights is adverse authority), so adverse precedents are drawn from a
-dedicated retrieval over genuinely-adverse documents and classified by document-level stance, not noisy
-chunk stance. This is what made adverse recall jump (see Evaluation).
+- **State machine, not one chain or one ReAct loop.** Explicit nodes (interpret → route → plan →
+  retrieve(support/adverse/comp) → rerank → select → analyze → synthesize → validate) make the
+  workflow inspectable and the routing semantic. *Tradeoff:* more parts than a single chain.
+- **Hybrid retrieval + RRF + rerank.** Legal text needs both meaning and exact terms. *Tradeoff:*
+  BM25 runs in-process (corpus in memory) instead of a second Pinecone index — trivial at 56 docs,
+  minimal infra.
+- **Hierarchical chunks + case cards.** Retrieve on small children, reason on parents (fetched by id,
+  not embedded since they exceed the 507-token limit). *Tradeoff:* more artifacts to manage.
+- **Enrichment at build time by Claude sub-agents**, validated by **verbatim-quote grounding** (a
+  hallucinated quote fails the build). Runtime nodes stay Gemini calls (they run every query).
+  *Tradeoff:* a corpus change needs a rebuild.
+- **Stance is a document-level property.** Whether a precedent helps or hurts is decided by the
+  document's stance label, not noisy chunk text — this is what makes adverse identification work.
 
 ## How the agent decides simple vs deep
 
-The Input Interpreter (an LLM call returning JSON) classifies each prompt's `complexity` as
-`simple`, `deep`, or `clarify`, based on intent — *deep* when the prompt needs supporting + adverse
-precedents or strategy or multi-issue research; *simple* for factual/listing/metadata lookups. A
-conditional edge routes accordingly. This is **semantic**, not an `if "Lakshmi Devi"` branch — verified
-by the eval (router accuracy 0.92; a contributory-negligence prompt and the licence prompt both route
-deep with their own evidence). Simple lookups additionally use **metadata enumeration** (filter by
-legal_area / tags) so "which documents are NOT motor cases?" is answered from metadata, not similarity.
+The interpreter (one Gemini call → JSON) classifies each prompt as **simple**, **deep**, or **clarify**
+from intent — *deep* when it needs supporting + adverse precedents or strategy; *simple* for
+factual/listing lookups. A conditional edge routes accordingly. This is **semantic**, not an
+`if "Lakshmi Devi"` branch (verified: a contributory-negligence prompt routes deep with its own
+evidence; router accuracy 0.92). Simple lookups also use **metadata enumeration** (filter by
+legal_area / tags), so "which documents are NOT motor cases?" is answered from metadata, not similarity.
 
 ## Evaluation (summary)
 
-A 25-query grounded golden set (deterministic metadata-derived labels + a Claude designer sub-agent,
-pooling-verified) drives automated metrics across the four required dimensions. After applying the top
-two fixes from the v1 failure analysis (metadata-enumeration recall; stance-aware adverse), **v2** vs v1:
-adverse recall **0.34 → 0.56**, completeness 2.68 → 2.88, precision@5 0.53 → 0.59, MRR/nDCG/recall@20 up,
-**zero invented documents** throughout, router 0.92, no-answer 1.0. The one regression — answer precision
-−0.07 — is the deliberate cost of surfacing more genuinely-adverse precedents. Full numbers + per-query
-failure analysis in [`reports/`](reports/).
+A 25-query grounded golden set (metadata-derived labels + a Claude designer sub-agent, pooling-verified)
+drives automated metrics on the four required dimensions. After the two top fixes from the v1 failure
+analysis (metadata-enumeration recall; stance-aware adverse), **v2**: adverse recall **0.34 → 0.56**,
+completeness 2.68 → 2.88, precision@5 0.53 → 0.59, **zero invented documents**, router 0.92,
+no-answer 1.0. Full numbers + failure analysis: [`reports/`](reports/).
 
-## What I'd change for 5,000 documents (instead of 50)
+## If the corpus were 5,000 docs (not 50)
 
-- **Enrichment:** the same Claude sub-agent methodology, but batched/queued with a coordinator and
-  incremental re-runs; spot-review a sample rather than every adverse doc.
-- **Lexical signal:** move BM25 off in-process memory to a **Pinecone sparse index** (`pinecone-sparse-
-  english-v0`) or OpenSearch, so retrieval doesn't depend on loading the corpus into RAM.
-- **Retrieval:** rely more on **hard metadata pre-filters** (legal_area, year, court) to shrink the
-  candidate space before dense/rerank; cache embeddings; paginate enumeration queries.
-- **Eval:** stratified sampling of the golden set, retrieval pooling across more systems, and human
-  adjudication of a labelled subset rather than exhaustive labels.
-- **Cost/latency:** batch the per-case analysis, add a cheaper first-pass filter model, and cache
-  query-expansion/interpreter outputs for repeated query shapes.
+- Move BM25 off in-process memory → a **Pinecone sparse index** (no loading the corpus into RAM).
+- Lean on **hard metadata pre-filters** (area, year, court) to shrink the candidate set before rerank.
+- Batch the Claude enrichment with a coordinator + incremental re-runs; spot-review a sample, not every doc.
+- Stratified golden-set sampling + human adjudication of a subset, instead of exhaustive labels.
+- Cache embeddings + interpreter/query-expansion outputs; add a cheap first-pass filter model.
 
-## What I'd change with another week
+## If I had another week
 
-1. **Close the recall gaps the eval exposed:** add appellant-role metadata (so "cases where the *insurer
-   appealed*" works) and tune the router's clarify-vs-deep and statutory-vs-simple boundaries (the 2
-   router misses).
-2. **Per-facet synthesis checklist** so multi-part strategy answers explicitly address every requested
-   facet (lifts completeness further).
-3. **Stronger answer-quality eval:** a second, different judge model (reduce self-judge bias) and
-   chunk-level recall labels in the golden set.
-4. **Compensation calculator** as a deterministic tool the agent calls, instead of free-form arithmetic.
-5. **Caching + streaming** in the UI for lower latency, and a feedback loop to capture corrections.
+1. Add **appellant-role metadata** so "cases where the *insurer appealed*" works; tune the two router
+   boundary cases (clarify-vs-deep, statutory-vs-simple).
+2. **Per-facet synthesis checklist** so multi-part answers address every requested part (lifts completeness).
+3. **Second, different judge model** (cut self-judge bias) and **multi-sample** judge scores.
+4. **Compensation calculator** as a deterministic tool the agent calls.
 
-## Key tradeoffs, summarized
+## Learnings from a prior iteration
+
+An earlier version (local Chroma + `bge-small` embeddings + cross-encoder + a **single-agent ReAct loop
+driven by one big prompt**) was built and evaluated first. Its numbers ran on a *different* gold set, so
+they are **not directly comparable** to this build — they are used below only to show *direction*.
+
+- **A single-prompt agent limited flexibility.** One monolithic system prompt had to cover lookups,
+  deep research, and no-answer cases at once, so behavior couldn't adapt cleanly to different prompt
+  shapes. This build splits the work into **typed nodes with an explicit router and per-node prompts**,
+  so behavior varies by design — not by overloading one prompt. (The prior build's own note: "a 22-step
+  ReAct log is a worse reasoning artifact than an up-front plan.")
+- **Adverse identification is a classification problem, not a ranking problem.** In the prior build,
+  counter-query *prompting* didn't move adverse recall at all, and regex outcome-tagging failed
+  (adverse docs *discuss* "pay and recover" while *rejecting* it — the signal is in the holding). The
+  fix it deferred — an ingest-time stance classifier, retrieve adverse by label — is what this build
+  implements.
+- **Lookup recall is an enumeration problem**, not a ranking one → solved here by the metadata path.
+- **Eval lessons inherited:** score retrieval-level vs answer-level separately; gate metrics by query
+  kind; use nDCG; and use a **custom grounding rubric** (a stock faithfulness metric scored a
+  *fabricated* claim 1.0). **Not yet fixed:** LLM judges are noisy (the prior build needed N≥5); our
+  judge scores are single-sample, so small judge deltas are within noise.
+- **Label audit (carry-forward):** the prior build found that mislabeling pro-claimant Supreme Court
+  cases as adverse inflated adverse-recall. This build marks **DOC_031 (Laxmi Narain Dhut)** as adverse
+  — a contested call flagged for domain audit (see the eval report).
+
+## Tradeoffs at a glance
 
 | Decision | Gained | Gave up |
 |---|---|---|
-| LangGraph state machine | inspectability, flexible routing | more components than one chain |
-| In-process BM25 | reproducible, low infra | corpus held in memory (fine at 56 docs) |
-| Parent/child + case cards | precision + context, no truncation | more artifacts |
-| Build-time Claude enrichment | light app, grounded labels | rebuild needed on corpus change |
-| Gemini Flash | cost/latency | occasional depth (bump to Pro if needed) |
-| Doc-level adverse selection | +0.22 adverse recall | −0.07 answer precision |
+| LangGraph state machine | inspectability, flexible routing | more parts than one chain |
+| In-process BM25 | reproducible, low infra | corpus in memory (fine at 56) |
+| Parent/child + case cards | precision + context | more artifacts |
+| Build-time Claude enrichment | light app, grounded labels | rebuild on corpus change |
+| Pinecone-hosted embeddings | no model in app, scale path | external dep + rate limits |
+| Doc-level adverse selection | adverse recall up | a little answer precision |

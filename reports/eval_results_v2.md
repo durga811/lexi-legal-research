@@ -88,3 +88,16 @@ means a few fall outside the golden set's narrow curated adverse subset. For a l
 adverse identification is the right call. No safety property regressed (zero invented docs; must-not-claim
 now 1.0). Remaining weaknesses: `DSQ_02` ("insurer *appealed*") still needs appellant-role metadata, and
 the two router boundary cases (`DSQ_10` clarify, `DSQ_12` over-escalate) are unchanged.
+
+## Caveats & label audit
+
+- **Judge scores are single-sample.** A prior iteration measured reasoning-judge std up to ±0.34 and a
+  ~0.05–0.07 noise floor, and only trusted judge numbers at N≥5. So treat the judge metrics
+  (faithfulness, reasoning, completeness) as indicative: the small judge deltas above (≤0.04) are within
+  noise; the deterministic gains (adverse recall **+0.22**, completeness +0.20, precision +0.06) are real.
+- **Self-judge bias:** the judge is Gemini scoring Gemini, offset by the objective checks (no-invented
+  docs, must-not-claim, issue-coverage). A different judge model is the documented upgrade.
+- **Label audit — DOC_031 (Laxmi Narain Dhut):** marked **adverse** here, but a prior iteration
+  classed it **pro-claimant / supporting** (it limits *Swaran Singh* yet still protects third parties — a
+  genuinely contested call). If a domain expert flips it, adverse-recall would shift. This is a known
+  borderline label, not a verified one.

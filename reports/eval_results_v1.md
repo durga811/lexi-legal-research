@@ -54,57 +54,26 @@ Golden set: 25 queries (0 errored). Agent: LangGraph + Pinecone hybrid (dense e5
 
 ---
 
-## Failure Analysis — where the agent fails and what I'd fix first
+## Failure analysis — where it fails, what to fix first
 
-### What works (the safety properties hold)
-- **Grounding is strong:** faithfulness 3.84/5, **no invented documents (1.0)**, must-not-claim respected 0.96, issue coverage 0.97 — these last three are objective (not the LLM judge). The agent does not fabricate cases or holdings.
-- **Routing 0.92** (23/25 correct simple-vs-deep) and **no-answer 1.0** — both no-answer queries correctly stated the corpus lacks the case (and only listed *closest* real docs, never invented one).
-- **MRR 0.765** — the first relevant precedent is usually in the top ~1.3 results; recall@20 0.73.
-- The **adverse mechanism runs** (adverse search executed 0.89, adverse section present 0.89) and reliably surfaces the headline adverse precedent (DOC_031, *National Insurance v. Laxmi Narain Dhut*).
+**What works.** Grounding is strong: faithfulness 3.84/5, **0 invented documents**, must-not-claim 0.96,
+issue-coverage 0.97 (the last three are objective, not the judge). Routing 0.92, no-answer 1.0, MRR 0.77.
 
-### #1 weakness — metadata / listing recall (fix first)
-Factual / negation / procedural queries with large gold sets under-recall because the simple path
-uses **semantic top-k instead of metadata enumeration**, even though the needed tags already exist in
-the index: `g_det_02` "which are NOT motor cases" **R@10 = 0.0** (a negation that pure similarity
-cannot answer), `DSQ_02` MACT appeals 0.25, `g_det_01` commercial vehicles 0.39 (yet **P@5 = 1.0** —
-precise but incomplete). These pull the precision/recall and completeness averages down the most.
-**Fix:** add a metadata-enumeration branch to the simple path — when a query maps to a known
-`legal_area` / `vehicle_tags` / `issue_tags` / `procedural_stage` (or is a negation/"which …"
-listing), run a Pinecone **metadata filter to enumerate the full matching set** rather than top-k
-semantic. This single change should sharply raise recall on ~6 queries and, with it, completeness.
+**Weaknesses, ranked:**
 
-### #2 weakness — adverse recall 0.34 (eval dimension 4)
-The agent runs the adverse pass and includes an adverse section, but recovers only ~1/3 of the
-*specific* gold adverse docs (per-query 0.0–0.5). The adverse pass is crowded out by topical
-relevance: selection caps adverse at 4 and dedups per doc, and the reranker scores topical similarity,
-not stance. **Fix:** in the adverse pass, hard-boost `stance_tags ∈ {adverse_to_claimant,
-insurer_supporting}` and `adverse_value`-bearing docs; generate more opposing-side query variants;
-raise the adverse selection cap; add stance-aware scoring so adverse precedents aren't displaced by
-supporting ones.
+1. **Metadata / listing recall (fix first).** Listing & negation queries under-recall because the simple
+   path uses semantic top-k, not metadata filters — even though the tags exist: `g_det_02` ("NOT motor")
+   **R@10 = 0.0**, `g_det_01` 0.39 (yet P@5 = 1.0 — precise but incomplete), `DSQ_02` 0.25.
+   → *Fix:* enumerate matching docs by metadata filter.
+2. **Adverse recall 0.34 (dimension 4).** The adverse pass runs (0.89) but specific adverse docs get
+   crowded out by topical relevance. → *Fix:* retrieve adverse by document **stance label**, not ranking.
+3. **Completeness 2.68.** Mostly downstream of #1 (missing docs → incomplete answers).
+   → *Fix:* better recall + a per-facet synthesis checklist.
+4. **Router 2/25 misses.** `DSQ_10` (ambiguous) over-clarified; `DSQ_12` (statutory) over-escalated to deep.
 
-### #3 weakness — completeness 2.68 (downstream of recall)
-The lowest reasoning sub-score, and mostly a consequence of #1: when docs are missed the answer is
-judged incomplete (`g_det_02`, `DSQ_02`, `DSQ_03` all completeness 1). A few deep multi-issue answers
-(`DSQ_05`, `DSQ_16`) also scored low on faithfulness/completeness from the judge, suggesting the
-synthesizer drifts on complex multi-part prompts. **Fix:** improve recall (#1), and have the
-synthesizer explicitly enumerate and answer each requested facet (a per-facet checklist).
+**Caveats.** Recall is vs my grounded golden set (my own methodology, as the brief asks). The judge is
+Gemini-on-Gemini — offset by the objective checks (no-invented 1.0). `support_recall 0.40` is partly
+because the labelled "supporting" subset is narrower than what the agent reasonably surfaces.
 
-### #4 — router boundary cases (2/25)
-`DSQ_10` ("find cases that help us on negligence") routed to *clarify* — defensible since it is
-genuinely ambiguous, but the golden label expected a best-effort deep answer; `DSQ_12` (a statutory
-lookup) over-escalated to deep. **Fix:** bias the interpreter away from *clarify* toward best-effort
-deep-with-stated-assumptions, and treat "which/find cases interpreting Section X" as `simple_lookup`.
-
-### Honest caveats
-- Recall is measured against **my** grounded golden set (the assessment asks for my own methodology);
-  labels are grounded in validated metadata + pooling + spot-review.
-- The reasoning judge is **Gemini judging Gemini** — a self-judge bias, deliberately offset by the
-  objective deterministic checks (no-invented 1.0, issue-coverage 0.97).
-- **support_recall 0.40** partly reflects that the designer's labelled "supporting" subset is narrower
-  than the (still relevant) set the agent surfaces — i.e. it is stricter than the precision picture suggests.
-
-### Fix order
-1. Metadata-enumeration for listing/factual queries → biggest recall + completeness gain.
-2. Stance-aware adverse retrieval → dimension 4.
-3. Router threshold tuning (clarify vs deep; statutory → simple).
-4. Synthesizer facet checklist for multi-part deep prompts.
+**Fix order:** (1) metadata enumeration → (2) stance-aware adverse → (3) router tuning → (4) facet
+checklist. **Fixes #1 and #2 were applied in v2** ([`eval_results_v2.md`](eval_results_v2.md)).
