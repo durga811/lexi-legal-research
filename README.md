@@ -55,7 +55,12 @@ uv run python -m src.evaluation.run_eval       # run the agent over the golden s
 ```
 
 Measures the four required dimensions — Precision, Recall, Reasoning Quality, Adverse Identification —
-plus agent behavior (routing, no-answer). Results + failure analysis in [`reports/`](reports/).
+plus agent behavior (routing, no-answer). Results + failure analysis in [`reports/`](reports/)
+([v1 baseline](reports/eval_results_v1.md), [v2 after fixes](reports/eval_results_v2.md)).
+
+Latest (v2, 25-query golden set): Precision@5 0.59 · Recall@20 0.77 · MRR 0.81 · Faithfulness 3.9/5 ·
+**zero invented documents** · Adverse recall 0.56 · Router accuracy 0.92 · No-answer handled 1.0.
+Design rationale, tradeoffs, and scaling notes are in the [**ADR**](ADR.md).
 
 ## Layout
 
@@ -72,4 +77,11 @@ tests/                      offline unit/artifact tests
 
 ## Hosted app
 
-URL: _to be added (Railway)._
+Live URL: _to be added (Railway)._
+
+## Deliverables
+
+- **Hosted app** — Streamlit on Railway (URL above)
+- **Code** — this repository
+- **ADR** — [`ADR.md`](ADR.md)
+- **Evaluation framework + results** — [`src/evaluation/`](src/evaluation/) and [`reports/`](reports/)
