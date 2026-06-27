@@ -5,9 +5,13 @@ FROM python:3.12-slim
 
 ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1 \
+    PIP_NO_CACHE_DIR=1 \
     APP_ENV=production
 
 WORKDIR /app
+
+# Patch base-OS packages (mitigates inherited base-image CVEs), then clean up.
+RUN apt-get update && apt-get upgrade -y && rm -rf /var/lib/apt/lists/*
 
 # Dependencies first (cached layer). requirements.txt is exported from uv.lock.
 COPY requirements.txt ./
