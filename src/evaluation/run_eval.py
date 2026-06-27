@@ -172,7 +172,7 @@ def _md(agg: dict, rows: list[dict]) -> str:
             continue
         j = row["judge"]
         lines.append(
-            f"| {row['query_id']} | {row['query_type']} | {'✓' if row['router_correct'] else '✗'} "
+            f"| {row['query_id']} | {row['query_type']} | {'yes' if row['router_correct'] else 'no'} "
             f"| {row['precision_at_5']} | {row['recall_at_10']} | {row['adverse_recall']} "
             f"| {j.get('faithfulness')} | {row['final_answer_preview'][:50].replace(chr(10),' ')} |")
     return "\n".join(lines)

@@ -23,3 +23,6 @@ raw-docs/
 
 # Internal planning + the assessment brief (not part of the deliverable)
 goal/
+
+# Internal build journal (kept local, not a graded deliverable)
+PROGRESS.md

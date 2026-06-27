@@ -83,13 +83,8 @@ Enter any prompt — the app shows the full reasoning + evidence trace (detected
 generated queries, retrieved chunks with dense/lexical/RRF scores, reranker scores, the selected
 supporting/adverse evidence, per-case analysis, and validation), not just the final answer.
 
-## Deliverables (assessment mapping)
+## What's where
 
-| # | Assessment deliverable | Where |
-|---|---|---|
-| 1 | **Hosted application** (any prompt, visible intermediate steps) | live URL above · [`app.py`](app.py) |
-| 2 | **GitHub repository** (clean code + README with setup) | this repo · setup above |
-| 3 | **Architecture Decision Record** (architecture, tradeoffs, simple-vs-deep, 5,000-doc scaling, another-week) | [`ADR.md`](ADR.md) |
-| 4 | **Evaluation framework + results** (Precision, Recall, Reasoning Quality, Adverse Identification + failure analysis) | [`src/evaluation/`](src/evaluation/) · [`reports/eval_results_v1.md`](reports/eval_results_v1.md) (baseline + failure analysis) · [`reports/eval_results_v2.md`](reports/eval_results_v2.md) (after fixes) |
-
-Build log of how it was made: [`PROGRESS.md`](PROGRESS.md).
+- Design choices, tradeoffs and scaling notes: [`ADR.md`](ADR.md)
+- Evaluation code: [`src/evaluation/`](src/evaluation/) (metrics, golden-set build, runner)
+- Results: [`reports/eval_results_v1.md`](reports/eval_results_v1.md) (baseline + failure analysis) and [`reports/eval_results_v2.md`](reports/eval_results_v2.md) (after the recall/adverse fixes)

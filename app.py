@@ -206,9 +206,9 @@ def render_validation(s: dict) -> None:
 # --------------------------------------------------------------------------- #
 def main() -> None:
     st.title("⚖️ Lexi Legal Precedent Research Agent")
-    st.caption("Research precedents across 56 Indian court judgments. Ask anything — a quick lookup or "
-               "a full precedent-research task — and see how the agent retrieves, ranks, and reasons, "
-               "not just the final answer.")
+    st.caption("Research precedents across 56 Indian court judgments. Ask any question, from a quick "
+               "lookup to a full precedent-research task. The agent's full reasoning and evidence trace "
+               "(retrieved documents, ranking, and scores) is shown below the final answer.")
 
     busy = st.session_state.get("busy", False)
 

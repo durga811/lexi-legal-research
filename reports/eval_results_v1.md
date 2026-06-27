@@ -26,31 +26,31 @@ Golden set: 25 queries (0 errored). Agent: LangGraph + Pinecone hybrid (dense e5
 
 | query_id | type | route ok | P@5 | R@10 | adv_recall | faith | preview |
 |---|---|---|---|---|---|---|---|
-| g_det_01 | factual_metadata | ✓ | 1.0 | 0.389 | None | 5 | Based on the provided documents, the following jud |
-| g_det_02 | factual_metadata | ✓ | 0.0 | 0.0 | None | 2 | Based on the provided document-level matches, the  |
-| g_det_03 | single_issue | ✓ | 0.4 | 1.0 | None | 4 | Based on the provided documents, the following cas |
-| g_det_04 | single_issue | ✓ | 0.2 | 0.75 | None | 5 | Based on the provided documents, the following cas |
-| g_det_05 | factual_metadata | ✓ | 0.8 | 1.0 | None | 5 | Based on the provided documents, the following jud |
-| g_det_06 | statutory | ✓ | 0.2 | 1.0 | None | 5 | Based on the provided documents, the case that int |
-| g_det_07 | procedural | ✓ | 0.2 | 1.0 | None | 5 | Based on the provided documents, the case that inv |
-| g_det_08 | no_answer | ✓ | None | None | None | 5 | Based on the provided matches, the corpus **does n |
-| g_det_09 | no_answer | ✓ | None | None | None | 5 | Based on the provided documents, the corpus **does |
-| DSQ_01 | procedural | ✓ | 0.4 | 1.0 | None | 5 | Based on the provided documents, the following cas |
-| DSQ_02 | procedural | ✓ | 0.2 | 0.25 | None | 3 | Based on the provided documents, the corpus does n |
-| DSQ_03 | single_issue | ✓ | 0.4 | 0.375 | None | 3 | Based on the provided documents, the corpus does n |
-| DSQ_04 | single_issue | ✓ | 0.6 | 0.444 | None | 4 | Based on the provided documents, the following cas |
-| DSQ_05 | multi_hop | ✓ | 0.6 | 0.538 | 0.2 | 0 | Here is a structured precedent-research analysis p |
-| DSQ_06 | multi_hop | ✓ | 0.8 | 0.857 | None | 5 | Based on the provided documents, the following cas |
-| DSQ_07 | multi_hop | ✓ | 0.8 | 0.833 | 0.5 | 1 | ### 1. Issue Map  This research analysis addresses |
-| DSQ_08 | comparison | ✓ | 0.4 | 0.625 | 0.5 | 2 | ### 1. Issue Map  The legal issues surrounding the |
-| DSQ_09 | comparison | ✓ | 0.6 | 0.5 | None | 4 | Here is a structured precedent-research analysis c |
-| DSQ_10 | ambiguous | ✗ | 0.4 | 0.333 | 0.0 | 5 | To help narrow down your request, here is how we c |
-| DSQ_11 | ambiguous | ✓ | 0.2 | 0.8 | None | 4 | Based on the provided matches, the cases where ins |
-| DSQ_12 | statutory | ✗ | 0.4 | 0.571 | None | 5 | ### 1. Issue Map  To determine "just compensation" |
-| DSQ_13 | cross_document_strategy | ✓ | 0.8 | 0.615 | 0.2 | 3 | ### 1. Issue Map  The legal issues in play for thi |
-| DSQ_14 | cross_document_strategy | ✓ | 1.0 | 0.778 | 0.5 | 5 | ### 1. Issue Map  In driving-licence disputes invo |
-| DSQ_15 | cross_document_strategy | ✓ | 1.0 | 0.615 | 0.333 | 5 | Here is a structured precedent analysis and strate |
-| DSQ_16 | cross_document_strategy | ✓ | 0.8 | 0.7 | 0.5 | 1 | ### Precedent Analysis: Fake Driving Licence Alleg |
+| g_det_01 | factual_metadata | yes | 1.0 | 0.389 | None | 5 | Based on the provided documents, the following jud |
+| g_det_02 | factual_metadata | yes | 0.0 | 0.0 | None | 2 | Based on the provided document-level matches, the  |
+| g_det_03 | single_issue | yes | 0.4 | 1.0 | None | 4 | Based on the provided documents, the following cas |
+| g_det_04 | single_issue | yes | 0.2 | 0.75 | None | 5 | Based on the provided documents, the following cas |
+| g_det_05 | factual_metadata | yes | 0.8 | 1.0 | None | 5 | Based on the provided documents, the following jud |
+| g_det_06 | statutory | yes | 0.2 | 1.0 | None | 5 | Based on the provided documents, the case that int |
+| g_det_07 | procedural | yes | 0.2 | 1.0 | None | 5 | Based on the provided documents, the case that inv |
+| g_det_08 | no_answer | yes | None | None | None | 5 | Based on the provided matches, the corpus **does n |
+| g_det_09 | no_answer | yes | None | None | None | 5 | Based on the provided documents, the corpus **does |
+| DSQ_01 | procedural | yes | 0.4 | 1.0 | None | 5 | Based on the provided documents, the following cas |
+| DSQ_02 | procedural | yes | 0.2 | 0.25 | None | 3 | Based on the provided documents, the corpus does n |
+| DSQ_03 | single_issue | yes | 0.4 | 0.375 | None | 3 | Based on the provided documents, the corpus does n |
+| DSQ_04 | single_issue | yes | 0.6 | 0.444 | None | 4 | Based on the provided documents, the following cas |
+| DSQ_05 | multi_hop | yes | 0.6 | 0.538 | 0.2 | 0 | Here is a structured precedent-research analysis p |
+| DSQ_06 | multi_hop | yes | 0.8 | 0.857 | None | 5 | Based on the provided documents, the following cas |
+| DSQ_07 | multi_hop | yes | 0.8 | 0.833 | 0.5 | 1 | ### 1. Issue Map  This research analysis addresses |
+| DSQ_08 | comparison | yes | 0.4 | 0.625 | 0.5 | 2 | ### 1. Issue Map  The legal issues surrounding the |
+| DSQ_09 | comparison | yes | 0.6 | 0.5 | None | 4 | Here is a structured precedent-research analysis c |
+| DSQ_10 | ambiguous | no | 0.4 | 0.333 | 0.0 | 5 | To help narrow down your request, here is how we c |
+| DSQ_11 | ambiguous | yes | 0.2 | 0.8 | None | 4 | Based on the provided matches, the cases where ins |
+| DSQ_12 | statutory | no | 0.4 | 0.571 | None | 5 | ### 1. Issue Map  To determine "just compensation" |
+| DSQ_13 | cross_document_strategy | yes | 0.8 | 0.615 | 0.2 | 3 | ### 1. Issue Map  The legal issues in play for thi |
+| DSQ_14 | cross_document_strategy | yes | 1.0 | 0.778 | 0.5 | 5 | ### 1. Issue Map  In driving-licence disputes invo |
+| DSQ_15 | cross_document_strategy | yes | 1.0 | 0.615 | 0.333 | 5 | Here is a structured precedent analysis and strate |
+| DSQ_16 | cross_document_strategy | yes | 0.8 | 0.7 | 0.5 | 1 | ### Precedent Analysis: Fake Driving Licence Alleg |
 
 ---
 

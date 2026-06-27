@@ -26,31 +26,31 @@ Golden set: 25 queries (0 errored). Agent: LangGraph + Pinecone hybrid (dense e5
 
 | query_id | type | route ok | P@5 | R@10 | adv_recall | faith | preview |
 |---|---|---|---|---|---|---|---|
-| g_det_01 | factual_metadata | ✓ | 1.0 | 0.556 | None | 5 | Based on the provided documents, the following jud |
-| g_det_02 | factual_metadata | ✓ | 1.0 | 0.5 | None | 5 | The following documents in the corpus are **not**  |
-| g_det_03 | single_issue | ✓ | 0.2 | 0.5 | None | 3 | Based on the provided documents, the following cas |
-| g_det_04 | single_issue | ✓ | 0.8 | 1.0 | None | 5 | Based on the provided documents, the following cas |
-| g_det_05 | factual_metadata | ✓ | 0.8 | 1.0 | None | 5 | Based on the provided documents, the following jud |
-| g_det_06 | statutory | ✓ | 0.2 | 1.0 | None | 5 | Based on the provided documents, the case that int |
-| g_det_07 | procedural | ✓ | 0.2 | 1.0 | None | 5 | Based on the provided documents, the case that inv |
-| g_det_08 | no_answer | ✓ | None | None | None | 5 | Based on the provided corpus, there are **no trade |
-| g_det_09 | no_answer | ✓ | None | None | None | 5 | Based on the provided documents, the corpus **does |
-| DSQ_01 | procedural | ✓ | 0.4 | 1.0 | None | 5 | Based on the provided documents, the following cas |
-| DSQ_02 | procedural | ✓ | 0.2 | 0.25 | None | 3 | Based on the provided documents, the corpus does n |
-| DSQ_03 | single_issue | ✓ | 0.4 | 0.375 | None | 3 | Based on the provided documents, the corpus does n |
-| DSQ_04 | single_issue | ✓ | 1.0 | 0.778 | None | 5 | Based on the provided documents, the following cas |
-| DSQ_05 | multi_hop | ✓ | 0.6 | 0.615 | 0.4 | 4 | ### 1. Issue Map  The legal issues in the provided |
-| DSQ_06 | multi_hop | ✓ | 0.6 | 0.714 | None | 5 | Based on the provided documents, the following cas |
-| DSQ_07 | multi_hop | ✓ | 0.8 | 0.833 | 0.75 | 5 | ### 1. Issue Map  The allocation of liability betw |
-| DSQ_08 | comparison | ✓ | 0.4 | 0.625 | 0.75 | 0 | ### 1. Issue Map  The legal issues surrounding the |
-| DSQ_09 | comparison | ✓ | 0.6 | 0.667 | None | 3 | ### 1. Issue Map  The interaction between FIR-base |
-| DSQ_10 | ambiguous | ✗ | 0.4 | 0.333 | 0.0 | 5 | To help narrow down your request, here is how we c |
-| DSQ_11 | ambiguous | ✓ | 0.2 | 0.2 | None | 1 | Here are the cases from the corpus where insurance |
-| DSQ_12 | statutory | ✗ | 0.4 | 0.571 | None | 2 | ### 1. Issue Map  To determine "just compensation" |
-| DSQ_13 | cross_document_strategy | ✓ | 0.8 | 0.615 | 0.6 | 1 | ### 1. Issue Map  In representing the widow of the |
-| DSQ_14 | cross_document_strategy | ✓ | 1.0 | 0.778 | 0.75 | 4 | ### 1. Issue Map  In driving-licence disputes wher |
-| DSQ_15 | cross_document_strategy | ✓ | 0.8 | 0.615 | 0.5 | 4 | ### 1. Issue Map  In a fatal motor accident claim  |
-| DSQ_16 | cross_document_strategy | ✓ | 0.8 | 0.7 | 0.75 | 4 | ### 1. Issue Map  The legal issues in play regardi |
+| g_det_01 | factual_metadata | yes | 1.0 | 0.556 | None | 5 | Based on the provided documents, the following jud |
+| g_det_02 | factual_metadata | yes | 1.0 | 0.5 | None | 5 | The following documents in the corpus are **not**  |
+| g_det_03 | single_issue | yes | 0.2 | 0.5 | None | 3 | Based on the provided documents, the following cas |
+| g_det_04 | single_issue | yes | 0.8 | 1.0 | None | 5 | Based on the provided documents, the following cas |
+| g_det_05 | factual_metadata | yes | 0.8 | 1.0 | None | 5 | Based on the provided documents, the following jud |
+| g_det_06 | statutory | yes | 0.2 | 1.0 | None | 5 | Based on the provided documents, the case that int |
+| g_det_07 | procedural | yes | 0.2 | 1.0 | None | 5 | Based on the provided documents, the case that inv |
+| g_det_08 | no_answer | yes | None | None | None | 5 | Based on the provided corpus, there are **no trade |
+| g_det_09 | no_answer | yes | None | None | None | 5 | Based on the provided documents, the corpus **does |
+| DSQ_01 | procedural | yes | 0.4 | 1.0 | None | 5 | Based on the provided documents, the following cas |
+| DSQ_02 | procedural | yes | 0.2 | 0.25 | None | 3 | Based on the provided documents, the corpus does n |
+| DSQ_03 | single_issue | yes | 0.4 | 0.375 | None | 3 | Based on the provided documents, the corpus does n |
+| DSQ_04 | single_issue | yes | 1.0 | 0.778 | None | 5 | Based on the provided documents, the following cas |
+| DSQ_05 | multi_hop | yes | 0.6 | 0.615 | 0.4 | 4 | ### 1. Issue Map  The legal issues in the provided |
+| DSQ_06 | multi_hop | yes | 0.6 | 0.714 | None | 5 | Based on the provided documents, the following cas |
+| DSQ_07 | multi_hop | yes | 0.8 | 0.833 | 0.75 | 5 | ### 1. Issue Map  The allocation of liability betw |
+| DSQ_08 | comparison | yes | 0.4 | 0.625 | 0.75 | 0 | ### 1. Issue Map  The legal issues surrounding the |
+| DSQ_09 | comparison | yes | 0.6 | 0.667 | None | 3 | ### 1. Issue Map  The interaction between FIR-base |
+| DSQ_10 | ambiguous | no | 0.4 | 0.333 | 0.0 | 5 | To help narrow down your request, here is how we c |
+| DSQ_11 | ambiguous | yes | 0.2 | 0.2 | None | 1 | Here are the cases from the corpus where insurance |
+| DSQ_12 | statutory | no | 0.4 | 0.571 | None | 2 | ### 1. Issue Map  To determine "just compensation" |
+| DSQ_13 | cross_document_strategy | yes | 0.8 | 0.615 | 0.6 | 1 | ### 1. Issue Map  In representing the widow of the |
+| DSQ_14 | cross_document_strategy | yes | 1.0 | 0.778 | 0.75 | 4 | ### 1. Issue Map  In driving-licence disputes wher |
+| DSQ_15 | cross_document_strategy | yes | 0.8 | 0.615 | 0.5 | 4 | ### 1. Issue Map  In a fatal motor accident claim  |
+| DSQ_16 | cross_document_strategy | yes | 0.8 | 0.7 | 0.75 | 4 | ### 1. Issue Map  The legal issues in play regardi |
 
 ---
 
