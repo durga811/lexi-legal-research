@@ -148,9 +148,11 @@ def select_evidence_node(state: dict) -> dict:
     adverse = _adverse_bucket(state, client, n=6) if state.get("requires_adverse") else []
     adv_ids = {c["doc_id"] for c in adverse}
 
-    # supporting / neutral from the main reranked set, excluding adverse docs
-    sel = select_evidence([c for c in reranked if c["doc_id"] not in adv_ids],
-                          client_side=client, max_per_doc=2, n_support=5, n_adverse=0, n_neutral=3)
+    # supporting / neutral from the reranked set. We do NOT exclude adverse docs: a
+    # "mixed" precedent (claimant wins but the insurer gets recovery rights) is both
+    # supporting and adverse authority, so it can legitimately appear in both buckets.
+    sel = select_evidence(reranked, client_side=client, max_per_doc=2,
+                          n_support=5, n_adverse=0, n_neutral=3)
     sel["adverse"] = adverse
 
     chosen = {c["record_id"] for c in sel["supporting"] + adverse + sel["neutral"]}

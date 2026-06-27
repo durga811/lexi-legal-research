@@ -11,18 +11,38 @@ from __future__ import annotations
 
 import streamlit as st
 
-from src.agent.graph import run_agent
+from src.agent.graph import get_app
 
 st.set_page_config(page_title="Lexi Legal Precedent Research Agent", layout="wide")
 
+# Live progress messages, emitted as each graph node populates state (so the user
+# sees the reasoning happen and the connection stays alive across the ~100s deep run).
+STAGE_SEQUENCE = [
+    ("detected_intent", lambda s: f"Interpreted request → {s.get('query_complexity')} "
+                                  f"(client: {s.get('client_side')}, area: {s.get('legal_area')})"),
+    ("research_plan", lambda s: f"Built research plan ({len(s.get('research_plan') or [])} steps)"),
+    ("generated_queries", lambda s: f"Generated {len(s.get('generated_queries') or [])} search queries "
+                                    f"(support / adverse / compensation)"),
+    ("retrieved_candidates", lambda s: f"Retrieved {len(s.get('retrieved_candidates') or [])} candidate "
+                                       f"chunks (dense + BM25 + RRF)"),
+    ("reranked_candidates", lambda s: f"Reranked to top {len(s.get('reranked_candidates') or [])} (bge-reranker)"),
+    ("selected_evidence", lambda s: "Selected evidence: "
+        f"{len((s.get('selected_evidence') or {}).get('supporting', []))} supporting, "
+        f"{len((s.get('selected_evidence') or {}).get('adverse', []))} adverse"
+        if (s.get('selected_evidence') or {}).get('supporting') is not None
+        else f"Matched {len((s.get('selected_evidence') or {}).get('doc_matches', []))} documents"),
+    ("case_analyses", lambda s: f"Analyzed {len(s.get('case_analyses') or [])} precedents"),
+    ("final_answer", lambda s: "Synthesized answer"),
+    ("validation_report", lambda s: "Validated grounding (citations, adverse coverage, no hallucination)"),
+]
+
 EXAMPLES = [
-    "Find precedents supporting our client where the insurer denies liability because the commercial "
-    "truck driver had no valid driving licence. Give supporting and adverse precedents and a strategy.",
+    "Find supporting and adverse precedents and a strategy for a claimant where the insurer denies "
+    "liability because the commercial truck driver had no valid driving licence.",
     "Which judgments involve commercial vehicles?",
     "Which documents are not motor accident cases?",
-    "Find precedents that support our argument on contributory negligence, and the strongest adverse cases.",
+    "Find precedents on contributory negligence and the strongest adverse cases.",
     "Find cases interpreting Section 167 of the Motor Vehicles Act.",
-    "Find trademark dilution cases involving commercial vehicles.",
 ]
 
 
@@ -186,34 +206,51 @@ def render_validation(s: dict) -> None:
 # --------------------------------------------------------------------------- #
 def main() -> None:
     st.title("⚖️ Lexi Legal Precedent Research Agent")
-    st.caption("Corpus: 56 Indian court judgments · LangGraph agent · Pinecone hybrid retrieval "
-               "(dense e5 + BM25 + rerank) · Gemini · LangSmith tracing. Enter any prompt — simple "
-               "lookups and deep precedent research are both supported.")
+    st.caption("Research precedents across 56 Indian court judgments. Ask anything — a quick lookup or "
+               "a full precedent-research task — and see how the agent retrieves, ranks, and reasons, "
+               "not just the final answer.")
+
+    busy = st.session_state.get("busy", False)
 
     with st.sidebar:
-        st.header("Example prompts")
+        st.subheader("Try an example")
         for ex in EXAMPLES:
-            if st.button(ex, use_container_width=True):
+            if st.button(ex, use_container_width=True, disabled=busy):
                 st.session_state["prompt"] = ex
-        st.divider()
-        st.caption("Deep research runs interpret → plan → query-expansion → support/adverse/"
-                   "compensation retrieval → rerank → select → analyze → synthesize → validate. "
-                   "Every step is shown below.")
-
     prompt = st.text_area("Research prompt", value=st.session_state.get("prompt", ""), height=120,
+                          disabled=busy,
                           placeholder="e.g. Find supporting and adverse precedents for a claimant where the "
                                       "insurer denies liability due to an unlicensed commercial truck driver.")
-    run = st.button("Run research", type="primary")
+    run = st.button("Run research" if not busy else "Researching…", type="primary", disabled=busy)
 
-    if run and prompt.strip():
-        st.session_state["prompt"] = prompt
-        with st.spinner("Researching the corpus (interpreting, retrieving, reranking, analyzing)…"):
-            try:
-                st.session_state["state"] = run_agent(prompt.strip())
-                st.session_state["error"] = None
-            except Exception as exc:  # noqa: BLE001
-                st.session_state["state"] = None
-                st.session_state["error"] = f"{type(exc).__name__}: {exc}"
+    # Click → mark busy and rerun so the button renders disabled during the (~100s) run.
+    if run and prompt.strip() and not busy:
+        st.session_state.update(prompt=prompt, pending=prompt.strip(), busy=True, state=None, error=None)
+        st.rerun()
+
+    # Streamed execution: render each reasoning step as the graph node completes.
+    if st.session_state.get("busy") and st.session_state.get("pending"):
+        q = st.session_state["pending"]
+        status = st.status(f"Researching: {q[:70]}…", expanded=True)
+        final: dict = {}
+        emitted: set[str] = set()
+        try:
+            for state in get_app().stream({"user_query": q}, stream_mode="values",
+                                          config={"recursion_limit": 30}):
+                final = state
+                for key, msg in STAGE_SEQUENCE:
+                    if key not in emitted and state.get(key):
+                        emitted.add(key)
+                        status.write(f"✓ {msg(state)}")
+            status.update(label="Research complete", state="complete", expanded=False)
+            st.session_state["state"] = final
+        except Exception as exc:  # noqa: BLE001 — surface failures instead of a blank page
+            status.update(label="Research failed", state="error")
+            st.session_state["state"] = final or None  # keep partial trace if any
+            st.session_state["error"] = f"{type(exc).__name__}: {exc}"
+        finally:
+            st.session_state.update(busy=False, pending=None)
+            st.rerun()
 
     if st.session_state.get("error"):
         st.error(st.session_state["error"])
