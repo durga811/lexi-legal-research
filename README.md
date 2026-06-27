@@ -77,11 +77,19 @@ tests/                      offline unit/artifact tests
 
 ## Hosted app
 
-Live URL: _to be added (Railway)._
+**Live URL:** https://lexi-legal-research-production.up.railway.app/
 
-## Deliverables
+Enter any prompt — the app shows the full reasoning + evidence trace (detected intent, research plan,
+generated queries, retrieved chunks with dense/lexical/RRF scores, reranker scores, the selected
+supporting/adverse evidence, per-case analysis, and validation), not just the final answer.
 
-- **Hosted app** — Streamlit on Railway (URL above)
-- **Code** — this repository
-- **ADR** — [`ADR.md`](ADR.md)
-- **Evaluation framework + results** — [`src/evaluation/`](src/evaluation/) and [`reports/`](reports/)
+## Deliverables (assessment mapping)
+
+| # | Assessment deliverable | Where |
+|---|---|---|
+| 1 | **Hosted application** (any prompt, visible intermediate steps) | live URL above · [`app.py`](app.py) |
+| 2 | **GitHub repository** (clean code + README with setup) | this repo · setup above |
+| 3 | **Architecture Decision Record** (architecture, tradeoffs, simple-vs-deep, 5,000-doc scaling, another-week) | [`ADR.md`](ADR.md) |
+| 4 | **Evaluation framework + results** (Precision, Recall, Reasoning Quality, Adverse Identification + failure analysis) | [`src/evaluation/`](src/evaluation/) · [`reports/eval_results_v1.md`](reports/eval_results_v1.md) (baseline + failure analysis) · [`reports/eval_results_v2.md`](reports/eval_results_v2.md) (after fixes) |
+
+Build log of how it was made: [`PROGRESS.md`](PROGRESS.md).
